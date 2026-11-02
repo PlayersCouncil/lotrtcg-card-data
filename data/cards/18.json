@@ -2767,7 +2767,8 @@
      "batch": "pc-2021-12-19",
      "fields": {
       "unique": true,
-      "block": "None"
+      "block": "None",
+      "gameText": "Tale. Each time a non-[WRAITH] minion is played, spot a Man to put a [GONDOR] token here. Maneuver: Remove 3 [GONDOR] tokens from here to spot a minion. That minion cannot be assigned to a skirmish until the regroup phase. Any Shadow player may remove (2) to prevent this."
      },
      "image": null,
      "wikiImage": "LOTR-EN18S050.2_card.jpg"

@@ -9809,7 +9809,7 @@
    "vitality": 1,
    "siteNumber": 3,
    "signet": "None",
-   "block": "None",
+   "block": "Towers",
    "arrowDirection": "None",
    "gameText": "Maneuver: If you have initiative, discard 2 cards from hand to make the site number of a minion +2 until the regroup phase.",
    "lore": "“...they talked now of Gondor and its ways and customs....”",
@@ -9829,7 +9829,7 @@
       "vitality": 1,
       "siteNumber": 3,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "arrowDirection": "None",
       "gameText": "Maneuver: If you have initiative, discard 2 cards from hand to make the site number of a minion +2 until the regroup phase.",
       "lore": "“...they talked now of Gondor and its ways and customs....”"
@@ -23022,7 +23022,7 @@
    "vitality": 2,
    "siteNumber": 3,
    "signet": "None",
-   "block": "None",
+   "block": "Towers",
    "arrowDirection": "None",
    "gameText": "Villager. Skirmish: If you have initiative, discard a card from hand to make a [ROHAN] Man strength +1.",
    "versions": [
@@ -23041,7 +23041,7 @@
       "vitality": 2,
       "siteNumber": 3,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "arrowDirection": "None",
       "gameText": "Villager. Skirmish: If you have initiative, discard a card from hand to make a [ROHAN] Man strength +1."
      },
@@ -24803,7 +24803,7 @@
    "vitality": 2,
    "siteNumber": 3,
    "signet": "None",
-   "block": "None",
+   "block": "Towers",
    "arrowDirection": "None",
    "gameText": "Villager. Fellowship: If you have initiative, discard 2 cards from hand to heal a [ROHAN] Man.",
    "lore": "“...when they saw the king they cried with glad voices: ‘Théoden King! Théoden King!”",
@@ -24823,7 +24823,7 @@
       "vitality": 2,
       "siteNumber": 3,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "arrowDirection": "None",
       "gameText": "Villager. Fellowship: If you have initiative, discard 2 cards from hand to heal a [ROHAN] Man.",
       "lore": "“...when they saw the king they cried with glad voices: ‘Théoden King! Théoden King!”"
@@ -25670,7 +25670,7 @@
    "vitality": 2,
    "siteNumber": 3,
    "signet": "None",
-   "block": "None",
+   "block": "Towers",
    "arrowDirection": "None",
    "gameText": "Villager. To play, spot 2 [ROHAN] Men. Regroup: Discard 3 cards from hand to remove a threat.",
    "versions": [
@@ -25689,7 +25689,7 @@
       "vitality": 2,
       "siteNumber": 3,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "arrowDirection": "None",
       "gameText": "Villager. To play, spot 2 [ROHAN] Men. Regroup: Discard 3 cards from hand to remove a threat."
      },
