@@ -35,7 +35,9 @@ def _gemp_value(field, blueprint):
     if field in ("strength", "vitality"):
         return _num(blueprint.get(field))
     if field == "title":
-        return fold(blueprint.get("title"))
+        # Gemp gives cards that share a name with another card a "(2)" suffix to tell them apart
+        # internally (Ketura, 2026-11-01); the card's real name is without it
+        return re.sub(r"\s*\(\d\)\s*$", "", fold(blueprint.get("title")))
     return letters(blueprint.get(field))
 
 

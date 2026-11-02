@@ -42,6 +42,13 @@ def letters(text):
     return re.sub(r"[^a-z]", "", fold(text))
 
 
+# Wiki subsets that are printings only, never Gemp blueprints: foil and rare foil
+IGNORED_SUBSETS = {"F", "RF"}
+
+# The wiki writes "None" for an empty signet, site block or arrow
+NONE_STRINGS = {"signet", "block", "arrowDirection"}
+
+
 def same_title(a, b):
     """Same card name, allowing for typos on one side (Ruinous Hail / Ruinous Hall): those show up
     in the report as title mismatches instead of breaking the link between the two."""
@@ -52,7 +59,7 @@ def same_title(a, b):
 
 
 def to_value(field, raw):
-    if raw is None or raw == "":
+    if raw is None or raw == "" or (field in NONE_STRINGS and raw == "None"):
         return None
     if field in INT_FIELDS:
         try:
@@ -134,6 +141,9 @@ class Build:
             for gemp_id, card in found[1:]:
                 self.printings_for[base].append({"wikiId": card["ID"], "gempId": gemp_id, "subset": card["Subset"], "collInfo": card["CollInfo"]})
         for card in self.english:
+            # Foil (F) and rare foil (RF) printings never get Gemp blueprints of their own (Ketura, 2026-11-01)
+            if card.get("Subset") in IGNORED_SUBSETS:
+                continue
             if not wiki_gemp_ids(card) and card.get("IsPlayable") == "1":
                 self.report["wikiWithoutGempId"].append({"wiki": card["ID"], "title": card["Title"]})
 
