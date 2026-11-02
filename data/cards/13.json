@@ -1520,7 +1520,14 @@
    "alternates": [
     "13_197"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN13O003.0",
+     "gempId": "13_197",
+     "subset": "O",
+     "collInfo": "13O3"
+    }
+   ]
   },
   {
    "id": "13_19",
@@ -3107,7 +3114,14 @@
     "13_199",
     "13_206"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN13O005.0",
+     "gempId": "13_199",
+     "subset": "O",
+     "collInfo": "13O5"
+    }
+   ]
   },
   {
    "id": "13_38",
@@ -11453,7 +11467,14 @@
    "alternates": [
     "13_203"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN13O009.0",
+     "gempId": "13_203",
+     "subset": "O",
+     "collInfo": "13O9"
+    }
+   ]
   },
   {
    "id": "13_138",

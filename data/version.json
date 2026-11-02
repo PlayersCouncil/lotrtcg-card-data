@@ -1,19 +1,19 @@
 {
  "schemaVersion": 1,
- "contentHash": "bb9f020df740ab43f35ebe3e5a82daae2f83b1886c38871e1b27b1881efaf6a7",
- "builtAt": "2026-11-02T00:42:18Z",
+ "contentHash": "ef4a4fbcbf37298c204c001469f3c31261f9af3688454d6976f96fee00bdcf34",
+ "builtAt": "2026-11-02T02:40:04Z",
  "sources": {
   "wiki": {
-   "revid": 128185,
-   "timestamp": "2026-11-02T00:39:55Z"
+   "revid": 128281,
+   "timestamp": "2026-11-02T00:46:12Z"
   },
   "gemp": {
    "repo": "PlayersCouncil/gemp-lotr",
    "branch": "feature/card-test-overhaul",
    "commits": {
-    "gemp-lotr/gemp-lotr-cards/src/main/resources/cards": "1254d620d772fbd58e3e0d500f2b92e0d6a1e02c",
-    "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt": "1254d620d772fbd58e3e0d500f2b92e0d6a1e02c",
-    "gemp-lotr/gemp-lotr-async/src/main/web/js/gemp-022": "1254d620d772fbd58e3e0d500f2b92e0d6a1e02c"
+    "gemp-lotr/gemp-lotr-cards/src/main/resources/cards": "2363862ac1b5f348abb30d43a2071477ce72dfc6",
+    "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt": "22be5700e2b896406229ef97cc6b61b4421be17c",
+    "gemp-lotr/gemp-lotr-async/src/main/web/js/gemp-022": "e2433cb0984de375eb86c92748a4595f79cdac49"
    }
   },
   "cdn": {

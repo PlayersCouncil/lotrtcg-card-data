@@ -103,14 +103,7 @@
    ],
    "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR11001.jpg",
    "alternates": [],
-   "printings": [
-    {
-     "wikiId": "LOTR-EN11A001.0",
-     "gempId": "11_1",
-     "subset": "A",
-     "collInfo": "11RF1"
-    }
-   ]
+   "printings": []
   },
   {
    "id": "11_3",

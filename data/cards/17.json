@@ -1080,7 +1080,14 @@
    "alternates": [
     "17_150"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN17O002.0",
+     "gempId": "17_150",
+     "subset": "O",
+     "collInfo": "17O2"
+    }
+   ]
   },
   {
    "id": "17_21",
@@ -1322,7 +1329,14 @@
    "alternates": [
     "17_149"
    ],
-   "printings": [],
+   "printings": [
+    {
+     "wikiId": "LOTR-EN17O001.0",
+     "gempId": "17_149",
+     "subset": "O",
+     "collInfo": "17O1"
+    }
+   ],
    "errataId": "67_24"
   },
   {
@@ -1941,7 +1955,14 @@
    "alternates": [
     "17_151"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN17O003.0",
+     "gempId": "17_151",
+     "subset": "O",
+     "collInfo": "17O3"
+    }
+   ]
   },
   {
    "id": "17_37",
@@ -5254,7 +5275,14 @@
    "alternates": [
     "17_153"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN17O005.0",
+     "gempId": "17_153",
+     "subset": "O",
+     "collInfo": "17O5"
+    }
+   ]
   },
   {
    "id": "17_99",
@@ -5476,7 +5504,14 @@
    "alternates": [
     "17_154"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN17O006.0",
+     "gempId": "17_154",
+     "subset": "O",
+     "collInfo": "17O6"
+    }
+   ]
   },
   {
    "id": "17_103",
@@ -7544,7 +7579,14 @@
    "alternates": [
     "17_155"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN17O007.0",
+     "gempId": "17_155",
+     "subset": "O",
+     "collInfo": "17O7"
+    }
+   ]
   },
   {
    "id": "17_142",
@@ -7594,7 +7636,14 @@
    "alternates": [
     "17_156"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN17O008.0",
+     "gempId": "17_156",
+     "subset": "O",
+     "collInfo": "17O8"
+    }
+   ]
   },
   {
    "id": "17_143",
@@ -7642,7 +7691,14 @@
    "alternates": [
     "17_157"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN17O009.0",
+     "gempId": "17_157",
+     "subset": "O",
+     "collInfo": "17O9"
+    }
+   ]
   },
   {
    "id": "17_144",

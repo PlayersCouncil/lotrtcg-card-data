@@ -6067,7 +6067,14 @@
    "alternates": [
     "12_198"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN12O004.0",
+     "gempId": "12_198",
+     "subset": "O",
+     "collInfo": "12O4"
+    }
+   ]
   },
   {
    "id": "12_80",
@@ -13615,7 +13622,14 @@
    "alternates": [
     "12_200"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN12O006.0",
+     "gempId": "12_200",
+     "subset": "O",
+     "collInfo": "12O6"
+    }
+   ]
   },
   {
    "id": "12_174",
@@ -13731,7 +13745,14 @@
    "alternates": [
     "12_201"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN12O007.0",
+     "gempId": "12_201",
+     "subset": "O",
+     "collInfo": "12O7"
+    }
+   ]
   },
   {
    "id": "12_175",
@@ -13820,7 +13841,14 @@
    "alternates": [
     "12_202"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN12O008.0",
+     "gempId": "12_202",
+     "subset": "O",
+     "collInfo": "12O8"
+    }
+   ]
   },
   {
    "id": "12_176",
@@ -14539,7 +14567,14 @@
    "alternates": [
     "12_203"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN12O009.0",
+     "gempId": "12_203",
+     "subset": "O",
+     "collInfo": "12O9"
+    }
+   ]
   },
   {
    "id": "12_184",

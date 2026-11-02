@@ -3275,7 +3275,7 @@
    "vitality": 3,
    "siteNumber": 3,
    "signet": "None",
-   "block": "None",
+   "block": "Fellowship",
    "arrowDirection": "None",
    "gameText": "Fellowship: Exert Grimir to shuffle a [DWARVEN] event from your discard pile into your draw deck.",
    "lore": "Old and grey after many years spent in exile before the Lonely Mountain was reclaimed, Grimir can still wield his axe with strength.",
@@ -3296,7 +3296,7 @@
       "vitality": 3,
       "siteNumber": 3,
       "signet": "None",
-      "block": "None",
+      "block": "Fellowship",
       "arrowDirection": "None",
       "gameText": "Fellowship: Exert Grimir to shuffle a [DWARVEN] event from your discard pile into your draw deck.",
       "lore": "Old and grey after many years spent in exile before the Lonely Mountain was reclaimed, Grimir can still wield his axe with strength."

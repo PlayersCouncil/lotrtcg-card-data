@@ -45,14 +45,7 @@
    "translations": [],
    "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR15001.jpg",
    "alternates": [],
-   "printings": [
-    {
-     "wikiId": "LOTR-EN15A001.0",
-     "gempId": "15_1",
-     "subset": "A",
-     "collInfo": "15RF1"
-    }
-   ]
+   "printings": []
   },
   {
    "id": "15_3",
@@ -972,7 +965,14 @@
    "alternates": [
     "15_195"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN15O001.0",
+     "gempId": "15_195",
+     "subset": "O",
+     "collInfo": "15O1"
+    }
+   ]
   },
   {
    "id": "15_20",
@@ -1682,7 +1682,14 @@
    "alternates": [
     "15_197"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN15O003.0",
+     "gempId": "15_197",
+     "subset": "O",
+     "collInfo": "15O3"
+    }
+   ]
   },
   {
    "id": "15_35",
@@ -3271,7 +3278,14 @@
    "alternates": [
     "15_199"
    ],
-   "printings": [],
+   "printings": [
+    {
+     "wikiId": "LOTR-EN15O005.0",
+     "gempId": "15_199",
+     "subset": "O",
+     "collInfo": "15O5"
+    }
+   ],
    "errataId": "65_64"
   },
   {
@@ -9481,7 +9495,14 @@
    "alternates": [
     "15_201"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN15O007.0",
+     "gempId": "15_201",
+     "subset": "O",
+     "collInfo": "15O7"
+    }
+   ]
   },
   {
    "id": "15_185",
@@ -9539,7 +9560,14 @@
    "alternates": [
     "15_202"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN15O008.0",
+     "gempId": "15_202",
+     "subset": "O",
+     "collInfo": "15O8"
+    }
+   ]
   },
   {
    "id": "15_186",
@@ -9595,7 +9623,14 @@
    "alternates": [
     "15_203"
    ],
-   "printings": []
+   "printings": [
+    {
+     "wikiId": "LOTR-EN15O009.0",
+     "gempId": "15_203",
+     "subset": "O",
+     "collInfo": "15O9"
+    }
+   ]
   },
   {
    "id": "15_187",
