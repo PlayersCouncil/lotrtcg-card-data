@@ -1,0 +1,4 @@
+{
+  "_comment": "Names for errata batches, keyed by batch ID (<issuer>-<release date>). Batches themselves come from the wiki's revision release dates; this file only adds the names shown to people. Unnamed batches are listed by date.",
+  "names": {}
+}

@@ -1,0 +1,52 @@
+{
+	1_3: {
+		title: Axe Strike
+		side: Free Peoples
+		culture: Dwarven
+		twilight: 0
+		type: Event
+	}
+	1_50: {
+		title: Legolas
+		subtitle: Greenleaf
+		unique: true
+		side: Free Peoples
+		culture: Elven
+		twilight: 2
+		type: Companion
+		strength: 6
+		vitality: 3
+	}
+	1_99: {
+		title: Gemp Only Card
+		side: Shadow
+		culture: Moria
+		twilight: 1
+		type: Minion
+	}
+	51_50: {
+		title: Legolas
+		subtitle: Greenleaf
+		unique: true
+		side: Free Peoples
+		culture: Elven
+		twilight: 2
+		type: Companion
+		strength: 6
+		vitality: 3
+	}
+	17_35: {
+		title: Soldier's Cache
+		side: Free Peoples
+		culture: Gondor
+		twilight: 1
+		type: Condition
+	}
+	18_58: {
+		title: Soldier's Cache
+		side: Free Peoples
+		culture: Gondor
+		twilight: 1
+		type: Condition
+	}
+}

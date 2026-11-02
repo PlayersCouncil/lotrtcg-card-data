@@ -1,0 +1,29 @@
+{
+ "schemaVersion": 1,
+ "contentHash": "bb9f020df740ab43f35ebe3e5a82daae2f83b1886c38871e1b27b1881efaf6a7",
+ "builtAt": "2026-11-02T00:42:18Z",
+ "sources": {
+  "wiki": {
+   "revid": 128185,
+   "timestamp": "2026-11-02T00:39:55Z"
+  },
+  "gemp": {
+   "repo": "PlayersCouncil/gemp-lotr",
+   "branch": "feature/card-test-overhaul",
+   "commits": {
+    "gemp-lotr/gemp-lotr-cards/src/main/resources/cards": "1254d620d772fbd58e3e0d500f2b92e0d6a1e02c",
+    "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt": "1254d620d772fbd58e3e0d500f2b92e0d6a1e02c",
+    "gemp-lotr/gemp-lotr-async/src/main/web/js/gemp-022": "1254d620d772fbd58e3e0d500f2b92e0d6a1e02c"
+   }
+  },
+  "cdn": {
+   "manifestHash": "ac0cda8f7ef23a512c4b01b7c92813e4d424320f262eb9ead3fb2743d5ee74f8"
+  }
+ },
+ "counts": {
+  "cards": 3325,
+  "errata": 266,
+  "sets": 40,
+  "errataBatches": 33
+ }
+}

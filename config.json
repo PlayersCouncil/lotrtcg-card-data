@@ -1,0 +1,31 @@
+{
+  "wiki": {
+    "api": "https://wiki.lotrtcgpc.net/api.php",
+    "delaySeconds": 2,
+    "userAgent": "lotrtcg-card-data build (Players Council; https://github.com/PlayersCouncil/lotrtcg-card-data)",
+    "watchNamespaces": [3000, 10, 828]
+  },
+  "gemp": {
+    "repo": "PlayersCouncil/gemp-lotr",
+    "branch": "feature/card-test-overhaul",
+    "watchPaths": [
+      "gemp-lotr/gemp-lotr-cards/src/main/resources/cards",
+      "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt",
+      "gemp-lotr/gemp-lotr-async/src/main/web/js/gemp-022"
+    ],
+    "cardsDir": "gemp-lotr/gemp-lotr-cards/src/main/resources/cards",
+    "mappingFile": "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt",
+    "jsDir": "gemp-lotr/gemp-lotr-async/src/main/web/js/gemp-022",
+    "publicBase": "https://play.lotrtcgpc.net"
+  },
+  "cdn": {
+    "manifest": "https://files.lotrtcgpc.net/_dirindex/manifest.json",
+    "base": "https://cdn.lotrtcgpc.net/",
+    "oldImageHost": "https://i.lotrtcgpc.net/",
+    "cardsPrefix": "cards/"
+  },
+  "sets": {
+    "cards": [[0, 19], [100, 149]],
+    "errata": [[50, 69]]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "_comment": "One-off exceptions to the wiki's Gemp IDs. Each rule must match exactly one English wiki card or the build fails, so a rule never silently stops applying.",
+  "gempIds": [
+    {
+      "match": { "title": "Soldier's Cache" },
+      "gempId": "17_35",
+      "note": "Meant to be printed as 17S35 in a Rise of Saruman starter, left out by a printing error, reissued as 18U59 but printed with 17U59. The wiki records it as 18_59 (where it should have been); Gemp keeps it as 17_35 (18_58 is mapped to it as an alternate). Gemp's ID stays (Ketura, 2026-11-01)."
+    }
+  ]
+}

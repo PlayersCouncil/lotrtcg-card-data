@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/PlayersCouncil/lotrtcg-card-data/schema/card-set.schema.json",
+  "title": "LOTR TCG card data: one set (data/cards/<set>.json)",
+  "type": "object",
+  "required": ["set", "cards"],
+  "additionalProperties": false,
+  "properties": {
+    "set": { "type": "string", "pattern": "^[0-9]+$", "description": "Gemp set number" },
+    "cards": { "type": "array", "items": { "$ref": "#/$defs/card" } }
+  },
+  "$defs": {
+    "gempId": { "type": "string", "pattern": "^[0-9]+_[0-9]+$" },
+    "text": { "type": ["string", "null"] },
+    "int": { "type": ["integer", "null"] },
+    "card": {
+      "type": "object",
+      "required": ["id", "set", "number", "kind", "source", "title", "image"],
+      "properties": {
+        "id": { "$ref": "#/$defs/gempId", "description": "Gemp base blueprint ID" },
+        "set": { "type": "string" },
+        "number": { "type": "integer" },
+        "kind": { "enum": ["card", "errata"], "description": "card: a Decipher or V-set card. errata: a PC errata blueprint (errataOf the original)" },
+        "errataOf": { "$ref": "#/$defs/gempId" },
+        "errataId": { "$ref": "#/$defs/gempId", "description": "On a card: its PC errata blueprint, if any" },
+        "source": { "enum": ["wiki", "wiki+gemp", "gemp"], "description": "wiki: from the wiki. wiki+gemp: an erratum the wiki has no PC revision for, stats from Gemp. gemp: no wiki card, Gemp's own fields" },
+        "wikiId": { "type": "string", "description": "The wiki card (revision 0), e.g. LOTR-EN01S050.0" },
+        "wikiVersion": { "type": ["string", "null"], "description": "On an erratum: the wiki revision it reflects" },
+        "collInfo": { "$ref": "#/$defs/text" },
+        "rarity": { "$ref": "#/$defs/text" },
+        "title": { "type": ["string", "null"] },
+        "subtitle": { "$ref": "#/$defs/text" },
+        "unique": { "type": ["boolean", "null"] },
+        "culture": { "$ref": "#/$defs/text" },
+        "side": { "$ref": "#/$defs/text" },
+        "type": { "$ref": "#/$defs/text" },
+        "subtypes": { "$ref": "#/$defs/text" },
+        "twilight": { "type": ["integer", "string", "null"] },
+        "strength": { "type": ["integer", "string", "null"] },
+        "strengthMod": { "$ref": "#/$defs/text" },
+        "vitality": { "type": ["integer", "string", "null"] },
+        "vitalityMod": { "$ref": "#/$defs/text" },
+        "resistance": { "type": ["integer", "string", "null"] },
+        "resistanceMod": { "$ref": "#/$defs/text" },
+        "siteNumber": { "type": ["integer", "string", "null"] },
+        "siteNumberMod": { "$ref": "#/$defs/text" },
+        "shadowNumber": { "type": ["integer", "string", "null"] },
+        "block": { "$ref": "#/$defs/text" },
+        "signet": { "$ref": "#/$defs/text" },
+        "canBearRing": { "type": ["boolean", "null"] },
+        "arrowDirection": { "$ref": "#/$defs/text" },
+        "gameText": { "$ref": "#/$defs/text" },
+        "lore": { "$ref": "#/$defs/text" },
+        "promoText": { "$ref": "#/$defs/text" },
+        "image": { "type": ["string", "null"], "description": "The image Gemp shows today" },
+        "alternates": { "type": "array", "items": { "$ref": "#/$defs/gempId" }, "description": "Gemp IDs mapped to this card (promos, alternate images, reprints)" },
+        "printings": {
+          "type": "array",
+          "description": "Other English printings of this card on the wiki",
+          "items": { "type": "object", "required": ["wikiId", "gempId"], "properties": {
+            "wikiId": { "type": "string" }, "gempId": { "$ref": "#/$defs/gempId" },
+            "subset": { "$ref": "#/$defs/text" }, "collInfo": { "$ref": "#/$defs/text" } } }
+        },
+        "versions": {
+          "type": "array",
+          "description": "English revisions in order. fields: what the wiki records on that revision row; a field not listed is unchanged from the previous revision",
+          "items": { "type": "object", "required": ["wikiId", "revision", "fields"], "properties": {
+            "wikiId": { "type": "string" }, "revision": { "type": "integer" },
+            "issuer": { "enum": [null, "Decipher", "Player's Council"] },
+            "releaseDate": { "$ref": "#/$defs/text" }, "batch": { "$ref": "#/$defs/text" },
+            "fields": { "type": "object" }, "image": { "$ref": "#/$defs/text" }, "wikiImage": { "$ref": "#/$defs/text" } } }
+        },
+        "translations": {
+          "type": "array",
+          "description": "Printings in other languages. fields: only what differs from English",
+          "items": { "type": "object", "required": ["wikiId", "language"], "properties": {
+            "wikiId": { "type": "string" }, "language": { "type": "string" }, "subset": { "$ref": "#/$defs/text" },
+            "revision": { "type": "integer" }, "fields": { "type": "object" },
+            "wikiImage": { "$ref": "#/$defs/text" }, "physical": { "type": "boolean" } } }
+        }
+      }
+    }
+  }
+}

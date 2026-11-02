@@ -1,0 +1,53 @@
+{
+ "set": "100",
+ "cards": [
+  {
+   "id": "100_1",
+   "set": "100",
+   "number": 1,
+   "kind": "card",
+   "source": "wiki",
+   "wikiId": "LOTR-ENV0S001.0",
+   "collInfo": "V0_1",
+   "rarity": "N",
+   "culture": null,
+   "side": null,
+   "type": "Site",
+   "title": "Rath Dínen",
+   "unique": false,
+   "subtypes": "Standard",
+   "siteNumber": 0,
+   "signet": "None",
+   "block": "Shadows",
+   "shadowNumber": 0,
+   "arrowDirection": "Left",
+   "gameText": "When sanctuary healing at this site, the Free Peoples player heals only 3 wounds instead of 5.",
+   "versions": [
+    {
+     "wikiId": "LOTR-ENV0S001.0",
+     "revision": 0,
+     "issuer": null,
+     "releaseDate": null,
+     "batch": null,
+     "fields": {
+      "title": "Rath Dínen",
+      "unique": false,
+      "subtypes": "Standard",
+      "siteNumber": 0,
+      "signet": "None",
+      "block": "Shadows",
+      "shadowNumber": 0,
+      "arrowDirection": "Left",
+      "gameText": "When sanctuary healing at this site, the Free Peoples player heals only 3 wounds instead of 5."
+     },
+     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV0S001.0_card.jpg",
+     "wikiImage": "LOTR-ENV0S001.0_card.jpg"
+    }
+   ],
+   "translations": [],
+   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset0/LOTR-ENV0S001.0_card.jpg",
+   "alternates": [],
+   "printings": []
+  }
+ ]
+}

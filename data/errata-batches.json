@@ -1,0 +1,233 @@
+[
+ {
+  "id": "decipher-2001-11-20",
+  "issuer": "Decipher",
+  "releaseDate": "2001-11-20",
+  "name": null,
+  "cards": 4
+ },
+ {
+  "id": "decipher-2002-01-11",
+  "issuer": "Decipher",
+  "releaseDate": "2002-01-11",
+  "name": null,
+  "cards": 4
+ },
+ {
+  "id": "decipher-2002-07-09",
+  "issuer": "Decipher",
+  "releaseDate": "2002-07-09",
+  "name": null,
+  "cards": 3
+ },
+ {
+  "id": "decipher-2002-09-03",
+  "issuer": "Decipher",
+  "releaseDate": "2002-09-03",
+  "name": null,
+  "cards": 11
+ },
+ {
+  "id": "decipher-2003-06-03",
+  "issuer": "Decipher",
+  "releaseDate": "2003-06-03",
+  "name": null,
+  "cards": 2
+ },
+ {
+  "id": "decipher-2003-07-08",
+  "issuer": "Decipher",
+  "releaseDate": "2003-07-08",
+  "name": null,
+  "cards": 2
+ },
+ {
+  "id": "decipher-2003-11-04",
+  "issuer": "Decipher",
+  "releaseDate": "2003-11-04",
+  "name": null,
+  "cards": 4
+ },
+ {
+  "id": "decipher-2003-12-02",
+  "issuer": "Decipher",
+  "releaseDate": "2003-12-02",
+  "name": null,
+  "cards": 1
+ },
+ {
+  "id": "decipher-2004-02-03",
+  "issuer": "Decipher",
+  "releaseDate": "2004-02-03",
+  "name": null,
+  "cards": 5
+ },
+ {
+  "id": "decipher-2004-03-02",
+  "issuer": "Decipher",
+  "releaseDate": "2004-03-02",
+  "name": null,
+  "cards": 5
+ },
+ {
+  "id": "decipher-2004-04-05",
+  "issuer": "Decipher",
+  "releaseDate": "2004-04-05",
+  "name": null,
+  "cards": 10
+ },
+ {
+  "id": "decipher-2004-08-03",
+  "issuer": "Decipher",
+  "releaseDate": "2004-08-03",
+  "name": null,
+  "cards": 1
+ },
+ {
+  "id": "decipher-2006-08-07",
+  "issuer": "Decipher",
+  "releaseDate": "2006-08-07",
+  "name": null,
+  "cards": 1
+ },
+ {
+  "id": "decipher-2007-08-13",
+  "issuer": "Decipher",
+  "releaseDate": "2007-08-13",
+  "name": null,
+  "cards": 26
+ },
+ {
+  "id": "pc-2021-03-20",
+  "issuer": "Player's Council",
+  "releaseDate": "2021-03-20",
+  "name": null,
+  "cards": 6
+ },
+ {
+  "id": "pc-2021-03-24",
+  "issuer": "Player's Council",
+  "releaseDate": "2021-03-24",
+  "name": null,
+  "cards": 2
+ },
+ {
+  "id": "pc-2021-03-28",
+  "issuer": "Player's Council",
+  "releaseDate": "2021-03-28",
+  "name": null,
+  "cards": 36
+ },
+ {
+  "id": "pc-2021-04-11",
+  "issuer": "Player's Council",
+  "releaseDate": "2021-04-11",
+  "name": null,
+  "cards": 4
+ },
+ {
+  "id": "pc-2021-04-30",
+  "issuer": "Player's Council",
+  "releaseDate": "2021-04-30",
+  "name": null,
+  "cards": 32
+ },
+ {
+  "id": "pc-2021-05-07",
+  "issuer": "Player's Council",
+  "releaseDate": "2021-05-07",
+  "name": null,
+  "cards": 2
+ },
+ {
+  "id": "pc-2021-12-19",
+  "issuer": "Player's Council",
+  "releaseDate": "2021-12-19",
+  "name": null,
+  "cards": 50
+ },
+ {
+  "id": "pc-2022-07-07",
+  "issuer": "Player's Council",
+  "releaseDate": "2022-07-07",
+  "name": null,
+  "cards": 6
+ },
+ {
+  "id": "pc-2022-08-19",
+  "issuer": "Player's Council",
+  "releaseDate": "2022-08-19",
+  "name": null,
+  "cards": 10
+ },
+ {
+  "id": "pc-2023-01-11",
+  "issuer": "Player's Council",
+  "releaseDate": "2023-01-11",
+  "name": null,
+  "cards": 142
+ },
+ {
+  "id": "pc-2023-06-07",
+  "issuer": "Player's Council",
+  "releaseDate": "2023-06-07",
+  "name": null,
+  "cards": 28
+ },
+ {
+  "id": "pc-2024-04-21",
+  "issuer": "Player's Council",
+  "releaseDate": "2024-04-21",
+  "name": null,
+  "cards": 67
+ },
+ {
+  "id": "pc-2024-09-14",
+  "issuer": "Player's Council",
+  "releaseDate": "2024-09-14",
+  "name": null,
+  "cards": 16
+ },
+ {
+  "id": "pc-2024-12-06",
+  "issuer": "Player's Council",
+  "releaseDate": "2024-12-06",
+  "name": null,
+  "cards": 118
+ },
+ {
+  "id": "pc-2025-04-18",
+  "issuer": "Player's Council",
+  "releaseDate": "2025-04-18",
+  "name": null,
+  "cards": 19
+ },
+ {
+  "id": "pc-2025-10-05",
+  "issuer": "Player's Council",
+  "releaseDate": "2025-10-05",
+  "name": null,
+  "cards": 10
+ },
+ {
+  "id": "pc-2025-12-13",
+  "issuer": "Player's Council",
+  "releaseDate": "2025-12-13",
+  "name": null,
+  "cards": 69
+ },
+ {
+  "id": "pc-2026-03-28",
+  "issuer": "Player's Council",
+  "releaseDate": "2026-03-28",
+  "name": null,
+  "cards": 78
+ },
+ {
+  "id": "pc-2026-09-27",
+  "issuer": "Player's Council",
+  "releaseDate": "2026-09-27",
+  "name": null,
+  "cards": 11
+ }
+]

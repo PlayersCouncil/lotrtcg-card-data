@@ -1,0 +1,77 @@
+name: Build card data
+
+on:
+  schedule:
+    - cron: "41 8 * * *"   # daily; most days it only checks and stops
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if no source changed"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-card-data
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ github.token }}   # for the Gemp commit lookups (GitHub API)
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements-dev.txt
+
+      # Three small requests: the wiki's newest data revision, Gemp's latest commits on the
+      # card paths, the CDN manifest hash. Everything after this is skipped when none changed.
+      - id: check
+        run: python -m cardbuild check --github-output "$GITHUB_OUTPUT" ${{ inputs.force && '--force' || '' }}
+
+      - name: Check out Gemp (card files and image maps only)
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          repo=$(python -c "import json; print(json.load(open('config.json'))['gemp']['repo'])")
+          branch=$(python -c "import json; print(json.load(open('config.json'))['gemp']['branch'])")
+          paths=$(python -c "import json; c=json.load(open('config.json'))['gemp']; print(' '.join([c['cardsDir'], c['mappingFile'], c['jsDir']]))")
+          git clone --quiet --depth 1 --filter=blob:none --no-checkout -b "$branch" "https://github.com/$repo" gemp
+          git -C gemp sparse-checkout set --no-cone $paths
+          git -C gemp checkout --quiet
+          echo "GEMP_SHA=$(git -C gemp rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      # The wiki pull is the slow part (paced to spare the wiki); reuse it while the wiki is unchanged
+      - name: Restore the wiki pull
+        if: steps.check.outputs.changed == 'true'
+        uses: actions/cache@v4
+        with:
+          path: .cache/wiki
+          key: wiki-${{ steps.check.outputs.wiki_revid }}
+
+      - name: Build
+        if: steps.check.outputs.changed == 'true'
+        run: python -m cardbuild build --gemp gemp --wiki-cache .cache/wiki
+
+      - name: Test
+        if: steps.check.outputs.changed == 'true'
+        run: python -m pytest -q
+
+      - name: Commit
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          wiki=$(python -c "import json; print(json.load(open('data/version.json'))['sources']['wiki']['revid'])")
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit --quiet -m "Card data: wiki revision $wiki, Gemp ${GEMP_SHA:0:7}"
+          git push --quiet
