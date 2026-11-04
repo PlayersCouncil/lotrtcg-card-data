@@ -1,6 +1,6 @@
 # Card data report
 
-Wiki revision 128352, Gemp `feature/card-test-overhaul`, CDN manifest `ac0cda8f7ef2`.
+Wiki revision 128372, Gemp `feature/card-test-overhaul`, CDN manifest `ac0cda8f7ef2`.
 
 Where the wiki, Gemp and the CDN disagree. Fix the source (usually the wiki) and the next build picks it up.
 
