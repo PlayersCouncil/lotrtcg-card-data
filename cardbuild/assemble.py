@@ -352,6 +352,17 @@ def _wiki_field(name):
     return {"title": "Title", "subtitle": "Subtitle", "culture": "Culture", "set": "SetNum", "collInfo": "CollInfo"}.get(name, name)
 
 
+def set_file(set_number):
+    """The data file for a Gemp set: 01.json for Decipher sets, E01.json for PC errata of set 1 (Gemp set 51),
+    V01.json for V-set 1 (Gemp set 101)."""
+    number = int(set_number)
+    if number >= 100:
+        return f"V{number - 100:02d}.json"
+    if 50 <= number <= 69:
+        return f"E{number - 50:02d}.json"
+    return f"{number:02d}.json"
+
+
 def build_sets(wiki_sets, records):
     """Sets in the dataset, named from the wiki; PC errata sets named after the set they errata."""
     by_number = {}
@@ -379,5 +390,6 @@ def build_sets(wiki_sets, records):
         else:
             entry = {"set": str(number), "wikiSet": None, "name": None, "kind": "unknown"}
         entry["cards"] = sum(1 for r in records.values() if r["set"] == str(number))
+        entry["file"] = "cards/" + set_file(number)
         sets.append(entry)
     return sets

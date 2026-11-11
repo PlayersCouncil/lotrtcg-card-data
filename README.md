@@ -16,8 +16,8 @@ To fix a card, fix the wiki (or Gemp); the next build picks it up. `data/report.
 
 | File | Contents |
 |---|---|
-| `data/cards/<set>.json` | One file per Gemp set number. Schema: `schema/card-set.schema.json` |
-| `data/sets.json` | Set names, wiki set IDs, release dates; PC errata sets (50–69) named after the set they errata |
+| `data/cards/*.json` | One file per Gemp set: `01.json` for Decipher sets, `E01.json` for the PC errata of set 1 (Gemp set 51), `V01.json` for V-set 1 (Gemp set 101). `sets.json` gives each set's file. Schema: `schema/card-set.schema.json` |
+| `data/sets.json` | Set names, wiki set IDs, release dates and data file; PC errata sets (50–69) named after the set they errata |
 | `data/errata-batches.json` | Errata batches (issuer + release date), with names from `errata-batches.json` where given |
 | `data/version.json` | What the data was built from (wiki revision, Gemp commits, CDN manifest hash), a content hash, counts |
 | `data/report.json`, `data/report.md` | Where the wiki, Gemp and the CDN disagree |
