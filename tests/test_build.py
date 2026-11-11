@@ -152,6 +152,11 @@ def test_report_text_hygiene(built):
     assert {e["wiki"] for e in report.compare(records, blueprints)["textHygiene"]} == {"LOTR-EN01S050.0", "LOTR-EN01S003.0"}
 
 
+def test_set_file_names():
+    assert [assemble.set_file(n) for n in (0, 1, 19, 51, 69, 100, 101, "103")] == [
+        "00.json", "01.json", "19.json", "E01.json", "E19.json", "V00.json", "V01.json", "V03.json"]
+
+
 def test_report_home_sites():
     assert report._homes(["3"]) == report._homes(["3F"]) == ["3"]
     assert report._homes(["2T", "8T"]) == ["2T", "8T"]

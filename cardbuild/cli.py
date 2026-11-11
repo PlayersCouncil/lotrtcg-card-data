@@ -113,7 +113,7 @@ def cmd_build(args):
     existing = {p.name for p in (out / "cards").glob("*.json")} if (out / "cards").exists() else set()
     written = set()
     for set_number in sorted(by_set, key=int):
-        name = f"{set_number}.json"
+        name = assemble.set_file(set_number)
         texts.append(dump(out / "cards" / name, {"set": set_number, "cards": sorted(by_set[set_number], key=lambda r: r["number"])}))
         written.add(name)
     for stale in existing - written:
