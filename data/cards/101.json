@@ -17,9 +17,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Spot an unbound Dwarf bearing 2 or more items and hinder this condition to choose one: make that Dwarf damage +1 until the regroup phase, or make that Dwarf take no more than 1 wound until the regroup phase.  If at an underground site, do both.",
    "lore": "\"'Roaring fires, malt beer, red meat off the bone...'\"",
    "versions": [
@@ -54,7 +54,6 @@
       "unique": false,
       "subtypes": "Support Area",
       "twilight": 1,
-      "block": "None",
       "gameText": "Maneuver: Spot an unbound Dwarf bearing 2 or more items and hinder this condition to choose one: make that Dwarf damage +1 until the regroup phase, or make that Dwarf take no more than 1 wound until the regroup phase.  If at an underground site, do both."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E001.1_card.jpg",
@@ -79,12 +78,12 @@
    "side": "Free Peoples",
    "type": "Condition",
    "title": "Deepest Delvings",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time a [dwarven] card is discarded from the top of your draw deck, you may add (1) to stack that card here. Maneuver: Exert a Dwarf to take a card stacked here into hand.",
    "lore": "\"'Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things.'\"",
    "versions": [
@@ -96,7 +95,7 @@
      "batch": null,
      "fields": {
       "title": "Deepest Delvings",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 1,
       "signet": "None",
@@ -133,13 +132,13 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Damage +1.\\ While Gimli bears 2 items, he is damage +1.\\While Gimli bears 3 items, he is strength +2.",
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Damage +1. While Gimli bears 2 items, he is damage +1. While Gimli bears 3 items, he is strength +2.",
    "lore": "\"'...there is one dwarf in Moria who still draws breath!'\"",
-   "resistance": 6,
    "versions": [
     {
      "wikiId": "LOTR-ENV1S003.0",
@@ -155,6 +154,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Frodo",
       "block": "None",
@@ -180,8 +180,7 @@
       "strength": 6,
       "vitality": 3,
       "resistance": 6,
-      "block": "None",
-      "gameText": "Damage +1.\\ While Gimli bears 2 items, he is damage +1.\\While Gimli bears 3 items, he is strength +2."
+      "gameText": "Damage +1. While Gimli bears 2 items, he is damage +1. While Gimli bears 3 items, he is strength +2."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E003.1_card.jpg",
      "wikiImage": "LOTR-ENV1S003.1_card.jpg"
@@ -210,9 +209,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert an Elf to make a Dwarf strength +3 and damage +1 until the regroup phase.",
    "lore": "\"'...and may the stars shine upon the end of your road.'\"",
    "versions": [
@@ -258,9 +257,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a Dwarf bearing 2 or more items to heal that Dwarf.  Return X items on that Dwarf to their owners' hands to wound X minions.",
    "lore": "\"'Let them come...!'\"",
    "versions": [
@@ -303,12 +302,12 @@
    "side": "Free Peoples",
    "type": "Condition",
    "title": "So Bold and So Courteous",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time the fellowship moves, you may exert an Elf to make a Dwarf defender +1 until the regroup phase.",
    "lore": "\"'Let none say again that Dwarves are grasping and ungracious.'\"",
    "versions": [
@@ -320,7 +319,7 @@
      "batch": null,
      "fields": {
       "title": "So Bold and So Courteous",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 0,
       "signet": "None",
@@ -354,10 +353,10 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Tale.Spot a minion skirmishing an Elf and discard your [elven] tale to wound that minion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Tale. Spot a minion skirmishing an Elf and discard your [elven] tale to wound that minion.",
    "lore": "\"'...the day the strength of men failed.'\"",
    "versions": [
     {
@@ -374,7 +373,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Tale.Spot a minion skirmishing an Elf and discard your [elven] tale to wound that minion.",
+      "gameText": "Tale. Spot a minion skirmishing an Elf and discard your [elven] tale to wound that minion.",
       "lore": "\"'...the day the strength of men failed.'\""
      },
      "image": null,
@@ -401,10 +400,10 @@
    "title": "Lament for the Fallen",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, exert an Elf and spot a unique companion in the dead pile.  Bearer must be an unbound companion.Bearer cannot be exerted, wounded, or assigned to a skirmish.At the start of the regroup phase, discard a condition on bearer (and heal bearer if Gandalf is in the dead pile).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, exert an Elf and spot a unique companion in the dead pile.  Bearer must be an unbound companion. Bearer cannot be exerted, wounded, or assigned to a skirmish. At the start of the regroup phase, discard a condition on bearer (and heal bearer if Gandalf is in the dead pile).",
    "versions": [
     {
      "wikiId": "LOTR-ENV1S008.0",
@@ -419,7 +418,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, exert an Elf and spot a unique companion in the dead pile.  Bearer must be an unbound companion.Bearer cannot be exerted, wounded, or assigned to a skirmish.At the start of the regroup phase, discard a condition on bearer (and heal bearer if Gandalf is in the dead pile)."
+      "gameText": "To play, exert an Elf and spot a unique companion in the dead pile.  Bearer must be an unbound companion. Bearer cannot be exerted, wounded, or assigned to a skirmish. At the start of the regroup phase, discard a condition on bearer (and heal bearer if Gandalf is in the dead pile)."
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S008.0_card.jpg"
@@ -449,13 +448,13 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": "Gandalf",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Archer. Each time a minion takes a wound during the archery phase, make Legolas strength +1 until the regroup phase.",
    "lore": "\"He saw not a shadow, nor a blur, but the small figures of horsemen.\"",
-   "resistance": 6,
    "versions": [
     {
      "wikiId": "LOTR-ENV1S009.0",
@@ -471,11 +470,12 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Archer.Archery: Make the fellowship archery total -X (to a minimum of 0) to make Legolas strength +X until the regroup phase.  You cannot use archery special abilities.",
+      "gameText": "Archer. Archery: Make the fellowship archery total -X (to a minimum of 0) to make Legolas strength +X until the regroup phase.  You cannot use archery special abilities.",
       "lore": "\"He saw not a shadow, nor a blur, but the small figures of horsemen.\""
      },
      "image": null,
@@ -496,7 +496,7 @@
       "strength": 6,
       "vitality": 3,
       "resistance": 6,
-      "block": "None",
+      "signet": "Gandalf",
       "gameText": "Archer. Each time a minion takes a wound during the archery phase, make Legolas strength +1 until the regroup phase."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S009.1_card.jpg",
@@ -523,10 +523,10 @@
    "title": "Let Fly the Darts of Lindon",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Tale. Bearer must be a unique [elven] companion.Archery: Exert bearer to make all Free Peoples archers lose archer and gain damage +1 until the regroup phase.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Tale. Bearer must be a unique [elven] companion. Archery: Exert bearer to make all Free Peoples archers lose archer and gain damage +1 until the regroup phase.",
    "lore": "\"'It recalled to me the glory of the Elder Days and the hosts of Beleriand, so many great princes and captains were assembled.'\"",
    "versions": [
     {
@@ -542,7 +542,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Tale. Bearer must be a unique [elven] companion.Archery: Exert bearer to make all Free Peoples archers lose archer and gain damage +1 until the regroup phase.",
+      "gameText": "Tale. Bearer must be a unique [elven] companion. Archery: Exert bearer to make all Free Peoples archers lose archer and gain damage +1 until the regroup phase.",
       "lore": "\"'It recalled to me the glory of the Elder Days and the hosts of Beleriand, so many great princes and captains were assembled.'\""
      },
      "image": null,
@@ -567,13 +567,13 @@
    "side": "Free Peoples",
    "type": "Artifact",
    "title": "Library of Rivendell",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Fellowship: Stack your tale or artifact from play or from hand here to draw a card.Regroup: Exert an [elven] ally to draw X cards, exert X minions, and remove up to X wounds from companions, where X is the number of Free Peoples cultures on cards stacked here. Discard this artifact.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Fellowship: Stack your tale or artifact from play or from hand here to draw a card. Regroup: Exert an [elven] ally to draw X cards, exert X minions, and remove up to X wounds from companions, where X is the number of Free Peoples cultures on cards stacked here. Discard this artifact.",
    "versions": [
     {
      "wikiId": "LOTR-ENV1S011.0",
@@ -583,13 +583,13 @@
      "batch": null,
      "fields": {
       "title": "Library of Rivendell",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 3,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fellowship: Stack your tale or artifact from play or from hand here to draw a card.Regroup: Exert an [elven] ally to draw X cards, exert X minions, and remove up to X wounds from companions, where X is the number of Free Peoples cultures on cards stacked here. Discard this artifact."
+      "gameText": "Fellowship: Stack your tale or artifact from play or from hand here to draw a card. Regroup: Exert an [elven] ally to draw X cards, exert X minions, and remove up to X wounds from companions, where X is the number of Free Peoples cultures on cards stacked here. Discard this artifact."
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S011.0_card.jpg"
@@ -613,13 +613,13 @@
    "side": "Free Peoples",
    "type": "Condition",
    "title": "Three for the Elven-Kings",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Tale.Each time the fellowship moves, you may spot an [elven] or [gandalf] ring to place a card from hand beneath your draw deck and draw a card (and heal a companion if you can spot 3 [elven] or [gandalf] rings).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Tale. Each time the fellowship moves, you may spot an [elven] or [gandalf] ring to place a card from hand beneath your draw deck and draw a card (and heal a companion if you can spot 3 [elven] or [gandalf] rings).",
    "lore": "\"'The Three, fairest of all, the Elf-lords hid from him, and his hand never touched them or sullied them.'\"",
    "versions": [
     {
@@ -630,13 +630,13 @@
      "batch": null,
      "fields": {
       "title": "Three for the Elven-Kings",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 1,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Tale.Each time the fellowship moves, you may spot an [elven] or [gandalf] ring to place a card from hand beneath your draw deck and draw a card (and heal a companion if you can spot 3 [elven] or [gandalf] rings).",
+      "gameText": "Tale. Each time the fellowship moves, you may spot an [elven] or [gandalf] ring to place a card from hand beneath your draw deck and draw a card (and heal a companion if you can spot 3 [elven] or [gandalf] rings).",
       "lore": "\"'The Three, fairest of all, the Elf-lords hid from him, and his hand never touched them or sullied them.'\""
      },
      "image": null,
@@ -664,9 +664,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot Gandalf to reveal an [elven] ally from your draw deck.  You may add (X) to take that ally into hand, where X is that ally's twilight cost.",
    "lore": "\"Beside Glorfindel there were several other counsellors of Elrond's household, of whom Erestor was the chief; and with him was Galdor, an Elf from the Grey Havens...\"",
    "versions": [
@@ -715,12 +715,12 @@
    "twilight": 4,
    "strength": 7,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "At the start of your fellowship phase, you may spot 3 [ELVEN] allies and exert Gandalf to take a [GANDALF] or [ELVEN] event from your discard pile into your hand. Gandalf is strength +1 for each of these characters you can spot: Celeborn, Elrond, Galadriel, Saruman.",
-   "resistance": 6,
    "versions": [
     {
      "wikiId": "LOTR-ENV1S014.0",
@@ -736,11 +736,12 @@
       "twilight": 4,
       "strength": 6,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "At the start of your fellowship phase, you may spot 2 [elven] allies and exert Gandalf to shuffle a [Gandalf] or [elven] card from your discard pile into your draw deck.While you can spot 3 [elven] allies, Gandalf is strength +2. While you can spot Elrond, Galadriel, and Celeborn, Gandalf is strength +2."
+      "gameText": "At the start of your fellowship phase, you may spot 2 [elven] allies and exert Gandalf to shuffle a [Gandalf] or [elven] card from your discard pile into your draw deck. While you can spot 3 [elven] allies, Gandalf is strength +2. While you can spot Elrond, Galadriel, and Celeborn, Gandalf is strength +2."
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S014.0_card.jpg"
@@ -760,7 +761,6 @@
       "strength": 7,
       "vitality": 4,
       "resistance": 6,
-      "block": "None",
       "gameText": "At the start of your fellowship phase, you may spot 3 [ELVEN] allies and exert Gandalf to take a [GANDALF] or [ELVEN] event from your discard pile into your hand. Gandalf is strength +1 for each of these characters you can spot: Celeborn, Elrond, Galadriel, Saruman."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S014.1_card.jpg",
@@ -786,16 +786,19 @@
    "type": "Ally",
    "title": "Gwaihir",
    "subtitle": "Lord of Eagles",
-   "unique": false,
+   "unique": true,
    "subtypes": "Eagle",
    "twilight": 4,
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
-   "arrowDirection": "None",
-   "gameText": "To play, spot Gandalf.Each time the fellowship moves to an opponent's site, you may heal a companion with the Gandalf signet.Regroup: Discard Gwaihir to make the move limit for this turn +1; the Shadow player may take up to 2 Shadow cards into hand from their discard pile.",
+   "arrowDirection": null,
+   "gameText": "To play, spot Gandalf. Each time the fellowship moves to an opponent's site, you may heal a companion with the Gandalf signet. Regroup: Discard Gwaihir to make the move limit for this turn +1; the Shadow player may take up to 2 Shadow cards into hand from their discard pile.",
+   "homeSites": [
+    "4"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S015.0",
@@ -806,7 +809,7 @@
      "fields": {
       "title": "Gwaihir",
       "subtitle": "Lord of Eagles",
-      "unique": false,
+      "unique": true,
       "subtypes": "Eagle",
       "twilight": 4,
       "strength": 8,
@@ -815,7 +818,10 @@
       "signet": "None",
       "block": "Fellowship",
       "arrowDirection": "None",
-      "gameText": "To play, spot Gandalf.Each time the fellowship moves to an opponent's site, you may heal a companion with the Gandalf signet.Regroup: Discard Gwaihir to make the move limit for this turn +1; the Shadow player may take up to 2 Shadow cards into hand from their discard pile."
+      "gameText": "To play, spot Gandalf. Each time the fellowship moves to an opponent's site, you may heal a companion with the Gandalf signet. Regroup: Discard Gwaihir to make the move limit for this turn +1; the Shadow player may take up to 2 Shadow cards into hand from their discard pile.",
+      "homeSites": [
+       "4"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S015.0_card.jpg"
@@ -839,12 +845,12 @@
    "side": "Free Peoples",
    "type": "Condition",
    "title": "My Heart Tells Me",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time a minion is about to take a wound, you may spot Gandalf to prevent that wound and heal a companion (limit once per turn).",
    "lore": "\"'Then do not be too eager to deal out death in judgement.'\"",
    "versions": [
@@ -856,7 +862,7 @@
      "batch": null,
      "fields": {
       "title": "My Heart Tells Me",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 1,
       "signet": "None",
@@ -890,9 +896,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot Gandalf and Frodo to draw X cards, where X is Frodo's vitality.",
    "lore": "\"'You'll keep an eye on Frodo, won't you?'\"",
    "versions": [
@@ -935,13 +941,13 @@
    "side": "Free Peoples",
    "type": "Condition",
    "title": "The White Council",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "While you can spot Gandalf and 2 [elven] allies, the first sentence of Saruman's game text does not apply.Regroup: Exert 2 [elven] allies to heal Gandalf or a companion with the Gandalf signet (limit 2 per phase).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "While you can spot Gandalf and 2 [elven] allies, the first sentence of Saruman's game text does not apply. Regroup: Exert 2 [elven] allies to heal Gandalf or a companion with the Gandalf signet (limit 2 per phase).",
    "lore": "\"'For even the very wise cannot see all ends.'\"",
    "versions": [
     {
@@ -952,13 +958,13 @@
      "batch": null,
      "fields": {
       "title": "The White Council",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 1,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "While you can spot Gandalf and 2 [elven] allies, the first sentence of Saruman's game text does not apply.Regroup: Exert 2 [elven] allies to heal Gandalf or a companion with the Gandalf signet (limit 2 per phase).",
+      "gameText": "While you can spot Gandalf and 2 [elven] allies, the first sentence of Saruman's game text does not apply. Regroup: Exert 2 [elven] allies to heal Gandalf or a companion with the Gandalf signet (limit 2 per phase).",
       "lore": "\"'For even the very wise cannot see all ends.'\""
      },
      "image": null,
@@ -989,13 +995,13 @@
    "twilight": 4,
    "strength": 8,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play Aragorn (except in your starting fellowship), you may play an Elf with a twilight cost of 2 or less from your draw deck. Skirmish: Discard an [ELVEN] card from hand to make Aragorn strength +2 or damage +1.",
    "lore": "\"'I gave Hope to the Dúnedain, I have kept no hope for myself.'\"",
-   "resistance": 6,
    "versions": [
     {
      "wikiId": "LOTR-ENV1S019.0",
@@ -1011,11 +1017,12 @@
       "twilight": 4,
       "strength": 8,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "When you play Aragorn, you may take an [elven] ally with a twilight cost of 2 or less into hand from your draw deck.Skirmish: Discard an [elven] skirmish event from hand to make Aragorn strength +2.",
+      "gameText": "When you play Aragorn, you may take an [elven] ally with a twilight cost of 2 or less into hand from your draw deck. Skirmish: Discard an [elven] skirmish event from hand to make Aragorn strength +2.",
       "lore": "\"'I gave Hope to the Dúnedain, I have kept no hope for myself.'\""
      },
      "image": null,
@@ -1036,7 +1043,6 @@
       "strength": 8,
       "vitality": 4,
       "resistance": 6,
-      "block": "None",
       "gameText": "When you play Aragorn, you may take an Elf with a twilight cost of 2 or less into hand from your draw deck. Maneuver: Discard an [ELVEN] card from hand to make Aragorn damage +1, archer, or strength +2 until the regroup phase."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S019.1_card.jpg",
@@ -1057,7 +1063,6 @@
       "strength": 8,
       "vitality": 4,
       "resistance": 6,
-      "block": "None",
       "gameText": "When you play Aragorn (except in your starting fellowship), you may play an Elf with a twilight cost of 2 or less from your draw deck. Skirmish: Discard an [ELVEN] card from hand to make Aragorn strength +2 or damage +1."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E019.2_card.jpg",
@@ -1088,13 +1093,13 @@
    "twilight": 3,
    "strength": 5,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Boromir is strength +2 for each minion he is skirmishing. At the start of each assignment phase, make Boromir defender +1 if you can spot an unbound Hobbit or another companion with the Aragorn signet.",
    "lore": "\"'Few have gained such a victory. Be at peace!'\"",
-   "resistance": 6,
    "versions": [
     {
      "wikiId": "LOTR-ENV1S020.0",
@@ -1110,11 +1115,12 @@
       "twilight": 3,
       "strength": 5,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Boromir is strength +2 for each minion he is skirmishing.At the start of each assignment phase, you may exert another companion with the Aragorn signet to make Boromir defender +1 until the regroup phase.",
+      "gameText": "Boromir is strength +2 for each minion he is skirmishing. At the start of each assignment phase, you may exert another companion with the Aragorn signet to make Boromir defender +1 until the regroup phase.",
       "lore": "\"'Few have gained such a victory. Be at peace!'\""
      },
      "image": null,
@@ -1135,7 +1141,6 @@
       "strength": 5,
       "vitality": 3,
       "resistance": 6,
-      "block": "None",
       "gameText": "Boromir is strength +2 for each minion he is skirmishing. At the start of each assignment phase, make Boromir defender +1 if you can spot an unbound Hobbit or another companion with the Aragorn signet."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E020.1_card.jpg",
@@ -1162,12 +1167,12 @@
    "side": "Free Peoples",
    "type": "Condition",
    "title": "The Sons of Gondor Have Returned",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While Boromir is assigned to skirmish more than 1 minion, Aragorn is strength +3. While Aragorn is assigned to skirmish more than 1 minion, Boromir is strength +3.",
    "lore": "\"They blew a great fanfare, and the heralds cried aloud:...\"",
    "versions": [
@@ -1179,7 +1184,7 @@
      "batch": null,
      "fields": {
       "title": "The Sons of Gondor Have Returned",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 2,
       "signet": "None",
@@ -1213,10 +1218,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, exert Aragorn.When Aragorn is killed, discard this artifact.Fellowship: Exert a companion with the Aragorn signet to remove a burden.  Then exert Aragorn or discard this artifact.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, exert Aragorn. When Aragorn is killed, discard this artifact. Fellowship: Exert a companion with the Aragorn signet to remove a burden.  Then exert Aragorn or discard this artifact.",
    "lore": "\"'Ónen i-estel edain, ú-chebin estel anim.'\"",
    "versions": [
     {
@@ -1233,7 +1238,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, exert Aragorn.When Aragorn is killed, discard this artifact.Fellowship: Exert a companion with the Aragorn signet to remove a burden.  Then exert Aragorn or discard this artifact.",
+      "gameText": "To play, exert Aragorn. When Aragorn is killed, discard this artifact. Fellowship: Exert a companion with the Aragorn signet to remove a burden.  Then exert Aragorn or discard this artifact.",
       "lore": "\"'Ónen i-estel edain, ú-chebin estel anim.'\""
      },
      "image": null,
@@ -1258,13 +1263,13 @@
    "side": "Free Peoples",
    "type": "Condition",
    "title": "I Would Have Gone With You to the End",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time you play a skirmish event during a skirmish involving a companion with the Aragorn signet, you may spot Aragorn to stack that event here.Skirmish: Spot Aragorn and discard X cards here to make a skirmishing companion with the Aragorn signet strength +X (limit +3).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time you play a skirmish event during a skirmish involving a companion with the Aragorn signet, you may spot Aragorn to stack that event here. Skirmish: Spot Aragorn and discard X cards here to make a skirmishing companion with the Aragorn signet strength +X (limit +3).",
    "versions": [
     {
      "wikiId": "LOTR-ENV1S023.0",
@@ -1274,13 +1279,13 @@
      "batch": null,
      "fields": {
       "title": "I Would Have Gone With You to the End",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 2,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time you play a skirmish event during a skirmish involving a companion with the Aragorn signet, you may spot Aragorn to stack that event here.Skirmish: Spot Aragorn and discard X cards here to make a skirmishing companion with the Aragorn signet strength +X (limit +3)."
+      "gameText": "Each time you play a skirmish event during a skirmish involving a companion with the Aragorn signet, you may spot Aragorn to stack that event here. Skirmish: Spot Aragorn and discard X cards here to make a skirmishing companion with the Aragorn signet strength +X (limit +3)."
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S023.0_card.jpg"
@@ -1304,13 +1309,13 @@
    "side": "Free Peoples",
    "type": "Condition",
    "title": "You Have My Sword",
-   "unique": false,
+   "unique": true,
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot Aragorn. Plays on a companion with the Aragorn signet (except Aragorn).Each time bearer wins a skirmish, exert Aragorn or discard this condition.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot Aragorn. Plays on a companion with the Aragorn signet (except Aragorn). Each time bearer wins a skirmish, exert Aragorn or discard this condition.",
    "lore": "\"'I am Aragorn son of Arathorn; and if by life or death I can save you, I will.'\"",
    "versions": [
     {
@@ -1321,13 +1326,13 @@
      "batch": null,
      "fields": {
       "title": "You Have My Sword",
-      "unique": false,
+      "unique": true,
       "twilight": 1,
       "strengthMod": "+2",
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot Aragorn. Plays on a companion with the Aragorn signet (except Aragorn).Each time bearer wins a skirmish, exert Aragorn or discard this condition.",
+      "gameText": "To play, spot Aragorn. Plays on a companion with the Aragorn signet (except Aragorn). Each time bearer wins a skirmish, exert Aragorn or discard this condition.",
       "lore": "\"'I am Aragorn son of Arathorn; and if by life or death I can save you, I will.'\""
      },
      "image": null,
@@ -1358,11 +1363,14 @@
    "strength": 2,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "This minion is twilight cost -1 for each companion you can spot over 3. Shadow: Spot 2 wounded companions (or spot Saruman) to take an [ISENGARD] weather into hand from your draw deck or discard pile (limit once per phase).",
    "lore": "\"'...one harsh croak was heard.'\"",
+   "homeSites": [
+    "4"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S025.0",
@@ -1401,8 +1409,10 @@
       "strength": 2,
       "vitality": 3,
       "siteNumber": 4,
-      "block": "None",
-      "gameText": "This minion is twilight cost -1 for each companion you can spot over 3. Shadow: Spot 2 wounded companions (or spot Saruman) to take an [ISENGARD] weather into hand from your draw deck or discard pile (limit once per phase)."
+      "gameText": "This minion is twilight cost -1 for each companion you can spot over 3. Shadow: Spot 2 wounded companions (or spot Saruman) to take an [ISENGARD] weather into hand from your draw deck or discard pile (limit once per phase).",
+      "homeSites": [
+       "4"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S025.1_card.jpg",
      "wikiImage": "LOTR-ENV1S025.1_card.jpg"
@@ -1432,10 +1442,13 @@
    "strength": 3,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play this minion, spot a companion to add (1) for each Free Peoples card borne by that companion. Shadow: Spot 2 Free Peoples items (or spot Saruman) to take an [ISENGARD] item into hand from your draw deck or discard pile (limit once per phase).",
+   "homeSites": [
+    "4"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S026.0",
@@ -1454,7 +1467,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "When you play this minion, spot a companion to add (1) for each Free Peoples card borne by that companion (limit (3)).Maneuver: Spot 2 Free Peoples items (or spot Saruman) and discard this minion to place an [isengard] item from your draw deck or discard pile on top of your draw deck."
+      "gameText": "When you play this minion, spot a companion to add (1) for each Free Peoples card borne by that companion (limit (3)). Maneuver: Spot 2 Free Peoples items (or spot Saruman) and discard this minion to place an [isengard] item from your draw deck or discard pile on top of your draw deck."
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S026.0_card.jpg"
@@ -1473,8 +1486,10 @@
       "strength": 3,
       "vitality": 3,
       "siteNumber": 4,
-      "block": "None",
-      "gameText": "When you play this minion, spot a companion to add (1) for each Free Peoples card borne by that companion. Shadow: Spot 2 Free Peoples items (or spot Saruman) to take an [ISENGARD] item into hand from your draw deck or discard pile (limit once per phase)."
+      "gameText": "When you play this minion, spot a companion to add (1) for each Free Peoples card borne by that companion. Shadow: Spot 2 Free Peoples items (or spot Saruman) to take an [ISENGARD] item into hand from your draw deck or discard pile (limit once per phase).",
+      "homeSites": [
+       "4"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S026.1_card.jpg",
      "wikiImage": "LOTR-ENV1S026.1_card.jpg"
@@ -1500,10 +1515,10 @@
    "title": "Frostbite",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot a weather condition.  Plays on a companion. Limit 1 per bearer.Each time a weather card is played, add (2). When this condition is discarded by a Free Peoples card, wound bearer.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot a weather condition.  Plays on a companion. Limit 1 per bearer. Each time a weather card is played, add (2). When this condition is discarded by a Free Peoples card, wound bearer.",
    "lore": "\"'Gandalf, we must turn back!'\"",
    "versions": [
     {
@@ -1519,7 +1534,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot a weather condition.  Plays on a companion. Limit 1 per bearer.Each time a weather card is played, add (2). When this condition is discarded by a Free Peoples card, wound bearer.",
+      "gameText": "To play, spot a weather condition.  Plays on a companion. Limit 1 per bearer. Each time a weather card is played, add (2). When this condition is discarded by a Free Peoples card, wound bearer.",
       "lore": "\"'Gandalf, we must turn back!'\""
      },
      "image": null,
@@ -1547,9 +1562,9 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spell. Weather. Discard a Free Peoples card from hand to play Saruman from your draw deck or discard pile; his twilight cost is -1 for each Crow you can spot.",
    "lore": "\"'It is moving fast...and against the wind.'\"",
    "versions": [
@@ -1584,7 +1599,6 @@
       "unique": false,
       "subtypes": "Shadow",
       "twilight": 0,
-      "block": "None",
       "gameText": "Spell. Weather. Discard a Free Peoples card from hand to play Saruman from your draw deck or discard pile; his twilight cost is -1 for each Crow you can spot."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S028.1_card.jpg",
@@ -1615,11 +1629,14 @@
    "strength": 4,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot 3 Free Peoples conditions, this minion is twilight cost -3. Shadow: Spot 3 Free Peoples conditions (or spot Saruman) to take an [ISENGARD] condition into hand from your draw deck or discard pile (limit once per phase).",
    "lore": "\"...a whole regiment of birds had broken away...\"",
+   "homeSites": [
+    "4"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S029.0",
@@ -1658,8 +1675,10 @@
       "strength": 4,
       "vitality": 3,
       "siteNumber": 4,
-      "block": "None",
-      "gameText": "While you can spot 3 Free Peoples conditions, this minion is twilight cost -3. Shadow: Spot 3 Free Peoples conditions (or spot Saruman) to take an [ISENGARD] condition into hand from your draw deck or discard pile (limit once per phase)."
+      "gameText": "While you can spot 3 Free Peoples conditions, this minion is twilight cost -3. Shadow: Spot 3 Free Peoples conditions (or spot Saruman) to take an [ISENGARD] condition into hand from your draw deck or discard pile (limit once per phase).",
+      "homeSites": [
+       "4"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S029.1_card.jpg",
      "wikiImage": "LOTR-ENV1S029.1_card.jpg"
@@ -1684,16 +1703,16 @@
    "type": "Minion",
    "title": "Saruman",
    "subtitle": "Fell Voice",
-   "unique": false,
+   "unique": true,
    "subtypes": "Wizard",
    "twilight": 4,
    "strength": 6,
    "vitality": 4,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "While you cannot spot a weather, Saruman may not take wounds in the archery phase and may not be assigned to a skirmish.While at a site bearing a weather, each [isengard] minion is strength +2.Response: If the fellowship moves from a site bearing a weather, discard this minion to exert each companion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "While you cannot spot a weather, Saruman may not take wounds in the archery phase and may not be assigned to a skirmish. While at a site bearing a weather, each [isengard] minion is strength +2.Response: If the fellowship moves from a site bearing a weather, discard this minion to exert each companion.",
    "versions": [
     {
      "wikiId": "LOTR-ENV1S030.0",
@@ -1704,7 +1723,7 @@
      "fields": {
       "title": "Saruman",
       "subtitle": "Fell Voice",
-      "unique": false,
+      "unique": true,
       "subtypes": "Wizard",
       "twilight": 4,
       "strength": 6,
@@ -1713,7 +1732,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "While you cannot spot a weather, Saruman may not take wounds in the archery phase and may not be assigned to a skirmish.While at a site bearing a weather, each [isengard] minion is strength +2.Response: If the fellowship moves from a site bearing a weather, discard this minion to exert each companion."
+      "gameText": "While you cannot spot a weather, Saruman may not take wounds in the archery phase and may not be assigned to a skirmish. While at a site bearing a weather, each [isengard] minion is strength +2.Response: If the fellowship moves from a site bearing a weather, discard this minion to exert each companion."
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S030.0_card.jpg"
@@ -1735,14 +1754,14 @@
    "rarity": null,
    "culture": "Moria",
    "side": "Shadow",
-   "type": "Condition",
+   "type": "Event",
    "title": "Guided by One Purpose",
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot 3 tentacles to add a burden. Then you may make the Free Peoples player discard a tentacle to shuffle a [MORIA] card from your discard pile into your draw deck.",
    "versions": [
     {
@@ -1759,7 +1778,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time a tentacle wins a skirmish, you may stack it here.Assignment: Spot 4 tentacles stacked here and discard this condition to assign a [moria] creature to the Ring-bearer. The Free Peoples player may exert the Ring-bearer twice to prevent this."
+      "gameText": "Each time a tentacle wins a skirmish, you may stack it here. Assignment: Spot 4 tentacles stacked here and discard this condition to assign a [moria] creature to the Ring-bearer. The Free Peoples player may exert the Ring-bearer twice to prevent this."
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S031.0_card.jpg"
@@ -1775,8 +1794,8 @@
       "unique": false,
       "subtypes": "Shadow",
       "twilight": 1,
-      "block": "None",
-      "gameText": "Spot 3 tentacles to add a burden. Then you may make the Free Peoples player discard a tentacle to shuffle a [MORIA] card from your discard pile into your draw deck."
+      "gameText": "Spot 3 tentacles to add a burden. Then you may make the Free Peoples player discard a tentacle to shuffle a [MORIA] card from your discard pile into your draw deck.",
+      "type": "Event"
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E031.2_card.jpg",
      "wikiImage": "LOTR-ENV1S031.2_card.jpg"
@@ -1800,12 +1819,12 @@
    "side": "Shadow",
    "type": "Condition",
    "title": "Terror at Its Coming",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time the fellowship moves, you may reveal The Balrog from your hand to add (2).",
    "lore": "\"The orcs stood still, and a dead silence fell.\"",
    "versions": [
@@ -1817,7 +1836,7 @@
      "batch": null,
      "fields": {
       "title": "Terror at Its Coming",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 0,
       "signet": "None",
@@ -1854,11 +1873,14 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tentacle. Fierce. This minion may not bear possessions and is discarded if not at a marsh. Each time this minion loses a skirmish, add a burden (or 2 burdens if you cannot spot a burden).",
    "lore": "\"The others swung round and saw the waters of the lake seething...\"",
+   "homeSites": [
+    "4"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S033.0",
@@ -1877,7 +1899,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Tentacle. This minion may not bear possessions and is discarded if not at a marsh.Shadow: Spot 3 [moria] creatures to play this minion from your discard pile.",
+      "gameText": "Tentacle. This minion may not bear possessions and is discarded if not at a marsh. Shadow: Spot 3 [moria] creatures to play this minion from your discard pile.",
       "lore": "\"The others swung round and saw the waters of the lake seething...\""
      },
      "image": null,
@@ -1897,8 +1919,10 @@
       "strength": 6,
       "vitality": 2,
       "siteNumber": 4,
-      "block": "None",
-      "gameText": "Tentacle. Fierce. This minion may not bear possessions and is discarded if not at a marsh. Each time this minion loses a skirmish, add a burden (or 2 burdens if you cannot spot a burden)."
+      "gameText": "Tentacle. Fierce. This minion may not bear possessions and is discarded if not at a marsh. Each time this minion loses a skirmish, add a burden (or 2 burdens if you cannot spot a burden).",
+      "homeSites": [
+       "4"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E033.2_card.jpg",
      "wikiImage": "LOTR-ENV1S033.2_card.jpg"
@@ -1925,9 +1949,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time a tentacle takes a wound, you may stack that tentacle here. Shadow: Play a tentacle from here as if from hand. Response: If this condition is about to be discarded, discard 2 tentacles stacked here to prevent that.",
    "versions": [
     {
@@ -1944,7 +1968,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Shadow: Remove (1) to stack a tentacle from hand here.Shadow: Remove (1) to play a tentacle stacked here as if from hand.Response: If this condition is about to be discarded, discard a tentacle stacked here to prevent that."
+      "gameText": "Shadow: Remove (1) to stack a tentacle from hand here. Shadow: Remove (1) to play a tentacle stacked here as if from hand. Response: If this condition is about to be discarded, discard a tentacle stacked here to prevent that."
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S034.0_card.jpg"
@@ -1960,7 +1984,6 @@
       "unique": false,
       "subtypes": "Support Area",
       "twilight": 1,
-      "block": "None",
       "gameText": "Each time a tentacle takes a wound, you may stack that tentacle here. Shadow: Play a tentacle from here as if from hand. Response: If this condition is about to be discarded, discard 2 tentacles stacked here to prevent that."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E034.2_card.jpg",
@@ -1988,10 +2011,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Shadow: Stack a [moria] item from hand here.Shadow: Spot The Balrog to take a [moria] card stacked here into hand.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Shadow: Stack a [moria] item from hand here. Shadow: Spot The Balrog to take a [moria] card stacked here into hand.",
    "lore": "\"... he seemed small, and altogether alone: grey and bent, like a wizened tree before the onset of a storm.\"",
    "versions": [
     {
@@ -2008,7 +2031,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Shadow: Stack a [moria] item from hand here.Shadow: Spot The Balrog to take a [moria] card stacked here into hand.",
+      "gameText": "Shadow: Stack a [moria] item from hand here. Shadow: Spot The Balrog to take a [moria] card stacked here into hand.",
       "lore": "\"... he seemed small, and altogether alone: grey and bent, like a wizened tree before the onset of a storm.\""
      },
      "image": null,
@@ -2039,9 +2062,9 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tentacle. This minion may not bear possessions and is strength -4 while not at a marsh. Shadow: Discard a [moria] card from hand to make the fellowship's current site gain marsh until the end of the turn.",
    "lore": "\"...it was pale-green and luminous and wet.\"",
    "versions": [
@@ -2090,9 +2113,9 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Play a [ringwraith] item from your draw deck or discard pile.",
    "lore": "\"A breath of deadly cold pierced him like a spear...\"",
    "versions": [
@@ -2142,9 +2165,9 @@
    "strength": 3,
    "vitality": 1,
    "siteNumber": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Nazgul are twilight cost -1.Assignment: Make the Free Peoples player assign a companion with 5 strength or more to skirmish this minion.",
    "lore": "\"'But you'll find maybe that more folk than old Harry at the gate will be asking you questions.'\"",
    "versions": [
@@ -2195,10 +2218,10 @@
    "subtypes": "Helm",
    "twilight": 1,
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Plays to your support area.While bearer is twilight, characters skirmishing bearer do not receive strength or damage bonuses from cards they bear.Skirmish: Remove (1) to transfer this artifact from your support area to a Nazgul.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Plays to your support area. While bearer is twilight, characters skirmishing bearer do not receive strength or damage bonuses from cards they bear. Skirmish: Remove (1) to transfer this artifact from your support area to a Nazgul.",
    "lore": "\"'They were once men.  Great kings of men.'\"",
    "versions": [
     {
@@ -2216,7 +2239,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Plays to your support area.While bearer is twilight, characters skirmishing bearer do not receive strength or damage bonuses from cards they bear.Skirmish: Remove (1) to transfer this artifact from your support area to a Nazgul.",
+      "gameText": "Plays to your support area. While bearer is twilight, characters skirmishing bearer do not receive strength or damage bonuses from cards they bear. Skirmish: Remove (1) to transfer this artifact from your support area to a Nazgul.",
       "lore": "\"'They were once men.  Great kings of men.'\""
      },
      "image": null,
@@ -2247,10 +2270,10 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Twilight.This minion is strength +1 for each wound on the Ring-bearer.At the start of the maneuver phase, you may exert this minion to make it fierce until the regroup phase. The Free Peoples player may exert the Ring-bearer to prevent this.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Twilight. This minion is strength +1 for each wound on the Ring-bearer. At the start of the maneuver phase, you may exert this minion to make it fierce until the regroup phase. The Free Peoples player may exert the Ring-bearer to prevent this.",
    "versions": [
     {
      "wikiId": "LOTR-ENV1S040.0",
@@ -2269,7 +2292,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Twilight.This minion is strength +1 for each wound on the Ring-bearer.At the start of the maneuver phase, you may exert this minion to make it fierce until the regroup phase. The Free Peoples player may exert the Ring-bearer to prevent this."
+      "gameText": "Twilight. This minion is strength +1 for each wound on the Ring-bearer. At the start of the maneuver phase, you may exert this minion to make it fierce until the regroup phase. The Free Peoples player may exert the Ring-bearer to prevent this."
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S040.0_card.jpg"
@@ -2298,10 +2321,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot a twilight Nazgul.Each time the fellowship moves, you may spot a wound on the Ring-bearer to draw a card (or 2 cards if the Ring-bearer is exhausted).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot a twilight Nazgul. Each time the fellowship moves, you may spot a wound on the Ring-bearer to draw a card (or 2 cards if the Ring-bearer is exhausted).",
    "lore": "\"'...you had become visible to them, being already on the threshold of their world.'\"",
    "versions": [
     {
@@ -2318,7 +2341,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot a twilight Nazgul.Each time the fellowship moves, you may spot a wound on the Ring-bearer to draw a card (or 2 cards if the Ring-bearer is exhausted).",
+      "gameText": "To play, spot a twilight Nazgul. Each time the fellowship moves, you may spot a wound on the Ring-bearer to draw a card (or 2 cards if the Ring-bearer is exhausted).",
       "lore": "\"'...you had become visible to them, being already on the threshold of their world.'\""
      },
      "image": null,
@@ -2343,12 +2366,12 @@
    "side": "Shadow",
    "type": "Condition",
    "title": "Walks in Twilight",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time a twilight Nazgul wins a skirmish, you may exert a twilight Nazgul to shuffle a [ringwraith] card from your discard pile into your draw deck.",
    "lore": "\"The Riders made straight for you, as soon as you fled.'\"",
    "versions": [
@@ -2360,7 +2383,7 @@
      "batch": null,
      "fields": {
       "title": "Walks in Twilight",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 2,
       "signet": "None",
@@ -2394,9 +2417,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a skirmishing twilight Nazgul strength +1 for each wound on the Ring- bearer (and damage +1 if that Nazgul is The Witch-king).",
    "lore": "\"Immediately, though everything else remained as before, dim and dark, the shapes became terribly clear.\"",
    "versions": [
@@ -2442,9 +2465,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Discard a [Sauron] Orc to add a burden. The Free Peoples player may discard a Free Peoples condition to prevent this.",
    "lore": "\"'If the Dark Lord knows so much as you say, Mithrandir, will he not rather smile than fear, and with his little finger crush us like a fly that tries to sting him?'\"",
    "versions": [
@@ -2487,12 +2510,12 @@
    "side": "Shadow",
    "type": "Condition",
    "title": "Gaze of the Eye",
-   "unique": false,
+   "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If your [Sauron] condition is about to be discarded, remove a burden to prevent this.",
    "lore": "\"Then the Eye began to rove, searching this way and that; and Frodo knew with certainty and horror that among the many things that it sought he himself was one.\"",
    "versions": [
@@ -2504,7 +2527,7 @@
      "batch": null,
      "fields": {
       "title": "Gaze of the Eye",
-      "unique": false,
+      "unique": true,
       "subtypes": "Support Area",
       "twilight": 1,
       "signet": "None",
@@ -2538,10 +2561,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "The site number of each [Sauron] minion is -1 for each burden you can spot.Each [sauron] minion with site number of 1 or less is strength +1. When the Ring-bearer takes off The One Ring, discard this condition.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "The site number of each [Sauron] minion is -1 for each burden you can spot. Each [sauron] minion with site number of 1 or less is strength +1. When the Ring-bearer takes off The One Ring, discard this condition.",
    "lore": "\"...to pin you under its deadly gaze, naked, immovable.\"",
    "versions": [
     {
@@ -2558,7 +2581,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "The site number of each [Sauron] minion is -1 for each burden you can spot.Each [sauron] minion with site number of 1 or less is strength +1. When the Ring-bearer takes off The One Ring, discard this condition.",
+      "gameText": "The site number of each [Sauron] minion is -1 for each burden you can spot. Each [sauron] minion with site number of 1 or less is strength +1. When the Ring-bearer takes off The One Ring, discard this condition.",
       "lore": "\"...to pin you under its deadly gaze, naked, immovable.\""
      },
      "image": null,
@@ -2588,9 +2611,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot 5 burdens and discard a [Sauron] Orc to choose one: make the move limit for this turn -1; or make the Free Peoples player choose to move again (if the move limit allows).",
    "lore": "\"'He leaped into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows.'\"",
    "versions": [
@@ -2639,10 +2662,10 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Tracker.While you can spot an exhausted companion, this minion is an archer.While you can spot 3 exhausted companions, this minion is strength +3.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Tracker. While you can spot an exhausted companion, this minion is an archer. While you can spot 3 exhausted companions, this minion is strength +3.",
    "lore": "\"'...he was waylaid by the Orcs of the Mountains, and almost all his folk were slain.'\"",
    "versions": [
     {
@@ -2662,7 +2685,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Tracker.While you can spot an exhausted companion, this minion is an archer.While you can spot 3 exhausted companions, this minion is strength +3.",
+      "gameText": "Tracker. While you can spot an exhausted companion, this minion is an archer. While you can spot 3 exhausted companions, this minion is strength +3.",
       "lore": "\"'...he was waylaid by the Orcs of the Mountains, and almost all his folk were slain.'\""
      },
      "image": null,
@@ -2690,10 +2713,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "While you can spot 4 burdens, each [sauron] Orc is damage +1.\\While you can spot 6 burdens, each [Sauron] Orc is fierce.\\At the end of each Shadow phase, exert 2 [sauron] Orcs or hinder this condition.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "While you can spot 4 burdens, each [sauron] Orc is damage +1. While you can spot 6 burdens, each [Sauron] Orc is fierce. At the end of each Shadow phase, exert 2 [sauron] Orcs or hinder this condition.",
    "lore": "\"'He has indeed arisen again... and returned to his ancient fastness in the Dark Tower of Mordor.'\"",
    "versions": [
     {
@@ -2710,7 +2733,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "While you can spot 4 burdens, each [sauron] Orc is fierce.While you can spot 6 burdens, each [Sauron] Orc is damage +1.Discard this condition at the start of the regroup phase.",
+      "gameText": "While you can spot 4 burdens, each [sauron] Orc is fierce. While you can spot 6 burdens, each [Sauron] Orc is damage +1.Discard this condition at the start of the regroup phase.",
       "lore": "\"'He has indeed arisen again... and returned to his ancient fastness in the Dark Tower of Mordor.'\""
      },
      "image": null,
@@ -2727,8 +2750,7 @@
       "unique": true,
       "subtypes": "Support Area",
       "twilight": 1,
-      "block": "None",
-      "gameText": "While you can spot 4 burdens, each [sauron] Orc is damage +1.\\While you can spot 6 burdens, each [Sauron] Orc is fierce.\\At the end of each Shadow phase, exert 2 [sauron] Orcs or hinder this condition."
+      "gameText": "While you can spot 4 burdens, each [sauron] Orc is damage +1. While you can spot 6 burdens, each [Sauron] Orc is fierce. At the end of each Shadow phase, exert 2 [sauron] Orcs or hinder this condition."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E049.1_card.jpg",
      "wikiImage": "LOTR-ENV1S049.1_card.jpg"
@@ -2753,17 +2775,20 @@
    "type": "Ally",
    "title": "Bilbo",
    "subtitle": "Of Bag End",
-   "unique": false,
+   "unique": true,
    "subtypes": "Hobbit",
    "twilight": 2,
    "strength": 2,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "To play, spot 2 companions with the Frodo signet. Fellowship: If the fellowship is at a sanctuary, exert Bilbo twice to play 2 items from your draw deck on [shire] companions.",
    "lore": "\"'There has always been a Baggins in Bag End, and there always will be.'\"",
+   "homeSites": [
+    "3"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S050.0",
@@ -2774,7 +2799,7 @@
      "fields": {
       "title": "Bilbo",
       "subtitle": "Of Bag End",
-      "unique": false,
+      "unique": true,
       "subtypes": "Hobbit",
       "twilight": 2,
       "strength": 2,
@@ -2784,7 +2809,10 @@
       "block": "Fellowship",
       "arrowDirection": "None",
       "gameText": "To play, spot 2 companions with the Frodo signet. Fellowship: If the fellowship is at a sanctuary, exert Bilbo twice to play 2 items from your draw deck on [shire] companions.",
-      "lore": "\"'There has always been a Baggins in Bag End, and there always will be.'\""
+      "lore": "\"'There has always been a Baggins in Bag End, and there always will be.'\"",
+      "homeSites": [
+       "3"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S050.0_card.jpg"
@@ -2809,17 +2837,20 @@
    "type": "Ally",
    "title": "Griffo Boffin",
    "subtitle": "Uncouth Fellow",
-   "unique": false,
+   "unique": true,
    "subtypes": "Hobbit",
    "twilight": 1,
    "strength": 3,
    "vitality": 2,
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "Each time you play a [shire] ally, you may add (1) to draw a card.",
    "lore": "\"'Neither are they counted amongst the very wise...'\"",
+   "homeSites": [
+    "1"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S051.0",
@@ -2830,7 +2861,7 @@
      "fields": {
       "title": "Griffo Boffin",
       "subtitle": "Uncouth Fellow",
-      "unique": false,
+      "unique": true,
       "subtypes": "Hobbit",
       "twilight": 1,
       "strength": 3,
@@ -2840,7 +2871,10 @@
       "block": "Fellowship",
       "arrowDirection": "None",
       "gameText": "Each time you play a [shire] ally, you may add (1) to draw a card.",
-      "lore": "\"'Neither are they counted amongst the very wise...'\""
+      "lore": "\"'Neither are they counted amongst the very wise...'\"",
+      "homeSites": [
+       "1"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S051.0_card.jpg"
@@ -2870,13 +2904,13 @@
    "twilight": 1,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Assignment: Exert Merry twice to prevent a minion from being assigned to a skirmish until the regroup phase. The Shadow player may exhaust that minion to prevent this.",
    "lore": "\"'...we are going to do our best to help you against the Enemy.'\"",
-   "resistance": 6,
    "versions": [
     {
      "wikiId": "LOTR-ENV1S052.0",
@@ -2892,6 +2926,7 @@
       "twilight": 1,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Frodo",
       "block": "None",
@@ -2917,7 +2952,6 @@
       "strength": 3,
       "vitality": 4,
       "resistance": 6,
-      "block": "None",
       "gameText": "Assignment: Exert Merry twice to prevent a minion from being assigned to a skirmish until the regroup phase. The Shadow player may exhaust that minion to prevent this."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E052.1_card.jpg",
@@ -2943,15 +2977,16 @@
    "type": "Companion",
    "title": "Pippin",
    "subtitle": "Of Tuckborough",
-   "unique": false,
+   "unique": true,
    "subtypes": "Hobbit",
    "twilight": 1,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert Pippin to prevent a skirmishing [shire] companion from being overwhelmed unless their strength is tripled (and make them strength +1 if you can spot 3 companions with the Frodo signet).",
    "lore": "\"'You must go - and therefore we must, too. Merry and I are coming with you.'\"",
    "versions": [
@@ -2964,11 +2999,12 @@
      "fields": {
       "title": "Pippin",
       "subtitle": "Of Tuckborough",
-      "unique": false,
+      "unique": true,
       "subtypes": "Hobbit",
       "twilight": 1,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Frodo",
       "block": "None",
@@ -3004,13 +3040,13 @@
    "twilight": 2,
    "strength": 3,
    "vitality": 4,
+   "resistance": 5,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time a companion with the Frodo signet wins a skirmish, you may spot Frodo to heal that companion.\\Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).",
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time a companion with the Frodo signet wins a skirmish, you may spot Frodo to heal that companion. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).",
    "lore": "\"'Don't turn me into anything... unnatural.'\"",
-   "resistance": 5,
    "versions": [
     {
      "wikiId": "LOTR-ENV1S054.0",
@@ -3026,11 +3062,12 @@
       "twilight": 2,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Frodo",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time a companion with the Frodo signet wins a skirmish, you may exert Sam or add a burden to heal that companion.Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).",
+      "gameText": "Each time a companion with the Frodo signet wins a skirmish, you may exert Sam or add a burden to heal that companion. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).",
       "lore": "\"'Don't turn me into anything... unnatural.'\""
      },
      "image": null,
@@ -3051,7 +3088,6 @@
       "strength": 3,
       "vitality": 4,
       "resistance": 5,
-      "block": "None",
       "gameText": "Each time a companion with the Frodo signet wins a skirmish, heal that companion. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E054.1_card.jpg",
@@ -3072,8 +3108,7 @@
       "strength": 3,
       "vitality": 4,
       "resistance": 5,
-      "block": "None",
-      "gameText": "Each time a companion with the Frodo signet wins a skirmish, you may spot Frodo to heal that companion.\\Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5)."
+      "gameText": "Each time a companion with the Frodo signet wins a skirmish, you may spot Frodo to heal that companion. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E054.2_card.jpg",
      "wikiImage": "LOTR-ENV1S054.2_card.jpg"
@@ -3100,9 +3135,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a skirmishing companion with the Frodo signet to make that companion strength +1 for each companion with the Frodo signet you can spot (limit +4).",
    "lore": "\"'I don't suppose we'll ever see them again.'\"",
    "versions": [
@@ -3148,9 +3183,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot Merry and Pippin to heal two companions with the Frodo signet.",
    "lore": "\"'We hobbits ought to stick together, and we will. I shall go, unless they chain me up.'\"",
    "versions": [
@@ -3195,11 +3230,14 @@
    "title": "Bag End Study",
    "unique": false,
    "siteNumber": 1,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Fellowship",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "When the fellowship moves from here, you may exert a [shire] companion to play a [shire] condition from your draw deck.",
+   "homeSites": [
+    "1"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S057.0",
@@ -3212,10 +3250,13 @@
       "unique": false,
       "siteNumber": 1,
       "signet": "None",
-      "block": "None",
+      "block": "Fellowship",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "When the fellowship moves from here, you may exert a [shire] companion to play a [shire] condition from your draw deck."
+      "gameText": "When the fellowship moves from here, you may exert a [shire] companion to play a [shire] condition from your draw deck.",
+      "homeSites": [
+       "1"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S057.0_card.jpg"
@@ -3241,11 +3282,14 @@
    "title": "Prancing Pony Spare Room",
    "unique": false,
    "siteNumber": 2,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Fellowship",
    "shadowNumber": 2,
    "arrowDirection": "Left",
    "gameText": "Each time a minion of strength 6 or less is played, make it strength +3 until the regroup phase (unless you can spot a [gandalf] card).",
+   "homeSites": [
+    "2"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S058.0",
@@ -3258,10 +3302,13 @@
       "unique": false,
       "siteNumber": 2,
       "signet": "None",
-      "block": "None",
+      "block": "Fellowship",
       "shadowNumber": 2,
       "arrowDirection": "Left",
-      "gameText": "Each time a minion of strength 6 or less is played, make it strength +3 until the regroup phase (unless you can spot a [gandalf] card)."
+      "gameText": "Each time a minion of strength 6 or less is played, make it strength +3 until the regroup phase (unless you can spot a [gandalf] card).",
+      "homeSites": [
+       "2"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S058.0_card.jpg"
@@ -3287,11 +3334,14 @@
    "title": "Rivendell Gateway",
    "unique": false,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Fellowship",
    "shadowNumber": 0,
    "arrowDirection": "Right",
    "gameText": "Sanctuary. Fellowship: Exert an unbound companion to make one of another culture strength +1 until the end of the turn (limit +6).",
+   "homeSites": [
+    "3"
+   ],
    "twilight": 0,
    "versions": [
     {
@@ -3308,7 +3358,10 @@
       "block": "Fellowship",
       "shadowNumber": 0,
       "arrowDirection": "Right",
-      "gameText": "Forest. Sanctuary. Fellowship: Exert a companion to make one of another culture strength +1 until the end of the turn (limit +6)."
+      "gameText": "Forest. Sanctuary. Fellowship: Exert a companion to make one of another culture strength +1 until the end of the turn (limit +6).",
+      "homeSites": [
+       "3"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S059.0_card.jpg"
@@ -3324,8 +3377,10 @@
       "unique": false,
       "twilight": 0,
       "siteNumber": 3,
-      "block": "None",
-      "gameText": "Sanctuary. Fellowship: Exert an unbound companion to make one of another culture strength +1 until the end of the turn (limit +6)."
+      "gameText": "Sanctuary. Fellowship: Exert an unbound companion to make one of another culture strength +1 until the end of the turn (limit +6).",
+      "homeSites": [
+       "3"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E059.1_card.jpg",
      "wikiImage": "LOTR-ENV1S059.1_card.jpg"
@@ -3351,11 +3406,14 @@
    "title": "Moria Crossroads",
    "unique": false,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Fellowship",
    "shadowNumber": 3,
    "arrowDirection": "Right",
    "gameText": "Underground. While you can spot a unique [moria] minion, skirmishes involving [moria] minions may not be canceled.",
+   "homeSites": [
+    "4"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S060.0",
@@ -3368,10 +3426,13 @@
       "unique": false,
       "siteNumber": 4,
       "signet": "None",
-      "block": "None",
+      "block": "Fellowship",
       "shadowNumber": 3,
       "arrowDirection": "Right",
-      "gameText": "Underground. While you can spot a unique [moria] minion, skirmishes involving [moria] minions may not be canceled."
+      "gameText": "Underground. While you can spot a unique [moria] minion, skirmishes involving [moria] minions may not be canceled.",
+      "homeSites": [
+       "4"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S060.0_card.jpg"
@@ -3397,11 +3458,14 @@
    "title": "Lorien Throne Room",
    "unique": false,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Fellowship",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Forest. Sanctuary. Each time a companion exerts here, you may exert an [ELVEN] ally to heal that companion (limit once per phase).",
+   "homeSites": [
+    "6"
+   ],
    "twilight": 3,
    "versions": [
     {
@@ -3415,10 +3479,13 @@
       "unique": false,
       "siteNumber": 6,
       "signet": "None",
-      "block": "None",
+      "block": "Fellowship",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Forest. Sanctuary. Each time a companion exerts here, you may exert an [elven] ally to heal that companion."
+      "gameText": "Forest. Sanctuary. Each time a companion exerts here, you may exert an [elven] ally to heal that companion.",
+      "homeSites": [
+       "6"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S061.0_card.jpg"
@@ -3434,8 +3501,10 @@
       "unique": false,
       "twilight": 3,
       "siteNumber": 6,
-      "block": "None",
-      "gameText": "Forest. Sanctuary. Each time a companion exerts here, you may exert an [ELVEN] ally to heal that companion (limit once per phase)."
+      "gameText": "Forest. Sanctuary. Each time a companion exerts here, you may exert an [ELVEN] ally to heal that companion (limit once per phase).",
+      "homeSites": [
+       "6"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E061.1_card.jpg",
      "wikiImage": "LOTR-ENV1S061.1_card.jpg"
@@ -3461,11 +3530,14 @@
    "title": "Valley of the Anduin",
    "unique": false,
    "siteNumber": 7,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Fellowship",
    "shadowNumber": 6,
    "arrowDirection": "Right",
    "gameText": "River. At the start of each skirmish phase, wound each unwounded character in that skirmish.",
+   "homeSites": [
+    "7"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S062.0",
@@ -3478,10 +3550,13 @@
       "unique": false,
       "siteNumber": 7,
       "signet": "None",
-      "block": "None",
+      "block": "Fellowship",
       "shadowNumber": 6,
       "arrowDirection": "Right",
-      "gameText": "River. At the start of each skirmish phase, wound each unwounded character in that skirmish."
+      "gameText": "River. At the start of each skirmish phase, wound each unwounded character in that skirmish.",
+      "homeSites": [
+       "7"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S062.0_card.jpg"
@@ -3507,11 +3582,14 @@
    "title": "Nen Hithoel",
    "unique": false,
    "siteNumber": 8,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Fellowship",
    "shadowNumber": 7,
    "arrowDirection": "Right",
    "gameText": "River. When the fellowship moves to Nen Hithoel, each Shadow player may draw a card for each companion over 4.",
+   "homeSites": [
+    "8"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S063.0",
@@ -3524,10 +3602,13 @@
       "unique": false,
       "siteNumber": 8,
       "signet": "None",
-      "block": "None",
+      "block": "Fellowship",
       "shadowNumber": 7,
       "arrowDirection": "Right",
-      "gameText": "River. When the fellowship moves to Nen Hithoel, each Shadow player may draw a card for each companion over 4."
+      "gameText": "River. When the fellowship moves to Nen Hithoel, each Shadow player may draw a card for each companion over 4.",
+      "homeSites": [
+       "8"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S063.0_card.jpg"
@@ -3553,11 +3634,14 @@
    "title": "Amon Hen Ruins",
    "unique": false,
    "siteNumber": 9,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Fellowship",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Forest. Each minion is damage +1 for each wound on that minion.",
+   "homeSites": [
+    "9"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S064.0",
@@ -3570,10 +3654,13 @@
       "unique": false,
       "siteNumber": 9,
       "signet": "None",
-      "block": "None",
+      "block": "Fellowship",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Forest. Each minion is damage +1 for each wound on that minion."
+      "gameText": "Forest. Each minion is damage +1 for each wound on that minion.",
+      "homeSites": [
+       "9"
+      ]
      },
      "image": null,
      "wikiImage": "LOTR-ENV1S064.0_card.jpg"
@@ -3600,10 +3687,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Rivers and sites with no other terrain keywords gain marsh.Companions are defender +1.Skirmish: Remove 2 burdens to have Watcher in the Water replace a tentacle skirmishing an unbound companion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Rivers and sites with no other terrain keywords gain marsh. Companions are defender +1.Skirmish: Remove 2 burdens to have Watcher in the Water replace a tentacle skirmishing an unbound companion.",
    "lore": "\"But either Gandalf was astray, or else the land had changed in recent years...\"",
    "versions": [
     {
@@ -3620,7 +3707,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Rivers and sites with no other terrain keywords gain marsh.Companions are defender +1.Skirmish: Remove 2 burdens to have Watcher in the Water replace a tentacle skirmishing an unbound companion.",
+      "gameText": "Rivers and sites with no other terrain keywords gain marsh. Companions are defender +1.Skirmish: Remove 2 burdens to have Watcher in the Water replace a tentacle skirmishing an unbound companion.",
       "lore": "\"But either Gandalf was astray, or else the land had changed in recent years...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S065.0_card.jpg",
@@ -3651,11 +3738,14 @@
    "strength": 6,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Tentacle. This minion may not bear items and is discarded if not at a marsh.\\Shadow: If this minion is stacked on a Shadow card, play it to stack 2 tentacles (except Writhing Tentacle) from your discard pile on that card.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Tentacle. This minion may not bear items and is discarded if not at a marsh. Shadow: If this minion is stacked on a Shadow card, play it to stack 2 tentacles (except Writhing Tentacle) from your discard pile on that card.",
    "lore": "\"Many coiling arms seized the doors on either side, and with horrible strength, swung them round.\"",
+   "homeSites": [
+    "4"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV1S066.0",
@@ -3674,7 +3764,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Tentacle. This minion may not bear possessions and is discarded if not at a marsh.Shadow: If this minion is stacked on a Shadow card, play it to stack 2 tentacles from your discard pile on that card.",
+      "gameText": "Tentacle. This minion may not bear possessions and is discarded if not at a marsh. Shadow: If this minion is stacked on a Shadow card, play it to stack 2 tentacles from your discard pile on that card.",
       "lore": "\"Many coiling arms seized the doors on either side, and with horrible strength, swung them round.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S066.0_card.jpg",
@@ -3694,8 +3784,10 @@
       "strength": 6,
       "vitality": 1,
       "siteNumber": 4,
-      "block": "None",
-      "gameText": "Tentacle. This minion may not bear items and is discarded if not at a marsh.\\Shadow: If this minion is stacked on a Shadow card, play it to stack 2 tentacles (except Writhing Tentacle) from your discard pile on that card."
+      "gameText": "Tentacle. This minion may not bear items and is discarded if not at a marsh. Shadow: If this minion is stacked on a Shadow card, play it to stack 2 tentacles (except Writhing Tentacle) from your discard pile on that card.",
+      "homeSites": [
+       "4"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E066.1_card.jpg",
      "wikiImage": "LOTR-ENV1S066.1_card.jpg"

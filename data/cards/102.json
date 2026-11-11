@@ -17,10 +17,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot a [Dunland] minion.For each companion you can spot over 4, the Free Peoples player must have an additional card in hand to have initiative.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot a [Dunland] minion. For each companion you can spot over 4, the Free Peoples player must have an additional card in hand to have initiative.",
    "lore": "\"'Not in half a thousand years have they forgotten their grievance that the lords of Gondor gave the Mark to Eorl the Young and made alliance with him.'\"",
    "versions": [
     {
@@ -37,7 +37,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot a [Dunland] minion.For each companion you can spot over 4, the Free Peoples player must have an additional card in hand to have initiative.",
+      "gameText": "To play, spot a [Dunland] minion. For each companion you can spot over 4, the Free Peoples player must have an additional card in hand to have initiative.",
       "lore": "\"'Not in half a thousand years have they forgotten their grievance that the lords of Gondor gave the Mark to Eorl the Young and made alliance with him.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S001.0_card.jpg",
@@ -68,9 +68,9 @@
    "strength": 9,
    "vitality": 1,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you have initiative, this minion's twilight cost is -2.",
    "lore": "\"'They bring fire...and are burning as they come, rick, cot, and tree.'\"",
    "versions": [
@@ -122,9 +122,9 @@
    "strength": 8,
    "vitality": 1,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you have initiative, this minion is strength +3 and damage +1.",
    "lore": "\"Now they could hear, borne over the dark, the sound of harsh singing...\"",
    "versions": [
@@ -173,9 +173,9 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Play a non-unique [Dunland] minion from your discard pile. If you have initiative, you may play a [dunland] possession on that minion from your discard pile.",
    "lore": "\"They will not give way now for dusk or dawn...\"",
    "versions": [
@@ -221,9 +221,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot 18 twilight tokens in region 1, this card can be played from your draw deck. Shadow: Spot 18 twilight tokens (or 25 if in regions 2 or 3) and remove (7) to add a [DUNLAND] token here. Shadow: Spot a [DUNLAND] token here to take control of 2 sites. Discard this artifact.",
    "versions": [
     {
@@ -240,7 +240,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "While you can spot 18 twilight tokens in region 1, this card can be played from your draw deck.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (7) to add a [dunland] token here.Shadow: Spot a [dunland] token here to take control of 2 sites.  Discard this artifact."
+      "gameText": "While you can spot 18 twilight tokens in region 1, this card can be played from your draw deck. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (7) to add a [dunland] token here. Shadow: Spot a [dunland] token here to take control of 2 sites.  Discard this artifact."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S005.0_card.jpg",
      "wikiImage": "LOTR-ENV2S005.0_card.jpg"
@@ -253,7 +253,6 @@
      "batch": "pc-2026-09-27",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "While you can spot 18 twilight tokens in region 1, this card can be played from your draw deck. Shadow: Spot 18 twilight tokens (or 25 if in regions 2 or 3) and remove (7) to add a [DUNLAND] token here. Shadow: Spot a [DUNLAND] token here to take control of 2 sites. Discard this artifact."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV2S005.1_card.jpg",
@@ -285,11 +284,14 @@
    "strength": 6,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "Aragorn is strength +1. While Arwen is exhausted, Aragorn is defender +1.Each time Aragorn is about to take a wound, you may wound Arwen to prevent that wound.",
    "lore": "\"'Dark is the Shadow, and yet my heart rejoices; for you, Estel, shall be among the great whose valour will destroy it.'\"",
+   "homeSites": [
+    "3"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV2S006.0",
@@ -310,7 +312,10 @@
       "block": "Fellowship",
       "arrowDirection": "None",
       "gameText": "Aragorn is strength +1. While Arwen is exhausted, Aragorn is defender +1.Each time Aragorn is about to take a wound, you may wound Arwen to prevent that wound.",
-      "lore": "\"'Dark is the Shadow, and yet my heart rejoices; for you, Estel, shall be among the great whose valour will destroy it.'\""
+      "lore": "\"'Dark is the Shadow, and yet my heart rejoices; for you, Estel, shall be among the great whose valour will destroy it.'\"",
+      "homeSites": [
+       "3"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S006.0_card.jpg",
      "wikiImage": "LOTR-ENV2S006.0_card.jpg"
@@ -337,10 +342,10 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Spot an [elven] companion to reinforce a [dwarven] token or spot a [dwarven] companion to reinforce an [elven] token.If you can spot both Legolas and Gimli you may reinforce both an [elven] and [dwarven] token an additional time.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Spot an [elven] companion to reinforce a [dwarven] token or spot a [dwarven] companion to reinforce an [elven] token. If you can spot both Legolas and Gimli you may reinforce both an [elven] and [dwarven] token an additional time.",
    "lore": "\"'Good!' said Legolas. 'But my count is now two dozen. It has been knife-work up here.'\"",
    "versions": [
     {
@@ -357,7 +362,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Spot an [elven] companion to reinforce a [dwarven] token or spot a [dwarven] companion to reinforce an [elven] token.If you can spot both Legolas and Gimli you may reinforce both an [elven] and [dwarven] token an additional time.",
+      "gameText": "Spot an [elven] companion to reinforce a [dwarven] token or spot a [dwarven] companion to reinforce an [elven] token. If you can spot both Legolas and Gimli you may reinforce both an [elven] and [dwarven] token an additional time.",
       "lore": "\"'Good!' said Legolas. 'But my count is now two dozen. It has been knife-work up here.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S007.0_card.jpg",
@@ -388,12 +393,12 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Valiant. While Haldir bears a ranged weapon, each valiant Elf is strength +1 and each valiant Elf does not add to the fellowship archery total.Each time an [elven] possession is about to be discarded by a card effect, you may exert Haldir to prevent that.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Valiant. While Haldir bears a ranged weapon, each valiant Elf is strength +1 and each valiant Elf does not add to the fellowship archery total. Each time an [elven] possession is about to be discarded by a card effect, you may exert Haldir to prevent that.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S008.0",
@@ -409,12 +414,12 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Valiant. While Haldir bears a ranged weapon, each valiant Elf is strength +1 and each valiant Elf does not add to the fellowship archery total.Each time an [elven] possession is about to be discarded by a card effect, you may exert Haldir to prevent that."
+      "gameText": "Valiant. While Haldir bears a ranged weapon, each valiant Elf is strength +1 and each valiant Elf does not add to the fellowship archery total. Each time an [elven] possession is about to be discarded by a card effect, you may exert Haldir to prevent that."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S008.0_card.jpg",
      "wikiImage": "LOTR-ENV2S008.0_card.jpg"
@@ -441,9 +446,9 @@
    "unique": false,
    "subtypes": "Archery",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot 2 valiant Elves to wound a minion (or wound a minion twice if each of those Elves bears a ranged weapon).",
    "lore": "\"'I must go and seek some arrows,' said Legolas. 'Would that this night would end, and I could have better light for shooting.'\"",
    "versions": [
@@ -487,13 +492,14 @@
    "type": "Possession",
    "title": "Naith Armaments",
    "unique": false,
+   "subtypes": "Hand Weapon,Ranged Weapon",
    "twilight": 2,
    "strengthMod": "+2",
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be a valiant Elf.Each time bearer wins a skirmish, you may exert bearer to heal another valiant Elf.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be a valiant Elf. Each time bearer wins a skirmish, you may exert bearer to heal another valiant Elf.",
    "lore": "\"The great bow of Lórien sang...\"",
    "versions": [
     {
@@ -505,13 +511,14 @@
      "fields": {
       "title": "Naith Armaments",
       "unique": false,
+      "subtypes": "Hand Weapon,Ranged Weapon",
       "twilight": 2,
       "strengthMod": "+2",
       "vitalityMod": "+1",
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be a valiant Elf.Each time bearer wins a skirmish, you may exert bearer to heal another valiant Elf.",
+      "gameText": "Bearer must be a valiant Elf. Each time bearer wins a skirmish, you may exert bearer to heal another valiant Elf.",
       "lore": "\"The great bow of Lórien sang...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S010.0_card.jpg",
@@ -539,9 +546,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a valiant companion (or spot 2 valiant Elves) to take a valiant [elven] companion or [elven] possession into hand from your draw deck.",
    "lore": "\"'It is told that Elendil stood there watching for the coming of Gil-galad out of the West, in the days of the Last Alliance.'\"",
    "versions": [
@@ -587,9 +594,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time your Man, Elf, or Dwarf wins a skirmish, make your Man, Elf, or Dwarf of another race strength +1 until the regroup phase.",
    "lore": "\"'With hope or without hope we will follow the trail of our enemies....We will make such a chase as shall be accounted a marvel among the Three Kindreds of Elves. Dwarves, and Men.'\"",
    "versions": [
@@ -641,9 +648,9 @@
    "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each mounted companion gains valiant.\\Each time a minion's special ability is used (except during a skirmish), you may spot 3 valiant companions and exert Gandalf\\twice to prevent that and exert that minion.",
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each mounted companion gains valiant. Each time a minion's special ability is used (except during a skirmish), you may spot 3 valiant companions and exert Gandalf twice to prevent that and exert that minion.",
    "lore": "\"'No counsel have I to give to those that despair. Yet counsel I could give, and words I could speak to you.'\"",
    "versions": [
     {
@@ -665,7 +672,7 @@
       "signet": "Theoden",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each mounted companion gains valiant.Response: If a minion's special ability is used (except during a skirmish), spot 3 valiant companions and exert Gandalf to prevent that and wound that minion.",
+      "gameText": "Each mounted companion gains valiant. Response: If a minion's special ability is used (except during a skirmish), spot 3 valiant companions and exert Gandalf to prevent that and wound that minion.",
       "lore": "\"'No counsel have I to give to those that despair. Yet counsel I could give, and words I could speak to you.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S013.0_card.jpg",
@@ -686,8 +693,7 @@
       "strength": 7,
       "vitality": 4,
       "resistance": 6,
-      "block": "None",
-      "gameText": "Each mounted companion gains valiant.\\Each time a minion's special ability is used (except during a skirmish), you may spot 3 valiant companions and exert Gandalf to prevent that."
+      "gameText": "Each mounted companion gains valiant. Each time a minion's special ability is used (except during a skirmish), you may spot 3 valiant companions and exert Gandalf to prevent that."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2E013.1_card.jpg",
      "wikiImage": "LOTR-ENV2S013.1_card.jpg"
@@ -707,8 +713,7 @@
       "strength": 7,
       "vitality": 4,
       "resistance": 6,
-      "block": "None",
-      "gameText": "Each mounted companion gains valiant.\\Each time a minion's special ability is used (except during a skirmish), you may spot 3 valiant companions and exert Gandalf\\twice to prevent that and exert that minion."
+      "gameText": "Each mounted companion gains valiant. Each time a minion's special ability is used (except during a skirmish), you may spot 3 valiant companions and exert Gandalf twice to prevent that and exert that minion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2E013.2_card.jpg",
      "wikiImage": "LOTR-ENV2S013.2_card.jpg"
@@ -735,9 +740,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert Gandalf to make Theoden and each valiant companion strength +1 until the regroup phase (or strength +2 if every unbound companion is valiant).",
    "lore": "\"'If this is bewitchment,' said Théoden, 'it seems to me more wholesome than your whisperings.'\"",
    "versions": [
@@ -783,10 +788,10 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (3) to draw 8 cards. If in region 1, this action can be performed from your draw deck.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (3) to draw 8 cards. If in region 1, this action can be performed from your draw deck.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S015.0",
@@ -802,7 +807,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (3) to draw 8 cards. If in region 1, this action can be performed from your draw deck."
+      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (3) to draw 8 cards. If in region 1, this action can be performed from your draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S015.0_card.jpg",
      "wikiImage": "LOTR-ENV2S015.0_card.jpg"
@@ -832,12 +837,12 @@
    "twilight": 4,
    "strength": 8,
    "vitality": 4,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Valiant.At the start of each turn you may spot another valiant companion to draw a card.Skirmish: Exert Aragorn to make a skirmishing valiant companion strength +2.",
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Valiant. At the start of each turn you may spot another valiant companion to draw a card. Skirmish: Exert Aragorn to make a skirmishing valiant companion strength +2.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S016.0",
@@ -853,12 +858,12 @@
       "twilight": 4,
       "strength": 8,
       "vitality": 4,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Valiant.At the start of each turn you may spot another valiant companion to draw a card.Skirmish: Exert Aragorn to make a skirmishing valiant companion strength +2."
+      "gameText": "Valiant. At the start of each turn you may spot another valiant companion to draw a card. Skirmish: Exert Aragorn to make a skirmishing valiant companion strength +2."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S016.0_card.jpg",
      "wikiImage": "LOTR-ENV2S016.0_card.jpg"
@@ -885,9 +890,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert Aragorn three times to make each valiant companion strength +2 until the regroup phase. If Aragorn dies during this turn, make each valiant companion strength +1 for the rest of the turn.",
    "lore": "\"'Andúril! Andúril goes to war. The Blade that was Broken shines again!'\"",
    "versions": [
@@ -933,9 +938,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Discard a [Sauron] tracker to make an [Isengard] tracker strength +2.Skirmish: Exert an [isengard] tracker to make a [sauron] tracker fierce until the regroup phase.",
    "lore": "\"Five dead Orcs lay there. They had been hewn with many cruel strokes, and two had been beheaded.\"",
    "versions": [
@@ -984,10 +989,10 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Damage +1.This minion is strength +1 for each wound on each character in its skirmish.When this minion is killed, add 3 [isengard] tokens to an [isengard] machine.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Damage +1.This minion is strength +1 for each wound on each character in its skirmish. When this minion is killed, add 3 [isengard] tokens to an [isengard] machine.",
    "lore": "\"The foremost fell with Legolas' last arrow in his throat. but the rest sprang over him.\"",
    "versions": [
     {
@@ -1007,7 +1012,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Damage +1.This minion is strength +1 for each wound on each character in its skirmish.When this minion is killed, add 3 [isengard] tokens to an [isengard] machine.",
+      "gameText": "Damage +1.This minion is strength +1 for each wound on each character in its skirmish. When this minion is killed, add 3 [isengard] tokens to an [isengard] machine.",
       "lore": "\"The foremost fell with Legolas' last arrow in his throat. but the rest sprang over him.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S019.0_card.jpg",
@@ -1038,10 +1043,10 @@
    "strength": 8,
    "vitality": 3,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Damage +1. This minion is strength +1 for each wound on each character in its skirmish.When this minion dies in a skirmish, you may remove 2 [isengard] tokens from a machine to wound a character it was skirmishing.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Damage +1. This minion is strength +1 for each wound on each character in its skirmish. When this minion dies in a skirmish, you may remove 2 [isengard] tokens from a machine to wound a character it was skirmishing.",
    "lore": "\"Then the Orcs screamed, waving spear and sword, and shooting a cloud of arrows.\"",
    "versions": [
     {
@@ -1061,7 +1066,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Damage +1. This minion is strength +1 for each wound on each character in its skirmish.When this minion dies in a skirmish, you may remove 2 [isengard] tokens from a machine to wound a character it was skirmishing.",
+      "gameText": "Damage +1. This minion is strength +1 for each wound on each character in its skirmish. When this minion dies in a skirmish, you may remove 2 [isengard] tokens from a machine to wound a character it was skirmishing.",
       "lore": "\"Then the Orcs screamed, waving spear and sword, and shooting a cloud of arrows.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S020.0_card.jpg",
@@ -1089,9 +1094,9 @@
    "unique": false,
    "subtypes": "Assignment",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Remove X tokens from machines to assign an Uruk-hai costing X or less to an ally or unbound companion.",
    "lore": "\"'They have crept in the culvert again, while we talked, and they have lit the fire of Orthanc beneath our feet.'\"",
    "versions": [
@@ -1137,10 +1142,10 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (5) to take up to 4 Shadow items into hand from your draw deck. If in region 1, this action can be performed from your draw deck.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (5) to take up to 4 Shadow items into hand from your draw deck. If in region 1, this action can be performed from your draw deck.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S022.0",
@@ -1156,7 +1161,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (5) to take up to 4 Shadow items into hand from your draw deck. If in region 1, this action can be performed from your draw deck."
+      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (5) to take up to 4 Shadow items into hand from your draw deck. If in region 1, this action can be performed from your draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S022.0_card.jpg",
      "wikiImage": "LOTR-ENV2S022.0_card.jpg"
@@ -1183,10 +1188,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "When you play this condition, spot 2 [Isengard] Orcs or a Wizard to add 2 [isengard] tokens here.At the start of the regroup phase, you may discard this condition (or remove an [isengard] token here), to heal an [Isengard] Orc.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "When you play this condition, spot 2 [Isengard] Orcs or a Wizard to add 2 [isengard] tokens here. At the start of the regroup phase, you may discard this condition (or remove an [isengard] token here), to heal an [Isengard] Orc.",
    "lore": "\"'For bole and bough are burning now, the furnace roars...'\"",
    "versions": [
     {
@@ -1203,7 +1208,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "When you play this condition, spot 2 [Isengard] Orcs or a Wizard to add 2 [isengard] tokens here.At the start of the regroup phase, you may discard this condition (or remove an [isengard] token here), to heal an [Isengard] Orc.",
+      "gameText": "When you play this condition, spot 2 [Isengard] Orcs or a Wizard to add 2 [isengard] tokens here. At the start of the regroup phase, you may discard this condition (or remove an [isengard] token here), to heal an [Isengard] Orc.",
       "lore": "\"'For bole and bough are burning now, the furnace roars...'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S023.0_card.jpg",
@@ -1233,9 +1238,9 @@
    "twilight": 2,
    "strengthMod": "+1",
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a warg-rider&nbsp;.When you play this possession, you may take an [isengard] skirmish event into hand from your discard pile.",
    "lore": "\"'He has taken Orcs into his service, and Wolf-riders, and evil Men...'\"",
    "versions": [
@@ -1286,10 +1291,10 @@
    "strength": 7,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "When you play this minion, you may play an [isengard] Orc from your discard pile; it is strength +1 until the regroup phase.Regroup: Discard this minion to add two threats.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "When you play this minion, you may play an [isengard] Orc from your discard pile; it is strength +1 until the regroup phase. Regroup: Discard this minion to add two threats.",
    "lore": "\"'He has taken up with foul folk, with the Orcs.'\"",
    "versions": [
     {
@@ -1309,7 +1314,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "When you play this minion, you may play an [isengard] Orc from your discard pile; it is strength +1 until the regroup phase.Regroup: Discard this minion to add two threats.",
+      "gameText": "When you play this minion, you may play an [isengard] Orc from your discard pile; it is strength +1 until the regroup phase. Regroup: Discard this minion to add two threats.",
       "lore": "\"'He has taken up with foul folk, with the Orcs.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S025.0_card.jpg",
@@ -1340,9 +1345,9 @@
    "strength": 5,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert this minion to prevent an [isengard] Orc from being overwhelmed unless its strength is tripled.",
    "lore": "\"...Saruman was mustering a great force on his own account, in rivalry of Sauron and not in his service yet.\"",
    "versions": [
@@ -1394,9 +1399,9 @@
    "strength": 17,
    "vitality": 4,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Damage +1.While you control a battleground, this minion is damage +1.While at a battleground, skirmish special abilities cannot be used during skirmishes involving this minion.",
    "lore": "\"...blazoned upon every helm and shield the ghastly hand of Isengard was seen...\"",
    "versions": [
@@ -1445,10 +1450,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "When you play this condition, spot a Wizard to add 2 [isengard] tokens here.Each time an [isengard] Orc loses a skirmish, add an [isengard] token here.Skirmish: Discard this condition (or remove 2 [isengard] tokens here) to cancel a skirmish involving an [isengard] Orc.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "When you play this condition, spot a Wizard to add 2 [isengard] tokens here. Each time an [isengard] Orc loses a skirmish, add an [isengard] token here. Skirmish: Discard this condition (or remove 2 [isengard] tokens here) to cancel a skirmish involving an [isengard] Orc.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S028.0",
@@ -1464,7 +1469,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "When you play this condition, spot a Wizard to add 2 [isengard] tokens here.Each time an [isengard] Orc loses a skirmish, add an [isengard] token here.Skirmish: Discard this condition (or remove 2 [isengard] tokens here) to cancel a skirmish involving an [isengard] Orc."
+      "gameText": "When you play this condition, spot a Wizard to add 2 [isengard] tokens here. Each time an [isengard] Orc loses a skirmish, add an [isengard] token here. Skirmish: Discard this condition (or remove 2 [isengard] tokens here) to cancel a skirmish involving an [isengard] Orc."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S028.0_card.jpg",
      "wikiImage": "LOTR-ENV2S028.0_card.jpg"
@@ -1495,10 +1500,10 @@
    "strength": 8,
    "vitality": 4,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Saruman may not be assigned to a skirmish.Companions skirmishing [Isengard] Orcs lose all damage bonuses.Response: If an [isengard] Orc is about to take a wound, exert Saruman to prevent that wound.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Saruman may not be assigned to a skirmish. Companions skirmishing [Isengard] Orcs lose all damage bonuses. Response: If an [isengard] Orc is about to take a wound, exert Saruman to prevent that wound.",
    "lore": "\"'I think that I now understand what he is up to. He\\is plotting to become a Power.'\"",
    "versions": [
     {
@@ -1519,7 +1524,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Saruman may not be assigned to a skirmish.Companions skirmishing [Isengard] Orcs lose all damage bonuses.Response: If an [isengard] Orc is about to take a wound, exert Saruman to prevent that wound.",
+      "gameText": "Saruman may not be assigned to a skirmish. Companions skirmishing [Isengard] Orcs lose all damage bonuses. Response: If an [isengard] Orc is about to take a wound, exert Saruman to prevent that wound.",
       "lore": "\"'I think that I now understand what he is up to. He\\is plotting to become a Power.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S029.0_card.jpg",
@@ -1549,9 +1554,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Mounted [Isengard] Orcs are strength +1.While you can spot 2 mounted [isengard] Orcs, your [isengard] mounts are twilight cost -1.",
    "lore": "\"At a gap in the circle a great dark wolf-shape could be seen halted, gazing at them. A shuddering howl broke from him, as if he were a captain summoning his pack to the assault.\"",
    "versions": [
@@ -1597,10 +1602,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each site you control gains battleground.Skirmish: Remove 2 [isengard] tokens to cancel a skirmish involving an Uruk-hai.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each site you control gains battleground. Skirmish: Remove 2 [isengard] tokens to cancel a skirmish involving an Uruk-hai.",
    "lore": "\"'They are burning or despoiling all that is left in the vale.'\"",
    "versions": [
     {
@@ -1617,7 +1622,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each site you control gains battleground.Skirmish: Remove 2 [isengard] tokens to cancel a skirmish involving an Uruk-hai.",
+      "gameText": "Each site you control gains battleground. Skirmish: Remove 2 [isengard] tokens to cancel a skirmish involving an Uruk-hai.",
       "lore": "\"'They are burning or despoiling all that is left in the vale.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S031.0_card.jpg",
@@ -1645,10 +1650,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Search.While you can spot an [Isengard] tracker and a [Sauron] tracker, trackers are strength +1.Shadow: Discard a [sauron] tracker from hand to play an [isengard] tracker from your discard pile. Discard this condition.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Search. While you can spot an [Isengard] tracker and a [Sauron] tracker, trackers are strength +1.Shadow: Discard a [sauron] tracker from hand to play an [isengard] tracker from your discard pile. Discard this condition.",
    "lore": "\"...a quarrel seemed on the point of breaking out again between the Northerners and the Isengarders.\"",
    "versions": [
     {
@@ -1665,7 +1670,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Search.While you can spot an [Isengard] tracker and a [Sauron] tracker, trackers are strength +1.Shadow: Discard a [sauron] tracker from hand to play an [isengard] tracker from your discard pile. Discard this condition.",
+      "gameText": "Search. While you can spot an [Isengard] tracker and a [Sauron] tracker, trackers are strength +1.Shadow: Discard a [sauron] tracker from hand to play an [isengard] tracker from your discard pile. Discard this condition.",
       "lore": "\"...a quarrel seemed on the point of breaking out again between the Northerners and the Isengarders.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S032.0_card.jpg",
@@ -1696,10 +1701,10 @@
    "strength": 7,
    "vitality": 1,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Tracker. Fierce.Each time this minion is assigned to skirmish a companion, you may spot a [sauron] tracker and discard this minion to wound that companion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Tracker. Fierce. Each time this minion is assigned to skirmish a companion, you may spot a [sauron] tracker and discard this minion to wound that companion.",
    "lore": "\"'We came out of Isengard, and led you here, and we shall lead you back by the way we choose.'\"",
    "versions": [
     {
@@ -1719,7 +1724,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Tracker. Fierce.Each time this minion is assigned to skirmish a companion, you may spot a [sauron] tracker and discard this minion to wound that companion.",
+      "gameText": "Tracker. Fierce. Each time this minion is assigned to skirmish a companion, you may spot a [sauron] tracker and discard this minion to wound that companion.",
       "lore": "\"'We came out of Isengard, and led you here, and we shall lead you back by the way we choose.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S033.0_card.jpg",
@@ -1750,10 +1755,10 @@
    "strength": 8,
    "vitality": 3,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Damage +1.This minion is strength +1 for each battleground you control.Shadow: If you control 3 battlegrounds, discard a card from hand to play this minion from your discard pile.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Damage +1.This minion is strength +1 for each battleground you control. Shadow: If you control 3 battlegrounds, discard a card from hand to play this minion from your discard pile.",
    "lore": "\"'Our scouts have gained no news of him, and the enemy fills all the valley behind us.'\"",
    "versions": [
     {
@@ -1773,7 +1778,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Damage +1.This minion is strength +1 for each battleground you control.Shadow: If you control 3 battlegrounds, discard a card from hand to play this minion from your discard pile.",
+      "gameText": "Damage +1.This minion is strength +1 for each battleground you control. Shadow: If you control 3 battlegrounds, discard a card from hand to play this minion from your discard pile.",
       "lore": "\"'Our scouts have gained no news of him, and the enemy fills all the valley behind us.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S034.0_card.jpg",
@@ -1801,10 +1806,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Machine. Each time an Uruk-hai costingX is about to take a wound (except during a skirmish), prevent that and exert it. X is the number of [isengard] tokens you can spot here.Maneuver: Exert an Uruk-hai to add an[isengard] token here.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Machine. Each time an Uruk-hai costingX is about to take a wound (except during a skirmish), prevent that and exert it. X is the number of [isengard] tokens you can spot here. Maneuver: Exert an Uruk-hai to add an[isengard] token here.",
    "lore": "\"They held their great shields above them like a roof...\"",
    "versions": [
     {
@@ -1821,7 +1826,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Machine. Each time an Uruk-hai costingX is about to take a wound (except during a skirmish), prevent that and exert it. X is the number of [isengard] tokens you can spot here.Maneuver: Exert an Uruk-hai to add an[isengard] token here.",
+      "gameText": "Machine. Each time an Uruk-hai costingX is about to take a wound (except during a skirmish), prevent that and exert it. X is the number of [isengard] tokens you can spot here. Maneuver: Exert an Uruk-hai to add an[isengard] token here.",
       "lore": "\"They held their great shields above them like a roof...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S035.0_card.jpg",
@@ -1849,10 +1854,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "When you play this possession, you may stack two [isengard] mounts here from your draw deck or discard pile.Shadow: Exert an [Isengard] minion to play an [Isengard] mount stacked here as if from hand.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "When you play this possession, you may stack two [isengard] mounts here from your draw deck or discard pile. Shadow: Exert an [Isengard] minion to play an [Isengard] mount stacked here as if from hand.",
    "lore": "\"Horsemen were galloping on the grass of Rohan; wolves poured from Isengard.\"",
    "versions": [
     {
@@ -1869,7 +1874,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "When you play this possession, you may stack two [isengard] mounts here from your draw deck or discard pile.Shadow: Exert an [Isengard] minion to play an [Isengard] mount stacked here as if from hand.",
+      "gameText": "When you play this possession, you may stack two [isengard] mounts here from your draw deck or discard pile. Shadow: Exert an [Isengard] minion to play an [Isengard] mount stacked here as if from hand.",
       "lore": "\"Horsemen were galloping on the grass of Rohan; wolves poured from Isengard.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S036.0_card.jpg",
@@ -1897,10 +1902,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time a [moria] minion wins a skirmish, you may stack it here.Shadow: Play a unique minion stacked here, it is twilight cost -1 for each other card stacked here. Discard this condition.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time a [moria] minion wins a skirmish, you may stack it here. Shadow: Play a unique minion stacked here, it is twilight cost -1 for each other card stacked here. Discard this condition.",
    "lore": "\"'...I found myself suddenly faced by something that I have not met before.'\"",
    "versions": [
     {
@@ -1917,7 +1922,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time a [moria] minion wins a skirmish, you may stack it here.Shadow: Play a unique minion stacked here, it is twilight cost -1 for each other card stacked here. Discard this condition.",
+      "gameText": "Each time a [moria] minion wins a skirmish, you may stack it here. Shadow: Play a unique minion stacked here, it is twilight cost -1 for each other card stacked here. Discard this condition.",
       "lore": "\"'...I found myself suddenly faced by something that I have not met before.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S037.0_card.jpg",
@@ -1949,10 +1954,10 @@
    "strength": 17,
    "vitality": 5,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Fierce. Damage +1.Each time a minion takes a wound, you may remove (1) to add a threat.Each time the Free Peoples player uses a skirmish special ability during a skirmish involving the Balrog, you may wound a companion it is skirmishing.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Fierce. Damage +1.Each time a minion takes a wound, you may remove (1) to add a threat. Each time the Free Peoples player uses a skirmish special ability during a skirmish involving the Balrog, you may wound a companion it is skirmishing.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S038.0",
@@ -1972,7 +1977,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fierce. Damage +1.Each time a minion takes a wound, you may remove (1) to add a threat.Each time the Free Peoples player uses a skirmish special ability during a skirmish involving the Balrog, you may wound a companion it is skirmishing."
+      "gameText": "Fierce. Damage +1.Each time a minion takes a wound, you may remove (1) to add a threat. Each time the Free Peoples player uses a skirmish special ability during a skirmish involving the Balrog, you may wound a companion it is skirmishing."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S038.0_card.jpg",
      "wikiImage": "LOTR-ENV2S038.0_card.jpg"
@@ -1999,10 +2004,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time the fellowship moves, you may reveal The Balrog from your hand to add a threat.Shadow: Remove X threats.  Play The Balrog from your discard pile; its twilight cost is -X.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time the fellowship moves, you may reveal The Balrog from your hand to add a threat. Shadow: Remove X threats.  Play The Balrog from your discard pile; its twilight cost is -X.",
    "lore": "\"'Far, far below the deepest delving of the Dwarves, the world is gnawed by nameless things.'\"",
    "versions": [
     {
@@ -2019,7 +2024,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time the fellowship moves, you may reveal The Balrog from your hand to add a threat.Shadow: Remove X threats.  Play The Balrog from your discard pile; its twilight cost is -X.",
+      "gameText": "Each time the fellowship moves, you may reveal The Balrog from your hand to add a threat. Shadow: Remove X threats.  Play The Balrog from your discard pile; its twilight cost is -X.",
       "lore": "\"'Far, far below the deepest delving of the Dwarves, the world is gnawed by nameless things.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S039.0_card.jpg",
@@ -2047,9 +2052,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time a unique [moria] minion wins a skirmish, you may remove a threat to exert a companion.",
    "lore": "\"'His fire was quenched, but now he was a thing of slime, stronger than a strangling snake.'\"",
    "versions": [
@@ -2095,9 +2100,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Discard X [Moria] minions to add X threats. The Free Peoples player may exert X companions to prevent this.",
    "lore": "\"'There was none to see, or perhaps in after ages songs would still be sung of the Battle of the Peak.'\"",
    "versions": [
@@ -2143,10 +2148,10 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (6) to take up to 4 Shadow conditions into hand from your draw deck. If in region 1, this action can be performed from your draw deck.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (6) to take up to 4 Shadow conditions into hand from your draw deck. If in region 1, this action can be performed from your draw deck.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S042.0",
@@ -2162,7 +2167,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (6) to take up to 4 Shadow conditions into hand from your draw deck. If in region 1, this action can be performed from your draw deck."
+      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (6) to take up to 4 Shadow conditions into hand from your draw deck. If in region 1, this action can be performed from your draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S042.0_card.jpg",
      "wikiImage": "LOTR-ENV2S042.0_card.jpg"
@@ -2189,10 +2194,10 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (4) to take up to 4 Shadow events into hand from your draw deck. If in region 1, this action can be performed from your draw deck.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (4) to take up to 4 Shadow events into hand from your draw deck. If in region 1, this action can be performed from your draw deck.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S043.0",
@@ -2208,7 +2213,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (4) to take up to 4 Shadow events into hand from your draw deck. If in region 1, this action can be performed from your draw deck."
+      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (4) to take up to 4 Shadow events into hand from your draw deck. If in region 1, this action can be performed from your draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S043.0_card.jpg",
      "wikiImage": "LOTR-ENV2S043.0_card.jpg"
@@ -2235,10 +2240,10 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (9) to add up to 6 threats. If in region 1, this action can be performed from your draw deck.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (9) to add up to 6 threats. If in region 1, this action can be performed from your draw deck.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S044.0",
@@ -2254,7 +2259,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (9) to add up to 6 threats. If in region 1, this action can be performed from your draw deck."
+      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) and remove (9) to add up to 6 threats. If in region 1, this action can be performed from your draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S044.0_card.jpg",
      "wikiImage": "LOTR-ENV2S044.0_card.jpg"
@@ -2282,10 +2287,10 @@
    "subtypes": ",",
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be a [rohan] companion. Bearer is valiant.At the start of the regroup phase, wound bearer or discard this condition.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be a [rohan] companion. Bearer is valiant. At the start of the regroup phase, wound bearer or discard this condition.",
    "lore": "\"'I fret in this prison,' said Théoden. 'If I could have set a spear in rest, riding before my men upon the field, maybe I could have felt again the joy of battle, and so ended. But I serve little purpose here.'\"",
    "versions": [
     {
@@ -2303,7 +2308,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be a [rohan] companion. Bearer is valiant.At the start of the regroup phase, wound bearer or discard this condition.",
+      "gameText": "Bearer must be a [rohan] companion. Bearer is valiant. At the start of the regroup phase, wound bearer or discard this condition.",
       "lore": "\"'I fret in this prison,' said Théoden. 'If I could have set a spear in rest, riding before my men upon the field, maybe I could have felt again the joy of battle, and so ended. But I serve little purpose here.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S045.0_card.jpg",
@@ -2331,9 +2336,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot X [rohan] conditions and remove 2 tokens from each to make 3 valiant companions strength +X until the regroup phase.",
    "lore": "\"Captains and champions fell or fled before them. Neither orc nor man withstood them.\"",
    "versions": [
@@ -2382,11 +2387,11 @@
    "twilight": 5,
    "strength": 7,
    "vitality": 3,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play Erkenbrand, remove up to 3 non-unique [rohan] companions in the dead pile from the game. Each exhausted companion gains valiant.",
    "lore": "\"'He was a mighty man. In him lived again the valour of Helm the Hammerhand.'\"",
    "versions": [
@@ -2404,7 +2409,7 @@
       "twilight": 5,
       "strength": 7,
       "vitality": 3,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
@@ -2437,10 +2442,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Fortification. To play, spot 3 [rohan] companions (or 2 valiant companions).Response: If a [rohan] companion is about to take a wound, discard this or 2 other [rohan] possessions to prevent that wound.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Fortification. To play, spot 3 [rohan] companions (or 2 valiant companions). Response: If a [rohan] companion is about to take a wound, discard this or 2 other [rohan] possessions to prevent that wound.",
    "lore": "\"'Is it not said that no foe has ever taken the Hornburg, if men defended it?'\"",
    "versions": [
     {
@@ -2457,7 +2462,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fortification. To play, spot 3 [rohan] companions (or 2 valiant companions).Response: If a [rohan] companion is about to take a wound, discard this or 2 other [rohan] possessions to prevent that wound.",
+      "gameText": "Fortification. To play, spot 3 [rohan] companions (or 2 valiant companions). Response: If a [rohan] companion is about to take a wound, discard this or 2 other [rohan] possessions to prevent that wound.",
       "lore": "\"'Is it not said that no foe has ever taken the Hornburg, if men defended it?'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S048.0_card.jpg",
@@ -2487,10 +2492,10 @@
    "subtypes": "Hand Weapon",
    "twilight": 2,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be a [rohan] companion.If bearer is Eomer, he is damage +1 and each time he wins a skirmish, you may reinforce a [rohan] token.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be a [rohan] companion. If bearer is Eomer, he is damage +1 and each time he wins a skirmish, you may reinforce a [rohan] token.",
    "lore": "\"The swords flashed from the sheath as one.\"",
    "versions": [
     {
@@ -2509,7 +2514,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be a [rohan] companion.If bearer is Eomer, he is damage +1 and each time he wins a skirmish, you may reinforce a [rohan] token.",
+      "gameText": "Bearer must be a [rohan] companion. If bearer is Eomer, he is damage +1 and each time he wins a skirmish, you may reinforce a [rohan] token.",
       "lore": "\"The swords flashed from the sheath as one.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S049.0_card.jpg",
@@ -2537,9 +2542,9 @@
    "unique": false,
    "subtypes": "Assignment",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a valiant companion to make that companion defender +1. That companion is strength +1 for each minion skirmishing them until the regroup phase.",
    "lore": "\"At his right hand was Aragorn, Elendil's heir, behind him rode the lords of the House of Eorl the Young.\"",
    "versions": [
@@ -2585,10 +2590,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time a [rohan] item or [rohan] ally is killed or discarded from play or from hand (except during the fellowship phase), add a [rohan] token here.\\Each time a minion is exerted by a Free Peoples card, you may remove 2 [rohan] tokens here and exert a valiant companion to wound that minion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time a [rohan] item or [rohan] ally is killed or discarded from play or from hand (except during the fellowship phase), add a [rohan] token here. Each time a minion is exerted by a Free Peoples card, you may remove 2 [rohan] tokens here and exert a valiant companion to wound that minion.",
    "lore": "\"'How shall any tower withstand such numbers and such reckless hate?'\"",
    "versions": [
     {
@@ -2605,7 +2610,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time a [rohan] item or [rohan] ally is discarded or killed, add a [rohan] token here.Each time a minion is exerted by a Free Peoples card, you may remove a [rohan] token here and exert a valiant companion to wound that minion.",
+      "gameText": "Each time a [rohan] item or [rohan] ally is discarded or killed, add a [rohan] token here. Each time a minion is exerted by a Free Peoples card, you may remove a [rohan] token here and exert a valiant companion to wound that minion.",
       "lore": "\"'How shall any tower withstand such numbers and such reckless hate?'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S051.0_card.jpg",
@@ -2622,8 +2627,7 @@
       "unique": true,
       "subtypes": "Support Area",
       "twilight": 1,
-      "block": "None",
-      "gameText": "Each time a [rohan] item or [rohan] ally is killed or discarded from play or from hand (except during the fellowship phase), add a [rohan] token here.\\Each time a minion is exerted by a Free Peoples card, you may remove 2 [rohan] tokens here and exert a valiant companion to wound that minion."
+      "gameText": "Each time a [rohan] item or [rohan] ally is killed or discarded from play or from hand (except during the fellowship phase), add a [rohan] token here. Each time a minion is exerted by a Free Peoples card, you may remove 2 [rohan] tokens here and exert a valiant companion to wound that minion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2E051.1_card.jpg",
      "wikiImage": "LOTR-ENV2S051.1_card.jpg"
@@ -2650,10 +2654,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time a minion is killed, spot 2 valiant companions to add a [rohan] token here.Each time there are 3 [rohan] tokens here, remove all tokens here to play a [rohan] condition or event from your discard pile. The Shadow player may then play a minion from their discard pile.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time a minion is killed, spot 2 valiant companions to add a [rohan] token here. Each time there are 3 [rohan] tokens here, remove all tokens here to play a [rohan] condition or event from your discard pile. The Shadow player may then play a minion from their discard pile.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S052.0",
@@ -2669,7 +2673,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time a minion is killed, spot 2 valiant companions to add a [rohan] token here.Each time there are 3 [rohan] tokens here, remove all tokens here to play a [rohan] condition or event from your discard pile. The Shadow player may then play a minion from their discard pile."
+      "gameText": "Each time a minion is killed, spot 2 valiant companions to add a [rohan] token here. Each time there are 3 [rohan] tokens here, remove all tokens here to play a [rohan] condition or event from your discard pile. The Shadow player may then play a minion from their discard pile."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S052.0_card.jpg",
      "wikiImage": "LOTR-ENV2S052.0_card.jpg"
@@ -2696,9 +2700,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Spot 3 valiant companions to discard your hand. For each Shadow card discarded, exert a minion. For each Free Peoples card discarded, heal a valiant or [rohan] companion. You cannot make any more Maneuver actions.",
    "lore": "\"'The end will not be long,' said the king. 'But I will not end here, taken like an old badger in a trap.'\"",
    "versions": [
@@ -2747,11 +2751,14 @@
    "strength": 3,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Towers",
-   "arrowDirection": "None",
-   "gameText": "To play, spot Theoden (or 3 [rohan] Men).Skirmish: Exert this ally to add his strength to a skirmishing Hobbit and make that Hobbit gain valiant until the regroup phase (limit once per phase).",
+   "arrowDirection": null,
+   "gameText": "To play, spot Theoden (or 3 [rohan] Men). Skirmish: Exert this ally to add his strength to a skirmishing Hobbit and make that Hobbit gain valiant until the regroup phase (limit once per phase).",
    "lore": "\"'It is not as I would have it,' said Théoden; 'for this is little like my fair house in Edoras. And your friend is gone, who should also be here.'\"",
+   "homeSites": [
+    "3T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV2S054.0",
@@ -2770,8 +2777,11 @@
       "signet": "None",
       "block": "Towers",
       "arrowDirection": "None",
-      "gameText": "To play, spot Theoden (or 3 [rohan] Men).Skirmish: Exert this ally to add his strength to a skirmishing Hobbit and make that Hobbit gain valiant until the regroup phase (limit once per phase).",
-      "lore": "\"'It is not as I would have it,' said Théoden; 'for this is little like my fair house in Edoras. And your friend is gone, who should also be here.'\""
+      "gameText": "To play, spot Theoden (or 3 [rohan] Men). Skirmish: Exert this ally to add his strength to a skirmishing Hobbit and make that Hobbit gain valiant until the regroup phase (limit once per phase).",
+      "lore": "\"'It is not as I would have it,' said Théoden; 'for this is little like my fair house in Edoras. And your friend is gone, who should also be here.'\"",
+      "homeSites": [
+       "3T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S054.0_card.jpg",
      "wikiImage": "LOTR-ENV2S054.0_card.jpg"
@@ -2801,12 +2811,12 @@
    "twilight": 3,
    "strength": 6,
    "vitality": 3,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Valiant.Theoden is strength +1 for each other valiant companion assigned to a skirmish.",
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Valiant. Theoden is strength +1 for each other valiant companion assigned to a skirmish.",
    "lore": "\"His beard was laid like snow upon his knees; but his eyes still burned with a bright light, glinting as he gazed...\"",
    "versions": [
     {
@@ -2823,12 +2833,12 @@
       "twilight": 3,
       "strength": 6,
       "vitality": 3,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Theoden",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Valiant.Theoden is strength +1 for each other valiant companion assigned to a skirmish.",
+      "gameText": "Valiant. Theoden is strength +1 for each other valiant companion assigned to a skirmish.",
       "lore": "\"His beard was laid like snow upon his knees; but his eyes still burned with a bright light, glinting as he gazed...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S055.0_card.jpg",
@@ -2856,9 +2866,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot an unassigned valiant companion to have them replace an unbound companion in a skirmish (and make them damage +1 if that unbound companion is Theoden).",
    "lore": "\"'Helm for Théoden King!'\"",
    "versions": [
@@ -2904,10 +2914,10 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) to play up to 2 minions from your draw deck costing (5) or more. If in region 1, this action can be performed from your draw deck.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) to play up to 2 minions from your draw deck costing (5) or more. If in region 1, this action can be performed from your draw deck.",
    "versions": [
     {
      "wikiId": "LOTR-ENV2S057.0",
@@ -2923,7 +2933,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards.Shadow: Spot 18 twilight tokens (or 25 if in region 3) to play up to 2 minions from your draw deck costing (5) or more. If in region 1, this action can be performed from your draw deck."
+      "gameText": "Shadow: Spot your minion and remove (3) to draw 2 cards. Shadow: Spot 18 twilight tokens (or 25 if in region 3) to play up to 2 minions from your draw deck costing (5) or more. If in region 1, this action can be performed from your draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S057.0_card.jpg",
      "wikiImage": "LOTR-ENV2S057.0_card.jpg"
@@ -2950,10 +2960,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot a Wraith.Regroup: Discard two twilight minions to add a burden. The Free Peoples player may wound the Ring-bearer to prevent this.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot a Wraith. Regroup: Discard two twilight minions to add a burden. The Free Peoples player may wound the Ring-bearer to prevent this.",
    "lore": "\"'They lie in all the pools, pale faces, deep deep under the dark water.'\"",
    "versions": [
     {
@@ -2970,7 +2980,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot a Wraith.Regroup: Discard two twilight minions to add a burden. The Free Peoples player may wound the Ring-bearer to prevent this.",
+      "gameText": "To play, spot a Wraith. Regroup: Discard two twilight minions to add a burden. The Free Peoples player may wound the Ring-bearer to prevent this.",
       "lore": "\"'They lie in all the pools, pale faces, deep deep under the dark water.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S058.0_card.jpg",
@@ -3002,10 +3012,10 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Tracker.The site number of each [sauron] orc is -3. Skirmish: Exert Grishnakh to make a skirmishing [sauron] Orc with a site number of 1 or less damage +1.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Tracker. The site number of each [sauron] orc is -3. Skirmish: Exert Grishnakh to make a skirmishing [sauron] Orc with a site number of 1 or less damage +1.",
    "lore": "\"'My dear little fellows, please believe me when I say that it was not out of kindness: that's not even one of Uglúk's faults.'\"",
    "versions": [
     {
@@ -3026,7 +3036,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Tracker.The site number of each [sauron] orc is -3. Skirmish: Exert Grishnakh to make a skirmishing [sauron] Orc with a site number of 1 or less damage +1.",
+      "gameText": "Tracker. The site number of each [sauron] orc is -3. Skirmish: Exert Grishnakh to make a skirmishing [sauron] Orc with a site number of 1 or less damage +1.",
       "lore": "\"'My dear little fellows, please believe me when I say that it was not out of kindness: that's not even one of Uglúk's faults.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S059.0_card.jpg",
@@ -3057,9 +3067,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tracker. If this minion's site number is 1 or less, it is strength +5.",
    "lore": "\"'You're as bad as the other rabble: the maggots and the apes of Lugbúrz.'\"",
    "versions": [
@@ -3111,10 +3121,10 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Twilight.To play, spot a twilight minion.This minion is twilight cost -1 for each burden you can spot.While you can spot 4 burdens, this minion is damage +1.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Twilight. To play, spot a twilight minion. This minion is twilight cost -1 for each burden you can spot. While you can spot 4 burdens, this minion is damage +1.",
    "lore": "\"'The Dead can't be really there! Is it some devilry hatched in the Dark Land?'\"",
    "versions": [
     {
@@ -3134,7 +3144,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Twilight.To play, spot a twilight minion.This minion is twilight cost -1 for each burden you can spot.While you can spot 4 burdens, this minion is damage +1.",
+      "gameText": "Twilight. To play, spot a twilight minion. This minion is twilight cost -1 for each burden you can spot. While you can spot 4 burdens, this minion is damage +1.",
       "lore": "\"'The Dead can't be really there! Is it some devilry hatched in the Dark Land?'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S061.0_card.jpg",
@@ -3162,10 +3172,10 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Search.Make a [Sauron] tracker strength +1 for each search card you can spot (limit +5).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Search. Make a [Sauron] tracker strength +1 for each search card you can spot (limit +5).",
    "lore": "\"'You'll wish there was more that you could tell to satisfy the Questioner, indeed you will: quite soon.'\"",
    "versions": [
     {
@@ -3182,7 +3192,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Search.Make a [Sauron] tracker strength +1 for each search card you can spot (limit +5).",
+      "gameText": "Search. Make a [Sauron] tracker strength +1 for each search card you can spot (limit +5).",
       "lore": "\"'You'll wish there was more that you could tell to satisfy the Questioner, indeed you will: quite soon.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S062.0_card.jpg",
@@ -3213,9 +3223,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tracker. Each [sauron] orc with a site number of 1 or less cannot take wounds except during the skirmish phase.",
    "lore": "\"'Is Saruman the master or the Great Eye?' said the evil voice. 'We should go back at once to Lugbúrz.'\"",
    "versions": [
@@ -3267,10 +3277,10 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Tracker.The site number of each [Sauron] orc is -1.Skirmish: Discard this minion to cancel a skirmish involving an [isengard] tracker.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Tracker. The site number of each [Sauron] orc is -1.Skirmish: Discard this minion to cancel a skirmish involving an [isengard] tracker.",
    "lore": "\"'We'll find a use for your legs before long. You'll wish you had got none before we get home.'\"",
    "versions": [
     {
@@ -3290,7 +3300,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Tracker.The site number of each [Sauron] orc is -1.Skirmish: Discard this minion to cancel a skirmish involving an [isengard] tracker.",
+      "gameText": "Tracker. The site number of each [Sauron] orc is -1.Skirmish: Discard this minion to cancel a skirmish involving an [isengard] tracker.",
       "lore": "\"'We'll find a use for your legs before long. You'll wish you had got none before we get home.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S064.0_card.jpg",
@@ -3318,10 +3328,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot a Wraith.While you can spot 3 twilight minions, twilight minions may not take wounds except during skirmishes.When the ringbearer takes off the One Ring, discard this condition.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot a Wraith. While you can spot 3 twilight minions, twilight minions may not take wounds except during skirmishes. When the ringbearer takes off the One Ring, discard this condition.",
    "lore": "\"'You cannot reach them, you cannot touch them.'\"",
    "versions": [
     {
@@ -3338,7 +3348,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot a Wraith.While you can spot 3 twilight minions, twilight minions may not take wounds except during skirmishes.When the ringbearer takes off the One Ring, discard this condition.",
+      "gameText": "To play, spot a Wraith. While you can spot 3 twilight minions, twilight minions may not take wounds except during skirmishes. When the ringbearer takes off the One Ring, discard this condition.",
       "lore": "\"'You cannot reach them, you cannot touch them.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S065.0_card.jpg",
@@ -3366,9 +3376,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a Wraith to make a twilight minion strength +2. If that minion wins its skirmish you may exert it to add a burden.",
    "lore": "\"Very soon it would nail him down, know just exactly where he was.\"",
    "versions": [
@@ -3414,11 +3424,14 @@
    "unique": false,
    "subtypes": ",",
    "siteNumber": 2,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Towers",
    "shadowNumber": 2,
    "arrowDirection": "Left",
    "gameText": "Mountain. When the fellowship moves from here during the regroup phase, each player may discard 2 cards to draw 2 cards.",
+   "homeSites": [
+    "2T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV2S067.0",
@@ -3432,10 +3445,13 @@
       "subtypes": ",",
       "siteNumber": 2,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "shadowNumber": 2,
       "arrowDirection": "Left",
-      "gameText": "Mountain. When the fellowship moves from here during the regroup phase, each player may discard 2 cards to draw 2 cards."
+      "gameText": "Mountain. When the fellowship moves from here during the regroup phase, each player may discard 2 cards to draw 2 cards.",
+      "homeSites": [
+       "2T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S067.0_card.jpg",
      "wikiImage": "LOTR-ENV2S067.0_card.jpg"
@@ -3462,11 +3478,14 @@
    "unique": false,
    "subtypes": ",",
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Towers",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "Sanctuary. Fellowship: Play a valiant character to draw a card.",
+   "homeSites": [
+    "3T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV2S068.0",
@@ -3480,10 +3499,13 @@
       "subtypes": ",",
       "siteNumber": 3,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "Sanctuary. Fellowship: Play a valiant character to draw a card."
+      "gameText": "Sanctuary. Fellowship: Play a valiant character to draw a card.",
+      "homeSites": [
+       "3T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S068.0_card.jpg",
      "wikiImage": "LOTR-ENV2S068.0_card.jpg"
@@ -3510,11 +3532,14 @@
    "unique": false,
    "subtypes": ",",
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Towers",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Plains. Each mount is twilight cost -1.",
+   "homeSites": [
+    "4T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV2S069.0",
@@ -3528,10 +3553,13 @@
       "subtypes": ",",
       "siteNumber": 4,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Plains. Each mount is twilight cost -1."
+      "gameText": "Plains. Each mount is twilight cost -1.",
+      "homeSites": [
+       "4T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S069.0_card.jpg",
      "wikiImage": "LOTR-ENV2S069.0_card.jpg"
@@ -3558,11 +3586,14 @@
    "unique": false,
    "subtypes": ",",
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Towers",
    "shadowNumber": 6,
    "arrowDirection": "Left",
    "gameText": "Battleground. The count of sites each Shadow player controls is +1.",
+   "homeSites": [
+    "5T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV2S070.0",
@@ -3576,10 +3607,13 @@
       "subtypes": ",",
       "siteNumber": 5,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "shadowNumber": 6,
       "arrowDirection": "Left",
-      "gameText": "Battleground. The count of sites each Shadow player controls is +1."
+      "gameText": "Battleground. The count of sites each Shadow player controls is +1.",
+      "homeSites": [
+       "5T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S070.0_card.jpg",
      "wikiImage": "LOTR-ENV2S070.0_card.jpg"
@@ -3606,11 +3640,14 @@
    "unique": false,
    "subtypes": ",",
    "siteNumber": 7,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Towers",
    "shadowNumber": 6,
    "arrowDirection": "Left",
    "gameText": "Battleground. While you can spot 6 companions, each character is damage +1.",
+   "homeSites": [
+    "7T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV2S071.0",
@@ -3624,10 +3661,13 @@
       "subtypes": ",",
       "siteNumber": 7,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "shadowNumber": 6,
       "arrowDirection": "Left",
-      "gameText": "Battleground. While you can spot 6 companions, each character is damage +1."
+      "gameText": "Battleground. While you can spot 6 companions, each character is damage +1.",
+      "homeSites": [
+       "7T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S071.0_card.jpg",
      "wikiImage": "LOTR-ENV2S071.0_card.jpg"
@@ -3654,11 +3694,14 @@
    "unique": false,
    "subtypes": ",",
    "siteNumber": 8,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Towers",
    "shadowNumber": 8,
    "arrowDirection": "Left",
    "gameText": "When the fellowship moves to this site, each player may discard a card from their opponent's support area.",
+   "homeSites": [
+    "8T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV2S072.0",
@@ -3672,10 +3715,13 @@
       "subtypes": ",",
       "siteNumber": 8,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "shadowNumber": 8,
       "arrowDirection": "Left",
-      "gameText": "When the fellowship moves to this site, each player may discard a card from their opponent's support area."
+      "gameText": "When the fellowship moves to this site, each player may discard a card from their opponent's support area.",
+      "homeSites": [
+       "8T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S072.0_card.jpg",
      "wikiImage": "LOTR-ENV2S072.0_card.jpg"
@@ -3702,11 +3748,14 @@
    "unique": false,
    "subtypes": ",",
    "siteNumber": 9,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "Towers",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Shadow: Exert a minion to play a Shadow possession from your discard pile.",
+   "homeSites": [
+    "9T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV2S073.0",
@@ -3720,10 +3769,13 @@
       "subtypes": ",",
       "siteNumber": 9,
       "signet": "None",
-      "block": "None",
+      "block": "Towers",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Shadow: Exert a minion to play a Shadow possession from your discard pile."
+      "gameText": "Shadow: Exert a minion to play a Shadow possession from your discard pile.",
+      "homeSites": [
+       "9T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S073.0_card.jpg",
      "wikiImage": "LOTR-ENV2S073.0_card.jpg"
@@ -3748,10 +3800,10 @@
    "type": "Map",
    "title": "Path of the Fellowship",
    "unique": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Before the game begins, place this Map in your support area.Your adventure deck must only contain cards from the Fellowship site path.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Before the game begins, place this Map in your support area. Your adventure deck must only contain cards from the Fellowship site path.",
    "lore": "\"'It's a dangerous business, Frodo, going out your door. You step onto the Road, and if you don't keep your feet, there's no knowing where you might be swept off to.\"'",
    "versions": [
     {
@@ -3766,7 +3818,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Before the game begins, place this Map in your support area.Your adventure deck must only contain cards from the Fellowship site path.",
+      "gameText": "Before the game begins, place this Map in your support area. Your adventure deck must only contain cards from the Fellowship site path.",
       "lore": "\"'It's a dangerous business, Frodo, going out your door. You step onto the Road, and if you don't keep your feet, there's no knowing where you might be swept off to.\"'"
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S074.0_card.jpg",
@@ -3792,10 +3844,10 @@
    "type": "Map",
    "title": "Road to the Towers",
    "unique": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Before the game begins, place this Map in your support area.Your adventure deck must only contain cards from the Towers site path.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Before the game begins, place this Map in your support area. Your adventure deck must only contain cards from the Towers site path.",
    "lore": "\"'Faithless is he that says farewell when the road darkens.'\"",
    "versions": [
     {
@@ -3810,7 +3862,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Before the game begins, place this Map in your support area.Your adventure deck must only contain cards from the Towers site path.",
+      "gameText": "Before the game begins, place this Map in your support area. Your adventure deck must only contain cards from the Towers site path.",
       "lore": "\"'Faithless is he that says farewell when the road darkens.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S075.0_card.jpg",
@@ -3836,10 +3888,10 @@
    "type": "Map",
    "title": "Journey of the King",
    "unique": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Before the game begins, place this Map in your support area.Your adventure deck must only contain cards from the King site path.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Before the game begins, place this Map in your support area. Your adventure deck must only contain cards from the King site path.",
    "lore": "\"'Tall ships and tall kings / Three times three,\\What brought they from the foundered land /\\Over the flowing sea?\\Seven stars and seven stones / And one white tree.'\"",
    "versions": [
     {
@@ -3854,7 +3906,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Before the game begins, place this Map in your support area.Your adventure deck must only contain cards from the King site path.",
+      "gameText": "Before the game begins, place this Map in your support area. Your adventure deck must only contain cards from the King site path.",
       "lore": "\"'Tall ships and tall kings / Three times three,\\What brought they from the foundered land /\\Over the flowing sea?\\Seven stars and seven stones / And one white tree.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2S076.0_card.jpg",
@@ -3884,10 +3936,10 @@
    "subtypes": "Staff",
    "twilight": 2,
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be Gandalf.\\Discard any weapon he bears.\\Response: If Gandalf is exerted by a Free Peoples card, heal him (limit once per turn).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be Gandalf. Discard any weapon he bears. Response: If Gandalf is exerted by a Free Peoples card, heal him (limit once per turn).",
    "lore": "\"'The staff in the hand of a wizard may be more than a prop for age.'\"",
    "versions": [
     {
@@ -3925,8 +3977,7 @@
       "subtypes": "Staff",
       "twilight": 2,
       "vitalityMod": "+1",
-      "block": "None",
-      "gameText": "Bearer must be Gandalf.\\Discard any weapon he bears.\\Response: If Gandalf is exerted by a Free Peoples card, heal him (limit once per turn)."
+      "gameText": "Bearer must be Gandalf. Discard any weapon he bears. Response: If Gandalf is exerted by a Free Peoples card, heal him (limit once per turn)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v02/LOTR-ENV2E077.1_card.jpg",
      "wikiImage": "LOTR-ENV2S077.1_card.jpg"

@@ -16,9 +16,9 @@
    "title": "Beneath the Mountains",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tale. Plays to your support area. Fellowship: Discard the top 3 cards from your draw deck to play a [DWARVEN] weapon from your discard pile.",
    "lore": "“‘There forged was blade, and bound was hilt; / The delver mined, the mason built.'”",
    "versions": [
@@ -49,7 +49,7 @@
      "batch": "pc-2023-01-11",
      "fields": {
       "unique": false,
-      "block": "None",
+      "subtypes": "Support Area",
       "gameText": "Tale. Fellowship: Discard the top 3 cards from your draw deck to play a [DWARVEN] weapon from your discard pile. Fellowship: Spot a Dwarf to discard the top 3 cards from your draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E001.1_card.jpg",
@@ -180,9 +180,9 @@
    "title": "Disquiet of Our People",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert a Dwarf to make that Dwarf defender +1 (or defender +2 if you spot an Orc) until the regroup phase.",
    "lore": "“‘Ah, alas!...When will the day come of our revenge?'”",
    "versions": [
@@ -331,9 +331,9 @@
    "subtypes": "Bracers",
    "twilight": 1,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a Dwarf. Response: If bearer is about to take a wound, discard this possession to prevent that wound.",
    "lore": "Dwarven-smiths forge bracers for fit and agility.",
    "versions": [
@@ -493,9 +493,9 @@
    "unique": false,
    "twilight": 1,
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a Dwarf. Skirmish: Discard this condition to make bearer strength +1.",
    "lore": "“‘Dwarves too can go swiftly, and they do not tire sooner than Orcs.'”",
    "versions": [
@@ -643,9 +643,9 @@
    "title": "Flurry of Blows",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Make a Dwarf strength +2 (or +4 and damage +1 if bearing 2 hand weapons).",
    "lore": "With a second axe, a warrior of Erebor can parry on either flank and counter quickly.",
    "versions": [
@@ -796,10 +796,11 @@
    "twilight": 2,
    "strength": 5,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a Dwarf. While skirmishing an Uruk-hai, Fror is strength +3.",
    "lore": "“It appeared that amid the splendour of their works of hand the hearts of the Dwarves of the Lonely Mountain were troubled.”",
    "versions": [
@@ -817,6 +818,7 @@
       "twilight": 2,
       "strength": 5,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -834,9 +836,7 @@
      "releaseDate": "2021-12-19",
      "batch": "pc-2021-12-19",
      "fields": {
-      "unique": false,
-      "strength": 6,
-      "block": "None"
+      "strength": 6
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E006.1_card.jpg",
      "wikiImage": "LOTR-EN02S006.1_card.jpg"
@@ -970,10 +970,11 @@
    "twilight": 2,
    "strength": 5,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "For each [DWARVEN] tale you can spot, Gloin is strength +1 (limit +4).",
    "lore": "“‘But what then would happen, if the Ruling Ring were destroyed, as you counsel?'”",
    "versions": [
@@ -991,6 +992,7 @@
       "twilight": 2,
       "strength": 5,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -1008,9 +1010,7 @@
      "releaseDate": "2021-12-19",
      "batch": "pc-2021-12-19",
      "fields": {
-      "unique": false,
-      "strength": 6,
-      "block": "None"
+      "strength": 6
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E007.1_card.jpg",
      "wikiImage": "LOTR-EN02S007.1_card.jpg"
@@ -1140,9 +1140,9 @@
    "title": "Golden Light on the Land",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a Dwarf. Plays to your support area. At a site which is not underground, each [MORIA] Orc's twilight cost is +2. Discard this condition during the regroup phase.",
    "lore": "“‘The Orcs will not, maybe, come out till after dusk, but we must be far away before nightfall.'”",
    "versions": [
@@ -1289,9 +1289,9 @@
    "title": "Great Works Begun There",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tale. Plays to your support area. Each time you play a Dwarf, you may discard the top 2 cards from your draw deck to take a [DWARVEN] event into hand from your discard pile.",
    "lore": "“‘Moria! Moria!... Long have its vast mansions lain empty since the children of Durin fled.'”",
    "versions": [
@@ -1440,9 +1440,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 0,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a Dwarf. This weapon may be borne in addition to 1 other hand weapon. Archery: Discard this weapon to make the fellowship archery total +1.",
    "lore": "Their captain rallied two other orcs to attack. In answer, Gimli's side axe brought him down.",
    "versions": [
@@ -1591,9 +1591,9 @@
    "title": "Make Light of Burdens",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Plays to your support area. Maneuver: Exert a Dwarf companion and discard the top 3 cards from your draw deck to discard either a Shadow condition from a Dwarf or a weather condition.",
    "lore": "A Dwarf does not readily notice the weight on his back, or in his heart.",
    "versions": [
@@ -1627,7 +1627,6 @@
       "unique": false,
       "subtypes": "Support Area",
       "twilight": 1,
-      "block": "None",
       "gameText": "Maneuver: Exert a Dwarf and hinder an item borne by that Dwarf to hinder a Shadow condition (if that condition is a weather or borne by a Dwarf, discard it instead)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E011.1_card.jpg",
@@ -1758,9 +1757,9 @@
    "title": "Realm of Dwarrowdelf",
    "unique": true,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Plays to your support area. Skirmish: Discard the top 3 cards from your draw deck to make a Dwarf strength +1 (limit +3) and, if underground, damage +1 (limit +3).",
    "lore": "“‘There must have been a mighty crowd of dwarves here... and every one of them busier than badgers....'”",
    "versions": [
@@ -1790,8 +1789,6 @@
      "releaseDate": "2023-01-11",
      "batch": "pc-2023-01-11",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Plays to your support area. Skirmish: Discard the top 3 cards from your draw deck to make a Dwarf strength +1 (limit +3) and, if underground, damage +1 (limit +3). You may then discard up to 30 cards from your draw deck 3 at a time."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E012.1_card.jpg",
@@ -1922,9 +1919,9 @@
    "title": "Tidings of Erebor",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: Spot a Dwarf to draw 3 cards. Any Shadow player may remove (3) to prevent this.",
    "lore": "“‘...we have so far been fortunate, though we do not escape the shadow of these times.'”",
    "versions": [
@@ -2071,9 +2068,9 @@
    "title": "Till Durin Wakes Again",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tale. Plays to your support area. Each time a Dwarf companion moves from an underground site, you may heal that Dwarf.",
    "lore": "“Gimli was silent. Having sung his song, he would say no more.”",
    "versions": [
@@ -2220,9 +2217,9 @@
    "title": "What Are We Waiting For?",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship: Exert a Dwarf to make an opponent draw 2 cards. That player then chooses to either discard 2 Shadow cards from hand or skip his or her next Shadow phase.",
    "versions": [
     {
@@ -2367,9 +2364,9 @@
    "title": "A Blended Race",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot an Elf. Plays to your support area. Each Uruk-hai is strength -2 and loses all damage bonuses. Discard this condition during the regroup phase.",
    "lore": "“‘...he has been doing something to them.... For these Isengarders are more like wicked Men.'”",
    "versions": [
@@ -2516,9 +2513,9 @@
    "title": "Dismay Our Enemies",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If an Elf archer wins a skirmish, make an opponent choose a minion to discard. That opponent may remove (3) to prevent this.",
    "lore": "Reeling from the bite of an arrow, the Cave Troll became enraged trying to strike the nimble Elf.",
    "versions": [
@@ -2665,9 +2662,9 @@
    "title": "Hosts of the Last Alliance",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tale. Plays to your support area. While you can spot an Elf companion, the minion archery total is -1. Response: If an Elf is about to take a wound, discard this condition to prevent that wound.",
    "lore": "“‘...many great princes and captains were assembled.'”",
    "versions": [
@@ -2814,9 +2811,9 @@
    "title": "Release the Angry Flood",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert an Elf to wound each Nazgul once (or twice if at a river).",
    "lore": "“The three Riders that were still in the midst of the Ford were overwhelmed.... Their piercing cries were drowned in the roaring of the river as it carried them away.”",
    "versions": [
@@ -2963,9 +2960,9 @@
    "title": "Secret Sentinels",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert an Elf ally to discard a condition (or 2 conditions if you spot an Orc).",
    "lore": "“‘Yet so little faith and trust do we find now in the world beyond Lothlórien... that we dare not by our own trust endanger our land.'”",
    "versions": [
@@ -2999,7 +2996,6 @@
       "unique": false,
       "subtypes": "Maneuver",
       "twilight": 2,
-      "block": "None",
       "gameText": "Exert an Elf ally to discard a condition. If you can spot an Orc, you may exert another Elf ally to discard another condition."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E020.1_card.jpg",
@@ -3016,7 +3012,6 @@
       "unique": false,
       "subtypes": "Maneuver",
       "twilight": 2,
-      "block": "None",
       "gameText": "Exert an Elf ally to discard a condition (and hinder another Shadow condition if you can spot an Orc)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E020.2_card.jpg",
@@ -3152,11 +3147,14 @@
    "strength": 5,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "To play, spot Gandalf. Shadow players may not look at or reveal cards in your hand.",
    "lore": "“‘They are good folk the Bardings. The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard.'”",
+   "homeSites": [
+    "3"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S021.0",
@@ -3177,7 +3175,10 @@
       "block": "Fellowship",
       "arrowDirection": "None",
       "gameText": "To play, spot Gandalf. Shadow players may not look at or reveal cards in your hand.",
-      "lore": "“‘They are good folk the Bardings. The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard.'”"
+      "lore": "“‘They are good folk the Bardings. The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard.'”",
+      "homeSites": [
+       "3"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02021.jpg",
      "wikiImage": "LOTR-EN02S021.0_card.jpg"
@@ -3308,9 +3309,9 @@
    "subtypes": "Staff",
    "twilight": 2,
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Gandalf. The twilight cost of each [GANDALF] spell is -1. Skirmish: Exert Gandalf twice to cancel a skirmish involving him.",
    "lore": "“As the wizard passed on ahead up the great steps, he held his staff aloft, and from its tip there came a faint radiance.”",
    "versions": [
@@ -3461,9 +3462,9 @@
    "title": "Gandalf's Wisdom",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Plays to your support area. The twilight cost of each possession or artifact played on Gandalf or a character who has the Gandalf signet is -1.",
    "lore": "“Now as the companions sat or walked together they spoke of Gandalf, and all that each had known and seen of him came clear before their minds.”",
    "versions": [
@@ -3615,11 +3616,14 @@
    "strength": 4,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "To play, spot Gandalf. Fellowship: Exert Hugin to reveal a Free Peoples card from your discard pile and place it beneath your draw deck.",
    "lore": "Several wise Bardings were sent to Elrond to tell of the Dark Lord's new offer.",
+   "homeSites": [
+    "3"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S024.0",
@@ -3640,7 +3644,10 @@
       "block": "Fellowship",
       "arrowDirection": "None",
       "gameText": "To play, spot Gandalf. Fellowship: Exert Hugin to reveal a Free Peoples card from your discard pile and place it beneath your draw deck.",
-      "lore": "Several wise Bardings were sent to Elrond to tell of the Dark Lord's new offer."
+      "lore": "Several wise Bardings were sent to Elrond to tell of the Dark Lord's new offer.",
+      "homeSites": [
+       "3"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02024.jpg",
      "wikiImage": "LOTR-EN02S024.0_card.jpg"
@@ -3774,11 +3781,14 @@
    "strength": 4,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "To play, spot Gandalf. Each time you play a shield, armor, helm, or hand weapon, its twilight cost is -1.",
    "lore": "The Men of Dale freely traded with the Dwarves of the Lonely Mountain for fine metalwork.",
+   "homeSites": [
+    "3"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S025.0",
@@ -3799,7 +3809,10 @@
       "block": "Fellowship",
       "arrowDirection": "None",
       "gameText": "To play, spot Gandalf. Each time you play a shield, armor, helm, or hand weapon, its twilight cost is -1.",
-      "lore": "The Men of Dale freely traded with the Dwarves of the Lonely Mountain for fine metalwork."
+      "lore": "The Men of Dale freely traded with the Dwarves of the Lonely Mountain for fine metalwork.",
+      "homeSites": [
+       "3"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02025.jpg",
      "wikiImage": "LOTR-EN02S025.0_card.jpg"
@@ -3928,9 +3941,9 @@
    "title": "Speak “Friend” and Enter",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship or Regroup: Spot Gandalf to play the fellowship's next site (replacing opponent's site if necessary). Draw a card if you play an underground site.",
    "lore": "“Picking up his staff he stood before the rock and said in a clear voice: Mellon!”",
    "versions": [
@@ -4077,9 +4090,9 @@
    "title": "Staff Asunder",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spell. Skirmish: Discard a staff Gandalf is bearing and then exert him twice to discard a minion he is skirmishing.",
    "lore": "“At that moment Gandalf lifted his staff, and crying aloud he smote the bridge before him.”",
    "versions": [
@@ -4226,9 +4239,9 @@
    "title": "Wielder of the Flame",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spell. Maneuver: Spot Gandalf to make a companion defender +1 until the regroup phase. Any Shadow player may remove (3) to prevent this.",
    "lore": "“The Balrog made no answer. The fire in it seemed to die, but the darkness grew.”",
    "versions": [
@@ -4377,9 +4390,9 @@
    "subtypes": "Staff",
    "twilight": 2,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a Wizard. Skirmish: Exert bearer twice to make a minion strength -3.",
    "lore": "“‘We must have power – power to order things as we will for that Good which only the Wise can see.'”",
    "versions": [
@@ -4537,9 +4550,9 @@
    "title": "You Cannot Pass!",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spell. Maneuver: Spot Gandalf bearing a staff to prevent a minion from being fierce until the regroup phase.",
    "lore": "“The Balrog fell back and its sword flew up in molten fragments. The wizard swayed on the bridge, stepped back a pace, and then again stood still.”",
    "versions": [
@@ -4686,9 +4699,9 @@
    "title": "Blood of Númenor",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, exert a [GONDOR] companion. Plays to your support area. Each [SAURON] Orc comes into play exhausted. Skip the archery phase. Discard this condition during the regroup phase.",
    "lore": "“‘I do not know what strength is in my blood, but I swear to you – I will not let the White City fall....'”",
    "versions": [
@@ -4837,9 +4850,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 0,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a Man. This weapon may be borne in addition to 1 other hand weapon. Bearer is strength +2 and damage +1 while skirmishing a Nazgul.",
    "lore": "“...a glimpse of Strider leaping out of the darkness with a flaming brand of wood in either hand.”",
    "versions": [
@@ -4871,9 +4884,7 @@
      "releaseDate": "2021-04-11",
      "batch": "pc-2021-04-11",
      "fields": {
-      "unique": false,
       "twilight": 1,
-      "block": "None",
       "gameText": "Bearer must be a ranger. This weapon may be borne in addition to 1 other hand weapon. Skirmish: If bearer is skirmishing a Nazgul, discard this possession to make bearer strength +3 and damage +2."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02S032.1_card.jpg",
@@ -4887,7 +4898,6 @@
      "batch": "pc-2023-01-11",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Bearer must be a ranger. This weapon may be borne in addition to 1 other hand weapon. Skirmish: Make bearer strength +2 and damage +1 while bearing this item and skirmishing a Nazgul until the regroup phase (limit once per turn). Discard this possession at the start of the regroup phase."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E032.2_card.jpg",
@@ -5018,9 +5028,9 @@
    "title": "Flee in Terror",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If a [GONDOR] companion wins a skirmish, discard an exhausted Orc. That minion's owner may remove (3) to prevent this.",
    "lore": "“Aragorn smote to the ground the captain that stood in his path, and the rest fled in terror of his wrath.”",
    "versions": [
@@ -5167,9 +5177,9 @@
    "title": "Gondor Will See It Done",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If a companion is about to take a wound, exert a [GONDOR] companion to prevent that wound.",
    "lore": "“‘Boromir!... Go after those two young hobbits, and guard them at the least, even if you cannot find Frodo.'”",
    "versions": [
@@ -5316,9 +5326,9 @@
    "title": "Natural Cover",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a ranger. Plays to your support area. While the fellowship is at a forest, the minion archery total is -2.",
    "lore": "The tree, the bough, the leaf. To a ranger, these are all defenses against the enemy.",
    "versions": [
@@ -5465,9 +5475,9 @@
    "title": "No Mere Ranger",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert Aragorn to make another companion strength +2 (or +3 if that companion has the Aragorn signet).",
    "lore": "“‘If by my life or death, I can protect you, I will....'”",
    "versions": [
@@ -5614,9 +5624,9 @@
    "title": "Sentinels of Númenor",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Make a [GONDOR] companion strength +2 (or +4 if in a fierce skirmish).",
    "lore": "“...they still preserved through the suns and rains of forgotten years the mighty likenesses in which they had been hewn.”",
    "versions": [
@@ -5764,9 +5774,9 @@
    "unique": true,
    "subtypes": "Shield",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [GONDOR] companion. The minion archery total is -1. If bearer is Boromir, each minion skirmishing him does not gain strength bonuses from weapons.",
    "lore": "Boromir bore the heirlooms of the Steward's house with pride.",
    "versions": [
@@ -5801,8 +5811,7 @@
       "unique": true,
       "subtypes": "Shield",
       "twilight": 1,
-      "block": "None",
-      "gameText": "Bearer must be a [gondor] companion.<br>The minion archery total is -1.<br>If bearer is Boromir, each minion skirmishing him does not gain strength bonuses from weapons.\\Skirmish: If bearer is Boromir, discard this to make him take no wounds."
+      "gameText": "Bearer must be a [gondor] companion. The minion archery total is -1. If bearer is Boromir, each minion skirmishing him does not gain strength bonuses from weapons. Skirmish: If bearer is Boromir, discard this to make him take no wounds."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E038.1_card.jpg",
      "wikiImage": "LOTR-EN02S038.1_card.jpg"
@@ -5932,9 +5941,9 @@
    "title": "Beyond the Height of Men",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert an Uruk-hai to discard an armor possession, helm possession, or shield possession (or all such Free Peoples possessions if you can spot 6 companions).",
    "lore": "“‘Whom do you serve?'”",
    "versions": [
@@ -5965,7 +5974,7 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
+      "subtypes": "Maneuver",
       "gameText": "Exert an Uruk-hai to discard a Free Peoples armor, helm, or shield. Hinder up to 4 Free Peoples possessions if you can spot 6 companions or 8 [ISENGARD] cards."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E039.1_card.jpg",
@@ -6096,9 +6105,9 @@
    "title": "Demands of the Sackville-Bagginses",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot an [ISENGARD] minion. Plays to your support area. Each time a [SHIRE] ally exerts, add (1).",
    "lore": "“In the middle of the commotion, the Sackville-Bagginses arrived.”",
    "versions": [
@@ -6132,8 +6141,7 @@
       "unique": false,
       "subtypes": "Support Area",
       "twilight": 1,
-      "block": "None",
-      "gameText": "To play, spot an [isengard] minion. <br>Each time an ally exerts, add (1) (or (2) if that ally is [shire])."
+      "gameText": "To play, spot an [isengard] minion. Each time an ally exerts, add (1) (or (2) if that ally is [shire])."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E040.1_card.jpg",
      "wikiImage": "LOTR-EN02S040.1_card.jpg"
@@ -6263,9 +6271,9 @@
    "title": "Evil Afoot",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Exert an Uruk-hai and spot X burdens to shuffle X minions from your discard pile into your draw deck.",
    "lore": "“‘It is not the Eastern Shore I am worried about. A shadow and a threat has been growing in my mind. Something draws near, I can feel it.'”",
    "versions": [
@@ -6416,9 +6424,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Discard this minion if underground. Shadow: Exert this minion to look at the Free Peoples player's hand.",
    "lore": "“‘He looks more than half like a goblin.'”",
    "versions": [
@@ -6571,9 +6579,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Lurtz. He is damage +1. Each time Lurtz wins a skirmish, the Free Peoples player must discard the top 2 cards of his or her draw deck.",
    "lore": "The Uruk giant laid down his bow and drew a broad-bladed weapon.",
    "versions": [
@@ -6605,8 +6613,6 @@
      "releaseDate": "2023-01-11",
      "batch": "pc-2023-01-11",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Bearer must be a unique Uruk-hai. If bearer is Lurtz, he is damage +1. Each time bearer wins a skirmish, the Free Peoples player must wound a companion or discard the top 3 cards of their draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E043.1_card.jpg",
@@ -6737,9 +6743,9 @@
    "title": "No Business of Ours",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot an [ISENGARD] minion. Plays to your support area. The Free Peoples player may not look at or reveal cards in any Shadow player's hand.",
    "lore": "“‘Goblins? Cobblers! Far-off tales and children's stories, that's all that is!'”",
    "versions": [
@@ -6769,9 +6775,8 @@
      "releaseDate": "2023-01-11",
      "batch": "pc-2023-01-11",
      "fields": {
-      "unique": false,
+      "subtypes": "Support Area",
       "twilight": 3,
-      "block": "None",
       "gameText": "While you can spot an [ISENGARD] minion, this card is twilight cost -3. The Free Peoples player may not look at or reveal cards in any Shadow player's hand."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E044.1_card.jpg",
@@ -6902,9 +6907,9 @@
    "title": "Too Much Attention",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If the Ring-bearer puts on The One Ring, spot an [ISENGARD] minion to make the Free Peoples player discard the top 5 cards of his or her draw deck.",
    "lore": "“‘A little more caution from you – that is not a trinket you carry.'”",
    "versions": [
@@ -6935,7 +6940,7 @@
      "batch": "pc-2023-01-11",
      "fields": {
       "unique": false,
-      "block": "None",
+      "subtypes": "Response",
       "gameText": "If the Ring-bearer puts on The One Ring, spot an [ISENGARD] minion to take a minion into hand from your draw deck. The Free Peoples player may discard the top 5 cards of their draw deck to prevent this."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E045.1_card.jpg",
@@ -7070,9 +7075,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Damage +1. Shadow: Remove (1) and exert Uruk Captain to play an Uruk-hai from your discard pile.",
    "lore": "The captains marched the Uruk-hai to the great river without halting.",
    "versions": [
@@ -7107,7 +7112,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Damage +1. Shadow: Remove (1) and exert an Uruk-hai to play an Uruk-hai from your discard pile."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E046.1_card.jpg",
@@ -7121,7 +7125,6 @@
      "batch": "pc-2026-09-27",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Damage +1. Shadow: Remove (1) and exert a unique Uruk-hai to play an Uruk-hai from your discard pile."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E046.2_card.jpg",
@@ -7256,9 +7259,9 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tracker. Damage +1. The roaming penalty for each [ISENGARD] minion you play is -1. Response: If an event is played that spots or exerts a ranger, exert this minion to cancel that event.",
    "lore": "Forward Uruk troops caught the fellowship unaware.",
    "versions": [
@@ -7409,9 +7412,9 @@
    "title": "Wizard Storm",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spell. Weather. To play, exert an [ISENGARD] minion. Plays on a site. Limit 1 per site. When the fellowship moves from this site, every companion must exert. Discard this condition at the end of the turn.",
    "lore": "“There was a black look in the sky, and the sun was wan. The wind had gone now round to the north-east.”",
    "versions": [
@@ -7562,9 +7565,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Archer. Each other [MORIA] archer is strength +2.",
    "lore": "Their commander led the Goblin bowmen to the highest rise across the gap.",
    "versions": [
@@ -7717,9 +7720,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+3",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be The Balrog. It is damage +1. This weapon may be borne in addition to 1 other hand weapon.",
    "lore": "“In its right hand was a blade like a stabbing tongue of fire....”",
    "versions": [
@@ -7882,9 +7885,9 @@
    "strength": 17,
    "vitality": 5,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Damage +1. Fierce. While you can spot The Balrog, discard all other minions. Skip the archery phase. Discard The Balrog if not underground.",
    "lore": "“‘Indeed I saw upon the bridge that which haunts our darkest dreams....'”",
    "versions": [
@@ -8055,9 +8058,9 @@
    "strength": 17,
    "vitality": 5,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Damage +1. Fierce. To play, spot a [MORIA] Orc. Discard The Balrog if not underground. Shadow: Exert The Balrog and remove (2) to play a [MORIA] Orc from your discard pile.",
    "lore": "“...suddenly it drew itself up to a great height, and its wings were spread from wall to wall....”",
    "versions": [
@@ -8225,9 +8228,9 @@
    "unique": true,
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Cave Troll of Moria. The Free Peoples player may choose for the archery phase to be skipped. Each time Cave Troll of Moria takes a wound during the archery phase, you may wound an archer companion.",
    "lore": "“‘They have a Cave Troll!'”",
    "versions": [
@@ -8376,9 +8379,9 @@
    "unique": false,
    "twilight": 1,
    "strengthMod": "-2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot The Balrog. Plays on Gandalf. Each time the fellowship moves, Gandalf must exert.",
    "lore": "“...he seemed small, and altogether alone: grey and bent, like a wizened tree before the onset of a storm.”",
    "versions": [
@@ -8526,9 +8529,9 @@
    "title": "Dark Places",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Plays to your support area. Each unique [MORIA] minion is strength +1. Shadow: Spot an opponent's site to replace it with your marsh or underground site of the same number.",
    "lore": "“‘There is some new devilry here... devised for our welcome, no doubt.'”",
    "versions": [
@@ -8675,9 +8678,9 @@
    "title": "Fill With Fear",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Plays to your support area. While you can spot The Balrog, skip the archery phase. Maneuver: Exert The Balrog to discard a ranged weapon.",
    "lore": "“He drew, but his hand fell, and the arrow slipped to the ground. He gave a cry of dismay and fear.”",
    "versions": [
@@ -8824,9 +8827,9 @@
    "title": "Final Cry",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If a skirmish that involved The Balrog bearing Whip of Many Thongs is about to end, wound a companion in that skirmish twice.",
    "lore": "“...it swung its whip, and the thongs lashed and curled about the wizard's knees, dragging him to the brink.”",
    "versions": [
@@ -8977,9 +8980,9 @@
    "strength": 4,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tentacle. When you play this minion, you may play a tentacle from your draw deck. This minion may not bear possessions and is discarded if not at a marsh.",
    "lore": "“Its fingered end had hold of Frodo's foot, and was dragging him into the water.”",
    "versions": [
@@ -9130,9 +9133,9 @@
    "title": "Foul Things",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Play a [MORIA] minion from your discard pile.",
    "lore": "“‘Something has crept, or has been driven out of dark waters under the mountains.'”",
    "versions": [
@@ -9163,7 +9166,6 @@
      "batch": "pc-2023-01-11",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Shadow: Play a [MORIA] card from your discard pile."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E059.1_card.jpg",
@@ -9298,9 +9300,9 @@
    "strength": 4,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Archer.",
    "lore": "The crude arrows of the Goblins served notice of the dangers of Moria.",
    "versions": [
@@ -9455,9 +9457,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play this minion, you may add (3) if the fellowship has moved more than once this turn.",
    "lore": "“‘There are Orcs, very many of them.... And some are large and evil....'”",
    "versions": [
@@ -9612,9 +9614,9 @@
    "strength": 6,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If the fellowship has moved more than once this turn, this minion is strength +3.",
    "lore": "Had the fellowship remained in Dimrill Dale, pursuers from Moria would have overwhelmed them.",
    "versions": [
@@ -9769,9 +9771,9 @@
    "strength": 8,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play this minion, you may heal a [MORIA] minion.",
    "lore": "“‘We don't have a moment! Come nightfall these hills will swarm with Orcs!'”",
    "versions": [
@@ -9926,9 +9928,9 @@
    "strength": 4,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play this minion, you may discard an [ELVEN] condition. The roaming penalty for each [MORIA] Orc you play is -1.",
    "lore": "“Orcs were as keen as hounds on a scent, it was said, but they could also climb.”",
    "versions": [
@@ -10083,9 +10085,9 @@
    "strength": 6,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While bearing a Goblin Spear, this minion is damage +2.",
    "lore": "“...with the speed of a striking snake, he charged into the Company and thrust with his spear....”",
    "versions": [
@@ -10240,9 +10242,9 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tentacle. Damage +1. When you play this minion, you may play Watcher in the Water from your draw deck. This minion may not bear possessions and is discarded if not at a marsh.",
    "lore": "“Out from the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet.”",
    "versions": [
@@ -10397,9 +10399,9 @@
    "strength": 8,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Archer. While you can spot another [MORIA] archer, add 1 to the minion archery total.",
    "lore": "Most of the Goblin arrows flew harmlessly into the chasm, but there were so many!",
    "versions": [
@@ -10550,9 +10552,9 @@
    "title": "Must Do Without Hope",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert The Balrog to add a burden.",
    "lore": "“His enemy halted again, facing him, and the shadow about it reached out like two vast wings.”",
    "versions": [
@@ -10699,9 +10701,9 @@
    "title": "Old Differences",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Make an Elf or Dwarf skirmishing a [MORIA] Orc strength -1 (or -3 if you spot an Elf and a Dwarf).",
    "lore": "“‘I'll be dead before I see the Ring in the hands of an Elf!'”",
    "versions": [
@@ -10848,9 +10850,9 @@
    "title": "Power and Terror",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Reveal any number of [MORIA] Orcs from your hand to play The Balrog. Its twilight cost is -2 for each Orc revealed.",
    "lore": "“The ranks of the orcs had opened, and they crowded away, as if they themselves were afraid.”",
    "versions": [
@@ -10997,9 +10999,9 @@
    "title": "Throw Yourself in Next Time",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [MORIA] Orc. Plays on a Hobbit companion. Bearer may be exerted only by Shadow cards.",
    "lore": "“‘This is a serious journey, not a hobbit walking-party....Now be quiet!'”",
    "versions": [
@@ -11146,9 +11148,9 @@
    "title": "Troubled Mountains",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Exert a [MORIA] minion and spot X burdens to add (X) (limit (5)).",
    "lore": "“‘The Dimrill Dale is full of vapour and clouds of smoke....There are noises in the deeps of the earth.'”",
    "versions": [
@@ -11300,9 +11302,9 @@
    "strength": 11,
    "vitality": 4,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Damage +1. While you can spot Watcher in the Water, discard all other minions (except tentacles). Each tentacle is strength +2 and damage +1. This minion may not bear possessions and is discarded if not at a marsh.",
    "lore": "“The dark water boiled... there was a hideous stench.”",
    "versions": [
@@ -11462,9 +11464,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be The Balrog. Skirmish: Exert The Balrog to discard a helm, shield, or armor borne by a character The Balrog is skirmishing.",
    "lore": "“It raised the whip, and the thongs whined and cracked.”",
    "versions": [
@@ -11627,9 +11629,9 @@
    "strength": 4,
    "vitality": 1,
    "siteNumber": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Nazgul are not roaming. The Free Peoples player may not assign a character to skirmish Bill Ferny. Discard Bill Ferny if underground.",
    "lore": "“‘...as for Ferny, he would sell anything to anybody; or make mischief for amusement.'”",
    "versions": [
@@ -11664,8 +11666,6 @@
      "releaseDate": "2021-03-28",
      "batch": "pc-2021-03-28",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Nazgul are not roaming. While you can spot a Hobbit, the Free Peoples player may not assign a character to skirmish Bill Ferny. Discard Bill Ferny if underground."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02S075.1_card.jpg",
@@ -11800,9 +11800,9 @@
    "title": "Helpless",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot Frodo and a Nazgul. Plays on Sam. Sam's game text does not apply.",
    "lore": "“He heard Frodo's voice, but it seemed to come from a great distance, or from under the earth, crying out strange words.”",
    "versions": [
@@ -11836,7 +11836,6 @@
       "unique": false,
       "subtypes": "Support Area",
       "twilight": 1,
-      "block": "None",
       "gameText": "Bearer's special abilities cannot be used. Maneuver: Exert a non-enduring Nazgul to transfer this to a Ring-bound companion. Response: If a burden is removed, spot or reveal a Nazgul from hand to transfer this to a Ring-bound companion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E076.1_card.jpg",
@@ -11852,7 +11851,6 @@
       "title": "Helpless",
       "unique": false,
       "twilight": 0,
-      "block": "None",
       "gameText": "To play, spot a Nazgul. Plays on Sam. Bearer's special abilities may not be used."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E076.2_card.jpg",
@@ -11869,7 +11867,6 @@
       "unique": false,
       "subtypes": "Support Area",
       "twilight": 1,
-      "block": "None",
       "gameText": "Bearer's special abilities cannot be used. Maneuver: If this is in your support area, exert a Nazgul to transfer this to a Ring-bound companion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E076.3_card.jpg",
@@ -12000,9 +11997,9 @@
    "title": "His Terrible Servants",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Plays to your support area. Response: If a twilight Nazgul is about to take a wound, remove (1) to prevent that wound.",
    "lore": "“‘...in the dark they perceive many signs and forms that are hidden from us: then they are most to be feared.'”",
    "versions": [
@@ -12149,9 +12146,9 @@
    "title": "It Wants to be Found",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Spot a twilight Nazgul to add a burden.",
    "lore": "“...perhaps it had tried to reveal itself in response to some wish or command that was felt in the room.”",
    "versions": [
@@ -12298,10 +12295,10 @@
    "title": "Resistance Becomes Unbearable",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Maneuver: Exert a twilight Nazgul to exert the Ring-bearer.If the Ring-bearer is then exhausted, he puts on The One Ring until the regroup phase.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Maneuver: Exert a twilight Nazgul to exert the Ring-bearer. If the Ring-bearer is then exhausted, he puts on The One Ring until the regroup phase.",
    "lore": "“Not with the hope of escape, or of doing anything, either good or bad: he simply felt that he must take the Ring and put it on his finger.”",
    "versions": [
     {
@@ -12317,7 +12314,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Maneuver: Exert a twilight Nazgul to exert the Ring-bearer.If the Ring-bearer is then exhausted, he puts on The One Ring until the regroup phase.",
+      "gameText": "Maneuver: Exert a twilight Nazgul to exert the Ring-bearer. If the Ring-bearer is then exhausted, he puts on The One Ring until the regroup phase.",
       "lore": "“Not with the hope of escape, or of doing anything, either good or bad: he simply felt that he must take the Ring and put it on his finger.”"
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02079.jpg",
@@ -12447,9 +12444,9 @@
    "title": "Stricken Dumb",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert The Witch-king to discard a tale or weapon.",
    "lore": "“He felt his tongue cleave to his mouth and his heart labouring. His sword broke and fell out of his shaking hand.”",
    "versions": [
@@ -12596,9 +12593,9 @@
    "title": "They Will Find the Ring",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert 2 Nazgul and spot X burdens to exert X companions.",
    "lore": "“...to the dismay of Frodo and his friends out from the trees and rocks away on the left four other Riders came flying.”",
    "versions": [
@@ -12750,9 +12747,9 @@
    "strength": 12,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Twilight. When you play Ulaire Attea, you may wound an ally.",
    "lore": "“‘They had words with Harry at Westgate on Monday.... He was white and shaking when they left him.'”",
    "versions": [
@@ -12909,9 +12906,9 @@
    "strength": 11,
    "vitality": 4,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Twilight. Each time Ulaire Enquea wins a skirmish, you may exert him to wound the Ring-bearer once (or twice if you spot 5 burdens).",
    "lore": "“In their white faces burned keen and merciless eyes....”",
    "versions": [
@@ -13068,9 +13065,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Twilight. While you can spot 2 burdens or 2 wounds on the Ring-bearer, Ulaire Nelya is fierce and damage +1.",
    "lore": "“Over the lip of the little dell, on the side away from the hill, they felt, rather than saw, a shadow rise, one shadow or more than one.”",
    "versions": [
@@ -13236,9 +13233,9 @@
    "strength": 14,
    "vitality": 4,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Twilight. Return to Its Master may not be played. Each time The Witch-king wins a skirmish, you may exert him to wound the Ring-bearer twice.",
    "lore": "“‘A great king and sorcerer he was of old, and now he wields a deadly fear.'”",
    "versions": [
@@ -13281,8 +13278,10 @@
       "strength": 14,
       "vitality": 4,
       "siteNumber": 3,
-      "block": "None",
-      "gameText": "Twilight. Return to Its Master cannot be played. Skirmishes involving The Witch-king cannot be canceled. Each time The Witch-king wins a skirmish, you may exert him to wound the Ring-bearer twice."
+      "gameText": "Twilight. Return to Its Master cannot be played. Skirmishes involving The Witch-king cannot be canceled. Each time The Witch-king wins a skirmish, you may exert him to wound the Ring-bearer twice.",
+      "homeSites": [
+       "3"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E085.1_card.jpg",
      "wikiImage": "LOTR-EN02S085.1_card.jpg"
@@ -13432,9 +13431,9 @@
    "title": "Wraith-world",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Spot a twilight Nazgul and the Ring-bearer wearing The One Ring to add 3 burdens.",
    "lore": "“‘He is passing into the shadow world, he will soon become a wraith like them.'”",
    "versions": [
@@ -13581,9 +13580,9 @@
    "title": "The Eye of Sauron",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Exert a [SAURON] Orc and spot X burdens to draw X cards (limit 5).",
    "lore": "“‘...he has indeed arisen again and left his hold in Mirkwood and returned to his ancient fastness in the Dark Tower of Mordor.'”",
    "versions": [
@@ -13730,9 +13729,9 @@
    "title": "Memory of Many Things",
    "unique": false,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert a [SAURON] Orc to discard an ally (or 2 [ELVEN] allies).",
    "lore": "“‘But my memory reaches back even to the Elder Days.... I have seen three ages in the West of the world, and many defeats, and many fruitless victories.'”",
    "versions": [
@@ -13883,9 +13882,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tracker. The roaming penalty for each [SAURON] minion you play is -1. Response: If an event is played that spots or exerts a ranger, exert or discard this minion to cancel that event.",
    "lore": "“‘Orc!...Not very near, and yet too near, it seems.'”",
    "versions": [
@@ -14040,9 +14039,9 @@
    "strength": 8,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Exert this minion to add (1).",
    "lore": "An Orc acts when the taskmaster promises reward or the whip.",
    "versions": [
@@ -14193,9 +14192,9 @@
    "title": "Southern Spies",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If the Ring-bearer puts on The One Ring, spot a [SAURON] minion to make the Free Peoples player discard his or her hand.",
    "lore": "“‘They will know all the news now, for they have visited Bill Ferny; and probably that Southerner was a spy as well.'”",
    "versions": [
@@ -14226,7 +14225,7 @@
      "batch": "pc-2023-01-11",
      "fields": {
       "unique": false,
-      "block": "None",
+      "subtypes": "Response",
       "gameText": "If the Ring-bearer puts on The One Ring, spot a [SAURON] minion to add a burden for each card in the Free Peoples player's hand. The Free Peoples player may discard their hand to prevent this."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E091.1_card.jpg",
@@ -14357,9 +14356,9 @@
    "title": "Spies of Mordor",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Search. To play, spot a [SAURON] Orc. Plays to your support area. Each time the fellowship moves during the regroup phase, you may draw a card (or 2 cards if you spot a [SAURON] tracker).",
    "lore": "“‘Mordor Orcs patrol the Eastern Shore. We must wait for the cover of darkness.'”",
    "versions": [
@@ -14510,9 +14509,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert Tower Assassin to wound an ally.",
    "lore": "A Ring of Power would not stop the blade of an assassin lying in wait.",
    "versions": [
@@ -14663,9 +14662,9 @@
    "title": "Verily I Come",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, exert a [SAURON] Orc. Plays on the Ring-bearer. Each time the Free Peoples player draws a card (or takes a card into hand) during the fellowship phase, add a burden.",
    "lore": "“There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze.”",
    "versions": [
@@ -14814,9 +14813,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [SAURON] Orc. Bearer is strength +2 while skirmishing a Man or Elf.",
    "lore": "The blood of enemies slain that day blackened the edge of the commander's blade.",
    "versions": [
@@ -14970,11 +14969,14 @@
    "strength": 2,
    "vitality": 3,
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "Fellowship: Exert Bilbo and discard a tale to discard a Shadow condition from an opponent's support area.",
    "lore": "“...as Mr. Baggins was generous with his money, most people were willing to forgive him his oddities and his good fortune.”",
+   "homeSites": [
+    "1"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S096.0",
@@ -14995,7 +14997,10 @@
       "block": "Fellowship",
       "arrowDirection": "None",
       "gameText": "Fellowship: Exert Bilbo and discard a tale to discard a Shadow condition from an opponent's support area.",
-      "lore": "“...as Mr. Baggins was generous with his money, most people were willing to forgive him his oddities and his good fortune.”"
+      "lore": "“...as Mr. Baggins was generous with his money, most people were willing to forgive him his oddities and his good fortune.”",
+      "homeSites": [
+       "1"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02096.jpg",
      "wikiImage": "LOTR-EN02S096.0_card.jpg"
@@ -15125,9 +15130,9 @@
    "title": "Consorting With Wizards",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tale. Bearer must be Bilbo. Bilbo may not take wounds (except during the archery phase). Fellowship or Regroup: Exert Bilbo or discard this condition to remove (1).",
    "lore": "“‘He wasn't always this peculiar! When I were a lad, old Bilbo was a most respectable Hobbit.'”",
    "versions": [
@@ -15274,9 +15279,9 @@
    "title": "Dear Friends",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship: Exert a companion to place a Free Peoples card from your discard pile beneath your draw deck (or 2 Free Peoples cards if that companion has the Frodo signet).",
    "lore": "“He pressed him for news of himself and of the wide world... and they stayed up far into the night.”",
    "versions": [
@@ -15423,9 +15428,9 @@
    "title": "Deft in Their Movements",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Stealth. Regroup: Spot 2 Hobbits to make each site's Shadow number -2 until the end of the turn.",
    "lore": "“They possessed from the first the art of disappearing swiftly and silently, when large folk who they do not wish to meet come blundering by.”",
    "versions": [
@@ -15572,9 +15577,9 @@
    "title": "Fearing the Worst",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Stealth. To play, exert 2 Hobbits. Plays to your support area. The twilight cost of each search card and each tracker is +2.",
    "lore": "“‘Even if we are allowed to leave Bree unhindered, we can hardly hope now to leave it unnoticed.'”",
    "versions": [
@@ -15726,11 +15731,14 @@
    "strength": 1,
    "vitality": 2,
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert a Hobbit companion twice to cancel a fierce skirmish involving that Hobbit.",
    "lore": "Filibert knows paths and tracks that few have trodden. He is not adventurous by nature, but his escapades often require rapid departures.",
+   "homeSites": [
+    "1"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S101.0",
@@ -15751,7 +15759,10 @@
       "block": "Fellowship",
       "arrowDirection": "None",
       "gameText": "Skirmish: Exert a Hobbit companion twice to cancel a fierce skirmish involving that Hobbit.",
-      "lore": "Filibert knows paths and tracks that few have trodden. He is not adventurous by nature, but his escapades often require rapid departures."
+      "lore": "Filibert knows paths and tracks that few have trodden. He is not adventurous by nature, but his escapades often require rapid departures.",
+      "homeSites": [
+       "1"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02101.jpg",
      "wikiImage": "LOTR-EN02S101.0_card.jpg"
@@ -15764,7 +15775,6 @@
      "batch": "pc-2021-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Skirmish: Exert a Hobbit companion twice (except the Ring-bearer) to cancel a fierce skirmish involving that Hobbit."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02S101.1_card.jpg",
@@ -15905,8 +15915,8 @@
    "resistance": 10,
    "canBearRing": true,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ring-bearer (resistance 10). The cost of each artifact, possession, and [SHIRE] tale played on Frodo is -1.",
    "lore": "“‘I am not made for perilous quests. I wish I had never seen the Ring! Why did it come to me? Why was I chosen?'”",
    "versions": [
@@ -16072,9 +16082,9 @@
    "title": "Hobbit Sword-play",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert a Hobbit bearing a weapon to wound a minion. That minion's owner may remove (3) to prevent this.",
    "lore": "Boromir sensed that a blade in a Halfling's hand would surprise a larger foe.",
    "versions": [
@@ -16225,10 +16235,11 @@
    "twilight": 1,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship: Exert Merry to play Farmer Maggot from your draw deck.",
    "lore": "“‘Ow... I think I've broken somehing.'”",
    "versions": [
@@ -16246,6 +16257,7 @@
       "twilight": 1,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
@@ -16271,7 +16283,6 @@
       "strength": 3,
       "vitality": 4,
       "resistance": 6,
-      "block": "None",
       "gameText": "Fellowship: Exert Merry to take a [SHIRE] ally into hand from your draw deck (limit once per turn)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E104.1_card.jpg",
@@ -16292,7 +16303,6 @@
       "strength": 3,
       "vitality": 4,
       "resistance": 6,
-      "block": "None",
       "gameText": "Fellowship: Exert Merry to take a Hobbit ally into hand from your draw deck (limit once per turn)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E104.2_card.jpg",
@@ -16424,9 +16434,9 @@
    "unique": true,
    "subtypes": "Armor",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Frodo. The minion archery total is -1. Each minion skirmishing Frodo does not gain strength bonuses from weapons and loses all damage bonuses.",
    "lore": "“‘...its worth was greater than the value of the whole Shire and everything in it.'”",
    "versions": [
@@ -16583,9 +16593,9 @@
    "title": "Nice Imitation",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Stealth. Plays to your support area. Response: If a Hobbit is about to take a wound, discard this condition to prevent that wound.",
    "lore": "“‘Very life-like!... But what will happen when they have penetrated the disguise?'”",
    "versions": [
@@ -16732,9 +16742,9 @@
    "title": "Not Feared in Sunlight",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 Hobbits. Plays to your support area. Each Nazgul is strength -4. Discard this condition during the regroup phase.",
    "lore": "“‘...our shapes cast shadows in their minds, which only the noon sun destroys....'”",
    "versions": [
@@ -16765,7 +16775,7 @@
      "batch": "pc-2023-01-11",
      "fields": {
       "unique": false,
-      "block": "None",
+      "subtypes": "Support Area",
       "gameText": "To play, spot 2 Hobbits. Fellowship: Discard this condition to make each Nazgul strength -4 until the regroup phase."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E107.1_card.jpg",
@@ -16897,9 +16907,9 @@
    "unique": true,
    "twilight": 1,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tale. Bearer must be the Ring-bearer. Skirmish: Discard this condition to take off The One Ring or to cancel a skirmish involving the Ring-bearer and a Nazgul.",
    "lore": "“With a last effort Frodo... slipped the Ring from his finger and closed his right hand tight upon it.”",
    "versions": [
@@ -16930,8 +16940,6 @@
      "releaseDate": "2021-03-28",
      "batch": "pc-2021-03-28",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Tale. Bearer must be the Ring-bearer. Skirmish: Discard this condition to make the Ring-bearer strength +4 if skirmishing a Nazgul or to take off The One Ring."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02S108.1_card.jpg",
@@ -17060,9 +17068,9 @@
    "title": "Orc-bane",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Spot Sting or Glamdring and exert its bearer X times to wound X Orcs or X Uruk-hai.",
    "lore": "“Glamdring shone with a pale light, and Sting glinted at the edges.”",
    "versions": [
@@ -17213,10 +17221,11 @@
    "twilight": 1,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship: Play Gandalf or Aragorn; his twilight cost is -2.",
    "lore": "“Pippin was evidently much enjoying the attention he was getting, and had become quite forgetful of their danger.”",
    "versions": [
@@ -17234,6 +17243,7 @@
       "twilight": 1,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -17259,7 +17269,6 @@
       "strength": 3,
       "vitality": 4,
       "resistance": 6,
-      "block": "None",
       "gameText": "Each time you play a companion, you may play an item on them from your discard pile (at twilight cost -2 if that companion is Gandalf or Aragorn)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E110.1_card.jpg",
@@ -17391,9 +17400,9 @@
    "title": "Practically Everyone Was Invited",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship: Exert Bilbo to play a Hobbit from your draw deck.",
    "lore": "“Thank you, I shall certainly come.”",
    "versions": [
@@ -17540,9 +17549,9 @@
    "title": "A Promise",
    "unique": false,
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Plays to your support area. While you can spot Frodo and Sam and neither is exhausted, each is strength +1.",
    "lore": "“‘But I'm glad Sam. I cannot tell you how glad. Come along! It is plain that we were meant to go together.'”",
    "versions": [
@@ -17699,9 +17708,9 @@
    "title": "Red Book of Westmarch",
    "unique": true,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tale. Plays to your support area. Each time you play a tale, you may spot Bilbo to draw a card.",
    "lore": "“‘Don't adventures ever have an end? I suppose not. Someone else always has to carry on the story.'”",
    "versions": [
@@ -17855,8 +17864,8 @@
    "resistance": 5,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert Sam twice to make him defender +1 until the regroup phase. Response: If Frodo dies, make Sam the Ring-bearer (resistance 5).",
    "lore": "“‘First he was a conspirator, now he's a jester. He'll end up by becoming a wizard – or a warrior!'”",
    "versions": [
@@ -18010,11 +18019,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "Fellowship: Exert a Hobbit to play Bilbo from your draw deck.",
+   "homeSites": [
+    "1"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S115.0",
@@ -18031,7 +18043,10 @@
       "block": "Fellowship",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "Fellowship: Exert a Hobbit to play Bilbo from your draw deck."
+      "gameText": "Fellowship: Exert a Hobbit to play Bilbo from your draw deck.",
+      "homeSites": [
+       "1"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02115.jpg",
      "wikiImage": "LOTR-EN02S115.0_card.jpg"
@@ -18157,11 +18172,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "Forest. Fellowship: Exert a Hobbit to play your site 2 (replacing opponent's site if necessary).",
+   "homeSites": [
+    "1"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S116.0",
@@ -18178,7 +18196,10 @@
       "block": "Fellowship",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "Forest. Fellowship: Exert a Hobbit to play your site 2 (replacing opponent's site if necessary)."
+      "gameText": "Forest. Fellowship: Exert a Hobbit to play your site 2 (replacing opponent's site if necessary).",
+      "homeSites": [
+       "1"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02116.jpg",
      "wikiImage": "LOTR-EN02S116.0_card.jpg"
@@ -18304,11 +18325,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "Fellowship: Play a [SHIRE] ally to draw a card.",
+   "homeSites": [
+    "1"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S117.0",
@@ -18325,7 +18349,10 @@
       "block": "Fellowship",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "Fellowship: Play a [SHIRE] ally to draw a card."
+      "gameText": "Fellowship: Play a [SHIRE] ally to draw a card.",
+      "homeSites": [
+       "1"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02117.jpg",
      "wikiImage": "LOTR-EN02S117.0_card.jpg"
@@ -18451,11 +18478,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 4,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
    "shadowNumber": 4,
    "arrowDirection": "Right",
    "gameText": "Underground. The twilight cost of the first [MORIA] archer played each Shadow phase is -2.",
+   "homeSites": [
+    "4"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S118.0",
@@ -18472,7 +18502,10 @@
       "block": "Fellowship",
       "shadowNumber": 4,
       "arrowDirection": "Right",
-      "gameText": "Underground. The twilight cost of the first [MORIA] archer played each Shadow phase is -2."
+      "gameText": "Underground. The twilight cost of the first [MORIA] archer played each Shadow phase is -2.",
+      "homeSites": [
+       "4"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02118.jpg",
      "wikiImage": "LOTR-EN02S118.0_card.jpg"
@@ -18598,11 +18631,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 4,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
    "shadowNumber": 3,
    "arrowDirection": "Right",
    "gameText": "Plains. Uruk-hai are not roaming.",
+   "homeSites": [
+    "4"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S119.0",
@@ -18619,7 +18655,10 @@
       "block": "Fellowship",
       "shadowNumber": 3,
       "arrowDirection": "Right",
-      "gameText": "Plains. Uruk-hai are not roaming."
+      "gameText": "Plains. Uruk-hai are not roaming.",
+      "homeSites": [
+       "4"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02119.jpg",
      "wikiImage": "LOTR-EN02S119.0_card.jpg"
@@ -18743,11 +18782,14 @@
    "unique": false,
    "subtypes": "Sanctuary",
    "siteNumber": 6,
-   "signet": "None",
+   "signet": null,
    "block": "Fellowship",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "River. Sanctuary. When the fellowship moves to Valley of the Silverlode, each Hobbit companion may heal.",
+   "homeSites": [
+    "6"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN02S120.0",
@@ -18764,7 +18806,10 @@
       "block": "Fellowship",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "River. Sanctuary. When the fellowship moves to Valley of the Silverlode, each Hobbit companion may heal."
+      "gameText": "River. Sanctuary. When the fellowship moves to Valley of the Silverlode, each Hobbit companion may heal.",
+      "homeSites": [
+       "6"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR02120.jpg",
      "wikiImage": "LOTR-EN02S120.0_card.jpg"
@@ -18893,10 +18938,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Damage +1. Each underground site's Shadow number is -2.",
    "lore": "“‘In the ruins of the Dwarves, a dwarf's head will be less easy to bewilder than Elves or Men or Hobbits.'”",
    "versions": [
@@ -18914,6 +18960,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Frodo",
       "block": "None",
@@ -18931,8 +18978,6 @@
      "releaseDate": "2021-03-28",
      "batch": "pc-2021-03-28",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Damage +1. Each underground site's Shadow number is -1.  While the fellowship is at an underground site, Gimli is strength +1."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02S121.1_card.jpg",
@@ -19067,10 +19112,11 @@
    "twilight": 4,
    "strength": 7,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "At the start of each of your turns, you may draw a card.",
    "lore": "“‘When evening in the Shire was grey / his footsteps on the Hill were heard; / before the dawn he went away / on journey long without a word.'”",
    "versions": [
@@ -19088,6 +19134,7 @@
       "twilight": 4,
       "strength": 7,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",

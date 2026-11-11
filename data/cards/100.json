@@ -17,7 +17,7 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 0,
-   "signet": "None",
+   "signet": null,
    "block": "Shadows",
    "shadowNumber": 0,
    "arrowDirection": "Left",
