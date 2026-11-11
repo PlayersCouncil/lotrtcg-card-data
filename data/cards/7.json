@@ -16,9 +16,9 @@
    "title": "The One Ring",
    "subtitle": "Such a Weight to Carry",
    "unique": true,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Add a burden to wear The One Ring until the regroup phase. While wearing The One Ring, each time the Ring-bearer is about to take a wound, add a burden instead.",
    "versions": [
     {
@@ -128,9 +128,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a Dwarf strength +2 (+4 if you spot a card stacked on a [DWARVEN] condition).",
    "lore": "“‘We're going to follow you, lad – even on the dark Road....'”",
    "versions": [
@@ -234,9 +234,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a Dwarf and add a threat to draw 3 cards.",
    "lore": "“‘Beyond the eyes of Dwarves are such fortellings....'”",
    "versions": [
@@ -340,9 +340,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a Dwarf. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to heal a Dwarf twice and take a [DWARVEN] skirmish event into hand from your discard pile.",
    "versions": [
     {
@@ -446,10 +446,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Damage +1. While you have initiative, Gimli is strength +2.",
    "versions": [
     {
@@ -466,6 +467,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Theoden",
       "block": "None",
@@ -557,10 +559,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Damage +1. Response: if a [DWARVEN] condition is about to be discarded by an opponent, exert a Dwarf or discard a [DWARVEN] card from hand to prevent that.",
    "versions": [
     {
@@ -577,6 +580,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -665,9 +669,9 @@
    "unique": true,
    "subtypes": "Armor",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Gimli. Response: If you have initiative and Gimli is about to take a wound, discard 2 cards from hand to prevent that wound.",
    "versions": [
     {
@@ -770,9 +774,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 2,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a dwarf. While you can spot a threat, bearer is damage +1. While you can spot 2 threats, bearer is strength +1. While you can spot 3 threats, the fellowship archery total is +1.",
    "versions": [
     {
@@ -876,9 +880,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play this condition, you may stack 2 cards from hand here and draw a card for each [DWARVEN] card you stack. Skirmish: Make a Dwarf strength +2. Also, make that Dwarf damage +2 for each [DWARVEN] card stacked on this condition. Discard this condition.",
    "versions": [
     {
@@ -907,8 +911,6 @@
      "releaseDate": "2004-04-05",
      "batch": "decipher-2004-04-05",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "When you play this condition, you may stack 2 cards from hand here and draw a card for each [DWARVEN] card you stack. Skirmish: Make a Dwarf strength +2. Also, make that Dwarf damage +2 for each [DWARVEN] card stacked on this condition. Discard this condition."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07010.jpg",
@@ -993,9 +995,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a Dwarf strength +2. You may also exert that Dwarf to draw 2 cards.",
    "lore": "“‘Had I known what was before me, I think that not for any friendship would I have taken the Paths of the Dead.'”",
    "versions": [
@@ -1099,9 +1101,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: Exert a Dwarf companion to stack a card from your discard pile here. Skirmish: Wound a minion skirmishing a Dwarf once for each [DWARVEN] card stacked here. Discard this condition.",
    "versions": [
     {
@@ -1201,9 +1203,9 @@
    "title": "Reckless Pride",
    "unique": true,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [DWARVEN] companion. Each minion gains this ability: 'Assignment: Assign this minion to bearer of Reckless Pride.' Regroup: Discard this condition to draw 4 cards.",
    "versions": [
     {
@@ -1303,9 +1305,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Choose one: Spot a Dwarf to draw a card; or, if this card is stacked on a [DWARVEN] condition, spot a Dwarf companion and discard this event to exert a minion twice.",
    "lore": "“‘Food and drink would pay off some of my score against you.'”",
    "versions": [
@@ -1336,8 +1338,6 @@
      "releaseDate": "2004-04-05",
      "batch": "decipher-2004-04-05",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Choose one: Spot a Dwarf to draw a card; or, if this card is stacked on a [DWARVEN] condition, spot a Dwarf companion and discard this event to exert a minion twice."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07014.jpg",
@@ -1422,9 +1422,9 @@
    "title": "Ancient Blade",
    "unique": true,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be an [ELVEN] companion. Each minion gains this ability: 'Assignment: Assign this minion to bearer of Ancient Blade.' Regroup: Discard this condition to discard a minion and reconcile your hand.",
    "versions": [
     {
@@ -1527,10 +1527,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While skirmishing a fierce minion, Arwen is strength +3.",
    "lore": "“‘But she also sends word to you... Fair well, Elfstone!'”",
    "versions": [
@@ -1548,6 +1549,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
@@ -1649,9 +1651,9 @@
    "subtypes": "Mount",
    "twilight": 2,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be an Elf. Skirmish: If bearer is Arwen, exert her to make each minion skirmishing her strength -2.",
    "versions": [
     {
@@ -1756,9 +1758,9 @@
    "subtypes": "Ranged Weapon",
    "twilight": 1,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Legolas. Each time you play an [ELVEN] skirmish event during a skirmish involving Legolas, you may heal him.",
    "versions": [
     {
@@ -1862,9 +1864,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot an Elf and discard 3 cards from hand to reconcile your hand.",
    "lore": "“‘If thou art in haste, remember the Paths of the Dead.'”",
    "versions": [
@@ -1971,10 +1973,11 @@
    "twilight": 4,
    "strength": 8,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot Aragorn or an Elf. At the start of each turn, you may exert Elrond to heal a character bearing an artifact.",
    "versions": [
     {
@@ -1991,6 +1994,7 @@
       "twilight": 4,
       "strength": 8,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -2079,9 +2083,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 Elves. Response: If an [ELVEN] skirmish event is played, discard this condition to draw 3 cards.",
    "versions": [
     {
@@ -2182,9 +2186,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: Exert an Elf to reveal the top card of your draw deck. If it is an [ELVEN] card, remove 3 threats. Place the revealed card beneath your draw deck.",
    "lore": "“‘The days are now short.'”",
    "versions": [
@@ -2288,9 +2292,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 3 Elves. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to discard a condition or draw 2 cards.",
    "versions": [
     {
@@ -2394,10 +2398,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Archer. Archery: If you have initiative, discard 4 cards from hand to wound a minion.",
    "versions": [
     {
@@ -2414,6 +2419,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -2505,10 +2511,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Archer. Archery: If you cannot spot a threat, add a threat to make the fellowship archery total +1.",
    "versions": [
     {
@@ -2525,6 +2532,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Theoden",
       "block": "None",
@@ -2613,9 +2621,9 @@
    "unique": false,
    "subtypes": "Archery",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert 2 [ELVEN] companions to discard the top 3 cards of your draw deck. Make the fellowship archery total +1 for each [ELVEN] card discarded.",
    "lore": "“‘Thus we passed over Gilrain, driving the allies of Mordor in rout before us....'”",
    "versions": [
@@ -2719,9 +2727,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot an Elf. At the start of your regroup phase, you may discard this condition or a card from hand to heal an Elf.",
    "versions": [
     {
@@ -2822,9 +2830,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make an Elf strength +2. You may place this event on top of your draw deck.",
    "lore": "“‘You must not go to the Havens Legolas. There will always be some folk... who need you.'”",
    "versions": [
@@ -2928,9 +2936,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make an Elf strength +2 and you may shuffle your draw deck.",
    "lore": "“‘But defenders and foes alike gave up the battle....'”",
    "versions": [
@@ -3034,9 +3042,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make Gandalf strength +2 (or +4 and damage +1 if you have initiative).",
    "lore": "“‘You cannot enter here....'”",
    "versions": [
@@ -3140,9 +3148,9 @@
    "unique": false,
    "subtypes": "Response",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spell. If an event is played, exert Gandalf to make that opponent remove (2) or cancel that event.",
    "versions": [
     {
@@ -3243,9 +3251,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert Gandalf twice to remove all threats and to heal all companions of one culture (except [GANDALF]).",
    "lore": "“Wherever he came men's hearts would lift again, and the winged shadows pass from memory.”",
    "versions": [
@@ -3349,9 +3357,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time Gandalf wins a skirmish, you may exert him to draw 2 cards.",
    "lore": "“‘Here in the Court of the Kings, Isildur grew a white tree, from a seed brought over the waters....'”",
    "versions": [
@@ -3455,9 +3463,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot Gandalf and discard 2 cards from hand to make an opponent discard all but 2 Shadow conditions.",
    "lore": "“‘There never was much hope....'”",
    "versions": [
@@ -3492,7 +3500,6 @@
       "unique": false,
       "subtypes": "Fellowship",
       "twilight": 3,
-      "block": "None",
       "gameText": "Spot Gandalf and discard X cards from hand to make an opponent choose to discard X Shadow conditions or make you hinder X Shadow conditions."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E035.1_card.jpg",
@@ -3582,10 +3589,11 @@
    "twilight": 4,
    "strength": 9,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you cannot spot 3 companions of the same culture, Gandalf is strength -2.",
    "lore": "“‘I come with counsel and tidings in this dark hour.'”",
    "versions": [
@@ -3603,6 +3611,7 @@
       "twilight": 4,
       "strength": 9,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
@@ -3705,10 +3714,11 @@
    "twilight": 4,
    "strength": 7,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Place 3 cards from hand on top of your draw deck to make a minion skirmishing an unbound companion strength -3. Any Shadow player may place 3 cards from his or her hand on top of his or her draw deck to prevent this.",
    "versions": [
     {
@@ -3725,6 +3735,7 @@
       "twilight": 4,
       "strength": 7,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Theoden",
       "block": "None",
@@ -3815,9 +3826,9 @@
    "subtypes": "Staff",
    "twilight": 2,
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Gandalf. While you can spot 4 twilight tokens, Gandalf is strength +1.",
    "versions": [
     {
@@ -3923,9 +3934,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 2,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Gandalf. He is damage +1. Skirmish: If you have more cards in hand than each opponent, discard 2 cards from hand to make an opponent exert a minion.",
    "versions": [
     {
@@ -4028,9 +4039,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert Gandalf twice to make an opponent exert a minion for each [ROHAN] companion you spot.",
    "lore": "“‘Will they answer the summons, think you?'”",
    "versions": [
@@ -4134,9 +4145,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert Gandalf three times (or twice if you have initiative) to make all unbound companions of one culture (except [GANDALF]) strength +3 until the regroup phase.",
    "lore": "“‘Theoden will honour your old alliance and come with a mighty army.'”",
    "versions": [
@@ -4240,9 +4251,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "At the start of the regroup phase, you may discard 2 cards from hand to heal Gandalf.",
    "lore": "“‘...Gandalf says you must go ere nightfall, and the Lord of the Mark is eager for his own house.'”",
    "versions": [
@@ -4346,9 +4357,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot Gandalf and add 3 threats. Gandalf is defender +1 and cannot take wounds. Discard this condition at the start of the regroup phase.",
    "versions": [
     {
@@ -4449,9 +4460,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot Gandalf to heal an unbound Hobbit 3 times.",
    "lore": "“‘All Wizards should have a Hobbit or two in their care... to teach them the meaning of humility!'”",
    "versions": [
@@ -4555,9 +4566,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot Gandalf to make a [GONDOR] companion strength +1 for each [GONDOR] companion you spot (limit +4).",
    "lore": "“‘Courage will now be your best defence against the storm that is at hand....'”",
    "versions": [
@@ -4661,9 +4672,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot Gandalf. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to wound 2 minions.",
    "versions": [
     {
@@ -4763,9 +4774,9 @@
    "title": "Steadfast Champion",
    "unique": true,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Gandalf. Each minion gains this ability: 'Assignment: Assign this minion to Gandalf.' Regroup: Discard this condition to discard a minion and heal a companion 3 times.",
    "versions": [
     {
@@ -4793,8 +4804,6 @@
      "releaseDate": "2021-04-30",
      "batch": "pc-2021-04-30",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Bearer must be Gandalf. Each minion gains this ability: 'Assignment: Assign this minion to Gandalf.' At the start of the regroup phase, you may discard this condition to discard a minion and heal a companion 3 times."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07S049.1_card.jpg",
@@ -4880,9 +4889,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spell. Exert Gandalf X times to wound a minion X times. If that minion is a Nazgul, wound it again.",
    "versions": [
     {
@@ -4983,9 +4992,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert Gandalf to make him strength +1 for each twilight token you spot (limit +8).",
    "lore": "“‘...here the hammerstroke will fall hardest....'”",
    "versions": [
@@ -5089,9 +5098,9 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Play Gollum from your draw deck or discard pile to add a threat.",
    "lore": "“‘Give us that.....'”",
    "versions": [
@@ -5197,9 +5206,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Discard any number of [GOLLUM] conditions. For each condition discarded, make Smeagol strength +3 and damage +1.",
    "lore": "“‘Clever hobbits to climb so high, very clever hobbits!'”",
    "versions": [
@@ -5234,7 +5243,6 @@
       "unique": false,
       "subtypes": "Skirmish",
       "twilight": 2,
-      "block": "None",
       "gameText": "Spot any number of [gollum] conditions. Make Smeagol strength +3 and damage +1 for each condition spotted. Discard each of your spotted conditions and hinder each of your opponent's spotted conditions."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E054.1_card.jpg",
@@ -5321,9 +5329,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship: Discard 3 cards from hand to play Smeagol from your discard pile.",
    "lore": "“‘Come on, we must go, no time to lose!'”",
    "versions": [
@@ -5426,9 +5434,9 @@
    "title": "The Dead City",
    "unique": false,
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Stealth. Bearer must be Smeagol. If Smeagol is about to be killed in a skirmish, he is discarded instead.",
    "versions": [
     {
@@ -5528,9 +5536,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time Gollum or Smeagol is played, add a threat. Regroup: Discard this condition to return Gollum to his owner's hand.",
    "versions": [
     {
@@ -5634,9 +5642,9 @@
    "strength": 5,
    "vitality": 4,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If you have initiative during the Shadow phase, you may play this minion from your discard pile.",
    "lore": "“‘Let Her deal with them... she must eat. All She gets is filthy Orcses.'”",
    "versions": [
@@ -5746,9 +5754,9 @@
    "strength": 5,
    "vitality": 4,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert Gollum twice or remove a threat to make him strength +2.",
    "lore": "“‘When they come to the bridge they will see us. Come away! Climb, climb!'”",
    "versions": [
@@ -5855,9 +5863,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: Discard Gollum and remove a threat to add a burden.",
    "lore": "“‘Sméagol knows... Sméagol carried burden many years.'”",
    "versions": [
@@ -5961,9 +5969,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot Gollum or Smeagol to make a Nazgul, [SAURON] minion, or [GOLLUM] minion strength +2. If you have initiative, you may play this event from your discard pile; place it under your draw deck instead of discarding it.",
    "versions": [
     {
@@ -6064,9 +6072,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Remove (1) and exert Gollum to discard the top card of your draw deck. If that card is a [GOLLUM] or [WRAITH] card, take it into hand.",
    "lore": "“‘See! See! He wants it for himself.'”",
    "versions": [
@@ -6169,9 +6177,9 @@
    "title": "Let Her Deal With Them",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot Gollum or Smeagol. Bearer must be a minion. Limit 1 per bearer. Bearer is damage +1. If you have initiative during the Shadow phase, you may play this condition from your discard pile.",
    "versions": [
     {
@@ -6271,9 +6279,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make Smeagol strength +1 for each [GOLLUM] card you spot.",
    "lore": "“‘He's a fat, horrid Hobbit, who hates Sméagol, who makes up nasty lies.'”",
    "versions": [
@@ -6377,9 +6385,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot Smeagol. Regroup: Discard Smeagol to remove 2 threats.",
    "versions": [
     {
@@ -6480,9 +6488,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert Smeagol to reveal an opponent's hand. That opponent must discard a card from hand for each culture revealed.",
    "lore": "“‘...they are watching... eyes will see us.'”",
    "versions": [
@@ -6513,8 +6521,6 @@
      "releaseDate": "2004-04-05",
      "batch": "decipher-2004-04-05",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Exert Smeagol to reveal an opponent's hand. That opponent must discard a card from hand for each culture revealed."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07066.jpg",
@@ -6600,9 +6606,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot Gollum and add up to 9 threats. Gollum is strength +2. Discard this condition and remove 9 threats at the start of the regroup phase.",
    "versions": [
     {
@@ -6703,9 +6709,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot Smeagol. Each time the fellowship moves, add a threat or discard this condition. Maneuver: Discard Smeagol to discard a minion. An opponent may exert a minion twice to prevent this.",
    "versions": [
     {
@@ -6806,9 +6812,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot Smeagol and add 2 threats. The move limit for this turn is +1. Discard this condition at the end of the turn.",
    "versions": [
     {
@@ -6909,9 +6915,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Discard Smeagol to play a companion from your discard pile.",
    "lore": "“‘Sméagol look after Master. Sméagol serve Master well!'”",
    "versions": [
@@ -7017,10 +7023,11 @@
    "twilight": 0,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ring-bound. To play, add a burden. Assignment: Assign a minion to Smeagol and add 2 threats to exhaust that minion.",
    "versions": [
     {
@@ -7036,6 +7043,7 @@
       "twilight": 0,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Frodo",
       "block": "None",
@@ -7126,10 +7134,11 @@
    "twilight": 0,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ring-bound. To play, add a burden. Skirmish: If you have initiative, discard 2 cards from your hand. Smeagol cannot be overwhelmed unless his strength is tripled.",
    "versions": [
     {
@@ -7145,6 +7154,7 @@
       "twilight": 0,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Frodo",
       "block": "None",
@@ -7233,9 +7243,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Stealth. Heal Smeagol (or cancel Smeagol's skirmish if he has more vitality than the minion or minions he is skirmishing).",
    "versions": [
     {
@@ -7336,9 +7346,9 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Play Gollum from your discard pile to add (1) for each threat you spot.",
    "lore": "“‘Sméagol shows them secret ways that nobody else could find and they say, ‘Sneak!''”",
    "versions": [
@@ -7442,9 +7452,9 @@
    "unique": false,
    "subtypes": "Response",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If a minion is about to take a wound, spot Gollum to prevent that wound.",
    "lore": "“‘It may well be, oh yes, it may very well be, that when She throws away the bones and the empty clothes... we shall find It!'”",
    "versions": [
@@ -7548,9 +7558,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Play Smeagol from your discard pile to play the fellowship's next site (replacing an opponent's site if necessary). If you do not move again this turn, discard your hand.",
    "lore": "“‘He hurts us.... hurts poor Sméagol!'”",
    "versions": [
@@ -7653,9 +7663,9 @@
    "title": "We Hates Them",
    "unique": true,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Smeagol. Each minion gains this ability: 'Assignment: Assign this minion to Smeagol.' Regroup: Discard this condition to discard a minion and play a companion from your discard pile.",
    "versions": [
     {
@@ -7755,9 +7765,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If you have initiative, discard 2 cards from hand to wound a minion Smeagol is skirmishing twice.",
    "lore": "“‘If you scare him off, we are lost.'”",
    "versions": [
@@ -7864,9 +7874,9 @@
    "twilight": 3,
    "strengthMod": "+2",
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Aragorn. Discard any other weapon he bears. He is damage +1 and cannot bear other weapons. Fellowship or Regroup: If the fellowship is at any site 2 or any site 5, play the fellowship's next site (replacing opponent's site if necessary).",
    "versions": [
     {
@@ -7983,9 +7993,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 3,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Aragorn. If you cannot spot a threat, Aragorn is defender +1.",
    "lore": "\"The Sword of Elendil was forged anew by Elvish smiths... for Aragorn son of Arathorn was going to war upon the marches of Morder.\"",
    "versions": [
@@ -8023,8 +8033,8 @@
       "unique": true,
       "subtypes": "Hand Weapon",
       "twilight": 3,
-      "block": "None",
-      "gameText": "Bearer must be Aragorn. He is strength +2 for each minion he is skirmishing.\\Assignment: Add a threat to make Aragorn defender +1 (limit +1)."
+      "strengthMod": "0",
+      "gameText": "Bearer must be Aragorn. He is strength +2 for each minion he is skirmishing. Assignment: Add a threat to make Aragorn defender +1 (limit +1)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E080.1_card.jpg",
      "wikiImage": "LOTR-EN07S080.1_card.jpg"
@@ -8113,10 +8123,11 @@
    "twilight": 4,
    "strength": 8,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Knight. At the start of each fellowship phase, you may add (2) to heal another [GONDOR] companion.",
    "versions": [
     {
@@ -8133,6 +8144,7 @@
       "twilight": 4,
       "strength": 8,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -8232,10 +8244,11 @@
    "twilight": 2,
    "strength": 5,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you have only 4 or 5 cards in hand, Cirion is strength +2.",
    "lore": "“So now at last the City was besieged...”",
    "versions": [
@@ -8252,6 +8265,7 @@
       "twilight": 2,
       "strength": 5,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -8276,8 +8290,7 @@
       "strength": 5,
       "vitality": 3,
       "resistance": 6,
-      "block": "None",
-      "gameText": "While you have only 4 or 5 cards in hand, Cirion is strength +2.\\Fellowship: Exert Cirion to play a beacon from your draw deck (limit once per turn)."
+      "gameText": "While you have only 4 or 5 cards in hand, Cirion is strength +2. Fellowship: Exert Cirion to play a beacon from your draw deck (limit once per turn)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E082.1_card.jpg",
      "wikiImage": "LOTR-EN07S082.1_card.jpg"
@@ -8362,9 +8375,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a [GONDOR] Man strength +2. If that Man is skirmishing a [SAURON] minion, discard that minion at the end of the skirmish.",
    "lore": "“‘I will gladly give my life to defend her beauty, her memory... her wisdom.'”",
    "versions": [
@@ -8471,10 +8484,11 @@
    "twilight": 2,
    "strength": 8,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship: Play a [GONDOR] knight. That knight's twilight cost is -2. Each time a Shadow card adds a threat, add a burden. Each time a Shadow card adds a burden, add a threat.",
    "versions": [
     {
@@ -8491,6 +8505,7 @@
       "twilight": 2,
       "strength": 8,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -8582,10 +8597,11 @@
    "twilight": 2,
    "strength": 5,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Denethor is strength +1 for each other [GONDOR] Man you can spot (limit +4).",
    "lore": "“‘...in desperate hours gentleness may be repaid with death.'”",
    "versions": [
@@ -8603,6 +8619,7 @@
       "twilight": 2,
       "strength": 5,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -8704,10 +8721,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: While you have exactly 5 cards in hand, you may exert Derufin to discard an engine, machine, or possession.",
    "lore": "“From the uplands of Morthond....”",
    "versions": [
@@ -8724,6 +8742,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -8815,10 +8834,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "At the start of the regroup phase, if you have only 4 cards in hand, you may spot another [GONDOR] Man to discard a minion.",
    "lore": "“The men of Ringló Vale behind the son of their lord....”",
    "versions": [
@@ -8835,6 +8855,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -8924,9 +8945,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Add 3 threats to heal all [GONDOR] companions.",
    "lore": "“‘...for himself, and for the one that will not return.'”",
    "versions": [
@@ -9033,10 +9054,11 @@
    "twilight": 3,
    "strength": 7,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ranger. To play, spot a [GONDOR] Man. Each time Faramir wins a skirmish involving a fierce minion, you may exert Faramir to discard that minion.",
    "versions": [
     {
@@ -9053,6 +9075,7 @@
       "twilight": 3,
       "strength": 7,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Theoden",
       "block": "None",
@@ -9144,10 +9167,11 @@
    "twilight": 3,
    "strength": 7,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ranger. Fellowship: Play a [ROHAN] Man to heal Faramir. Skirmish: Exert Faramir to make an unbound Hobbit strength +2. Skirmish: Exert Gandalf to prevent all wounds to Faramir.",
    "versions": [
     {
@@ -9164,6 +9188,7 @@
       "twilight": 3,
       "strength": 7,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Frodo",
       "block": "None",
@@ -9181,7 +9206,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Ranger. Fellowship: Play a [ROHAN] Man to heal Faramir. Skirmish: Exert Faramir to make an unbound Hobbit strength +2. Skirmish: Exert Gandalf to make Faramir unable to take wounds."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E091.1_card.jpg",
@@ -9268,9 +9292,9 @@
    "subtypes": "Support Area",
    "twilight": 1,
    "strengthMod": "-1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fortification. Maneuver: Exert a [GONDOR] Man or spot a knight to transfer this condition from your support area to a minion.",
    "versions": [
     {
@@ -9372,9 +9396,9 @@
    "unique": false,
    "subtypes": "Armor",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [GONDOR] Man. Response: if bearer is about to be overwhelmed, discard a [GONDOR] fortification or a card from hand to make bearer strength +2.",
    "versions": [
     {
@@ -9475,9 +9499,9 @@
    "unique": false,
    "subtypes": "Ranged Weapon",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [GONDOR] Man. If bearer is a knight, he or she is strength +1. Skirmish: Exert bearer to wound a minion he or she is skirmishing if that minion bears a fortification.",
    "versions": [
     {
@@ -9578,9 +9602,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 3 [GONDOR] companions. While no opponent controls a site, wound a minion at the start of each regroup phase. Regroup: Discard this condition to place a [GONDOR] fortification from your discard pile on top of your draw deck.",
    "versions": [
     {
@@ -9683,10 +9707,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Knight. Fellowship: Discard a fortification to remove a threat.",
    "versions": [
     {
@@ -9702,6 +9727,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -9718,8 +9744,6 @@
      "releaseDate": "2021-04-30",
      "batch": "pc-2021-04-30",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Knight. Maneuver: Discard a fortification to remove a threat."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07S096.1_card.jpg",
@@ -9808,11 +9832,14 @@
    "strength": 6,
    "vitality": 1,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Towers",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "Maneuver: If you have initiative, discard 2 cards from hand to make the site number of a minion +2 until the regroup phase.",
    "lore": "“...they talked now of Gondor and its ways and customs....”",
+   "homeSites": [
+    "3T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S097.0",
@@ -9832,7 +9859,10 @@
       "block": "Towers",
       "arrowDirection": "None",
       "gameText": "Maneuver: If you have initiative, discard 2 cards from hand to make the site number of a minion +2 until the regroup phase.",
-      "lore": "“...they talked now of Gondor and its ways and customs....”"
+      "lore": "“...they talked now of Gondor and its ways and customs....”",
+      "homeSites": [
+       "3T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07097.jpg",
      "wikiImage": "LOTR-EN07S097.0_card.jpg"
@@ -9918,9 +9948,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [GONDOR] Man. Skirmish: Discard 3 cards from hand to make bearer damage +1.",
    "versions": [
     {
@@ -10022,9 +10052,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a [GONDOR] companion strength +2 and, if you can spot 2 [GONDOR] fortifications, exert a minion that companion is skirmishing.",
    "lore": "“...and its iron doors rolled back before them.”",
    "versions": [
@@ -10128,9 +10158,9 @@
    "unique": false,
    "subtypes": "Archery",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a [GONDOR] Man and spot 3 fortifications to make the fellowship archery total +2.",
    "lore": "“‘...City of Kings of yore.'”",
    "versions": [
@@ -10234,9 +10264,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 3 [GONDOR] Men. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to discard a minion (or all roaming minions).",
    "versions": [
     {
@@ -10337,9 +10367,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 3 [GONDOR] Men. Regroup: While you have only 4 cards in hand, you may discard 2 cards from hand to play a [GONDOR] fortification from your discard pile.",
    "versions": [
     {
@@ -10440,9 +10470,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "At the start of your regroup phase, you may spot a [GONDOR] Man and discard a card from hand to remove a threat.",
    "lore": "“...lifted for a while by the return of Faramir....”",
    "versions": [
@@ -10546,9 +10576,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a [GONDOR] companion to reveal the top 5 cards of an opponent's draw deck. For each Shadow card revealed, add a threat. For each Free Peoples card revealed, place a [GONDOR] token on one of your conditions with a [GONDOR] token on it. Shuffle that draw deck.",
    "versions": [
     {
@@ -10648,9 +10678,9 @@
    "title": "I Will Go",
    "unique": true,
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [GONDOR] Man. If you have initiative, bearer is defender +1.",
    "versions": [
     {
@@ -10752,10 +10782,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Knight. Fellowship: Discard a fortification to heal Ingold twice.",
    "versions": [
     {
@@ -10771,6 +10802,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -10859,10 +10891,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If a possession or engine is played by your opponent, remove a [GONDOR] token from your condition to make that opponent remove (1). If he or she cannot, discard that possession or engine.",
    "versions": [
     {
@@ -10878,6 +10911,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -10965,9 +10999,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [GONDOR] Man. Skirmish: If you cannot spot 2 threats, add a threat to make bearer strength +1.",
    "versions": [
     {
@@ -11069,9 +11103,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, add 2 threats. Skirmish: Exert a [GONDOR] Man to wound a roaming minion that Man is skirmishing. Discard this condition at the start of the regroup phase.",
    "versions": [
     {
@@ -11175,10 +11209,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ranger. Skirmish: If you have initiative, discard 2 cards from hand to wound a roaming minion Madril is skirmishing.",
    "versions": [
     {
@@ -11195,6 +11230,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -11283,9 +11319,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "The site number of each minion skirmishing a [GONDOR] Man is +1.",
    "lore": "“...their force was too weak to make any stroke of war on their own part....”",
    "versions": [
@@ -11389,9 +11425,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play this condition, place a [GONDOR] token here for each of the following characters you can spot: Aragorn, Boromir, Denethor or Faramir. Skirmish: Remove a token from here or discard this condition to make a [GONDOR] companion strength +1 and damage +1.",
    "versions": [
     {
@@ -11496,9 +11532,9 @@
    "twilight": 0,
    "strengthMod": "+2",
    "vitalityMod": "-1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Pippin. While you can spot 3 [GONDOR] Men, Pippin may take no more than 1 wound in a skirmish.",
    "versions": [
     {
@@ -11598,13 +11634,13 @@
    "side": "Free Peoples",
    "type": "Possession",
    "title": "Pippin's Sword",
-   "unique": false,
+   "unique": true,
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Pippin. Skirmish: Exert Pippin twice to make him strength +1 for each [GONDOR] companion you spot.",
    "versions": [
     {
@@ -11634,8 +11670,6 @@
      "releaseDate": "2003-12-02",
      "batch": "decipher-2003-12-02",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Bearer must be Pippin. Skirmish: Exert Pippin twice to make him strength +1 for each [GONDOR] companion you spot."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07114.jpg",
@@ -11722,10 +11756,11 @@
    "twilight": 2,
    "strength": 5,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ranger. While skirmishing a roaming minion, this companion is strength +2 and damage +1.",
    "versions": [
     {
@@ -11741,6 +11776,7 @@
       "twilight": 2,
       "strength": 5,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -11831,10 +11867,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ranger. Regroup: Discard 2 cards from hand to exhaust a minion.",
    "versions": [
     {
@@ -11850,6 +11887,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -11938,9 +11976,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot 2 knights or exert 2 [GONDOR] Men to liberate a site or discard any number of cards from hand.",
    "lore": "“‘Do not throw your life away so rashly!'”",
    "versions": [
@@ -12045,9 +12083,9 @@
    "subtypes": "Support Area",
    "twilight": 1,
    "siteNumberMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fortification. Maneuver: Exert a [GONDOR] Man or spot a ranger to transfer this condition from your support area to a minion.",
    "versions": [
     {
@@ -12151,9 +12189,9 @@
    "twilight": 5,
    "strengthMod": "-2",
    "vitalityMod": "-2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fortification. Skirmish: Exert 3 [GONDOR] Men to transfer this condition from your support area to a minion skirmishing a [GONDOR] Man.",
    "versions": [
     {
@@ -12256,9 +12294,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If you have initiative, discard 2 cards from hand to wound a roaming minion skirmishing a [GONDOR] Man twice.",
    "lore": "“‘Return to the outer walls!'”",
    "versions": [
@@ -12362,9 +12400,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Add a threat to make a [GONDOR] Man strength +3.",
    "lore": "“...the hardiest of the garrison stood at bay.”",
    "versions": [
@@ -12468,9 +12506,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 [GONDOR] Men. The twilight cost of each of your [GONDOR] fortifications is -1. Response: If an opponent is about to control a site, discard 2 [GONDOR] fortifications to prevent this.",
    "versions": [
     {
@@ -12571,9 +12609,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship: Play a [GONDOR] Man to place a [GONDOR] token here. Fellowship: Play a [GONDOR] companion. That companion's twilight cost is -1 for each token here. Discard this condition.",
    "versions": [
     {
@@ -12676,10 +12714,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ranger. Skirmish: If you have initiative, discard 2 cards from hand to wound a Man Targon is skirmishing.",
    "versions": [
     {
@@ -12695,6 +12734,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -12782,9 +12822,9 @@
    "subtypes": "Support Area",
    "twilight": 1,
    "siteNumberMod": "+4",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fortification. Skirmish: Exert a [GONDOR] Man or spot 2 rangers to transfer this condition from your support area to a minion skirmishing a [GONDOR] Man.",
    "versions": [
     {
@@ -12885,9 +12925,9 @@
    "title": "Unexpected Visitor",
    "unique": true,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be an [GONDOR] companion. Each minion gains this ability: 'Assignment: Assign this minion to bearer of Unexpected Visitor.' Regroup: Discard this condition to discard a minion and remove (4).",
    "versions": [
     {
@@ -12989,10 +13029,11 @@
    "twilight": 2,
    "strength": 5,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While no opponent controls a site, Vorondil is strength +2. Regroup: Exert 3 [GONDOR] Men or 2 knights to liberate a site.",
    "versions": [
     {
@@ -13008,6 +13049,7 @@
       "twilight": 2,
       "strength": 5,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -13094,9 +13136,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a roaming minion skirmishing a [GONDOR] Man strength -3.",
    "lore": "“‘...not if the Nameless One himself should come, not even he could enter....'”",
    "versions": [
@@ -13200,9 +13242,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 [RAIDER] Men and add a threat. Each time a companion is about to be killed, you may remove a threat to discard a companion (except the Ring-bearer). Discard this condition at the start of the regroup phase.",
    "versions": [
     {
@@ -13303,9 +13345,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: Spot 2 [RAIDER] Men and remove (3) to add a threat (limit 1).",
    "lore": "“‘...yet not all unguessed.'”",
    "versions": [
@@ -13412,9 +13454,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. At the start of each skirmish involving this minion, you may remove (1) to add a threat.",
    "versions": [
     {
@@ -13521,9 +13563,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. While you can spot 2 threats, this minion is damage +1.",
    "versions": [
     {
@@ -13630,9 +13672,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Ambush (1). When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character.",
    "versions": [
     {
@@ -13664,8 +13706,6 @@
      "releaseDate": "2004-02-03",
      "batch": "decipher-2004-02-03",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Southron. Ambush (1). When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07133.jpg",
@@ -13753,9 +13793,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Ambush (1). When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character.",
    "versions": [
     {
@@ -13787,8 +13827,6 @@
      "releaseDate": "2004-02-03",
      "batch": "decipher-2004-02-03",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Southron. Ambush (1). When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07134.jpg",
@@ -13876,9 +13914,9 @@
    "strength": 5,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Ambush (1). When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character.",
    "versions": [
     {
@@ -13910,8 +13948,6 @@
      "releaseDate": "2004-02-03",
      "batch": "decipher-2004-02-03",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Southron. Ambush (1). When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07135.jpg",
@@ -13999,9 +14035,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. At the start of each skirmish involving this minion, you may remove (1) to add a threat.",
    "versions": [
     {
@@ -14108,9 +14144,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Skirmish: If you have initiative or you spot 3 Easterlings, discard 2 cards from hand to heal another Easterling.",
    "versions": [
     {
@@ -14217,9 +14253,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Skirmish: Remove a burden and exert this minion to heal another Easterling (or 2 Easterlings if you have initiative).",
    "versions": [
     {
@@ -14326,9 +14362,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Skirmish: Exert this minion to make him damage +1.",
    "versions": [
     {
@@ -14435,9 +14471,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Skirmish: Exert this minion to make him damage +1.",
    "versions": [
     {
@@ -14544,9 +14580,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Maneuver: If you cannot spot 2 burdens, spot another Easterling and discard a card from hand to add a burden.",
    "versions": [
     {
@@ -14653,9 +14689,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Skirmish: Exert this minion to make him damage +1.",
    "versions": [
     {
@@ -14762,9 +14798,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Fierce. Each time Easterling Regiment wins a skirmish, you may add (1) for each burden.",
    "versions": [
     {
@@ -14871,9 +14907,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Maneuver: If you cannot spot a burden, spot another Easterling and exert this minion to add a burden.",
    "versions": [
     {
@@ -14980,9 +15016,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Skirmish: Remove 2 burdens to heal another Easterling.",
    "lore": "“...enclosed in a ring of foes.”",
    "versions": [
@@ -15089,9 +15125,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 7,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot 2 [RAIDER] Men to discard a companion (except the Ring-bearer).",
    "lore": "“...displaying his standard, black serpent upon scarlet....”",
    "versions": [
@@ -15195,9 +15231,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [RAIDER] Man. Regroup: Remove (9) and spot 3 [RAIDER] Men to make the move limit -1.",
    "versions": [
     {
@@ -15298,9 +15334,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [RAIDER] Man. Regroup: Remove (3) and spot a [RAIDER] Man to place a [RAIDER] token here. While there are 3 [RAIDER] tokens here, the Shadow has initiative regardless of the Free Peoples player's hand.",
    "versions": [
     {
@@ -15401,9 +15437,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 [RAIDER] Men. Discard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, add (1).",
    "versions": [
     {
@@ -15507,9 +15543,9 @@
    "strength": 16,
    "vitality": 4,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. To play, spot a [RAIDER] Man. While you can spot 6 threats, each time this minion wins a skirmish, the companion he was skirmishing is killed.",
    "versions": [
     {
@@ -15613,9 +15649,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a [RAIDER] minion to add (2) for each threat.",
    "lore": "“...dragging through the lanes amid the fires....”",
    "versions": [
@@ -15719,9 +15755,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a [RAIDER] Man strength +3 (or +6 if you have initiative).",
    "lore": "“...Southrons in scarlet....”",
    "versions": [
@@ -15825,9 +15861,9 @@
    "unique": false,
    "subtypes": "Ranged Weapon",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [RAIDER] Man. Bearer is an archer and ambush (5).",
    "versions": [
     {
@@ -15929,9 +15965,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 0,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [RAIDER] Man. Skirmish: Exert bearer to add (2).",
    "versions": [
     {
@@ -16033,9 +16069,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a [RAIDER] Man to wound a companion he is skirmishing twice.",
    "lore": "“...he came against the white horse and the green with great press of men....”",
    "versions": [
@@ -16139,9 +16175,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [RAIDER] Man. Each time the fellowship moves, the Free Peoples player must exert 2 companions if you have initiative.",
    "versions": [
     {
@@ -16242,9 +16278,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: If you cannot spot 2 burdens, exert an Easterling to add a burden. Skirmish: Discard this condition to make an Easterling strength +2.",
    "versions": [
     {
@@ -16348,9 +16384,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Maneuver: Exert this minion to add (5). The Free Peoples player may add a threat to prevent this.",
    "versions": [
     {
@@ -16457,9 +16493,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Shadow: Remove (3) and spot 3 [RAIDER] Men to make one of those Men damage +1 until the regroup phase.",
    "versions": [
     {
@@ -16566,9 +16602,9 @@
    "strength": 13,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. While you can spot 4 threats, this minion is damage +2.",
    "versions": [
     {
@@ -16675,9 +16711,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. To play, spot a [RAIDER] Man. Each time the Free Peoples player assigns this minion to a character, the Shadow has initiative until the end of the turn.",
    "versions": [
     {
@@ -16784,9 +16820,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Archer. While you can spot 6 twilight tokens, other [RAIDER] Men are damage +1. While you can spot 9 twilight tokens, other [RAIDER] Men are damage +1.",
    "versions": [
     {
@@ -16893,9 +16929,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Archer. While you can spot 3 twilight tokens, all [RAIDER] Men are strength +1. While you can spot 6 twilight tokens, all [RAIDER] Men are strength +1. While you can spot 9 twilight tokens, all [RAIDER] Men are strength +1.",
    "versions": [
     {
@@ -17002,9 +17038,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Archery: Spot 4 Free Peoples cultures and either exert this minion or remove a threat to wound a companion (except the Ring-bearer).",
    "versions": [
     {
@@ -17111,9 +17147,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Archer. Fierce. To play, spot a [RAIDER] Man. Archery: Exert this minion and remove a threat to make the minion archery total +1.",
    "versions": [
     {
@@ -17220,9 +17256,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Archery: Spot another [RAIDER] Man, spot 6 companions, and remove a threat to exert a companion.",
    "versions": [
     {
@@ -17326,9 +17362,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: Exert an Easterling and discard this condition to make the move limit -1 for this turn. The Free Peoples player may add 2 burdens to prevent this. Skirmish: Discard this condition to heal an Easterling.",
    "versions": [
     {
@@ -17432,9 +17468,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Archer. While you have initiative, the Ring-bearer cannot take wounds during the archery phase and this minion is ambush (8).",
    "versions": [
     {
@@ -17538,9 +17574,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a threat and X [RAIDER] Men to make the Free Peoples player exert X companions (limit 3).",
    "lore": "“Southward beyond the road lay the main force of the Haradrim....”",
    "versions": [
@@ -17647,9 +17683,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. While you can spot 2 threats, this minion is an archer. While you can spot 3 threats, this minion is fierce. While you can spot 4 threats, this minion is damage +1.",
    "versions": [
     {
@@ -17753,9 +17789,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a [RAIDER] minion to add a threat. Add an additional threat for each companion over 4.",
    "lore": "“...behind them rose the huge backs of the mûmakil....”",
    "versions": [
@@ -17859,9 +17895,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Assignment: Remove 5 threats to assign a Nazgul to a companion (except the Ring-bearer). The Free Peoples player may discard that companion.",
    "lore": "“...sensing some other power within his valley.”",
    "versions": [
@@ -17965,9 +18001,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a Nazgul strength +1 for each Free Peoples culture you spot.",
    "lore": "“Figures stood there at its head, carven with cunning in forms human and bestial, but all corrupt and loathsome.”",
    "versions": [
@@ -18071,9 +18107,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a Nazgul to discard any number of cards from your hand. The Free Peoples player then discards any number of cards from his or her hand. For each card you discarded more than the Free Peoples player, add a threat.",
    "versions": [
     {
@@ -18174,9 +18210,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Transfer this condition from your support area to a character skirmishing a Nazgul. During the turn this card is transferred, the Shadow has initiative, regardless of the Free Peoples player's hand.",
    "versions": [
     {
@@ -18277,9 +18313,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Discard 3 cards from hand to make a Nazgul strength +3.",
    "lore": "“‘Ah! there one of the foul things is stooping on him.'”",
    "versions": [
@@ -18383,9 +18419,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Spot a Nazgul and remove a threat to play a Nazgul. Its twilight cost is -2.",
    "lore": "“And out of the gate an army came.”",
    "versions": [
@@ -18493,9 +18529,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot a Nazgul, Gorbag is strength +2 and damage +1.",
    "lore": "“‘If there's any game, me and my lads must be in it.'”",
    "versions": [
@@ -18603,9 +18639,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 Nazgul and add up to 3 threats. Each time a companion is about to be killed, you may remove a threat to discard up to 2 possessions. Discard this condition and remove 3 threats during the regroup phase.",
    "versions": [
     {
@@ -18706,9 +18742,9 @@
    "unique": false,
    "subtypes": "Response",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If a skirmish that involved a Nazgul is about to end, discard a possession borne by a companion in that skirmish.",
    "lore": "“Frodo felt his senses reeling and his mind darkening.”",
    "versions": [
@@ -18739,8 +18775,6 @@
      "releaseDate": "2004-02-03",
      "batch": "decipher-2004-02-03",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "If a skirmish that involved a Nazgul is about to end, discard a possession borne by a companion in that skirmish."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07182.jpg",
@@ -18826,9 +18860,9 @@
    "unique": false,
    "subtypes": "Response",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If a Nazgul kills a character, wound each character bearing a [WRAITH] condition.",
    "lore": "“Weariness and more than weariness oppressed him...”",
    "versions": [
@@ -18932,9 +18966,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a Nazgul. Regroup: Discard a Nazgul to place a [WRAITH] token on this card. While there are 3 [WRAITH] tokens on this card, the Shadow has initiative, regardless of the Free Peoples player's hand.",
    "versions": [
     {
@@ -19035,9 +19069,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a Nazgul. Skirmish: Remove (3) and spot 3 Nazgul to discard a possession or condition borne by a companion a Nazgul is skirmishing.",
    "versions": [
     {
@@ -19139,9 +19173,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [WRAITH] Orc. While you can spot 2 wounds on the Ring-bearer, bearer is damage +1.",
    "versions": [
     {
@@ -19246,9 +19280,9 @@
    "strength": 10,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While the Ring-bearer is exhausted, this minion is strength +3, fierce and damage +1.",
    "versions": [
     {
@@ -19355,9 +19389,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play this minion, you may spot a Nazgul to add a burden. The Free Peoples player may wound the Ring-bearer to prevent this. Skirmish: Remove a burden to make this minion strength +3.",
    "versions": [
     {
@@ -19464,9 +19498,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot a Nazgul, this minion is strength +2.",
    "lore": "“‘They swarmed across like beetles.'”",
    "versions": [
@@ -19576,9 +19610,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play this minion, you may spot a Nazgul to add 2 threats. The Free Peoples player may wound the Ring-bearer to prevent this. Skirmish: Remove a threat to make this minion strength +3.",
    "versions": [
     {
@@ -19612,7 +19646,6 @@
      "fields": {
       "unique": false,
       "twilight": 3,
-      "block": "None",
       "gameText": "When you play this minion, you may spot a Nazgul to add a threat. The Free Peoples player may make you wound a companion to prevent this. Skirmish: Remove a threat to make this minion strength +3."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E190.1_card.jpg",
@@ -19701,9 +19734,9 @@
    "strength": 15,
    "vitality": 4,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot a Nazgul, this minion is fierce and damage +1.",
    "lore": "“‘His own folk quail at him, and they would slay themselves at his bidding.'”",
    "versions": [
@@ -19813,9 +19846,9 @@
    "strength": 5,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot 2 wounds on the Ring-bearer, this minion is strength +4 and fierce.",
    "lore": "“All that host was clad in sable, dark as the night.”",
    "versions": [
@@ -19925,9 +19958,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert this minion to make a Nazgul or [WRAITH] Orc strength +1.",
    "lore": "“‘He uses others as his weapons.'”",
    "versions": [
@@ -20037,9 +20070,9 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot 3 wounds on the Ring-bearer, this minion is fierce and damage +1.",
    "lore": "“The old wound throbbed with pain and a great chill spread towards Frodo's heart.”",
    "versions": [
@@ -20146,9 +20179,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a Nazgul. Each time the Free Peoples player draws a card (except during the regroup phase), add a threat. Regroup: Discard a Nazgul and this condition to add a threat.",
    "versions": [
     {
@@ -20252,9 +20285,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert this minion to make a Nazgul or [WRAITH] Orc strength +1.",
    "lore": "“‘...driving his slaves in madness on before.'”",
    "versions": [
@@ -20364,9 +20397,9 @@
    "strength": 15,
    "vitality": 4,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "For each Nazgul you can spot, the Free Peoples player must exert a companion to assign this minion to a skirmish. Skirmish: Exert this minion to make a Nazgul or [WRAITH] Orc strength +1.",
    "lore": "“...a host had issued from Minas Morgul....”",
    "versions": [
@@ -20476,9 +20509,9 @@
    "strength": 7,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot a Nazgul, this minion may only take wounds during skirmish phases.",
    "lore": "“...while the less stout-hearted quailed and wept.”",
    "versions": [
@@ -20588,9 +20621,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Nazgul are strength +1.",
    "lore": "“...ever and anon, high above the city, a faint cry would come....”",
    "versions": [
@@ -20700,9 +20733,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot a Nazgul, the Free Peoples player must exert a companion to assign this minion to a skirmish.",
    "lore": "“‘...the fear of him has passed before him over the River.'”",
    "versions": [
@@ -20812,9 +20845,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot a Nazgul, the Free Peoples player must exert a companion to assign this minion to a skirmish.",
    "lore": "“‘And we have learned... that the Black Captain leads them once again....'”",
    "versions": [
@@ -20924,9 +20957,9 @@
    "strength": 3,
    "vitality": 1,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot a wound on the Ring-bearer, this minion is strength +6.",
    "versions": [
     {
@@ -21031,9 +21064,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [WRAITH] minion. While you can spot 5 threats, bearer is damage +1.",
    "versions": [
     {
@@ -21135,9 +21168,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a Nazgul. Each time a companion is played, the Free Peoples player must exert a companion. Shadow: Spot a Nazgul and discard this condition to play a Nazgul from your discard pile.",
    "versions": [
     {
@@ -21238,9 +21271,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a Nazgul. Shadow: If you have initiative and there are 3 characters in the dead pile, spot 3 burdens, 3 threats and a Nazgul to corrupt the Ring-bearer.",
    "versions": [
     {
@@ -21341,9 +21374,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If your [WRAITH] minion wins a skirmish, place a [WRAITH] token here (limit 1 per site). Regroup: Spot 3 [WRAITH] tokens here to exhaust the Ring-bearer. Discard this condition.",
    "versions": [
     {
@@ -21444,9 +21477,9 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a Nazgul to add a threat (or 3 threats if you have initiative).",
    "lore": "“Mingled with harsh high voices as of birds of prey....”",
    "versions": [
@@ -21550,9 +21583,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Transfer this condition from your support area to a character skirmishing a Nazgul. Each time bearer exerts, add (1).",
    "versions": [
     {
@@ -21657,9 +21690,9 @@
    "strength": 12,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. Shadow: If you have initiative, exert Ulaire Attea and spot another [WRAITH] minion to add a burden.",
    "versions": [
     {
@@ -21769,9 +21802,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. When you play Ulaire Cantea, add a threat for each companion over 4. Maneuver: Remove 2 threats and spot another [WRAITH] minion to discard a possession.",
    "versions": [
     {
@@ -21890,9 +21923,9 @@
    "strength": 11,
    "vitality": 4,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. While you can spot 6 companions, Ulaire Enquea is damage +1. Each time a companion is killed, you may exert Ulaire Enquea to exert the Ring-bearer.",
    "versions": [
     {
@@ -22002,9 +22035,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ulaire Lemenya is strength +1 for each other [WRAITH] minion you spot. While you can spot 3 [WRAITH] minions Ulaire Lemenya is fierce. While you can spot 4 [WRAITH] minions Ulaire Lemenya is damage +1.",
    "versions": [
     {
@@ -22114,9 +22147,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: If you have initiative, discard Ulaire Lemenya to discard a possession.",
    "lore": "“And even at that moment the sun for a second faltered and was obscured, as though a dark wing had passed across it.”",
    "versions": [
@@ -22229,9 +22262,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. Skirmish: Discard a [WRAITH] minion to make Ulaire Nelya strength +2.",
    "versions": [
     {
@@ -22341,9 +22374,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. Regroup: If you have initiative, discard Ulaire Nelya to exert each Ring-bound companion.",
    "versions": [
     {
@@ -22453,9 +22486,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: If you have initiative, discard Ulaire Nertea to add a burden.",
    "lore": "“‘I fear that Minas Tirith shall fall. Night comes. The very warmth of my blood seems stolen away.'”",
    "versions": [
@@ -22568,9 +22601,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Regroup: If you have initiative, discard Ulaire Otsea to make the Free Peoples player exert a Ring-bound companion twice or return and unbound companion to his or her hand.",
    "lore": "“...horrible as carrion-fowl yet greater than eagles, cruel as death.”",
    "versions": [
@@ -22683,9 +22716,9 @@
    "strength": 12,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. While you have initiative and can spot a Nazgul, Ulaire Toldea?s twilight cost is -6.",
    "versions": [
     {
@@ -22791,9 +22824,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a [WRAITH] Orc strength +2 (or +4 if you spot 2 wounds on the Ring-bearer).",
    "lore": "“‘Through many ages Sauron has hated the West....'”",
    "versions": [
@@ -22901,9 +22934,9 @@
    "strength": 14,
    "vitality": 4,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. When you play the Witch-King, you may remove a threat to take a [WRAITH] card into hand from your discard pile. The Ring-bearer cannot take threat wounds.",
    "versions": [
     {
@@ -23021,10 +23054,13 @@
    "strength": 4,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Towers",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "Villager. Skirmish: If you have initiative, discard a card from hand to make a [ROHAN] Man strength +1.",
+   "homeSites": [
+    "3T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S222.0",
@@ -23043,7 +23079,10 @@
       "signet": "None",
       "block": "Towers",
       "arrowDirection": "None",
-      "gameText": "Villager. Skirmish: If you have initiative, discard a card from hand to make a [ROHAN] Man strength +1."
+      "gameText": "Villager. Skirmish: If you have initiative, discard a card from hand to make a [ROHAN] Man strength +1.",
+      "homeSites": [
+       "3T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07222.jpg",
      "wikiImage": "LOTR-EN07S222.0_card.jpg"
@@ -23125,9 +23164,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a mounted [ROHAN] Man to exert a minion. That minion's owner may exert a companion and if he or she does so, you may exert a minion; repeat this until a player does not exert a character.",
    "lore": "“But the Rohirrim sang no more. Death they cried with one voice....”",
    "versions": [
@@ -23234,10 +23273,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Valiant. Skirmish: Exert Elfhelm to make him strength +1 for each uncontrolled plains site you can spot.",
    "versions": [
     {
@@ -23254,6 +23294,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -23344,10 +23385,11 @@
    "twilight": 2,
    "strength": 5,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot another [ROHAN] Man and this companion is skirmishing a wounded minion, this companion is strength +2 and damage +1.",
    "lore": "“Doom drove them on. Darkness took them, / horse and horseman; hoofbeats afar / sank into silence: so the songs tell us.”",
    "versions": [
@@ -23364,6 +23406,7 @@
       "twilight": 2,
       "strength": 5,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -23457,10 +23500,11 @@
    "twilight": 3,
    "strength": 8,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Valiant. While you can spot a [ROHAN] Man, Eomer's twilight cost is -1. Fellowship: Play a [ROHAN] companion to take a [ROHAN] possession or [ROHAN] skirmish event into hand from your discard pile.",
    "versions": [
     {
@@ -23477,6 +23521,7 @@
       "twilight": 3,
       "strength": 8,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -23577,10 +23622,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Valiant. While skirmishing a mounted minion, Eowyn is strength +2. While skirmishing a fierce minion, Eowyn is strength +2.",
    "versions": [
     {
@@ -23597,6 +23643,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Theoden",
       "block": "None",
@@ -23695,10 +23742,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Discard a possession borne by Eowyn to make her strength +2.",
    "lore": "“He turned and saw her as a glimmer... for she was clad in white; but her eyes were on fire.”",
    "versions": [
@@ -23716,6 +23764,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -23808,9 +23857,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+3",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Eowyn. You may play this possession anytime you could play a skirmish event. When you play this possession, you may wound a minion Eowyn is skirmishing.",
    "versions": [
     {
@@ -23914,9 +23963,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a [ROHAN] Man strength +2 (or +3 and damage +1 if skirmishing a wounded minion).",
    "lore": "“...the battle-fury of his fathers ran like new fire in his veins....”",
    "versions": [
@@ -24021,9 +24070,9 @@
    "unique": true,
    "subtypes": "Mount",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [ROHAN] Man. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. Regroup: If bearer is Eomer, exert him to discard a condition. Any Shadow player may remove (1) to prevent this.",
    "versions": [
     {
@@ -24129,10 +24178,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Valiant. Skirmish: Replace the fellowship's site with your plains site of the same number to discard a card from hand.",
    "versions": [
     {
@@ -24149,6 +24199,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -24237,9 +24288,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If you have initiative, discard 2 cards from hand to heal all [ROHAN] allies.",
    "lore": "“‘...for I will not leave my strongholds all unguarded.'”",
    "versions": [
@@ -24346,10 +24397,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Discard a [ROHAN] condition to make Guthlaf strength +1.",
    "lore": "“And straightaway all the horns in the host were lifted up in music....”",
    "versions": [
@@ -24367,6 +24419,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -24460,9 +24513,9 @@
    "twilight": 3,
    "strengthMod": "+2",
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Theoden. He is damage +1. Response: If Theoden is about to take a wound and you cannot spot 3 threats, add 2 threats to prevent that wound.",
    "versions": [
     {
@@ -24501,8 +24554,8 @@
       "twilight": 3,
       "strengthMod": "+2",
       "vitalityMod": "+1",
-      "block": "None",
-      "gameText": "Bearer must be Theoden. He is damage +1. Response: If Theoden is about to take a wound and you cannot spot 3 threats, add 2 threats to prevent that wound."
+      "gameText": "Bearer must be Theoden. He is damage +1. Response: If Theoden is about to take a wound and you cannot spot 3 threats, add 2 threats to prevent that wound.",
+      "type": "Artifact"
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E236.1_card.jpg",
      "wikiImage": "LOTR-EN07S236.1_card.jpg"
@@ -24587,9 +24640,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot 3 [ROHAN] Men to make an opponent remove (1) or place a random card from hand beneath his or her draw deck. Do this once for each card in that player's hand when you play this event.",
    "lore": "“...even as Oromë the Great in the battle of the Valar when the world was young.”",
    "versions": [
@@ -24693,9 +24746,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Choose an opponent. For each mounted companion you spot, that opponent must remove (1) or place a random card from hand beneath his or her draw deck.",
    "lore": "“Éomer rode there, and the white horsetail on his helm floating in his speed....”",
    "versions": [
@@ -24802,11 +24855,14 @@
    "strength": 4,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Towers",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "Villager. Fellowship: If you have initiative, discard 2 cards from hand to heal a [ROHAN] Man.",
    "lore": "“...when they saw the king they cried with glad voices: ‘Théoden King! Théoden King!”",
+   "homeSites": [
+    "3T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S239.0",
@@ -24826,7 +24882,10 @@
       "block": "Towers",
       "arrowDirection": "None",
       "gameText": "Villager. Fellowship: If you have initiative, discard 2 cards from hand to heal a [ROHAN] Man.",
-      "lore": "“...when they saw the king they cried with glad voices: ‘Théoden King! Théoden King!”"
+      "lore": "“...when they saw the king they cried with glad voices: ‘Théoden King! Théoden King!”",
+      "homeSites": [
+       "3T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07239.jpg",
      "wikiImage": "LOTR-EN07S239.0_card.jpg"
@@ -24911,9 +24970,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [ROHAN] Man. You may add a threat to play this possession anytime you could play a skirmish event.",
    "versions": [
     {
@@ -25017,9 +25076,9 @@
    "twilight": 0,
    "strengthMod": "+2",
    "vitalityMod": "-1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Merry. While you can spot 3 [ROHAN] Men, Merry cannot be overwhelmed unless his strength is tripled.",
    "versions": [
     {
@@ -25123,9 +25182,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Merry. Maneuver: Exert Merry twice to exert a minion once for each [ROHAN] companion you spot.",
    "versions": [
     {
@@ -25156,7 +25215,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Bearer must be Merry. Maneuver: Exert Merry X times to exert a minion once for each [ROHAN] companion you spot (limit X)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E242.1_card.jpg",
@@ -25242,9 +25300,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a [ROHAN] Man strength +4. Any Shadow player may place a random card from hand beneath his or her draw deck to make that Man strength +2 instead.",
    "lore": "“...morning and a wind from the sea; and darkness was removed, and the hosts of Mordor wailed....”",
    "versions": [
@@ -25348,9 +25406,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 3 [ROHAN] Men. Maneuver: Exert a [ROHAN] companion twice or discard this condition to play a [ROHAN] possession from your discard pile.",
    "versions": [
     {
@@ -25451,9 +25509,9 @@
    "unique": false,
    "subtypes": "Armor",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [ROHAN] Man. Response: If you have initiative and bearer is about to take a wound in a skirmish, discard 3 cards from hand to prevent that wound.",
    "versions": [
     {
@@ -25556,10 +25614,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Discard a card from hand to exert a minion skirmishing this companion.",
    "lore": "“...and strengthened his host by some three score of Riders that came late to the weapontake.”",
    "versions": [
@@ -25576,6 +25635,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -25669,10 +25729,13 @@
    "strength": 4,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "Towers",
-   "arrowDirection": "None",
+   "arrowDirection": null,
    "gameText": "Villager. To play, spot 2 [ROHAN] Men. Regroup: Discard 3 cards from hand to remove a threat.",
+   "homeSites": [
+    "3T"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S247.0",
@@ -25691,7 +25754,10 @@
       "signet": "None",
       "block": "Towers",
       "arrowDirection": "None",
-      "gameText": "Villager. To play, spot 2 [ROHAN] Men. Regroup: Discard 3 cards from hand to remove a threat."
+      "gameText": "Villager. To play, spot 2 [ROHAN] Men. Regroup: Discard 3 cards from hand to remove a threat.",
+      "homeSites": [
+       "3T"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07247.jpg",
      "wikiImage": "LOTR-EN07S247.0_card.jpg"
@@ -25776,9 +25842,9 @@
    "subtypes": "Ranged Weapon",
    "twilight": 1,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [ROHAN] Man. Archery: Discard this possession to make the fellowship archery total +1.",
    "versions": [
     {
@@ -25880,9 +25946,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmishes are resolved in an order decided by the first Shadow player. Each time a [ROHAN] Man wins a skirmish, place a [ROHAN] token here. Each [ROHAN] Man is strength +1 for each token here. Discard this condition during the regroup phase.",
    "versions": [
     {
@@ -25983,9 +26049,9 @@
    "unique": true,
    "subtypes": "Mount",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [ROHAN] Man. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. Regroup: If bearer is Theoden, exert him to liberate a site. Any Shadow player may remove (2) to prevent this.",
    "versions": [
     {
@@ -26086,9 +26152,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 [ROHAN] Men. Regroup: Discard cards from hand equal to the number of cards in an opponent's hand to make the move limit +1 for this turn. Each Shadow player may take up to 4 cards into hand from his or her discard pile. Discard this condition.",
    "versions": [
     {
@@ -26188,9 +26254,9 @@
    "title": "Strong Arms",
    "unique": false,
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [ROHAN] Man. Plays on a site. This site is a plains. Each [ROHAN] Man is strength +1 at this site.",
    "versions": [
     {
@@ -26290,9 +26356,9 @@
    "unique": false,
    "subtypes": "Mount",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [ROHAN] Man. While at a plains site, bearer takes no more than 1 wound during each skirmish. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.",
    "versions": [
     {
@@ -26396,10 +26462,11 @@
    "twilight": 3,
    "strength": 7,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Valiant. While you can spot a [ROHAN] Man, Theoden's twilight cost is -1. Each time the fellowship moves, you may exert a [ROHAN] companion to exert a minion.",
    "versions": [
     {
@@ -26416,6 +26483,7 @@
       "twilight": 3,
       "strength": 7,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Theoden",
       "block": "None",
@@ -26507,10 +26575,11 @@
    "twilight": 3,
    "strength": 7,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot a [ROHAN] Man, Theoden's twilight cost is -1. Fellowship: If the twilight pool has fewer than 2 twilight tokens, play a [ROHAN] possession on Theoden and add (2) to heal another [ROHAN] companion.",
    "versions": [
     {
@@ -26527,6 +26596,7 @@
       "twilight": 3,
       "strength": 7,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
@@ -26615,9 +26685,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert X mounted companions to wound X minions.",
    "lore": "“...for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.”",
    "versions": [
@@ -26648,8 +26718,6 @@
      "releaseDate": "2023-01-11",
      "batch": "pc-2023-01-11",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Exert X mounted companions to wound X minions and remove X burdens."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E256.1_card.jpg",
@@ -26738,10 +26806,11 @@
    "twilight": 2,
    "strength": 6,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert this companion to make him strength +1 for each mounted companion you spot.",
    "lore": "“...through Folde and Fenmarch and the Firienwood, six thousand speards to Sunlending....”",
    "versions": [
@@ -26758,6 +26827,7 @@
       "twilight": 2,
       "strength": 6,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
@@ -26848,9 +26918,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a mounted [ROHAN] Man strength +1 for each mounted companion. If that Man is skirmishing a [RAIDER] minion, also make him or her strength +2 and damage +2.",
    "lore": "“Fewer were they but they clove through the Southrons like a fire-bolt in a forest.”",
    "versions": [
@@ -26954,9 +27024,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a [ROHAN] Man strength +2. If that Man is mounted, choose an opponent who must place a random card from hand beneath his or her draw deck.",
    "lore": "“Far, far away, in the South the clouds could be dimly seen as remote grey shapes, rolling up, drifting: morning lay beyond them.”",
    "versions": [
@@ -27060,9 +27130,9 @@
    "unique": true,
    "subtypes": "Mount",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [ROHAN] Man. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. Skirmish: If bearer is Eowyn, exert her twice to wound a fierce minion she is skirmishing.",
    "versions": [
     {
@@ -27161,9 +27231,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [ROHAN] companion. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to heal up to 2 [ROHAN] companions.",
    "versions": [
     {
@@ -27264,9 +27334,9 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Play a bieseger stacked on a site you control or remove a burden to play a [SAURON] Orc from your discard pile.",
    "lore": "“...they began to throw missiles marvellously high....”",
    "versions": [
@@ -27370,9 +27440,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Remove 3 threats to make a character skirmishing a [SAURON] Orc strength -3.",
    "lore": "“‘...the Rammas is breached far and wide...'”",
    "versions": [
@@ -27479,9 +27549,9 @@
    "strength": 19,
    "vitality": 5,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Discard a [SAURON] Orc to add a threat. Skirmish: Remove a threat to make Army of Udun strength +1. Regroup: Discard Army of Udun and X other [SAURON] Orcs to add X threats.",
    "versions": [
     {
@@ -27586,9 +27656,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 0,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [SAURON] Orc. If you have initiative, bearer is strength +3.",
    "versions": [
     {
@@ -27690,9 +27760,9 @@
    "unique": false,
    "subtypes": "Regroup",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Remove 4 threats and spot 2 [SAURON] Orcs to make the Free Peoples player spot a companion and place that companion in the dead pile.",
    "lore": "“‘Yet now under the Lord of Barad-dûr the most fell of all his captains is already master of your outer walls....'”",
    "versions": [
@@ -27796,9 +27866,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Choose an opponent to discard the top card of his or her draw deck. If the twilight cost of that card is less than the number of besiegers you spot, take control of a site and all besiegers are strength +3 until the regroup phase.",
    "versions": [
     {
@@ -27899,9 +27969,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "For each 2 sites you control, the twilight cost of each of your [SAURON] cards is -1. Regroup: Spot a [SAURON] minion to draw a card (or draw 2 cards instead if that minion is a besieger). Discard this condition.",
    "versions": [
     {
@@ -28002,9 +28072,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "The site number of each [SAURON] Orc is -1 for each threat. While you can spot 3 threats, each [SAURON] Orc that is not roaming is strength +1",
    "versions": [
     {
@@ -28108,9 +28178,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. When you play this minion from a site you control, add a burden for each site you control.",
    "versions": [
     {
@@ -28217,9 +28287,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. Skirmish: Discard this minion to make a [SAURON] minion strength +1 for each site you control (or +2 if you have initiative).",
    "versions": [
     {
@@ -28326,9 +28396,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. When you play this minion from a site you control, add 2 threats.",
    "versions": [
     {
@@ -28435,9 +28505,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. Regroup: Discard 2 cards from hand to stack a [SAURON] Orc on a site you control (or discard 1 card from hand if that Orc is a besieger).",
    "versions": [
     {
@@ -28544,9 +28614,9 @@
    "strength": 12,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. Skirmish: Discard 2 cards from hand to play a [SAURON] Orc stacked on a site you control. That Orc is fierce and strength +6 until the regroup phase.",
    "versions": [
     {
@@ -28653,9 +28723,9 @@
    "strength": 10,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. While this minion is stacked on a site you control, besiegers are fierce.",
    "versions": [
     {
@@ -28762,9 +28832,9 @@
    "strength": 10,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. Skirmish: If this minion is stacked on a site you control, discard him to make a [SAURON] Orc strength +5 (or +10 if you have initiative).",
    "versions": [
     {
@@ -28871,9 +28941,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. Shadow: Discard 2 cards from hand to play a [SAURON] Orc stacked on a site you control (discard 1 card from hand instead if that Orc is a besieger).",
    "versions": [
     {
@@ -28980,9 +29050,9 @@
    "strength": 9,
    "vitality": 2,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. Response: If a besieger is about to take a wound, discard 2 cards from hand to prevent it.",
    "versions": [
     {
@@ -29089,9 +29159,9 @@
    "strength": 14,
    "vitality": 4,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. Skirmish: Stack your besieger on a site you control to make Gorgoroth Troop strength +2.",
    "versions": [
     {
@@ -29195,9 +29265,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a besieger or a site you control. Maneuver: Discard an engine to discard a condition from the Free Peoples support area.",
    "versions": [
     {
@@ -29298,9 +29368,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Engine. Shadow: Play a besieger to place a [SAURON] token here. Skirmish: Remove a [SAURON] token from a condition to make a [SAURON] Orc strength +1 (limit +2).",
    "versions": [
     {
@@ -29404,9 +29474,9 @@
    "strength": 21,
    "vitality": 5,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play Host of Udun, you may remove X threats to make its twilight cost -X.",
    "versions": [
     {
@@ -29510,9 +29580,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 [SAURON] Orcs and add up to 3 threats. Each time a companion is about to be killed, you may remove a threat to make all minions fierce until the regroup phase. Discard this condition and remove 3 threats at the start of the regroup phase.",
    "versions": [
     {
@@ -29616,9 +29686,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If a companion is overwhelmed during a skirmish involving a [SAURON] Orc and threat wounds are about to be placed, remove a threat to assign this minion to the Ring-bearer (even if the Ring-bearer is already assigned).",
    "lore": "“Drums rolled and fires leaped up.”",
    "versions": [
@@ -29652,8 +29722,6 @@
      "releaseDate": "2004-02-03",
      "batch": "decipher-2004-02-03",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Response: If a companion is overwhelmed during a skirmish involving a [SAURON] Orc and threat wounds are about to be placed, remove a threat to assign this minion to the Ring-bearer (even if the Ring-bearer is already assigned)."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07284.jpg",
@@ -29742,9 +29810,9 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert this minion and spot another [SAURON] minion to add a threat.",
    "lore": "“...towards Mordor where the first bitter assault would come....”",
    "versions": [
@@ -29778,8 +29846,6 @@
      "releaseDate": "2003-11-04",
      "batch": "decipher-2003-11-04",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Skirmish: Exert this minion and spot another [SAURON] minion to add a threat."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07285.jpg",
@@ -29868,9 +29934,9 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot a threat and another [SAURON] Orc, the Shadow has initiative, regardless of the Free Peoples player's hand.",
    "lore": "“The men of the West were trapped....”",
    "versions": [
@@ -29980,9 +30046,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert 3 [SAURON] Orcs to add 3 threats. When this minion is discarded, remove 3 threats.",
    "versions": [
     {
@@ -30089,9 +30155,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert this minion and spot another [SAURON] minion to add a threat.",
    "lore": "“...but the sun now climbing towards the South was veilded in the reeks of Mordor....”",
    "versions": [
@@ -30201,9 +30267,9 @@
    "strength": 10,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Exert this minion and spot another [SAURON] minion to add a threat.",
    "lore": "“...he watched the enemy come charging to the assault.”",
    "versions": [
@@ -30237,8 +30303,6 @@
      "releaseDate": "2003-11-04",
      "batch": "decipher-2003-11-04",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Skirmish: Exert this minion and spot another [SAURON] minion to add a threat."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07289.jpg",
@@ -30327,9 +30391,9 @@
    "strength": 3,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Remove a threat to make this minion strength +4.",
    "lore": "“...or the end maybe of all the world of light.”",
    "versions": [
@@ -30439,9 +30503,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Remove 2 threats to make a [SAURON] Orc strength +6.",
    "lore": "“...and then all hope was quenched.”",
    "versions": [
@@ -30551,9 +30615,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Remove 3 threats to make a [SAURON] minion strength +8.",
    "lore": "“...the first assault crashed into them.”",
    "versions": [
@@ -30662,9 +30726,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Discard a card from hand to make a companion skirmishing this minion strength -1 for each other [SAURON] Orc you spot (limit -3).",
    "lore": "“Sauron had taken the proffered bait in jaws of steel.”",
    "versions": [
@@ -30774,9 +30838,9 @@
    "strength": 15,
    "vitality": 4,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Archer. If you have initiative, the minion archery total is +1 and Orc Archer Troop is fierce.",
    "versions": [
     {
@@ -30883,9 +30947,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Spot 6 companions and exert this minion to make another [SAURON] Orc strength +6.",
    "lore": "“The plain was dark with their marching companies....”",
    "versions": [
@@ -30995,9 +31059,9 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Discard 3 cards from hand to make this minion strength +3.",
    "lore": "“...the vomit of the maggot-folk of Mordor.”",
    "versions": [
@@ -31107,9 +31171,9 @@
    "strength": 6,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tracker. The site number of each [SAURON] Orc is -1. While you have initiative, this minion is strength +6.",
    "versions": [
     {
@@ -31216,9 +31280,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow: Remove (3) and spot 3 [SAURON] Orcs to draw a card.",
    "lore": "“...all the hills and rocks about the Morannon were filled with hidden foes....”",
    "versions": [
@@ -31328,9 +31392,9 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Discard this minion to make another [SAURON] Orc strength +3.",
    "lore": "“...far away he saw fires spring up....”",
    "versions": [
@@ -31440,9 +31504,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot 3 other [SAURON] Orcs, this minion is strength +5.",
    "lore": "“...their bodies were cast aside... and others took their place.”",
    "versions": [
@@ -31552,9 +31616,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time a companion is overwhelmed in a skirmish that involves a [SAURON] Orc, add 3 burdens.",
    "lore": "“...and the shadowy defile beyond was bored and tunnelled by teeming broods of evil things.”",
    "versions": [
@@ -31588,8 +31652,6 @@
      "releaseDate": "2004-04-05",
      "batch": "decipher-2004-04-05",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Each time a companion is overwhelmed in a skirmish that involves a [SAURON] Orc, add 3 burdens."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07302.jpg",
@@ -31678,9 +31740,9 @@
    "strength": 5,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tracker. The site number of each [SAURON] Orc is -1. While you have initiative, this minion is strength +5.",
    "versions": [
     {
@@ -31787,9 +31849,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: Discard this minion to make another [SAURON] Orc strength +4.",
    "lore": "“The drums rolled and rattled.”",
    "versions": [
@@ -31899,9 +31961,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot 6 companions and another [SAURON] Orc, this minion is strength +9 and fierce.",
    "lore": "“North amid the noisome pits lay the first of the great heaps and hills of slag....”",
    "versions": [
@@ -32011,9 +32073,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tracker. The site number of each [SAURON] Orc is -1. If you have initiative when you play this minion, you may spot another [SAURON] Orc to draw 2 cards.",
    "versions": [
     {
@@ -32120,9 +32182,9 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Tracker. The site number of each [SAURON] Orc is -1. While you have initiative, this minion is strength +8.",
    "versions": [
     {
@@ -32226,9 +32288,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 [SAURON] Orcs. Regroup: Exert a [SAURON] Orc and remove a threat to shuffle a [SAURON] Orc from play into your draw deck.",
    "versions": [
     {
@@ -32329,9 +32391,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 [SAURON] Orcs. Discard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, make a [SAURON] Orc strength +2.",
    "versions": [
     {
@@ -32432,9 +32494,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [SAURON] Orc. Shadow: Remove a threat to play a [SAURON] Orc without paying any roaming penalty. Regroup: Spot a [SAURON] Orc and remove (4) to add a threat.",
    "versions": [
     {
@@ -32538,9 +32600,9 @@
    "strength": 12,
    "vitality": 3,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Besieger. Skirmish: Discard 2 cards from hand to make a besieger fierce until the regroup phase.",
    "versions": [
     {
@@ -32644,9 +32706,9 @@
    "unique": false,
    "subtypes": "Response",
    "twilight": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If your [SAURON] Orc wins a skirmish, make all your [SAURON] Orc fierce until the regroup phase.",
    "lore": "“‘They are blasting breaches in it.'”",
    "versions": [
@@ -32750,9 +32812,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [SAURON] Orc. Regroup: Play a [SAURON] condition to place a [SAURON] token on this card. While there are 3 tokens on this card, the Shadow has initiative, regardless of the Free Peoples player's hand.",
    "versions": [
     {
@@ -32853,9 +32915,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Response: If your [SAURON] minion wins a skirmish, place a [SAURON] token here (limit 1 per site). Regroup: Add (2) for each token here. Discard this condition.",
    "versions": [
     {
@@ -32956,9 +33018,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Engine. To play, spot a [SAURON] Orc. Each besieger is strength +1 for each site you control. Regroup: Discard 3 [SAURON] Orcs to take control of a site. Discard this condition.",
    "versions": [
     {
@@ -33059,9 +33121,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Engine. To play, spot a [SAURON] Orc. All [SAURON] Orcs are strength +1 for each besieger stacked on a site. Regroup: Discard a besieger to take control of a site. Discard this condition.",
    "versions": [
     {
@@ -33168,8 +33230,8 @@
    "resistance": 10,
    "canBearRing": true,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ring-bearer (resistance 10). Ring-bound. Each time the fellowship moves, you may add (3) to remove a threat.",
    "versions": [
     {
@@ -33280,9 +33342,9 @@
    "vitality": 4,
    "resistance": 10,
    "canBearRing": true,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": "Gandalf",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ring-bearer (resistance 10). Ring-bound. Skirmish: At sites 6K to 8K, add 4 burdens to wound a minion skirmishing Frodo.",
    "versions": [
     {
@@ -33301,7 +33363,7 @@
       "vitality": 4,
       "resistance": 10,
       "canBearRing": true,
-      "signet": "None",
+      "signet": "Gandalf",
       "block": "None",
       "arrowDirection": "None",
       "gameText": "Ring-bearer (resistance 10). Ring-bound. Skirmish: At sites 6K to 8K, add 4 burdens to wound a minion skirmishing Frodo."
@@ -33391,10 +33453,11 @@
    "twilight": 1,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: If you cannot spot 3 threats, add a threat to make Merry strength +2.",
    "lore": "“‘I will be ready... even if you bid me ride with you on the Paths of the Dead.'”",
    "versions": [
@@ -33412,6 +33475,7 @@
       "twilight": 1,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
@@ -33505,10 +33569,11 @@
    "twilight": 1,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: If Merry is not assigned to a skirmish, return him to your hand to play up to 2 [ROHAN] possessions from your discard pile.",
    "lore": "“‘And I would not have it said of me in song only that I was always left behind!'”",
    "versions": [
@@ -33526,6 +33591,7 @@
       "twilight": 1,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Theoden",
       "block": "None",
@@ -33628,10 +33694,11 @@
    "twilight": 1,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you cannot spot 4 threats, Pippin is strength +1 for each threat you can spot.",
    "lore": "“‘I do not know what put it into your head, or your heart, to do that. But it was well done.'”",
    "versions": [
@@ -33649,6 +33716,7 @@
       "twilight": 1,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
@@ -33742,10 +33810,11 @@
    "twilight": 1,
    "strength": 3,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Skirmish: If Pippin is not assigned to a skirmish, return him to your hand to wound a roaming minion twice.",
    "lore": "“‘And as for orders, I think you have a madman to deal with, not a lord.'”",
    "versions": [
@@ -33763,6 +33832,7 @@
       "twilight": 1,
       "strength": 3,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -33862,9 +33932,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot 2 Hobbits. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition and exert a Hobbit companion to play the fellowship's next site (replacing opponent's site if necessary).",
    "versions": [
     {
@@ -33971,8 +34041,8 @@
    "resistance": 5,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ring-bound. Fellowship: Play a Hobbit companion to remove a burden. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).",
    "versions": [
     {
@@ -34084,8 +34154,8 @@
    "resistance": 5,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ring-bound. Fellowship: If you have initiative, discard a card from hand to heal Sam. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).",
    "versions": [
     {
@@ -34192,9 +34262,9 @@
    "title": "Slow-kindled Courage",
    "unique": true,
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be Merry or Pippin. Each minion gains this ability: 'Assignment: Assign this minion to bearer of Slow-kindled Courage.' Regroup: Discard this condition to discard a minion and remove 2 burdens.",
    "versions": [
     {
@@ -34294,11 +34364,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "Fellowship: Spot a Dwarf to play a [DWARVEN] condition from your draw deck (limit once per turn).",
+   "homeSites": [
+    "1K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S329.0",
@@ -34315,7 +34388,10 @@
       "block": "King",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "Fellowship: Spot a Dwarf to play a [DWARVEN] condition from your draw deck (limit once per turn)."
+      "gameText": "Fellowship: Spot a Dwarf to play a [DWARVEN] condition from your draw deck (limit once per turn).",
+      "homeSites": [
+       "1K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07329.jpg",
      "wikiImage": "LOTR-EN07S329.0_card.jpg"
@@ -34399,11 +34475,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "The twilight cost of each [ROHAN] possession is -1.",
+   "homeSites": [
+    "1K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S330.0",
@@ -34420,7 +34499,10 @@
       "block": "King",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "The twilight cost of each [ROHAN] possession is -1."
+      "gameText": "The twilight cost of each [ROHAN] possession is -1.",
+      "homeSites": [
+       "1K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07330.jpg",
      "wikiImage": "LOTR-EN07S330.0_card.jpg"
@@ -34504,11 +34586,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "Fellowship: Spot Gandalf to add (2). Each player may draw a card.",
+   "homeSites": [
+    "1K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S331.0",
@@ -34525,7 +34610,10 @@
       "block": "King",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "Fellowship: Spot Gandalf and add (2). Each player may draw a card."
+      "gameText": "Fellowship: Spot Gandalf and add (2). Each player may draw a card.",
+      "homeSites": [
+       "1K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07331.jpg",
      "wikiImage": "LOTR-EN07S331.0_card.jpg"
@@ -34537,8 +34625,6 @@
      "releaseDate": "2004-04-05",
      "batch": "decipher-2004-04-05",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Fellowship: Spot Gandalf to add (2). Each player may draw a card."
      },
      "image": null,
@@ -34623,11 +34709,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "Fellowship: Exert an Elf to make the twilight cost of each condition and possession +2 until the end of the turn.",
+   "homeSites": [
+    "1K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S332.0",
@@ -34644,7 +34733,10 @@
       "block": "King",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "Fellowship: Exert an Elf to make the twilight cost of each condition and possession +2 until the end of the turn."
+      "gameText": "Fellowship: Exert an Elf to make the twilight cost of each condition and possession +2 until the end of the turn.",
+      "homeSites": [
+       "1K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07332.jpg",
      "wikiImage": "LOTR-EN07S332.0_card.jpg"
@@ -34657,7 +34749,6 @@
      "batch": "pc-2023-01-11",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Fellowship: Exert a [ROHAN] Man to make the twilight cost of each Shadow condition and possession +2 until the regroup phase."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E332.1_card.jpg",
@@ -34743,11 +34834,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "When the fellowship moves from this site, the Free Peoples player may spot 3 Hobbits to remove (2).",
+   "homeSites": [
+    "1K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S333.0",
@@ -34764,7 +34858,10 @@
       "block": "King",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "When the fellowship moves from this site, the Free Peoples player may spot 3 Hobbits to remove (2)."
+      "gameText": "When the fellowship moves from this site, the Free Peoples player may spot 3 Hobbits to remove (2).",
+      "homeSites": [
+       "1K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07333.jpg",
      "wikiImage": "LOTR-EN07S333.0_card.jpg"
@@ -34848,11 +34945,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "Each [GONDOR] companion is defender +1 until the end of the turn.",
+   "homeSites": [
+    "1K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S334.0",
@@ -34869,7 +34969,10 @@
       "block": "King",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "Each [GONDOR] companion is defender +1 until the end of the turn."
+      "gameText": "Each [GONDOR] companion is defender +1 until the end of the turn.",
+      "homeSites": [
+       "1K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07334.jpg",
      "wikiImage": "LOTR-EN07S334.0_card.jpg"
@@ -34953,11 +35056,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 2,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 1,
    "arrowDirection": "Left",
    "gameText": "Shadow: If the Shadow has initiative, spot your minion to make the move limit for this turn -1.",
+   "homeSites": [
+    "2K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S335.0",
@@ -34974,7 +35080,10 @@
       "block": "King",
       "shadowNumber": 1,
       "arrowDirection": "Left",
-      "gameText": "Shadow: If the Shadow has initiative, spot your minion to make the move limit for this turn -1."
+      "gameText": "Shadow: If the Shadow has initiative, spot your minion to make the move limit for this turn -1.",
+      "homeSites": [
+       "2K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07335.jpg",
      "wikiImage": "LOTR-EN07S335.0_card.jpg"
@@ -35058,11 +35167,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 2,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 2,
    "arrowDirection": "Left",
    "gameText": "Plains. If the Shadow has initiative, minions are not roaming.",
+   "homeSites": [
+    "2K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S336.0",
@@ -35079,7 +35191,10 @@
       "block": "King",
       "shadowNumber": 2,
       "arrowDirection": "Left",
-      "gameText": "Plains. If the Shadow has initiative, minions are not roaming."
+      "gameText": "Plains. If the Shadow has initiative, minions are not roaming.",
+      "homeSites": [
+       "2K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07336.jpg",
      "wikiImage": "LOTR-EN07S336.0_card.jpg"
@@ -35163,11 +35278,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 2,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Plains. If the Shadow has initiative, the Shadow number of this site is +3.",
+   "homeSites": [
+    "2K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S337.0",
@@ -35184,7 +35302,10 @@
       "block": "King",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Plains. If the Shadow has initiative, the Shadow number of this site is +3."
+      "gameText": "Plains. If the Shadow has initiative, the Shadow number of this site is +3.",
+      "homeSites": [
+       "2K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07337.jpg",
      "wikiImage": "LOTR-EN07S337.0_card.jpg"
@@ -35268,11 +35389,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 0,
    "arrowDirection": "Right",
    "gameText": "Sanctuary. Fellowship: If you cannot spot 3 threats, add a threat to heal a companion.",
+   "homeSites": [
+    "3K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S338.0",
@@ -35289,7 +35413,10 @@
       "block": "King",
       "shadowNumber": 0,
       "arrowDirection": "Right",
-      "gameText": "Sanctuary. Fellowship: If you cannot spot 3 threats, add a threat to heal a companion."
+      "gameText": "Sanctuary. Fellowship: If you cannot spot 3 threats, add a threat to heal a companion.",
+      "homeSites": [
+       "3K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07338.jpg",
      "wikiImage": "LOTR-EN07S338.0_card.jpg"
@@ -35373,11 +35500,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 1,
    "arrowDirection": "Right",
    "gameText": "Sanctuary. Fellowship: If you cannot spot 3 threats, add a threat to draw a card.",
+   "homeSites": [
+    "3K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S339.0",
@@ -35394,7 +35524,10 @@
       "block": "King",
       "shadowNumber": 1,
       "arrowDirection": "Right",
-      "gameText": "Sanctuary. Fellowship: If you cannot spot 3 threats, add a threat to draw a card."
+      "gameText": "Sanctuary. Fellowship: If you cannot spot 3 threats, add a threat to draw a card.",
+      "homeSites": [
+       "3K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07339.jpg",
      "wikiImage": "LOTR-EN07S339.0_card.jpg"
@@ -35478,11 +35611,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 3,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 0,
    "arrowDirection": "Right",
    "gameText": "Sanctuary. Fellowship: If you cannot spot 3 threats, add 3 threats to make the move limit for this turn +1.",
+   "homeSites": [
+    "3K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S340.0",
@@ -35499,7 +35635,10 @@
       "block": "King",
       "shadowNumber": 0,
       "arrowDirection": "Right",
-      "gameText": "Sanctuary. Fellowship: If you cannot spot 3 threats, add 3 threats to make the move limit for this turn +1."
+      "gameText": "Sanctuary. Fellowship: If you cannot spot 3 threats, add 3 threats to make the move limit for this turn +1.",
+      "homeSites": [
+       "3K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07340.jpg",
      "wikiImage": "LOTR-EN07S340.0_card.jpg"
@@ -35583,11 +35722,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 4,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 3,
    "arrowDirection": "Right",
    "gameText": "River. Skirmish: Spot your minion and remove a burden to make that minion strength +2.",
+   "homeSites": [
+    "4K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S341.0",
@@ -35604,7 +35746,10 @@
       "block": "King",
       "shadowNumber": 3,
       "arrowDirection": "Right",
-      "gameText": "River. Skirmish: Spot your minion and remove a burden to make that minion strength +2."
+      "gameText": "River. Skirmish: Spot your minion and remove a burden to make that minion strength +2.",
+      "homeSites": [
+       "4K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07341.jpg",
      "wikiImage": "LOTR-EN07S341.0_card.jpg"
@@ -35688,11 +35833,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 4,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 2,
    "arrowDirection": "Right",
    "gameText": "Skirmish: Spot your minion and remove 2 burdens to make that minion damage +1.",
+   "homeSites": [
+    "4K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S342.0",
@@ -35709,7 +35857,10 @@
       "block": "King",
       "shadowNumber": 2,
       "arrowDirection": "Right",
-      "gameText": "Skirmish: Spot your minion and remove 2 burdens to make that minion damage +1."
+      "gameText": "Skirmish: Spot your minion and remove 2 burdens to make that minion damage +1.",
+      "homeSites": [
+       "4K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07342.jpg",
      "wikiImage": "LOTR-EN07S342.0_card.jpg"
@@ -35793,11 +35944,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 4,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 4,
    "arrowDirection": "Right",
    "gameText": "Plains. Archery: Spot your minion and remove 3 burdens to make the minion archery total +3.",
+   "homeSites": [
+    "4K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S343.0",
@@ -35814,7 +35968,10 @@
       "block": "King",
       "shadowNumber": 4,
       "arrowDirection": "Right",
-      "gameText": "Plains. Archery: Spot your minion and remove 3 burdens to make the minion archery total +3."
+      "gameText": "Plains. Archery: Spot your minion and remove 3 burdens to make the minion archery total +3.",
+      "homeSites": [
+       "4K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07343.jpg",
      "wikiImage": "LOTR-EN07S343.0_card.jpg"
@@ -35898,11 +36055,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 5,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 6,
    "arrowDirection": "Left",
    "gameText": "When the fellowship moves to this site, add 3 threats. When the fellowship moves from this site, remove 3 threats.",
+   "homeSites": [
+    "5K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S344.0",
@@ -35919,7 +36079,10 @@
       "block": "King",
       "shadowNumber": 6,
       "arrowDirection": "Left",
-      "gameText": "When the fellowship moves to this site, add 3 threats. When the fellowship moves from this site, remove 3 threats."
+      "gameText": "When the fellowship moves to this site, add 3 threats. When the fellowship moves from this site, remove 3 threats.",
+      "homeSites": [
+       "5K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07344.jpg",
      "wikiImage": "LOTR-EN07S344.0_card.jpg"
@@ -36003,11 +36166,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 5,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 6,
    "arrowDirection": "Left",
    "gameText": "Plains. At the start of the maneuver phase, the Free Peoples player must discard his or her hand or add 2 burdens.",
+   "homeSites": [
+    "5K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S345.0",
@@ -36024,7 +36190,10 @@
       "block": "King",
       "shadowNumber": 6,
       "arrowDirection": "Left",
-      "gameText": "Plains. At the start of the maneuver phase, the Free Peoples player must discard his or her hand or add 2 burdens."
+      "gameText": "Plains. At the start of the maneuver phase, the Free Peoples player must discard his or her hand or add 2 burdens.",
+      "homeSites": [
+       "5K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07345.jpg",
      "wikiImage": "LOTR-EN07S345.0_card.jpg"
@@ -36108,11 +36277,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 6,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal Gandalf three times.",
+   "homeSites": [
+    "6K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S346.0",
@@ -36129,7 +36301,10 @@
       "block": "King",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal Gandalf three times."
+      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal Gandalf three times.",
+      "homeSites": [
+       "6K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07346.jpg",
      "wikiImage": "LOTR-EN07S346.0_card.jpg"
@@ -36213,11 +36388,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 6,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, wound each companion.",
+   "homeSites": [
+    "6K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S347.0",
@@ -36234,7 +36412,10 @@
       "block": "King",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, wound each companion."
+      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, wound each companion.",
+      "homeSites": [
+       "6K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07347.jpg",
      "wikiImage": "LOTR-EN07S347.0_card.jpg"
@@ -36318,11 +36499,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 6,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [ROHAN] companion.",
+   "homeSites": [
+    "6K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S348.0",
@@ -36339,7 +36523,10 @@
       "block": "King",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [ROHAN] companion."
+      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [ROHAN] companion.",
+      "homeSites": [
+       "6K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07348.jpg",
      "wikiImage": "LOTR-EN07S348.0_card.jpg"
@@ -36423,11 +36610,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 6,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [DWARVEN] companion.",
+   "homeSites": [
+    "6K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S349.0",
@@ -36444,7 +36634,10 @@
       "block": "King",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [DWARVEN] companion."
+      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [DWARVEN] companion.",
+      "homeSites": [
+       "6K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07349.jpg",
      "wikiImage": "LOTR-EN07S349.0_card.jpg"
@@ -36528,11 +36721,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 6,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [ELVEN] companion.",
+   "homeSites": [
+    "6K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S350.0",
@@ -36549,7 +36745,10 @@
       "block": "King",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [ELVEN] companion."
+      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [ELVEN] companion.",
+      "homeSites": [
+       "6K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07350.jpg",
      "wikiImage": "LOTR-EN07S350.0_card.jpg"
@@ -36633,11 +36832,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 6,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [GONDOR] companion.",
+   "homeSites": [
+    "6K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S351.0",
@@ -36654,7 +36856,10 @@
       "block": "King",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [GONDOR] companion."
+      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each [GONDOR] companion.",
+      "homeSites": [
+       "6K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07351.jpg",
      "wikiImage": "LOTR-EN07S351.0_card.jpg"
@@ -36738,11 +36943,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 6,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 3,
    "arrowDirection": "Left",
    "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each Hobbit companion.",
+   "homeSites": [
+    "6K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S352.0",
@@ -36759,7 +36967,10 @@
       "block": "King",
       "shadowNumber": 3,
       "arrowDirection": "Left",
-      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each Hobbit companion."
+      "gameText": "Sanctuary. If the fellowship moves from this site during the regroup phase, heal each Hobbit companion.",
+      "homeSites": [
+       "6K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07352.jpg",
      "wikiImage": "LOTR-EN07S352.0_card.jpg"
@@ -36843,11 +37054,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 7,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 6,
    "arrowDirection": "Right",
    "gameText": "River. Shadow: Exert 2 minions and spot 6 companions to draw 2 cards.",
+   "homeSites": [
+    "7K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S353.0",
@@ -36864,7 +37078,10 @@
       "block": "King",
       "shadowNumber": 6,
       "arrowDirection": "Right",
-      "gameText": "River. Shadow: Exert 2 minions and spot 6 companions to draw 2 cards."
+      "gameText": "River. Shadow: Exert 2 minions and spot 6 companions to draw 2 cards.",
+      "homeSites": [
+       "7K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07353.jpg",
      "wikiImage": "LOTR-EN07S353.0_card.jpg"
@@ -36948,11 +37165,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 7,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 6,
    "arrowDirection": "Right",
    "gameText": "Plains. Shadow: Exert a minion and spot 6 companions to add (1).",
+   "homeSites": [
+    "7K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S354.0",
@@ -36969,7 +37189,10 @@
       "block": "King",
       "shadowNumber": 6,
       "arrowDirection": "Right",
-      "gameText": "Plains. Shadow: Exert a minion and spot 6 companions to add (1)."
+      "gameText": "Plains. Shadow: Exert a minion and spot 6 companions to add (1).",
+      "homeSites": [
+       "7K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07354.jpg",
      "wikiImage": "LOTR-EN07S354.0_card.jpg"
@@ -37053,11 +37276,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 7,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 6,
    "arrowDirection": "Right",
    "gameText": "River. Shadow: Spot your minion and 6 companions to make the move limit for this turn -1.",
+   "homeSites": [
+    "7K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S355.0",
@@ -37074,7 +37300,10 @@
       "block": "King",
       "shadowNumber": 6,
       "arrowDirection": "Right",
-      "gameText": "River. Shadow: Spot your minion and 6 companions to make the move limit for this turn -1."
+      "gameText": "River. Shadow: Spot your minion and 6 companions to make the move limit for this turn -1.",
+      "homeSites": [
+       "7K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07355.jpg",
      "wikiImage": "LOTR-EN07S355.0_card.jpg"
@@ -37158,11 +37387,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 8,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 8,
    "arrowDirection": "Right",
    "gameText": "Shadow: Spot 2 [RAIDER] Men and remove a threat to add (2).",
+   "homeSites": [
+    "8K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S356.0",
@@ -37179,7 +37411,10 @@
       "block": "King",
       "shadowNumber": 8,
       "arrowDirection": "Right",
-      "gameText": "Shadow: Spot 2 [RAIDER] Men and remove a threat to add (2)."
+      "gameText": "Shadow: Spot 2 [RAIDER] Men and remove a threat to add (2).",
+      "homeSites": [
+       "8K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07356.jpg",
      "wikiImage": "LOTR-EN07S356.0_card.jpg"
@@ -37263,11 +37498,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 8,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 8,
    "arrowDirection": "Right",
    "gameText": "Skirmish: Spot your [SAURON] minion and remove 2 threats to make your [SAURON] minion strength +3.",
+   "homeSites": [
+    "8K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S357.0",
@@ -37284,7 +37522,10 @@
       "block": "King",
       "shadowNumber": 8,
       "arrowDirection": "Right",
-      "gameText": "Skirmish: Remove 2 threats to make your [SAURON] minion strength +3."
+      "gameText": "Skirmish: Remove 2 threats to make your [SAURON] minion strength +3.",
+      "homeSites": [
+       "8K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07357.jpg",
      "wikiImage": "LOTR-EN07S357.0_card.jpg"
@@ -37296,8 +37537,6 @@
      "releaseDate": "2004-03-02",
      "batch": "decipher-2004-03-02",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Skirmish: Spot your [SAURON] minion and remove 2 threats to make your [SAURON] minion strength +3."
      },
      "image": "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR07357.jpg",
@@ -37382,11 +37621,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 8,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 8,
    "arrowDirection": "Right",
    "gameText": "Shadow: Remove 2 threats to play a Nazgul from your discard pile. His twilight cost is -2.",
+   "homeSites": [
+    "8K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S358.0",
@@ -37403,7 +37645,10 @@
       "block": "King",
       "shadowNumber": 8,
       "arrowDirection": "Right",
-      "gameText": "Shadow: Remove 2 threats to play a Nazgul from your discard pile. His twilight cost is -2."
+      "gameText": "Shadow: Remove 2 threats to play a Nazgul from your discard pile. His twilight cost is -2.",
+      "homeSites": [
+       "8K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07358.jpg",
      "wikiImage": "LOTR-EN07S358.0_card.jpg"
@@ -37485,11 +37730,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 8,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 8,
    "arrowDirection": "Right",
    "gameText": "Shadow: Remove 2 threats and play Gollum from your discard pile to add 2 burdens.",
+   "homeSites": [
+    "8K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S359.0",
@@ -37506,7 +37754,10 @@
       "block": "King",
       "shadowNumber": 8,
       "arrowDirection": "Right",
-      "gameText": "Shadow: Remove 2 threats and play Gollum from your discard pile to add 2 burdens."
+      "gameText": "Shadow: Remove 2 threats and play Gollum from your discard pile to add 2 burdens.",
+      "homeSites": [
+       "8K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07359.jpg",
      "wikiImage": "LOTR-EN07S359.0_card.jpg"
@@ -37518,8 +37769,6 @@
      "releaseDate": "2021-12-19",
      "batch": "pc-2021-12-19",
      "fields": {
-      "unique": false,
-      "block": "None",
       "gameText": "Shadow: Remove 2 threats and play Gollum from your discard pile to add 2 burdens (limit once per phase)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN07E359.1_card.jpg",
@@ -37605,11 +37854,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 9,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Plains. When the fellowship moves to this site, add 3 threats.",
+   "homeSites": [
+    "9K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S360.0",
@@ -37626,7 +37878,10 @@
       "block": "King",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Plains. When the fellowship moves to this site, add 3 threats."
+      "gameText": "Plains. When the fellowship moves to this site, add 3 threats.",
+      "homeSites": [
+       "9K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07360.jpg",
      "wikiImage": "LOTR-EN07S360.0_card.jpg"
@@ -37710,11 +37965,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 9,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Shadow: Remove a threat and spot your minion to draw a card.",
+   "homeSites": [
+    "9K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S361.0",
@@ -37731,7 +37989,10 @@
       "block": "King",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Shadow: Remove a threat and spot your minion to draw a card."
+      "gameText": "Shadow: Remove a threat and spot your minion to draw a card.",
+      "homeSites": [
+       "9K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07361.jpg",
      "wikiImage": "LOTR-EN07S361.0_card.jpg"
@@ -37815,11 +38076,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 9,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Shadow: Spot 8 burdens to make the Ring-bearer wear The One Ring until the regroup phase.",
+   "homeSites": [
+    "9K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S362.0",
@@ -37836,7 +38100,10 @@
       "block": "King",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Shadow: Spot 8 burdens to make the Ring-bearer wear The One Ring until the regroup phase."
+      "gameText": "Shadow: Spot 8 burdens to make the Ring-bearer wear The One Ring until the regroup phase.",
+      "homeSites": [
+       "9K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07362.jpg",
      "wikiImage": "LOTR-EN07S362.0_card.jpg"
@@ -37918,11 +38185,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 9,
-   "signet": "None",
+   "signet": null,
    "block": "King",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Each time a companion is killed, add a burden.",
+   "homeSites": [
+    "9K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-EN07S363.0",
@@ -37939,7 +38209,10 @@
       "block": "King",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Each time a companion is killed, add a burden."
+      "gameText": "Each time a companion is killed, add a burden.",
+      "homeSites": [
+       "9K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07363.jpg",
      "wikiImage": "LOTR-EN07S363.0_card.jpg"
@@ -38026,10 +38299,11 @@
    "twilight": 4,
    "strength": 7,
    "vitality": 4,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you cannot spot 4 threats, Aragorn is strength +1 for each threat. Regroup: Exert Aragorn twice to remove 3 threats.",
    "versions": [
     {
@@ -38046,6 +38320,7 @@
       "twilight": 4,
       "strength": 7,
       "vitality": 4,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
@@ -38137,11 +38412,12 @@
    "twilight": 3,
    "strength": 7,
    "vitality": 3,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Theoden",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Valiant. While you can spot a [ROHAN] Man, Eomer's twilight cost is -1. Skirmish:If you have initiative, discard 3 cards from hand to make Eomer strength +1 for each valiant companion you spot.",
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Valiant. While you can spot a [ROHAN] Man, Eomer's twilight cost is -1. Skirmish: If you have initiative, discard 3 cards from hand to make Eomer strength +1 for each valiant companion you spot.",
    "versions": [
     {
      "wikiId": "LOTR-EN07S365.0",
@@ -38157,11 +38433,12 @@
       "twilight": 3,
       "strength": 7,
       "vitality": 3,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Theoden",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Valiant. While you can spot a [ROHAN] Man, Eomer's twilight cost is -1. Skirmish:If you have initiative, discard 3 cards from hand to make Eomer strength +1 for each valiant companion you spot."
+      "gameText": "Valiant. While you can spot a [ROHAN] Man, Eomer's twilight cost is -1. Skirmish: If you have initiative, discard 3 cards from hand to make Eomer strength +1 for each valiant companion you spot."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR07365.jpg",
      "wikiImage": "LOTR-EN07S365.0_card.jpg"

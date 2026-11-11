@@ -1,6 +1,6 @@
 # Card data report
 
-Wiki revision 128372, Gemp `feature/card-test-overhaul`, CDN manifest `ac0cda8f7ef2`.
+Wiki revision 128693, Gemp `feature/card-test-overhaul`, CDN manifest `ac0cda8f7ef2`.
 
 Where the wiki, Gemp and the CDN disagree. Fix the source (usually the wiki) and the next build picks it up.
 
@@ -156,19 +156,33 @@ None.
 
 None.
 
-## Values that differ between the wiki and Gemp (11)
+## Values that differ between the wiki and Gemp (4)
 
-- gempId: `101_31`, wiki: `LOTR-ENV1S031.0`, field: `type`, gemp: `event`, wiki_value: `condition`
-- gempId: `10_98`, wiki: `LOTR-EN10S098.0`, field: `title`, gemp: `ruinous hall`, wiki_value: `ruinous hail`
-- gempId: `15_67`, wiki: `LOTR-EN15S067.0`, field: `siteNumber`, gemp: `2`, wiki_value: `None`
-- gempId: `17_35`, wiki: `LOTR-EN18S058.0`, field: `siteNumber`, gemp: `3`, wiki_value: `None`
-- gempId: `18_124`, wiki: `LOTR-EN18S124.0`, field: `title`, gemp: `white hand attacker(2)`, wiki_value: `white hand attacker`
-- gempId: `4_103`, wiki: `LOTR-EN04S103.0`, field: `siteNumber`, gemp: `None`, wiki_value: `2`
-- gempId: `4_104`, wiki: `LOTR-EN04S104.0`, field: `siteNumber`, gemp: `None`, wiki_value: `2`
-- gempId: `4_262`, wiki: `LOTR-EN04S262.0`, field: `siteNumber`, gemp: `None`, wiki_value: `3`
-- gempId: `7_118`, wiki: `LOTR-EN07S118.0`, field: `siteNumber`, gemp: `2`, wiki_value: `None`
-- gempId: `7_125`, wiki: `LOTR-EN07S125.0`, field: `siteNumber`, gemp: `4`, wiki_value: `None`
-- gempId: `7_303`, wiki: `LOTR-EN07S303.0`, field: `title`, gemp: `orc pursuer(2)`, wiki_value: `orc pursuer`
+- gempId: `100_1`, wiki: `LOTR-ENV0S001.0`, title: `Rath Dínen`, field: `arrowDirection`, gemp: `right`, wiki_value: `left`
+- gempId: `10_98`, wiki: `LOTR-EN10S098.0`, title: `Ruinous Hail`, field: `title`, gemp: `ruinoushall`, wiki_value: `ruinoushail`
+- gempId: `5_119`, wiki: `LOTR-EN05S119.0`, title: `Nan Curunír`, field: `arrowDirection`, gemp: `left`, wiki_value: `right`
+- gempId: `5_120`, wiki: `LOTR-EN05S120.0`, title: `Caverns of Isengard`, field: `arrowDirection`, gemp: `right`, wiki_value: `left`
+
+## Gemp race, item class, keywords or event phase the wiki shows nowhere (0)
+
+None.
+
+## Game text whose numbers differ between the wiki and Gemp (often only wording) (10)
+
+- gempId: `101_21`, wiki: `LOTR-ENV1S021.0`, title: `The Sons of Gondor Have Returned`, field: `gameText`, gemp: `While Boromir is assigned to skirmish more than one minion, Aragorn is strength +3.<br>While Aragorn is assigned to skirmish more than one minion, Boromir is strength +3.`, wiki_value: `While Boromir is assigned to skirmish more than 1 minion, Aragorn is strength +3. While Aragorn is assigned to skirmish more than 1 minion, Boromir is strength +3.`
+- gempId: `1_151`, wiki: `LOTR-EN01S151.0`, title: `Uruk Savage`, field: `gameText`, gemp: `<b>Damage +1</b>. <helper>(When this minion wins a skirmish, add 1 extra wound to the defender.)</helper>`, wiki_value: `Damage +1.`
+- gempId: `1_158`, wiki: `LOTR-EN01S158.0`, title: `Uruk-hai Raiding Party`, field: `gameText`, gemp: `<b>Damage +1</b>. <helper>(When this minion wins a skirmish, add 1 extra wound to the defender.)</helper>`, wiki_value: `Damage +1.`
+- gempId: `1_176`, wiki: `LOTR-EN01S176.0`, title: `Goblin Marksman`, field: `gameText`, gemp: `<b>Archer</b>. <helper>(Add 1 to the minion archery total.)</helper>`, wiki_value: `Archer.`
+- gempId: `1_308`, wiki: `LOTR-EN01S308.0`, title: `Power According to His Stature`, field: `gameText`, gemp: `<b>Skirmish:</b> Add a burden to wound each minion skirmishing the Ring-bearer.`, wiki_value: `Skirmish: Add 1 burden to wound each minion skirmishing the Ring-bearer.`
+- gempId: `1_348`, wiki: `LOTR-EN01S348.0`, title: `Pass of Caradhras`, field: `gameText`, gemp: `<b>Mountain</b>. <b>Shadow:</b> Spot an [isengard] minion to play a weather card from your draw deck (limit 1 per turn).`, wiki_value: `Mountain. Shadow: Spot a [ISENGARD] minion to play a weather card from your draw deck (limit one per turn).`
+- gempId: `3_13`, wiki: `LOTR-EN03S013.0`, title: `Elrond, Herald to Gil-galad`, field: `gameText`, gemp: `At the start of each of your turns, you may spot an ally whose home is site 3 and heal that ally up to 2 times.<br><b>Regroup:</b> Exert Elrond twice to heal a companion.`, wiki_value: `At the start of each of your turns, you may spot an ally whose home is site 3 to heal that ally twice. Regroup: Exert Elrond twice to heal a companion.`
+- gempId: `4_200`, wiki: `LOTR-EN04S200.0`, title: `Uruk Vanguard`, field: `gameText`, gemp: `<b>Damage +1</b>. To play, spot an Uruk-hai.<br>While at a battleground, this minion is <b>fierce</b> and <b>damage +1</b>.`, wiki_value: `Damage +1 (or damage +2 if at a battleground). To play, spot an Uruk-hai. While at a battleground, this minion is fierce.`
+- gempId: `4_206`, wiki: `LOTR-EN04S206.0`, title: `Uruk-hai Patrol`, field: `gameText`, gemp: `<b>Damage +1</b>.<br>While you control a site, this minion is <b>damage +1</b>.`, wiki_value: `Damage +1(or damage +2 while you control a site).`
+- gempId: `54_73`, wiki: `LOTR-EN04S073.2`, title: `Legolas, Dauntless Hunter`, field: `gameText`, gemp: `<b>Archer.</b><br>Each time a Shadow event or Shadow condition is played, remove (1) for each unbound Hobbit you can spot.`, wiki_value: `Archer. Each time a Shadow event or Shadow condition is played, remove (1) for each unbound Hobbit you can spot (limit (2)).`
+
+## Wiki game text with paragraphs run together or markup left in (0)
+
+None.
 
 ## Decipher errata revisions without a release date (0)
 
@@ -185,3 +199,15 @@ None.
 ## Wiki Gemp IDs that aren't in set_number form (0)
 
 None.
+
+## Known differences, acknowledged in overrides.json (not errors) (9)
+
+- gempId: `103_41`, wiki: `LOTR-ENV3S041.0`, title: `Bladetusk Charger`, field: `strengthMod`, gemp: `None`, wiki_value: `4`
+- gempId: `103_41`, wiki: `LOTR-ENV3S041.0`, title: `Bladetusk Charger`, field: `vitalityMod`, gemp: `None`, wiki_value: `4`
+- gempId: `103_42`, wiki: `LOTR-ENV3S042.0`, title: `Bladetusk Matriarch`, field: `strengthMod`, gemp: `None`, wiki_value: `6`
+- gempId: `103_42`, wiki: `LOTR-ENV3S042.0`, title: `Bladetusk Matriarch`, field: `vitalityMod`, gemp: `None`, wiki_value: `6`
+- gempId: `103_43`, wiki: `LOTR-ENV3S043.0`, title: `Bladetusk Rearguard`, field: `strengthMod`, gemp: `None`, wiki_value: `5`
+- gempId: `103_43`, wiki: `LOTR-ENV3S043.0`, title: `Bladetusk Rearguard`, field: `vitalityMod`, gemp: `None`, wiki_value: `5`
+- gempId: `15_204`, wiki: `LOTR-EN15S060.0`, title: `Forth the Three Hunters!`, field: `subtitle`, gemp: `dwarvenversion`, wiki_value: ``
+- gempId: `15_205`, wiki: `LOTR-EN15E060.0`, title: `Forth the Three Hunters!`, field: `subtitle`, gemp: `elvenversion`, wiki_value: ``
+- gempId: `15_206`, wiki: `LOTR-EN15G060.0`, title: `Forth the Three Hunters!`, field: `subtitle`, gemp: `gondorversion`, wiki_value: ``

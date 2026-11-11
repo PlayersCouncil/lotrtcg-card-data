@@ -1,11 +1,11 @@
 {
  "schemaVersion": 1,
- "contentHash": "9fb4f9ae3d3395b45b7d0c2ac4d0f6ee04c67db945ca721e532aaab4dd6148db",
- "builtAt": "2026-11-02T18:53:04Z",
+ "contentHash": "b359fa3e4a37f7144b1f93dc9e4216d19335462488c24b3faad3c5049e6d7855",
+ "builtAt": "2026-11-11T21:25:24Z",
  "sources": {
   "wiki": {
-   "revid": 128372,
-   "timestamp": "2026-11-04T01:03:34Z"
+   "revid": 128693,
+   "timestamp": "2026-11-11T21:09:34Z"
   },
   "gemp": {
    "repo": "PlayersCouncil/gemp-lotr",

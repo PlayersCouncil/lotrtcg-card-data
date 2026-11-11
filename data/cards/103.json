@@ -19,10 +19,10 @@
    "subtypes": "Phial",
    "twilight": 1,
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be a Ring-bound Hobbit. Discard this if you can spot more than 4 companions.Maneuver: Add 2 burdens to hinder all Shadow support cards with a title you spot.Response: If The One Ring is transferred, play this on the new Ring-bearer.  You may use this ability from your discard pile.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be a Ring-bound Hobbit. Discard this if you can spot more than 4 companions. Maneuver: Add 2 burdens to hinder all Shadow support cards with a title you spot. Response: If The One Ring is transferred, play this on the new Ring-bearer.  You may use this ability from your discard pile.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S001.0",
@@ -40,7 +40,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be a Ring-bound Hobbit. Discard this if you can spot more than 4 companions.Maneuver: Add 2 burdens to hinder all Shadow support cards with a title you spot.Response: If The One Ring is transferred, play this on the new Ring-bearer.  You may use this ability from your discard pile."
+      "gameText": "Bearer must be a Ring-bound Hobbit. Discard this if you can spot more than 4 companions. Maneuver: Add 2 burdens to hinder all Shadow support cards with a title you spot. Response: If The One Ring is transferred, play this on the new Ring-bearer.  You may use this ability from your discard pile."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S001.0_card.jpg",
      "wikiImage": "LOTR-ENV3S001.0_card.jpg"
@@ -67,10 +67,10 @@
    "unique": false,
    "subtypes": ",",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Pipeweed. Bearer must bear a pipe. When you play this, you may discard a Shadow card on bearer.When this is discarded by a pipe, add 1 to the number of pipes you can spot this phase and make your character lose unhasty until the end of the turn.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Pipeweed. Bearer must bear a pipe. When you play this, you may discard a Shadow card on bearer. When this is discarded by a pipe, add 1 to the number of pipes you can spot this phase and make your character lose unhasty until the end of the turn.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S002.0",
@@ -86,7 +86,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Pipeweed. Bearer must bear a pipe. When you play this, you may discard a Shadow card on bearer.When this is discarded by a pipe, add 1 to the number of pipes you can spot this phase and make your character lose unhasty until the end of the turn."
+      "gameText": "Pipeweed. Bearer must bear a pipe. When you play this, you may discard a Shadow card on bearer. When this is discarded by a pipe, add 1 to the number of pipes you can spot this phase and make your character lose unhasty until the end of the turn."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S002.0_card.jpg",
      "wikiImage": "LOTR-ENV3S002.0_card.jpg"
@@ -113,10 +113,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time you play a spell, you may hinder a [Gandalf] artifact to restore a Free Peoples card.Each time the fellowship moves to or from a sanctuary, you may exert Gandalf to heal another companion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time you play a spell, you may hinder a [Gandalf] artifact to restore a Free Peoples card. Each time the fellowship moves to or from a sanctuary, you may exert Gandalf to heal another companion.",
    "lore": "\"'Indeed I am Saruman, one might almost say, Saruman as he should have been.'\"",
    "versions": [
     {
@@ -133,7 +133,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time you play a spell, you may hinder a [Gandalf] artifact to restore a Free Peoples card.Each time the fellowship moves to or from a sanctuary, you may exert Gandalf to heal another companion.",
+      "gameText": "Each time you play a spell, you may hinder a [Gandalf] artifact to restore a Free Peoples card. Each time the fellowship moves to or from a sanctuary, you may exert Gandalf to heal another companion.",
       "lore": "\"'Indeed I am Saruman, one might almost say, Saruman as he should have been.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S003.0_card.jpg",
@@ -162,10 +162,10 @@
    "subtypes": ",",
    "twilight": 1,
    "strengthMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Pipeweed.Bearer must be an unbound companion bearing a pipe. Each time the fellowship moves, spot 3 pipes of different cultures to make the number of Free Peoples cultures that can be counted -1 until the regroup phase.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Pipeweed. Bearer must be an unbound companion bearing a pipe. Each time the fellowship moves, spot 3 pipes of different cultures to make the number of Free Peoples cultures that can be counted -1 until the regroup phase.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S004.0",
@@ -182,7 +182,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Pipeweed.Bearer must be an unbound companion bearing a pipe. Each time the fellowship moves, spot 3 pipes of different cultures to make the number of Free Peoples cultures that can be counted -1 until the regroup phase."
+      "gameText": "Pipeweed. Bearer must be an unbound companion bearing a pipe. Each time the fellowship moves, spot 3 pipes of different cultures to make the number of Free Peoples cultures that can be counted -1 until the regroup phase."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S004.0_card.jpg",
      "wikiImage": "LOTR-ENV3S004.0_card.jpg"
@@ -210,10 +210,10 @@
    "unique": false,
    "subtypes": "Mount",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be Gandalf.While you can spot a [gandalf] artifact, minions skirmishing bearer gain no strength or keyword bonuses from Shadow cards they bear.While bearer is unwounded or exhausted, bearer is strength +3.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be Gandalf. While you can spot a [gandalf] artifact, minions skirmishing bearer gain no strength or keyword bonuses from Shadow cards they bear. While bearer is unwounded or exhausted, bearer is strength +3.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S005.0",
@@ -230,7 +230,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be Gandalf.While you can spot a [gandalf] artifact, minions skirmishing bearer gain no strength or keyword bonuses from Shadow cards they bear.While bearer is unwounded or exhausted, bearer is strength +3."
+      "gameText": "Bearer must be Gandalf. While you can spot a [gandalf] artifact, minions skirmishing bearer gain no strength or keyword bonuses from Shadow cards they bear. While bearer is unwounded or exhausted, bearer is strength +3."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S005.0_card.jpg",
      "wikiImage": "LOTR-ENV3S005.0_card.jpg"
@@ -257,9 +257,9 @@
    "unique": false,
    "subtypes": ",",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver or Skirmish: Exert Gandalf thrice (or spot Shadowfax and exert Gandalf once) to reveal another Free Peoples event from your hand.  Play that event 3 times, then remove it from the game.",
    "lore": "\"Wherever he came men's hearts would lift again, and the winged shadows pass from memory.\"",
    "versions": [
@@ -305,10 +305,10 @@
    "unique": true,
    "subtypes": ",",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Pipeweed. Bearer must be a Wizard.Each companion who is bearing a pipe is strength +1.Regroup: Exert bearer and discard this. This phase you may use special abilities on pipes as if it were the Fellowship phase.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Pipeweed. Bearer must be a Wizard. Each companion who is bearing a pipe is strength +1.Regroup: Exert bearer and discard this. This phase you may use special abilities on pipes as if it were the Fellowship phase.",
    "lore": "\"'Hobbits first put it into pipes. Not even the Wizards first thought of that before we did.'\"",
    "versions": [
     {
@@ -325,7 +325,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Pipeweed. Bearer must be a Wizard.Each companion who is bearing a pipe is strength +1.Regroup: Exert bearer and discard this. This phase you may use special abilities on pipes as if it were the Fellowship phase.",
+      "gameText": "Pipeweed. Bearer must be a Wizard. Each companion who is bearing a pipe is strength +1.Regroup: Exert bearer and discard this. This phase you may use special abilities on pipes as if it were the Fellowship phase.",
       "lore": "\"'Hobbits first put it into pipes. Not even the Wizards first thought of that before we did.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S007.0_card.jpg",
@@ -353,10 +353,10 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Spell.Exhaust your Wizard to reconcile your hand. You may spot a [gandalf] artifact to shuffle this into your draw deck.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Spell. Exhaust your Wizard to reconcile your hand. You may spot a [gandalf] artifact to shuffle this into your draw deck.",
    "lore": "\"'For this is what your folk would call magic. I believe; though I do not understand clearly what they mean; and they seem also to use the same word of the deceits of the Enemy.'\"",
    "versions": [
     {
@@ -373,7 +373,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Spell.Exhaust your Wizard to reconcile your hand. You may spot a [gandalf] artifact to shuffle this into your draw deck.",
+      "gameText": "Spell. Exhaust your Wizard to reconcile your hand. You may spot a [gandalf] artifact to shuffle this into your draw deck.",
       "lore": "\"'For this is what your folk would call magic. I believe; though I do not understand clearly what they mean; and they seem also to use the same word of the deceits of the Enemy.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S008.0_card.jpg",
@@ -401,9 +401,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert your Wizard to hinder a Shadow card. Exhaust that Wizard if you chose a minion.",
    "lore": "\"All fled before his face. All save one. There waiting, silent and still in the space before the Gate, sat Gandalf upon Shadowfax.\"",
    "versions": [
@@ -449,9 +449,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "At the start of each Assignment phase, you may exert Gandalf bearing an artifact to discard a hindered Shadow card.",
    "lore": "\"'I am Gandalf the White, who has returned from death. You have no colour now, and I cast you from the order and from the Council.'\"",
    "versions": [
@@ -497,10 +497,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot 2 [shire] companions.Each time Gollum loses a skirmish, make another minion strength -1 until the regroup phase.Each time Shelob loses a skirmish, kill Gollum.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot 2 [shire] companions. Each time Gollum loses a skirmish, make another minion strength -1 until the regroup phase. Each time Shelob loses a skirmish, kill Gollum.",
    "lore": "\"So he thought in an inner chamber of his cunning, which he still hoped to hide from her...\"",
    "versions": [
     {
@@ -517,7 +517,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot 2 [shire] companions.Each time Gollum loses a skirmish, make another minion strength -1 until the regroup phase.Each time Shelob loses a skirmish, kill Gollum.",
+      "gameText": "To play, spot 2 [shire] companions. Each time Gollum loses a skirmish, make another minion strength -1 until the regroup phase. Each time Shelob loses a skirmish, kill Gollum.",
       "lore": "\"So he thought in an inner chamber of his cunning, which he still hoped to hide from her...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S011.0_card.jpg",
@@ -545,10 +545,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time a special ability on a Free Peoples condition is used, you may discard a minion stacked here to hinder that condition and heal Shelob.Skirmish: If Shelob is skirmishing, stack another minion from play here to make a character skirmishing her strength -2 (limit once per phase).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time a special ability on a Free Peoples condition is used, you may discard a minion stacked here to hinder that condition and heal Shelob. Skirmish: If Shelob is skirmishing, stack another minion from play here to make a character skirmishing her strength -2 (limit once per phase).",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S012.0",
@@ -564,7 +564,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time a special ability on a Free Peoples condition is used, you may discard a minion stacked here to hinder that condition and heal Shelob.Skirmish: If Shelob is skirmishing, stack another minion from play here to make a character skirmishing her strength -2 (limit once per phase)."
+      "gameText": "Each time a special ability on a Free Peoples condition is used, you may discard a minion stacked here to hinder that condition and heal Shelob. Skirmish: If Shelob is skirmishing, stack another minion from play here to make a character skirmishing her strength -2 (limit once per phase)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S012.0_card.jpg",
      "wikiImage": "LOTR-ENV3S012.0_card.jpg"
@@ -595,10 +595,10 @@
    "strength": 8,
    "vitality": 8,
    "siteNumber": 8,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Fierce.  Enduring.Each time a skirmish involving Shelob ends, you may hinder each character she was skirmishing.Skirmish: If Gollum is skirmishing, exert Gollum and Shelob to hinder a character he is skirmishing.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Fierce.  Enduring. Each time a skirmish involving Shelob ends, you may hinder each character she was skirmishing. Skirmish: If Gollum is skirmishing, exert Gollum and Shelob to hinder a character he is skirmishing.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S013.0",
@@ -618,7 +618,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fierce.  Enduring.Each time a skirmish involving Shelob ends, you may hinder each character she was skirmishing.Skirmish: If Gollum is skirmishing, exert Gollum and Shelob to hinder a character he is skirmishing."
+      "gameText": "Fierce.  Enduring. Each time a skirmish involving Shelob ends, you may hinder each character she was skirmishing. Skirmish: If Gollum is skirmishing, exert Gollum and Shelob to hinder a character he is skirmishing."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S013.0_card.jpg",
      "wikiImage": "LOTR-ENV3S013.0_card.jpg"
@@ -646,10 +646,10 @@
    "subtypes": "Support Area",
    "twilight": 2,
    "strengthMod": "-1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "At the end of each skirmish involving bearer, make bearer strength -1 until the end of the turn.Skirmish: Spot a companion skirmishing a [Gollum] minion and hinder your [Gollum] card to transfer this to that companion. Limit 1 per bearer unless they are skirmishing Shelob.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "At the end of each skirmish involving bearer, make bearer strength -1 until the end of the turn. Skirmish: Spot a companion skirmishing a [Gollum] minion and hinder your [Gollum] card to transfer this to that companion. Limit 1 per bearer unless they are skirmishing Shelob.",
    "lore": "\"Never yet had any fly escaped from Shelob's webs...\"",
    "versions": [
     {
@@ -667,7 +667,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "At the end of each skirmish involving bearer, make bearer strength -1 until the end of the turn.Skirmish: Spot a companion skirmishing a [Gollum] minion and hinder your [Gollum] card to transfer this to that companion. Limit 1 per bearer unless they are skirmishing Shelob.",
+      "gameText": "At the end of each skirmish involving bearer, make bearer strength -1 until the end of the turn. Skirmish: Spot a companion skirmishing a [Gollum] minion and hinder your [Gollum] card to transfer this to that companion. Limit 1 per bearer unless they are skirmishing Shelob.",
       "lore": "\"Never yet had any fly escaped from Shelob's webs...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S014.0_card.jpg",
@@ -695,9 +695,9 @@
    "unique": false,
    "subtypes": ",",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Shadow or Maneuver or Skirmish: Restore a [gollum] card.  Then you may spot a [gollum] minion and remove a threat to replace it with another minion from your discard pile with the same title (keep all tokens and borne cards).",
    "lore": "\"Too little did he or his master know of the craft of Shelob. She had many exits from her lair.\"",
    "versions": [
@@ -743,9 +743,9 @@
    "unique": false,
    "subtypes": ",",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fellowship or Maneuver or Skirmish: Restore Smeagol.  Then you may spot Smeagol (if he is not the Ring-bearer) and add a threat to replace him with another Smeagol from your discard pile (keep all tokens and borne cards).",
    "lore": "\"'All the same, I'd rather have him under my eye,' said Sam. 'All the more so, if he's false.'\"",
    "versions": [
@@ -791,10 +791,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time Shelob loses a skirmish, you may play a [gollum] item from your discard pile.Response: If Shelob wins a skirmish and there are 4 minions stacked on [gollum] items, hinder this to make her relentless until the regroup phase (she participates in 1 extra round of skirmishes after fierce).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time Shelob loses a skirmish, you may play a [gollum] item from your discard pile. Response: If Shelob wins a skirmish and there are 4 minions stacked on [gollum] items, hinder this to make her relentless until the regroup phase (she participates in 1 extra round of skirmishes after fierce).",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S017.0",
@@ -810,7 +810,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time Shelob loses a skirmish, you may play a [gollum] item from your discard pile.Response: If Shelob wins a skirmish and there are 4 minions stacked on [gollum] items, hinder this to make her relentless until the regroup phase (she participates in 1 extra round of skirmishes after fierce)."
+      "gameText": "Each time Shelob loses a skirmish, you may play a [gollum] item from your discard pile. Response: If Shelob wins a skirmish and there are 4 minions stacked on [gollum] items, hinder this to make her relentless until the regroup phase (she participates in 1 extra round of skirmishes after fierce)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S017.0_card.jpg",
      "wikiImage": "LOTR-ENV3S017.0_card.jpg"
@@ -839,10 +839,10 @@
    "subtypes": "Hand Weapon",
    "twilight": 3,
    "strengthMod": "+3",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be Aragorn.  He is damage +1.Response: If an unbound companion (except Aragorn) is about to take a wound,add 2 threats to hinder that companion.Add (2) unless that companion was [gondor] or a Man.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be Aragorn.  He is damage +1.Response: If an unbound companion (except Aragorn) is about to take a wound,add 2 threats to hinder that companion. Add (2) unless that companion was [gondor] or a Man.",
    "lore": "\"'Here is the Sword that was Broken and is forged again! Will you aid me or thwart me? Choose swiftly!'\"",
    "versions": [
     {
@@ -861,7 +861,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be Aragorn.  He is damage +1.Response: If an unbound companion (except Aragorn) is about to take a wound,add 2 threats to hinder that companion.Add (2) unless that companion was [gondor] or a Man.",
+      "gameText": "Bearer must be Aragorn.  He is damage +1.Response: If an unbound companion (except Aragorn) is about to take a wound,add 2 threats to hinder that companion. Add (2) unless that companion was [gondor] or a Man.",
       "lore": "\"'Here is the Sword that was Broken and is forged again! Will you aid me or thwart me? Choose swiftly!'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S018.0_card.jpg",
@@ -892,11 +892,11 @@
    "twilight": 5,
    "strength": 8,
    "vitality": 4,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Aragorn is strength +1 for each culture among other Men you can spot. Each time the fellowship moves, you may exert Aragorn and hinder another unbound Man to remove a threat or a burden.",
    "lore": "\"'Stand, Men of the West! This is the hour of doom.'\"",
    "versions": [
@@ -914,7 +914,7 @@
       "twilight": 5,
       "strength": 8,
       "vitality": 4,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -933,7 +933,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Aragorn is strength +1 for each culture among other Men you can spot. Each time the fellowship moves, you may exert Aragorn and hinder another unbound Man to remove a threat or a burden."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S019.1_card.jpg",
@@ -961,10 +960,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "When you play this, spot a [gondor] Wraith to remove a threat.Each time a [gondor] Wraith takes a threat wound, wound a minion.Response: If an exhausted [gondor] Wraith is about to take a wound, add a threat and hinder this artifact to hinder that Wraith.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "When you play this, spot a [gondor] Wraith to remove a threat. Each time a [gondor] Wraith takes a threat wound, wound a minion. Response: If an exhausted [gondor] Wraith is about to take a wound, add a threat and hinder this artifact to hinder that Wraith.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S020.0",
@@ -980,7 +979,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "When you play this, spot a [gondor] Wraith to remove a threat.Each time a [gondor] Wraith takes a threat wound, wound a minion.Response: If an exhausted [gondor] Wraith is about to take a wound, add a threat and hinder this artifact to hinder that Wraith."
+      "gameText": "When you play this, spot a [gondor] Wraith to remove a threat. Each time a [gondor] Wraith takes a threat wound, wound a minion. Response: If an exhausted [gondor] Wraith is about to take a wound, add a threat and hinder this artifact to hinder that Wraith."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S020.0_card.jpg",
      "wikiImage": "LOTR-ENV3S020.0_card.jpg"
@@ -1008,10 +1007,10 @@
    "subtypes": "Hand Weapon",
    "twilight": 1,
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be a [gondor] Wraith.Each time bearer wins a skirmish, you may exert a Wraith and a minion it is assigned to skirmish.Response: If bearer overwhelms a minion, discard this possession and remove 2 threats to wound 2 minions.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be a [gondor] Wraith. Each time bearer wins a skirmish, you may exert a Wraith and a minion it is assigned to skirmish. Response: If bearer overwhelms a minion, discard this possession and remove 2 threats to wound 2 minions.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S021.0",
@@ -1028,7 +1027,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be a [gondor] Wraith.Each time bearer wins a skirmish, you may exert a Wraith and a minion it is assigned to skirmish.Response: If bearer overwhelms a minion, discard this possession and remove 2 threats to wound 2 minions."
+      "gameText": "Bearer must be a [gondor] Wraith. Each time bearer wins a skirmish, you may exert a Wraith and a minion it is assigned to skirmish. Response: If bearer overwhelms a minion, discard this possession and remove 2 threats to wound 2 minions."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S021.0_card.jpg",
      "wikiImage": "LOTR-ENV3S021.0_card.jpg"
@@ -1055,9 +1054,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "While you can spot 2 [gondor] Wraiths, the threat limit is +2.While you can spot more threats than companions, each Wraith is strength +1.Each time this condition is hindered or discarded, remove a threat.",
    "lore": "\"'Folk say that Dead Men out of the Dark Years guard the way and will suffer no living man...'\"",
    "versions": [
@@ -1103,10 +1102,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Fortification.  To play, exert a [gondor] companion (or spot 3 knights).Each time the special ability of a Shadow support card is used, you may hinder a fortification to hinder that card.  Then you may exert X knights to hinder X other copies of that card with the same title.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Fortification.  To play, exert a [gondor] companion (or spot 3 knights). Each time the special ability of a Shadow support card is used, you may hinder a fortification to hinder that card.  Then you may exert X knights to hinder X other copies of that card with the same title.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S023.0",
@@ -1122,7 +1121,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fortification.  To play, exert a [gondor] companion (or spot 3 knights).Each time the special ability of a Shadow support card is used, you may hinder a fortification to hinder that card.  Then you may exert X knights to hinder X other copies of that card with the same title."
+      "gameText": "Fortification.  To play, exert a [gondor] companion (or spot 3 knights). Each time the special ability of a Shadow support card is used, you may hinder a fortification to hinder that card.  Then you may exert X knights to hinder X other copies of that card with the same title."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S023.0_card.jpg",
      "wikiImage": "LOTR-ENV3S023.0_card.jpg"
@@ -1149,9 +1148,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert Aragorn (or spot Anduril) and add X threats to play a Wraith from your dead pile, where X is the region number.",
    "lore": "\"'The hour is come at last.....When all this land is clean of the servants of Sauron, I will hold the oath fulfilled, and ye shall have peace and depart for ever. For I am Elessar, Isildur's heir of Gondor.'\"",
    "versions": [
@@ -1198,10 +1197,10 @@
    "subtypes": "Support Area",
    "twilight": 2,
    "strengthMod": "-3",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Fortification.Maneuver: If this is in your support area, exert and hinder 2 unbound knights to transfer this to a minion.  Hinder that minion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Fortification. Maneuver: If this is in your support area, exert and hinder 2 unbound knights to transfer this to a minion.  Hinder that minion.",
    "lore": "\"'But men are better than gates, and no gate will endure against our Enemy if men desert it.'\"",
    "versions": [
     {
@@ -1219,7 +1218,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fortification.Maneuver: If this is in your support area, exert and hinder 2 unbound knights to transfer this to a minion.  Hinder that minion.",
+      "gameText": "Fortification. Maneuver: If this is in your support area, exert and hinder 2 unbound knights to transfer this to a minion.  Hinder that minion.",
       "lore": "\"'But men are better than gates, and no gate will endure against our Enemy if men desert it.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S025.0_card.jpg",
@@ -1247,9 +1246,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "When you play this, heal each Free Peoples Man. Shadow: The Shadow player may discard this to reconcile their hand.",
    "lore": "\"'But we must at all costs keep his Eye from his true peril. We cannot achieve victory by arms, but by arms we can give the Ring-bearer his only chance, frail though it be.'\"",
    "versions": [
@@ -1298,12 +1297,12 @@
    "twilight": 4,
    "strength": 7,
    "vitality": 4,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Enduring.  To play, add 2 threats.Each time King of the Dead is killed, heal every Wraith.Assignment: Exert King of the Dead and restore a Wraith to heal that Wraith.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Enduring.  To play, add 2 threats. Each time King of the Dead is killed, heal every Wraith. Assignment: Exert King of the Dead and restore a Wraith to heal that Wraith.",
    "lore": "\"'Yet it is said in Harrowdale,' said Éowyn in a low voice. 'that in the moonless nights but little while ago a great host in strange array passed by.'\"",
    "versions": [
     {
@@ -1320,12 +1319,12 @@
       "twilight": 4,
       "strength": 7,
       "vitality": 4,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Enduring.  To play, add 2 threats.Each time King of the Dead is killed, heal every Wraith.Assignment: Exert King of the Dead and restore a Wraith to heal that Wraith.",
+      "gameText": "Enduring.  To play, add 2 threats. Each time King of the Dead is killed, heal every Wraith. Assignment: Exert King of the Dead and restore a Wraith to heal that Wraith.",
       "lore": "\"'Yet it is said in Harrowdale,' said Éowyn in a low voice. 'that in the moonless nights but little while ago a great host in strange array passed by.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S027.0_card.jpg",
@@ -1354,9 +1353,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Beacon. To play, hinder 2 beacons. Response: If an unbound Man costing X is about to take a wound, spot X beacons to prevent that wound. Hinder a beacon.",
    "lore": "\"'On, Shadowfax! We must hasten. Time is short. See! The beacons of Gondor are alight, calling for aid. War is kindled.'\"",
    "versions": [
@@ -1375,7 +1374,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Beacon. To play, hinder 2 beacons.Response: If an unbound Man costing X is about to take a wound, hinder X beacons to prevent that wound.",
+      "gameText": "Beacon. To play, hinder 2 beacons. Response: If an unbound Man costing X is about to take a wound, hinder X beacons to prevent that wound.",
       "lore": "\"'On, Shadowfax! We must hasten. Time is short. See! The beacons of Gondor are alight, calling for aid. War is kindled.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S028.0_card.jpg",
@@ -1389,7 +1388,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Beacon. To play, hinder 2 beacons. Response: If an unbound Man costing X is about to take a wound, spot X beacons to prevent that wound. Hinder a beacon."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S028.1_card.jpg",
@@ -1418,10 +1416,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Beacon. To play, hinder 2 beacons.Skirmish: Hinder this beacon to make your unbound Man strength +1 for each of the following you can spot: ranger, knight, mounted Man, valiant Man, ring-bound Man, exhausted Man.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Beacon. To play, hinder 2 beacons. Skirmish: Hinder this beacon to make your unbound Man strength +1 for each of the following you can spot: ranger, knight, mounted Man, valiant Man, ring-bound Man, exhausted Man.",
    "lore": "\"'For I saw the beacons last night and the errand-riders; and Gandalf said that it was a sign...'\"",
    "versions": [
     {
@@ -1439,7 +1437,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Beacon. To play, hinder 2 beacons.Skirmish: Hinder this beacon to make your unbound Man strength +1 for each of the following you can spot: ranger, knight, mounted Man, valiant Man, ring-bound Man, exhausted Man.",
+      "gameText": "Beacon. To play, hinder 2 beacons. Skirmish: Hinder this beacon to make your unbound Man strength +1 for each of the following you can spot: ranger, knight, mounted Man, valiant Man, ring-bound Man, exhausted Man.",
       "lore": "\"'For I saw the beacons last night and the errand-riders; and Gandalf said that it was a sign...'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S029.0_card.jpg",
@@ -1468,9 +1466,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Beacon. To play, hinder 2 beacons. Archery: Hinder X beacons and discard X [GONDOR] or [ROHAN] conditions or possessions to make the fellowship archery total +X.",
    "lore": "\"'What is that?' cried Pippin suddenly, clutching at Gandalf's cloak. 'Look! Fire, red fire! Are there dragons in this land? Look, there is another!'\"",
    "versions": [
@@ -1489,7 +1487,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Beacon. To play, hinder 2 beacons.Archery: Hinder this beacon and discard any number of [Gondor] or [Rohan] conditions or possessions to make the fellowship archery total +1 for each card discarded.",
+      "gameText": "Beacon. To play, hinder 2 beacons. Archery: Hinder this beacon and discard any number of [Gondor] or [Rohan] conditions or possessions to make the fellowship archery total +1 for each card discarded.",
       "lore": "\"'What is that?' cried Pippin suddenly, clutching at Gandalf's cloak. 'Look! Fire, red fire! Are there dragons in this land? Look, there is another!'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S030.0_card.jpg",
@@ -1503,7 +1501,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Beacon. To play, hinder 2 beacons. Archery: Hinder X beacons and discard X [GONDOR] or [ROHAN] conditions or possessions to make the fellowship archery total +X."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S030.1_card.jpg",
@@ -1534,12 +1531,12 @@
    "twilight": 2,
    "strength": 3,
    "vitality": 4,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Gandalf",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Knight. Enduring. To play, spot a [gondor] companion.Skirmish: Exert Pippin twice to make a minion he is skirmishing lose all keywords until the regroup phase.",
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Knight. Enduring. To play, spot a [gondor] companion. Skirmish: Exert Pippin twice to make a minion he is skirmishing lose all keywords until the regroup phase.",
    "lore": "\"'But now I must do my best...then almost I should draw level with old Merry. Well, I'll smite some of this beastly brood before the end.'\"",
    "versions": [
     {
@@ -1556,12 +1553,12 @@
       "twilight": 2,
       "strength": 3,
       "vitality": 4,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Gandalf",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Knight. Enduring. To play, spot a [gondor] companion.Skirmish: Exert Pippin twice to make a minion he is skirmishing lose all keywords until the regroup phase.",
+      "gameText": "Knight. Enduring. To play, spot a [gondor] companion. Skirmish: Exert Pippin twice to make a minion he is skirmishing lose all keywords until the regroup phase.",
       "lore": "\"'But now I must do my best...then almost I should draw level with old Merry. Well, I'll smite some of this beastly brood before the end.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S031.0_card.jpg",
@@ -1591,12 +1588,12 @@
    "twilight": 3,
    "strength": 4,
    "vitality": 3,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Enduring.To play, spot or add 2 threats.This companion is strength +X, where X is the twilight cost of each minion skirmishing this companion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Enduring. To play, spot or add 2 threats. This companion is strength +X, where X is the twilight cost of each minion skirmishing this companion.",
    "lore": "\"There they stood silent, hardly to be seen, save for a red gleam in their eyes that caught the glare of the ships that were burning.\"",
    "versions": [
     {
@@ -1612,12 +1609,12 @@
       "twilight": 3,
       "strength": 4,
       "vitality": 3,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Enduring.To play, spot or add 2 threats.This companion is strength +X, where X is the twilight cost of each minion skirmishing this companion.",
+      "gameText": "Enduring. To play, spot or add 2 threats. This companion is strength +X, where X is the twilight cost of each minion skirmishing this companion.",
       "lore": "\"There they stood silent, hardly to be seen, save for a red gleam in their eyes that caught the glare of the ships that were burning.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S032.0_card.jpg",
@@ -1647,12 +1644,12 @@
    "twilight": 2,
    "strength": 5,
    "vitality": 2,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Enduring.To play, add a threat.This companion is strength +1 for each hindered card you can spot.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Enduring. To play, add a threat. This companion is strength +1 for each hindered card you can spot.",
    "lore": "\"'At his command they fell back. \"Even the shades of Men are obedient to his will,\" I thought. \"They may serve his needs yet!'\"",
    "versions": [
     {
@@ -1668,12 +1665,12 @@
       "twilight": 2,
       "strength": 5,
       "vitality": 2,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Enduring.To play, add a threat.This companion is strength +1 for each hindered card you can spot.",
+      "gameText": "Enduring. To play, add a threat. This companion is strength +1 for each hindered card you can spot.",
       "lore": "\"'At his command they fell back. \"Even the shades of Men are obedient to his will,\" I thought. \"They may serve his needs yet!'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S033.0_card.jpg",
@@ -1703,12 +1700,12 @@
    "twilight": 3,
    "strength": 6,
    "vitality": 2,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Enduring.To play, add a threat.This companion is strength +1 for each companion in the dead pile.This companion is strength +1 for each Wraith in the dead pile.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Enduring. To play, add a threat. This companion is strength +1 for each companion in the dead pile. This companion is strength +1 for each Wraith in the dead pile.",
    "lore": "\"'For this war will last through years uncounted, and you shall be summoned once again ere the end.'\"",
    "versions": [
     {
@@ -1724,12 +1721,12 @@
       "twilight": 3,
       "strength": 6,
       "vitality": 2,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Enduring.To play, add a threat.This companion is strength +1 for each companion in the dead pile.This companion is strength +1 for each Wraith in the dead pile.",
+      "gameText": "Enduring. To play, add a threat. This companion is strength +1 for each companion in the dead pile. This companion is strength +1 for each Wraith in the dead pile.",
       "lore": "\"'For this war will last through years uncounted, and you shall be summoned once again ere the end.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S034.0_card.jpg",
@@ -1757,9 +1754,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Beacon. To play, spot an unbound Man. Fellowship: Add (1) per beacon you can spot to play a beacon from the discard pile. Fellowship: Exert a Man and hinder a beacon to reveal the top 4 cards of your draw deck. You may take any [GONDOR] or [ROHAN] cards revealed into hand. Replace the rest in any order.",
    "versions": [
     {
@@ -1776,7 +1773,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Beacon. To play, spot an unbound Man.Fellowship: Add (1) per beacon you can spot to play a beacon from the discard pile.Fellowship: Exert a Man and hinder a beacon to reveal the top 5 cards of your draw deck. You may take any [gondor] or [rohan] cards revealed into hand. Replace the rest in any order."
+      "gameText": "Beacon. To play, spot an unbound Man. Fellowship: Add (1) per beacon you can spot to play a beacon from the discard pile. Fellowship: Exert a Man and hinder a beacon to reveal the top 5 cards of your draw deck. You may take any [gondor] or [rohan] cards revealed into hand. Replace the rest in any order."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S035.0_card.jpg",
      "wikiImage": "LOTR-ENV3S035.0_card.jpg"
@@ -1789,7 +1786,6 @@
      "batch": "pc-2026-09-27",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Beacon. To play, spot an unbound Man. Fellowship: Add (1) per beacon you can spot to play a beacon from the discard pile. Fellowship: Exert a Man and hinder a beacon to reveal the top 4 cards of your draw deck. You may take any [GONDOR] or [ROHAN] cards revealed into hand. Replace the rest in any order."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV3S035.1_card.jpg",
@@ -1817,9 +1813,9 @@
    "unique": false,
    "subtypes": ",",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Spot 3 [GONDOR] Wraiths to discard a Shadow condition. You may exert a Wraith to hinder another Shadow condition. Skirmish: Make your Wraith strength +1 for each threat you can spot (limit +3).",
    "lore": "\"'Is it then your errand to seek death? For that is all that you will find on that road. They do not suffer the living to pass.'\"",
    "versions": [
@@ -1837,7 +1833,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Response: If your [gondor] card is about to be discarded by a Shadow card, spot 3 [gondor] Wraiths to hinder that card instead.Skirmish: Make your Wraith strength +1 for each threat you can spot (limit +3).",
+      "gameText": "Response: If your [gondor] card is about to be discarded by a Shadow card, spot 3 [gondor] Wraiths to hinder that card instead. Skirmish: Make your Wraith strength +1 for each threat you can spot (limit +3).",
       "lore": "\"'Is it then your errand to seek death? For that is all that you will find on that road. They do not suffer the living to pass.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S036.0_card.jpg",
@@ -1852,7 +1848,6 @@
      "fields": {
       "unique": false,
       "twilight": 1,
-      "block": "None",
       "gameText": "Maneuver: Spot 3 [GONDOR] Wraiths to discard a Shadow condition. You may exert a Wraith to hinder another Shadow condition. Skirmish: Make your Wraith strength +1 for each threat you can spot (limit +3)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S036.1_card.jpg",
@@ -1880,10 +1875,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 0,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot 2 [isengard] minions.Response: If a Free Peoples character is played, add (3).  If you can spot 5 or more companions (or if that character is [Gandalf]), you may discard an [isengard] card from hand to hinder that character.  Hinder this condition.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot 2 [isengard] minions. Response: If a Free Peoples character is played, add (3).  If you can spot 5 or more companions (or if that character is [Gandalf]), you may discard an [isengard] card from hand to hinder that character.  Hinder this condition.",
    "lore": "...he arrives precisely when he's meant to.",
    "versions": [
     {
@@ -1900,7 +1895,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot 2 [isengard] minions.Response: If a Free Peoples character is played, add (3).  If you can spot 5 or more companions (or if that character is [Gandalf]), you may discard an [isengard] card from hand to hinder that character.  Hinder this condition.",
+      "gameText": "To play, spot 2 [isengard] minions. Response: If a Free Peoples character is played, add (3).  If you can spot 5 or more companions (or if that character is [Gandalf]), you may discard an [isengard] card from hand to hinder that character.  Hinder this condition.",
       "lore": "...he arrives precisely when he's meant to."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S037.0_card.jpg",
@@ -1928,10 +1923,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot 2 [isengard] minions (or Saruman).Each time your minion is hindered or discarded by a Free Peoples card, hinder a companion.Each time your condition is hindered or discarded by a Free Peoples card, hinder a Free Peoples condition.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot 2 [isengard] minions (or Saruman). Each time your minion is hindered or discarded by a Free Peoples card, hinder a companion. Each time your condition is hindered or discarded by a Free Peoples card, hinder a Free Peoples condition.",
    "lore": "\"'If they're such fools, I will...teach them a lesson.'\"",
    "versions": [
     {
@@ -1948,7 +1943,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot 2 [isengard] minions (or Saruman).Each time your minion is hindered or discarded by a Free Peoples card, hinder a companion.Each time your condition is hindered or discarded by a Free Peoples card, hinder a Free Peoples condition.",
+      "gameText": "To play, spot 2 [isengard] minions (or Saruman). Each time your minion is hindered or discarded by a Free Peoples card, hinder a companion. Each time your condition is hindered or discarded by a Free Peoples card, hinder a Free Peoples condition.",
       "lore": "\"'If they're such fools, I will...teach them a lesson.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S038.0_card.jpg",
@@ -1976,10 +1971,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time your [isengard] minion wins a skirmish, you may discard another Savage Fury to hinder each Free Peoples card on a companion it was skirmishing.Maneuver: Discard a minion to make your [isengard] minion fierce or relentless until the regroup phase (it participates in 1 extra round of skirmishes after fierce).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time your [isengard] minion wins a skirmish, you may discard another Savage Fury to hinder each Free Peoples card on a companion it was skirmishing. Maneuver: Discard a minion to make your [isengard] minion fierce or relentless until the regroup phase (it participates in 1 extra round of skirmishes after fierce).",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S039.0",
@@ -1995,7 +1990,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time your [isengard] minion wins a skirmish, you may discard another Savage Fury to hinder each Free Peoples card on a companion it was skirmishing.Maneuver: Discard a minion to make your [isengard] minion fierce or relentless until the regroup phase (it participates in 1 extra round of skirmishes after fierce)."
+      "gameText": "Each time your [isengard] minion wins a skirmish, you may discard another Savage Fury to hinder each Free Peoples card on a companion it was skirmishing. Maneuver: Discard a minion to make your [isengard] minion fierce or relentless until the regroup phase (it participates in 1 extra round of skirmishes after fierce)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S039.0_card.jpg",
      "wikiImage": "LOTR-ENV3S039.0_card.jpg"
@@ -2022,9 +2017,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Restore 2 [Isengard] cards.  Then you may exert X [isengard] minions (or spot Saruman and spot X [isengard] minions) to hinder an unbound companion costing up to X.",
    "lore": "\"'Despite the injuries that have been done to me, in which the men of Rohan, alas! have had some part, still I would save you, and deliver you from the ruin that draws nigh inevitably...'\"",
    "versions": [
@@ -2072,9 +2067,9 @@
    "twilight": 3,
    "strengthMod": "+4",
    "vitalityMod": "+4",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Stack 1 or more Southron Men here to make this a fierce mounted Southron minion until the end of the turn that is strength +4 and ambush (1) for each Southron stacked here. At the start of each skirmish involving this minion, add a threat (or 2 threats if there are 4 Southrons stacked here).",
    "versions": [
     {
@@ -2106,7 +2101,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Maneuver: Stack 1 or more Southron Men here to make this a fierce mounted Southron minion until the end of the turn that is strength +4 and ambush (1) for each Southron stacked here. At the start of each skirmish involving this minion, add a threat (or 2 threats if there are 4 Southrons stacked here)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S041.1_card.jpg",
@@ -2136,9 +2130,9 @@
    "twilight": 5,
    "strengthMod": "+6",
    "vitalityMod": "+6",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time a Southron is played, you may stack a [RAIDER] Man from play or hand here. Maneuver: Remove (6) to make this artifact a fierce mounted Southron minion until the end of the turn that is strength +3 and ambush (1) for each Southron stacked on her. She adds 1 to the Shadow archery total for each Southron stacked on her (limit 6).",
    "versions": [
     {
@@ -2157,7 +2151,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time a Southron is played, you may stack a Southron from play or hand here.Maneuver: Remove (6) to make this artifact a fierce mounted Southron minion until the end of the turn that is strength +3 and ambush (1) for each Southron stacked on her. She adds 1 to the Shadow archery total for each Southron stacked on her (limit 6)."
+      "gameText": "Each time a Southron is played, you may stack a Southron from play or hand here. Maneuver: Remove (6) to make this artifact a fierce mounted Southron minion until the end of the turn that is strength +3 and ambush (1) for each Southron stacked on her. She adds 1 to the Shadow archery total for each Southron stacked on her (limit 6)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S042.0_card.jpg",
      "wikiImage": "LOTR-ENV3S042.0_card.jpg"
@@ -2170,7 +2164,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Each time a Southron is played, you may stack a [RAIDER] Man from play or hand here. Maneuver: Remove (6) to make this artifact a fierce mounted Southron minion until the end of the turn that is strength +3 and ambush (1) for each Southron stacked on her. She adds 1 to the Shadow archery total for each Southron stacked on her (limit 6)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S042.1_card.jpg",
@@ -2200,10 +2193,10 @@
    "twilight": 4,
    "strengthMod": "+5",
    "vitalityMod": "+5",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Regroup: Stack a Southron Man here.Maneuver: Remove (5) to make this artifact a fierce mounted Southron minion until the end of the turn that is strength +3 and ambush (1) for each Southron stacked on it.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Regroup: Stack a Southron Man here. Maneuver: Remove (5) to make this artifact a fierce mounted Southron minion until the end of the turn that is strength +3 and ambush (1) for each Southron stacked on it.",
    "lore": "\"The great monsters were unfought,...like towers of defence, and the Haradrim rallied about them.\"",
    "versions": [
     {
@@ -2222,7 +2215,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Regroup: Stack a Southron Man here.Maneuver: Remove (5) to make this artifact a fierce mounted Southron minion until the end of the turn that is strength +3 and ambush (1) for each Southron stacked on it.",
+      "gameText": "Regroup: Stack a Southron Man here. Maneuver: Remove (5) to make this artifact a fierce mounted Southron minion until the end of the turn that is strength +3 and ambush (1) for each Southron stacked on it.",
       "lore": "\"The great monsters were unfought,...like towers of defence, and the Haradrim rallied about them.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S043.0_card.jpg",
@@ -2250,9 +2243,9 @@
    "unique": false,
    "subtypes": "Shadow",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Hinder up to 4 [raider] cards to reinforce the same number of [raider] tokens. Draw a card for each 2 hindered Shadow cards you can spot.",
    "lore": "\"For black against the glittering stream they beheld a fleet borne up on the wind: dromunds, and ships of great draught with many oars, and with black sails bellying in the breeze.\"",
    "versions": [
@@ -2301,10 +2294,10 @@
    "strength": 12,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Corsair.At the start of each skirmish involving this minion, the Free Peoples player may hinder any number of Free Peoples items on a character in that skirmish.This minion is damage +1 for each Free Peoples item you can spot on each character in its skirmish.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Corsair. At the start of each skirmish involving this minion, the Free Peoples player may hinder any number of Free Peoples items on a character in that skirmish. This minion is damage +1 for each Free Peoples item you can spot on each character in its skirmish.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S045.0",
@@ -2323,7 +2316,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Corsair.At the start of each skirmish involving this minion, the Free Peoples player may hinder any number of Free Peoples items on a character in that skirmish.This minion is damage +1 for each Free Peoples item you can spot on each character in its skirmish."
+      "gameText": "Corsair. At the start of each skirmish involving this minion, the Free Peoples player may hinder any number of Free Peoples items on a character in that skirmish. This minion is damage +1 for each Free Peoples item you can spot on each character in its skirmish."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S045.0_card.jpg",
      "wikiImage": "LOTR-ENV3S045.0_card.jpg"
@@ -2353,10 +2346,10 @@
    "strength": 8,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Corsair.Response: If your [raider] card is about to be hindered or discarded by another card, exert or hinder this minion to prevent that.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Corsair. Response: If your [raider] card is about to be hindered or discarded by another card, exert or hinder this minion to prevent that.",
    "lore": "\"They cried. 'Back to the walls! Come back to the City before all are overwhelmed!' But the wind that sped the ships blew all their clamour away.\"",
    "versions": [
     {
@@ -2376,7 +2369,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Corsair.Response: If your [raider] card is about to be hindered or discarded by another card, exert or hinder this minion to prevent that.",
+      "gameText": "Corsair. Response: If your [raider] card is about to be hindered or discarded by another card, exert or hinder this minion to prevent that.",
       "lore": "\"They cried. 'Back to the walls! Come back to the City before all are overwhelmed!' But the wind that sped the ships blew all their clamour away.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S046.0_card.jpg",
@@ -2407,9 +2400,9 @@
    "strength": 7,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Tracker. Ambush (3). Other Southrons are twilight cost -1. When you play this minion, remove (3) or hinder this minion.",
    "lore": "\"'From the North to the field of Dagorlad there is skirmish and rumour of war. In the South the Haradrim are moving, and fear has fallen on all our coastlands, so that little help will come to us thence.'\"",
    "versions": [
@@ -2445,7 +2438,6 @@
      "fields": {
       "unique": false,
       "strength": 7,
-      "block": "None",
       "gameText": "Southron. Tracker. Ambush (3). Other Southrons are twilight cost -1. When you play this minion, remove (3) or hinder this minion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S047.1_card.jpg",
@@ -2476,9 +2468,9 @@
    "strength": 10,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Tracker. Ambush (2). When you play this minion, remove (3) or hinder this minion. Each time this minion is hindered, you may hinder or restore another [RAIDER] minion.",
    "lore": "\"All the Southrons had been accounted for...Of the enemy no movement could be seen; not even an orc-spy was abroad.\"",
    "versions": [
@@ -2499,7 +2491,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Southron.  Tracker.  Ambush (2). When you play this minion, remove (3) or hinder this minion.Each time this minion is hindered, you may hinder another [raider] minion.",
+      "gameText": "Southron.  Tracker.  Ambush (2). When you play this minion, remove (3) or hinder this minion. Each time this minion is hindered, you may hinder another [raider] minion.",
       "lore": "\"All the Southrons had been accounted for...Of the enemy no movement could be seen; not even an orc-spy was abroad.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S048.0_card.jpg",
@@ -2513,7 +2505,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Southron. Tracker. Ambush (2). When you play this minion, remove (3) or hinder this minion. Each time this minion is hindered, you may hinder or restore another [RAIDER] minion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S048.1_card.jpg",
@@ -2544,10 +2535,10 @@
    "strength": 12,
    "vitality": 2,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Southron.  Tracker. When you play this minion, remove (3) or hinder this minion.Southrons gain ambush (1).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Southron.  Tracker. When you play this minion, remove (3) or hinder this minion. Southrons gain ambush (1).",
    "lore": "\"They dreaded the dark hours, and kept watch in pairs by night, expecting at any time to see black shapes stalking in the grey night, dimly lit by the cloud-veiled moon...\"",
    "versions": [
     {
@@ -2567,7 +2558,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Southron.  Tracker. When you play this minion, remove (3) or hinder this minion.Southrons gain ambush (1).",
+      "gameText": "Southron.  Tracker. When you play this minion, remove (3) or hinder this minion. Southrons gain ambush (1).",
       "lore": "\"They dreaded the dark hours, and kept watch in pairs by night, expecting at any time to see black shapes stalking in the grey night, dimly lit by the cloud-veiled moon...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S049.0_card.jpg",
@@ -2598,9 +2589,9 @@
    "strength": 15,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Southron. Tracker. When you play this minion, remove (4) or hinder this minion. Each minion with ambush (X) is strength +X.",
    "lore": "\"But they saw nothing, and heard no sound but the sigh of withered leaves and grass.\"",
    "versions": [
@@ -2621,7 +2612,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Southron. Tracker.When you play this minion, remove (3) or hinder this minion.Each minion with ambush (X) is strength +X.",
+      "gameText": "Southron. Tracker. When you play this minion, remove (3) or hinder this minion. Each minion with ambush (X) is strength +X.",
       "lore": "\"But they saw nothing, and heard no sound but the sigh of withered leaves and grass.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S050.0_card.jpg",
@@ -2635,7 +2626,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Southron. Tracker. When you play this minion, remove (4) or hinder this minion. Each minion with ambush (X) is strength +X."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S050.1_card.jpg",
@@ -2663,9 +2653,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Each time a [raider] minion dies, you may exert a [raider] minion to exert an unbound companion. If you can spot another Duty No Less Than Yours, you may discard it to also hinder that companion.",
    "lore": "\"He wondered what the man's name was and where he came from; and if he was really evil of heart, or what lies or threats had led him on the long march...\"",
    "versions": [
@@ -2711,10 +2701,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time you play a unique Southron, you may exert it to take a non-unique [raider] item or minion into hand from discard.Response: If your mounted Southron wins a skirmish, hinder this condition to make that Southron relentless until the regroup phase (they participate in 1 extra round of skirmishes after fierce).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time you play a unique Southron, you may exert it to take a non-unique [raider] item or minion into hand from discard. Response: If your mounted Southron wins a skirmish, hinder this condition to make that Southron relentless until the regroup phase (they participate in 1 extra round of skirmishes after fierce).",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S052.0",
@@ -2730,7 +2720,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time you play a unique Southron, you may exert it to take a non-unique [raider] item or minion into hand from discard.Response: If your mounted Southron wins a skirmish, hinder this condition to make that Southron relentless until the regroup phase (they participate in 1 extra round of skirmishes after fierce)."
+      "gameText": "Each time you play a unique Southron, you may exert it to take a non-unique [raider] item or minion into hand from discard. Response: If your mounted Southron wins a skirmish, hinder this condition to make that Southron relentless until the regroup phase (they participate in 1 extra round of skirmishes after fierce)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S052.0_card.jpg",
      "wikiImage": "LOTR-ENV3S052.0_card.jpg"
@@ -2757,9 +2747,9 @@
    "unique": false,
    "subtypes": "Assignment",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a Southron and hinder all other minions to assign that Southron to an unbound companion.  The Free Peoples player may make that Southron strength +3, ambush (4), and fierce until the regroup phase to prevent this.",
    "lore": "\"To the land of the Haradrim came only a tale from far off: a rumour of the wrath and terror of Gondor.\"",
    "versions": [
@@ -2805,10 +2795,10 @@
    "unique": false,
    "subtypes": "Horn",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be a mounted Southron.When you play this, hinder all Free Peoples mounts.Skirmish: Remove a threat to make a Southron strength +2.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be a mounted Southron. When you play this, hinder all Free Peoples mounts. Skirmish: Remove a threat to make a Southron strength +2.",
    "lore": "\"But wherever the mûmakil came there the horses would not go, but blenched and swerved away; and the great monsters were unfought.\"",
    "versions": [
     {
@@ -2825,7 +2815,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be a mounted Southron.When you play this, hinder all Free Peoples mounts.Skirmish: Remove a threat to make a Southron strength +2.",
+      "gameText": "Bearer must be a mounted Southron. When you play this, hinder all Free Peoples mounts. Skirmish: Remove a threat to make a Southron strength +2.",
       "lore": "\"But wherever the mûmakil came there the horses would not go, but blenched and swerved away; and the great monsters were unfought.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S054.0_card.jpg",
@@ -2853,10 +2843,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "When you play this, spot a Corsair to add a [raider] token here.Shadow: Remove 2 [raider] tokens from your cards to hinder a Free Peoples possession.Maneuver: Spot a Corsair, hinder another Raiding Schooner, and remove 3 [raider] tokens from your cards to hinder a Free Peoples artifact.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "When you play this, spot a Corsair to add a [raider] token here. Shadow: Remove 2 [raider] tokens from your cards to hinder a Free Peoples possession. Maneuver: Spot a Corsair, hinder another Raiding Schooner, and remove 3 [raider] tokens from your cards to hinder a Free Peoples artifact.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S055.0",
@@ -2872,7 +2862,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "When you play this, spot a Corsair to add a [raider] token here.Shadow: Remove 2 [raider] tokens from your cards to hinder a Free Peoples possession.Maneuver: Spot a Corsair, hinder another Raiding Schooner, and remove 3 [raider] tokens from your cards to hinder a Free Peoples artifact."
+      "gameText": "When you play this, spot a Corsair to add a [raider] token here. Shadow: Remove 2 [raider] tokens from your cards to hinder a Free Peoples possession. Maneuver: Spot a Corsair, hinder another Raiding Schooner, and remove 3 [raider] tokens from your cards to hinder a Free Peoples artifact."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S055.0_card.jpg",
      "wikiImage": "LOTR-ENV3S055.0_card.jpg"
@@ -2899,9 +2889,9 @@
    "unique": false,
    "subtypes": "Assignment",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Restore all trackers and minions with ambush. If you restored any, make each Southron ambush (1) and strength +1 until the regroup phase.",
    "lore": "\"'We were outnumbered, for Mordor has allied itself with the Easterlings and the cruel Haradrim; but it was not by numbers that we were defeated. A power was there that we have not felt before.'\"",
    "versions": [
@@ -2933,7 +2923,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Restore all trackers and minions with ambush. If you restored any, make each Southron ambush (1) and strength +1 until the regroup phase."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S056.1_card.jpg",
@@ -2962,10 +2951,10 @@
    "subtypes": "Support Area",
    "twilight": 2,
    "strengthMod": "-3",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time the fellowship moves, the Free Peoples player must hinder bearer or a Free Peoples item on bearer.Maneuver: Exert 2 corsairs and remove 2 [raider] tokens from a possession to transfer this from your support area to an unbound companion. Limit 1 per bearer.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time the fellowship moves, the Free Peoples player must hinder bearer or a Free Peoples item on bearer. Maneuver: Exert 2 corsairs and remove 2 [raider] tokens from a possession to transfer this from your support area to an unbound companion. Limit 1 per bearer.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S057.0",
@@ -2982,7 +2971,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time the fellowship moves, the Free Peoples player must hinder bearer or a Free Peoples item on bearer.Maneuver: Exert 2 corsairs and remove 2 [raider] tokens from a possession to transfer this from your support area to an unbound companion. Limit 1 per bearer."
+      "gameText": "Each time the fellowship moves, the Free Peoples player must hinder bearer or a Free Peoples item on bearer. Maneuver: Exert 2 corsairs and remove 2 [raider] tokens from a possession to transfer this from your support area to an unbound companion. Limit 1 per bearer."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S057.0_card.jpg",
      "wikiImage": "LOTR-ENV3S057.0_card.jpg"
@@ -3009,10 +2998,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "At the start of each skirmish involving a minion with ambush, you may remove (2) to hinder a Free Peoples condition.Each time your Southron Man dies, you may remove (1) to stack a Southron from your discard pile on a [raider] item that already has a Southron stacked on it.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "At the start of each skirmish involving a minion with ambush, you may remove (2) to hinder a Free Peoples condition. Each time your Southron Man dies, you may remove (1) to stack a Southron from your discard pile on a [raider] item that already has a Southron stacked on it.",
    "lore": "\"Soon their case became worse; for new strength came.\"",
    "versions": [
     {
@@ -3029,7 +3018,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "At the start of each skirmish involving a minion with ambush, you may remove (2) to hinder a Free Peoples condition.Each time your Southron Man dies, you may remove (1) to stack a Southron from your discard pile on a [raider] item that already has a Southron stacked on it.",
+      "gameText": "At the start of each skirmish involving a minion with ambush, you may remove (2) to hinder a Free Peoples condition. Each time your Southron Man dies, you may remove (1) to stack a Southron from your discard pile on a [raider] item that already has a Southron stacked on it.",
       "lore": "\"Soon their case became worse; for new strength came.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S058.0_card.jpg",
@@ -3055,11 +3044,11 @@
    "type": "Event",
    "title": "Strength of Men",
    "unique": false,
-   "subtypes": "Response",
+   "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot 2 [RAIDER] cards to restore 2 [RAIDER] cards (or reconcile your hand if you can spot 5 burdens or 6 [RAIDER] cards).",
    "lore": "\"Hard fighting and long labour they had still; for the Southrons were bold men and grim, and fierce in despair; and the Easterlings were strong and war-hardened and asked for no quarter.\"",
    "versions": [
@@ -3072,7 +3061,7 @@
      "fields": {
       "title": "Strength of Men",
       "unique": false,
-      "subtypes": "Response",
+      "subtypes": "Maneuver",
       "twilight": 4,
       "signet": "None",
       "block": "None",
@@ -3092,7 +3081,6 @@
      "fields": {
       "unique": false,
       "twilight": 2,
-      "block": "None",
       "gameText": "Spot 2 [RAIDER] cards to restore 2 [RAIDER] cards (or reconcile your hand if you can spot 5 burdens or 6 [RAIDER] cards)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S059.1_card.jpg",
@@ -3124,9 +3112,9 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Lurker. Your Shadow events are twilight cost -2. Response: If a minion is about to take a wound, exert this minion to prevent that wound and hinder a Free Peoples weapon.",
    "lore": "\"'Thou shalt see what comes to him who sets his foolish webs before the feet of Sauron the Great.'\"",
    "versions": [
@@ -3148,7 +3136,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Lurker.Your Shadow events are twilight cost -1. Response: If a minion is about to take a wound, exert this minion to prevent that wound and hinder a Free Peoples weapon.",
+      "gameText": "Lurker. Your Shadow events are twilight cost -1. Response: If a minion is about to take a wound, exert this minion to prevent that wound and hinder a Free Peoples weapon.",
       "lore": "\"'Thou shalt see what comes to him who sets his foolish webs before the feet of Sauron the Great.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S060.0_card.jpg",
@@ -3162,7 +3150,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Lurker. Your Shadow events are twilight cost -2. Response: If a minion is about to take a wound, exert this minion to prevent that wound and hinder a Free Peoples weapon."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S060.1_card.jpg",
@@ -3194,9 +3181,9 @@
    "strength": 12,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Easterling. Fierce. While you can spot 3 burdens, each Easterling is strength +3. While you can spot 5 burdens, each Easterling is damage +1.",
    "lore": "\"The second to the Chief, Khamul the Shadow of the East, abode in Dol Guldur as Sauron's lieutenant.\"",
    "versions": [
@@ -3218,7 +3205,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Easterling.  Fierce.While you can spot 3 burdens, each Easterling is strength +2.While you can spot 5 burdens, each Easterling is damage +1.",
+      "gameText": "Easterling.  Fierce. While you can spot 3 burdens, each Easterling is strength +2.While you can spot 5 burdens, each Easterling is damage +1.",
       "lore": "\"The second to the Chief, Khamul the Shadow of the East, abode in Dol Guldur as Sauron's lieutenant.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S061.0_card.jpg",
@@ -3232,7 +3219,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Easterling. Fierce. While you can spot 3 burdens, each Easterling is strength +3. While you can spot 5 burdens, each Easterling is damage +1."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S061.1_card.jpg",
@@ -3260,10 +3246,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer gains archer.Maneuver: If this is in your support area, exert a mounted Southron to transfer this to that Southron.  Limit 1 per bearer. Choose a Man stacked on that Southron.  Until the end of the turn, that Southron gains the game text of that stacked Man.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer gains archer. Maneuver: If this is in your support area, exert a mounted Southron to transfer this to that Southron.  Limit 1 per bearer. Choose a Man stacked on that Southron.  Until the end of the turn, that Southron gains the game text of that stacked Man.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S062.0",
@@ -3279,7 +3265,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer gains archer.Maneuver: If this is in your support area, exert a mounted Southron to transfer this to that Southron.  Limit 1 per bearer. Choose a Man stacked on that Southron.  Until the end of the turn, that Southron gains the game text of that stacked Man."
+      "gameText": "Bearer gains archer. Maneuver: If this is in your support area, exert a mounted Southron to transfer this to that Southron.  Limit 1 per bearer. Choose a Man stacked on that Southron.  Until the end of the turn, that Southron gains the game text of that stacked Man."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S062.0_card.jpg",
      "wikiImage": "LOTR-ENV3S062.0_card.jpg"
@@ -3307,9 +3293,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [RINGWRAITH] card. Each time a companion exerts, draw a card (limit once per site). Response: If a companion is exerted by a Free Peoples card, discard another Cirith Ungol Watcher to add (6) and hinder that companion.",
    "versions": [
     {
@@ -3327,7 +3313,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot a [ringwraith] card and add a burden.Each time a companion exerts, draw a card (limit once per site).Response: If a companion is exerted by a Free Peoples card, discard another Cirith Ungol Watcher to add (6) and hinder that companion."
+      "gameText": "To play, spot a [ringwraith] card and add a burden. Each time a companion exerts, draw a card (limit once per site). Response: If a companion is exerted by a Free Peoples card, discard another Cirith Ungol Watcher to add (6) and hinder that companion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S063.0_card.jpg",
      "wikiImage": "LOTR-ENV3S063.0_card.jpg"
@@ -3340,7 +3326,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "To play, spot a [RINGWRAITH] card. Each time a companion exerts, draw a card (limit once per site). Response: If a companion is exerted by a Free Peoples card, discard another Cirith Ungol Watcher to add (6) and hinder that companion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S063.1_card.jpg",
@@ -3369,10 +3354,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Twilight.To play, hinder 2 twilight conditions.Assignment: Spot 3 [ringwraith] minions, remove a burden, and hinder this condition to spot a [ringwraith] minion and an unbound companion.  Hinder all other characters.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Twilight. To play, hinder 2 twilight conditions. Assignment: Spot 3 [ringwraith] minions, remove a burden, and hinder this condition to spot a [ringwraith] minion and an unbound companion.  Hinder all other characters.",
    "lore": "\"So now at last the City was besieged, enclosed in a ring of foes.\"",
    "versions": [
     {
@@ -3390,7 +3375,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Twilight.To play, hinder 2 twilight conditions.Assignment: Spot 3 [ringwraith] minions, remove a burden, and hinder this condition to spot a [ringwraith] minion and an unbound companion.  Hinder all other characters.",
+      "gameText": "Twilight. To play, hinder 2 twilight conditions. Assignment: Spot 3 [ringwraith] minions, remove a burden, and hinder this condition to spot a [ringwraith] minion and an unbound companion.  Hinder all other characters.",
       "lore": "\"So now at last the City was besieged, enclosed in a ring of foes.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S064.0_card.jpg",
@@ -3419,9 +3404,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Twilight. To play, hinder 2 twilight conditions. Each time your minion is killed, you may remove (1) and hinder a twilight condition to shuffle that minion into your draw deck. Regroup: Hinder a twilight card to add (1).",
    "lore": "\"'But the Lord of the City, Beregond, has fallen before his city is taken. He is fey and dangerous.'\"",
    "versions": [
@@ -3440,7 +3425,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Twilight.To play, hinder 2 twilight conditions.Shadow: Hinder this condition to take a twilight card into hand from your draw deck.Regroup: Hinder a twilight card to add (1).",
+      "gameText": "Twilight. To play, hinder 2 twilight conditions. Shadow: Hinder this condition to take a twilight card into hand from your draw deck. Regroup: Hinder a twilight card to add (1).",
       "lore": "\"'But the Lord of the City, Beregond, has fallen before his city is taken. He is fey and dangerous.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S065.0_card.jpg",
@@ -3454,7 +3439,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Twilight. To play, hinder 2 twilight conditions. Shadow: Hinder this condition and remove (1) to take a twilight card into hand from your draw deck. Regroup: Hinder a twilight card to add (1)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S065.1_card.jpg",
@@ -3468,7 +3452,6 @@
      "batch": "pc-2026-09-27",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Twilight. To play, hinder 2 twilight conditions. Each time your minion is killed, you may remove (1) and hinder a twilight condition to shuffle that minion into your draw deck. Regroup: Hinder a twilight card to add (1)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV3S065.2_card.jpg",
@@ -3500,10 +3483,10 @@
    "strength": 5,
    "vitality": 4,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Each time you play a Nazgul, you may exert Gollum to add a threat.Assignment: Remove X threats to assign Gollum to a companion costing X or less (except the Ring-bearer).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Each time you play a Nazgul, you may exert Gollum to add a threat. Assignment: Remove X threats to assign Gollum to a companion costing X or less (except the Ring-bearer).",
    "lore": "\"Gollum withdrew himself, and a green glint flickered under his heavy lids. Almost spider-like he looked now, crouched back on his bent limbs...\"",
    "versions": [
     {
@@ -3524,7 +3507,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time you play a Nazgul, you may exert Gollum to add a threat.Assignment: Remove X threats to assign Gollum to a companion costing X or less (except the Ring-bearer).",
+      "gameText": "Each time you play a Nazgul, you may exert Gollum to add a threat. Assignment: Remove X threats to assign Gollum to a companion costing X or less (except the Ring-bearer).",
       "lore": "\"Gollum withdrew himself, and a green glint flickered under his heavy lids. Almost spider-like he looked now, crouched back on his bent limbs...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S066.0_card.jpg",
@@ -3552,9 +3535,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "The second time you play a Nazgul each Shadow phase, you may hinder a wounded companion. The Free Peoples player may make you exert another companion to prevent this (or wound if you can spot The Witch-king).",
    "lore": "\"'Alas! For she was pitted against a foe beyond the strength of her mind or body.'\"",
    "versions": [
@@ -3586,7 +3569,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "The second time you play a Nazgul each Shadow phase, you may hinder a wounded companion. The Free Peoples player may make you exert another companion to prevent this (or wound if you can spot The Witch-king)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S067.1_card.jpg",
@@ -3614,9 +3596,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "The second time you play a [RINGWRAITH] Orc each Shadow phase, you may hinder a Free Peoples possession. Shadow: Spot a Nazgul to play any number of possessions on your [RINGWRAITH] Orcs from your discard pile. Discard this condition.",
    "versions": [
     {
@@ -3633,7 +3615,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Each time you play a [ringwraith] Orc, the Free Peoples player must hinder one of their possessions.Shadow: Spot a Nazgul to play any number of possessions on your [ringwraith] Orcs from your discard pile.  Discard this condition."
+      "gameText": "Each time you play a [ringwraith] Orc, the Free Peoples player must hinder one of their possessions. Shadow: Spot a Nazgul to play any number of possessions on your [ringwraith] Orcs from your discard pile.  Discard this condition."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S068.0_card.jpg",
      "wikiImage": "LOTR-ENV3S068.0_card.jpg"
@@ -3646,7 +3628,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "The second time you play a [RINGWRAITH] Orc each Shadow phase, you may hinder a Free Peoples possession. Shadow: Spot a Nazgul to play any number of possessions on your [RINGWRAITH] Orcs from your discard pile. Discard this condition."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S068.1_card.jpg",
@@ -3674,9 +3655,9 @@
    "unique": false,
    "subtypes": ",",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver or Skirmish: Restore a Nazgul. Then you may exert The Witch-king twice to hinder all Free Peoples possessions.",
    "lore": "\"'Yet now under the Lord of Barad-dûr the most fell of all his captains is already master of your outer walls,' said Gandalf. 'King of Angmar long ago, Sorcerer, Ringwraith, Lord of the Nazgûl, a spear of terror in the hand of Sauron, shadow of despair.'\"",
    "versions": [
@@ -3708,7 +3689,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Maneuver or Skirmish: Restore a Nazgul. Then you may exert The Witch-king twice to hinder all Free Peoples possessions."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S069.1_card.jpg",
@@ -3740,10 +3720,10 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Lurker.Other minions cannot take more than 1 wound per phase.Response: If a Free Peoples event is played, exert this minion to cancel that event.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Lurker. Other minions cannot take more than 1 wound per phase. Response: If a Free Peoples event is played, exert this minion to cancel that event.",
    "lore": "\"'Take swift counsel with what little wit is left to you. For Sauron does not love spies...'\"",
    "versions": [
     {
@@ -3764,7 +3744,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Lurker.Other minions cannot take more than 1 wound per phase.Response: If a Free Peoples event is played, exert this minion to cancel that event.",
+      "gameText": "Lurker. Other minions cannot take more than 1 wound per phase. Response: If a Free Peoples event is played, exert this minion to cancel that event.",
       "lore": "\"'Take swift counsel with what little wit is left to you. For Sauron does not love spies...'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S070.0_card.jpg",
@@ -3792,9 +3772,9 @@
    "unique": false,
    "subtypes": "Response",
    "twilight": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "If your Nazgul wins a skirmish, exert it to reconcile your hand.  You may discard a Nazgul from hand to wound a companion it was skirmishing.",
    "lore": "\"A great black shape against the fires beyond he loomed up, grown to a vast menace of despair. In rode the Lord of the Nazgûl, under the archway that no enemy ever yet had passed, and all fled before his face.\"",
    "versions": [
@@ -3844,10 +3824,10 @@
    "strength": 13,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Fierce.Each time you play a minion from hand, you may exert Ulaire Attea to play another minion with the same twilight cost from your discard pile.Skirmish: Hinder another minion to make Ulaire Attea strength +1.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Fierce. Each time you play a minion from hand, you may exert Ulaire Attea to play another minion with the same twilight cost from your discard pile. Skirmish: Hinder another minion to make Ulaire Attea strength +1.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S072.0",
@@ -3867,7 +3847,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fierce.Each time you play a minion from hand, you may exert Ulaire Attea to play another minion with the same twilight cost from your discard pile.Skirmish: Hinder another minion to make Ulaire Attea strength +1."
+      "gameText": "Fierce. Each time you play a minion from hand, you may exert Ulaire Attea to play another minion with the same twilight cost from your discard pile. Skirmish: Hinder another minion to make Ulaire Attea strength +1."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S072.0_card.jpg",
      "wikiImage": "LOTR-ENV3S072.0_card.jpg"
@@ -3898,10 +3878,10 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Fierce.Skirmish: Exert this minion to hinder all possessions and conditions borne by a character it is skirmishing.  If you can spot another Nazgul, hinder all other copies of those cards you can spot.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Fierce. Skirmish: Exert this minion to hinder all possessions and conditions borne by a character it is skirmishing.  If you can spot another Nazgul, hinder all other copies of those cards you can spot.",
    "lore": "\"'Do you not know Death when you see it? Die now and curse in vain!'\"",
    "versions": [
     {
@@ -3922,7 +3902,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fierce.Skirmish: Exert this minion to hinder all possessions and conditions borne by a character it is skirmishing.  If you can spot another Nazgul, hinder all other copies of those cards you can spot.",
+      "gameText": "Fierce. Skirmish: Exert this minion to hinder all possessions and conditions borne by a character it is skirmishing.  If you can spot another Nazgul, hinder all other copies of those cards you can spot.",
       "lore": "\"'Do you not know Death when you see it? Die now and curse in vain!'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S073.0_card.jpg",
@@ -3954,9 +3934,9 @@
    "strength": 12,
    "vitality": 4,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. Relentless. (This minion participates in 1 extra round of skirmishes after fierce.)At the start of each skirmish involving Ulaire Enquea and a wounded companion or ally, you may exert him to heal that character and exert a companion.",
    "versions": [
     {
@@ -4008,9 +3988,9 @@
    "strength": 10,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. Each character skirmishing this minion is strength -1 for each other Nazgul you can spot (or -1 for each other companion you can spot if you can spot 6 companions).",
    "lore": "\"'The storm is coming. The Nazgûl have crossed the River! Ride, ride! Wait not for the dawn! Let not the swift wait for the slow! Ride!'\"",
    "versions": [
@@ -4032,7 +4012,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fierce.Each character skirmishing this minion is strength -1 for each Nazgul you can spot (or -1 for each companion you can spot if you can spot 6 companions).",
+      "gameText": "Fierce. Each character skirmishing this minion is strength -1 for each Nazgul you can spot (or -1 for each companion you can spot if you can spot 6 companions).",
       "lore": "\"'The storm is coming. The Nazgûl have crossed the River! Ride, ride! Wait not for the dawn! Let not the swift wait for the slow! Ride!'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S075.0_card.jpg",
@@ -4046,7 +4026,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Fierce. Each character skirmishing this minion is strength -1 for each other Nazgul you can spot (or -1 for each other companion you can spot if you can spot 6 companions)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S075.1_card.jpg",
@@ -4078,9 +4057,9 @@
    "strength": 11,
    "vitality": 3,
    "siteNumber": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. Skirmish: Exert this minion to make a Nazgul strength +1 for each of your sites on the adventure path (limit +2, or limit +5 if you can spot another Nazgul).",
    "lore": "\"'Those Nazgûl give me the creeps....But He likes 'em; they're His favourites nowadays.'\"",
    "versions": [
@@ -4102,7 +4081,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fierce.At the start of each skirmish involving a Nazgul, you may exert this minion to make that Nazgul strength +1 for each of your sites on the adventure path (limit +3 unless you can spot another Nazgul).",
+      "gameText": "Fierce. At the start of each skirmish involving a Nazgul, you may exert this minion to make that Nazgul strength +1 for each of your sites on the adventure path (limit +3 unless you can spot another Nazgul).",
       "lore": "\"'Those Nazgûl give me the creeps....But He likes 'em; they're His favourites nowadays.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S076.0_card.jpg",
@@ -4116,7 +4095,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Fierce. Skirmish: Exert this minion to make a Nazgul strength +1 for each of your sites on the adventure path (limit +2, or limit +5 if you can spot another Nazgul)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S076.1_card.jpg",
@@ -4148,10 +4126,10 @@
    "strength": 10,
    "vitality": 2,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Fierce.Each time you play a minion, you may exert it to play a possession on it from your discard pile (or an artifact if you also exert this minion).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Fierce. Each time you play a minion, you may exert it to play a possession on it from your discard pile (or an artifact if you also exert this minion).",
    "lore": "\"'And they skin the body off you as soon as look at you, and leave you all cold in the dark on the other side.'\"",
    "versions": [
     {
@@ -4172,7 +4150,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fierce.Each time you play a minion, you may exert it to play a possession on it from your discard pile (or an artifact if you also exert this minion).",
+      "gameText": "Fierce. Each time you play a minion, you may exert it to play a possession on it from your discard pile (or an artifact if you also exert this minion).",
       "lore": "\"'And they skin the body off you as soon as look at you, and leave you all cold in the dark on the other side.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S077.0_card.jpg",
@@ -4204,9 +4182,9 @@
    "strength": 10,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. Each time a Nazgul wins a skirmish, you may exert this minion and remove (1) to play a Shadow condition from your discard pile. Add a threat if it is [RINGWRAITH].",
    "lore": "\"'As their Dark Lord now grew and put forth his strength, so their voices, which uttered only his will and his malice, were filled with evil and horror.'\"",
    "versions": [
@@ -4228,7 +4206,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fierce.Each time a Nazgul wins a skirmish, you may exert this minion to play a Shadow condition from your discard pile. Add a threat if it is a [ringwraith] condition.",
+      "gameText": "Fierce. Each time a Nazgul wins a skirmish, you may exert this minion to play a Shadow condition from your discard pile. Add a threat if it is a [ringwraith] condition.",
       "lore": "\"'As their Dark Lord now grew and put forth his strength, so their voices, which uttered only his will and his malice, were filled with evil and horror.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S078.0_card.jpg",
@@ -4242,7 +4220,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Fierce. Each time a Nazgul wins a skirmish, you may exert this minion and remove (1) to play a Shadow condition from your discard pile. Add a threat if it is [RINGWRAITH]."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S078.1_card.jpg",
@@ -4274,9 +4251,9 @@
    "strength": 13,
    "vitality": 3,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Fierce. Each time this minion is assigned to a stronger companion, you may exhaust this minion to hinder that companion. Each time this minion is assigned to a weaker companion, you may exert this minion to exert that companion or add a threat.",
    "versions": [
     {
@@ -4297,7 +4274,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Fierce.Each time this minion is assigned to a stronger companion, you may exhaust this minion to hinder that companion.Each time this minion is assigned to a weaker companion, you may exert that companion to add a threat."
+      "gameText": "Fierce. Each time this minion is assigned to a stronger companion, you may exhaust this minion to hinder that companion. Each time this minion is assigned to a weaker companion, you may exert that companion to add a threat."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S079.0_card.jpg",
      "wikiImage": "LOTR-ENV3S079.0_card.jpg"
@@ -4310,7 +4287,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Fierce. Each time this minion is assigned to a stronger companion, you may exhaust this minion to hinder that companion. Each time this minion is assigned to a weaker companion, you may exert this minion to exert that companion or add a threat."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S079.1_card.jpg",
@@ -4342,9 +4318,9 @@
    "strength": 15,
    "vitality": 4,
    "siteNumber": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Enduring. Damage +1. When you play this minion, spot another Nazgul to hinder all Free Peoples cards of one type (except companion). The Free Peoples player may restore any number of their cards, and must exert one of their characters for each card restored.",
    "lore": "\"From a mouth unseen there came a deadly laughter.\"",
    "versions": [
@@ -4380,7 +4356,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Enduring. Damage +1. When you play this minion, spot another Nazgul to hinder all Free Peoples cards of one type (except companion). The Free Peoples player may restore any number of their cards, and must exert one of their characters for each card restored."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S080.1_card.jpg",
@@ -4411,10 +4386,10 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Enduring. Fierce.Assignment: Return another Winged Nazgul to hand to assign this minion to an unbound companion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Enduring. Fierce. Assignment: Return another Winged Nazgul to hand to assign this minion to an unbound companion.",
    "lore": "\"To the air he had returned, summoning his steed ere the darkness failed, and now he was come again, bringing ruin, turning hope to despair, and victory to death.\"",
    "versions": [
     {
@@ -4434,7 +4409,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Enduring. Fierce.Assignment: Return another Winged Nazgul to hand to assign this minion to an unbound companion.",
+      "gameText": "Enduring. Fierce. Assignment: Return another Winged Nazgul to hand to assign this minion to an unbound companion.",
       "lore": "\"To the air he had returned, summoning his steed ere the darkness failed, and now he was come again, bringing ruin, turning hope to despair, and victory to death.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S081.0_card.jpg",
@@ -4462,10 +4437,10 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "The Shadow player may hinder any of their own support cards.Spot an unhindered Shadow support card.  Make a [rohan] companion strength +1 for each of the following: that card's twilight cost, cards stacked on that card, culture tokens on that card, copies of that card you can spot.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "The Shadow player may hinder any of their own support cards. Spot an unhindered Shadow support card.  Make a [rohan] companion strength +1 for each of the following: that card's twilight cost, cards stacked on that card, culture tokens on that card, copies of that card you can spot.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S082.0",
@@ -4481,7 +4456,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "The Shadow player may hinder any of their own support cards.Spot an unhindered Shadow support card.  Make a [rohan] companion strength +1 for each of the following: that card's twilight cost, cards stacked on that card, culture tokens on that card, copies of that card you can spot."
+      "gameText": "The Shadow player may hinder any of their own support cards. Spot an unhindered Shadow support card.  Make a [rohan] companion strength +1 for each of the following: that card's twilight cost, cards stacked on that card, culture tokens on that card, copies of that card you can spot."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S082.0_card.jpg",
      "wikiImage": "LOTR-ENV3S082.0_card.jpg"
@@ -4508,9 +4483,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Beacon. To play, hinder 4 beacons. This cannot be discarded or hindered. Your [GONDOR] Men are considered [ROHAN] Men. Your [ROHAN] Men are considered [GONDOR] Men. Fellowship: Hinder X beacons to play X items from your discard pile on your Men.",
    "lore": "\"And so King Théoden departed from his own realm, and mile by mile the long road wound away...\"",
    "versions": [
@@ -4528,7 +4503,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Beacon. To play, hinder 4 beacons.This cannot be discarded or hindered.Your [Gondor] Men are considered [Rohan] Men.  Your [Rohan] Men are considered [Gondor] Men.Maneuver: Hinder X beacons to play X items from your discard pile on your Men.",
+      "gameText": "Beacon. To play, hinder 4 beacons. This cannot be discarded or hindered. Your [Gondor] Men are considered [Rohan] Men.  Your [Rohan] Men are considered [Gondor] Men. Maneuver: Hinder X beacons to play X items from your discard pile on your Men.",
       "lore": "\"And so King Théoden departed from his own realm, and mile by mile the long road wound away...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S083.0_card.jpg",
@@ -4542,7 +4517,6 @@
      "batch": "pc-2026-09-27",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Beacon. To play, hinder 4 beacons. This cannot be discarded or hindered. Your [GONDOR] Men are considered [ROHAN] Men. Your [ROHAN] Men are considered [GONDOR] Men. Fellowship: Hinder X beacons to play X items from your discard pile on your Men."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV3S083.1_card.jpg",
@@ -4570,9 +4544,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a skirmishing valiant companion twice (or spot Eowyn in a skirmish) to make a minion strength -1 for each hindered or wounded card you can spot.",
    "lore": "\"'You look upon a woman. Éowyn I am, Éomund's daughter. You stand between me and my lord and kin. Begone, if you be not deathless! For living or dark undead, I will smite you, if you touch him.'\"",
    "versions": [
@@ -4621,11 +4595,11 @@
    "twilight": 2,
    "strength": 3,
    "vitality": 4,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Valiant. Enduring. While you can spot 3 [ROHAN] companions (or Eowyn), Merry is considered a [ROHAN] Man. Each time another [ROHAN] Man exerts, you may exert Merry to heal that Man. Skirmish: If he is not assigned to a skirmish, hinder Merry to immediately resolve a skirmish involving a [ROHAN] Man.",
    "versions": [
     {
@@ -4642,12 +4616,12 @@
       "twilight": 2,
       "strength": 3,
       "vitality": 4,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Valiant. Enduring.While you can spot 3 [rohan] companions (or Eowyn), Merry is considered a [Rohan] Man.Each time another [rohan] Man exerts, you may exert Merry to heal that Man.Skirmish: If he is not assigned to a skirmish, hinder Merry to end a skirmish involving a [rohan] companion."
+      "gameText": "Valiant. Enduring. While you can spot 3 [rohan] companions (or Eowyn), Merry is considered a [Rohan] Man. Each time another [rohan] Man exerts, you may exert Merry to heal that Man. Skirmish: If he is not assigned to a skirmish, hinder Merry to end a skirmish involving a [rohan] companion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S085.0_card.jpg",
      "wikiImage": "LOTR-ENV3S085.0_card.jpg"
@@ -4660,7 +4634,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Valiant. Enduring. While you can spot 3 [ROHAN] companions (or Eowyn), Merry is considered a [ROHAN] Man. Each time another [ROHAN] Man exerts, you may exert Merry to heal that Man. Skirmish: If he is not assigned to a skirmish, hinder Merry to immediately resolve a skirmish involving a [ROHAN] Man."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S085.1_card.jpg",
@@ -4689,10 +4662,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Beacon. To play, hinder 2 beacons.Maneuver: Hinder this beacon and exert an unbound Man.  Until the regroup phase, each of your other Men gain each of the unloaded keywords on that Man.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Beacon. To play, hinder 2 beacons. Maneuver: Hinder this beacon and exert an unbound Man.  Until the regroup phase, each of your other Men gain each of the unloaded keywords on that Man.",
    "lore": "\"'It is over-late to send for aid when you are already besieged,' answered Beregond. 'But I do not know the counsel of the Lord and his captains.'\"",
    "versions": [
     {
@@ -4710,7 +4683,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Beacon. To play, hinder 2 beacons.Maneuver: Hinder this beacon and exert an unbound Man.  Until the regroup phase, each of your other Men gain each of the unloaded keywords on that Man.",
+      "gameText": "Beacon. To play, hinder 2 beacons. Maneuver: Hinder this beacon and exert an unbound Man.  Until the regroup phase, each of your other Men gain each of the unloaded keywords on that Man.",
       "lore": "\"'It is over-late to send for aid when you are already besieged,' answered Beregond. 'But I do not know the counsel of the Lord and his captains.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S086.0_card.jpg",
@@ -4739,10 +4712,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Beacon. To play, hinder 2 beacons.Each time you play a mount on your Man, you may add (1) to heal that Man.Response: If a mount borne by your Man exerts a minion, hinder a beacon to exert that minion again.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Beacon. To play, hinder 2 beacons. Each time you play a mount on your Man, you may add (1) to heal that Man. Response: If a mount borne by your Man exerts a minion, hinder a beacon to exert that minion again.",
    "lore": "\"'And there, I think, he will hear tidings of war, and the Riders of Rohan will go down to Minas Tirith.'\"",
    "versions": [
     {
@@ -4760,7 +4733,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Beacon. To play, hinder 2 beacons.Each time you play a mount on your Man, you may add (1) to heal that Man.Response: If a mount borne by your Man exerts a minion, hinder a beacon to exert that minion again.",
+      "gameText": "Beacon. To play, hinder 2 beacons. Each time you play a mount on your Man, you may add (1) to heal that Man. Response: If a mount borne by your Man exerts a minion, hinder a beacon to exert that minion again.",
       "lore": "\"'And there, I think, he will hear tidings of war, and the Riders of Rohan will go down to Minas Tirith.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S087.0_card.jpg",
@@ -4790,10 +4763,10 @@
    "subtypes": "Mount",
    "twilight": 1,
    "vitalityMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be Theoden.[Rohan] companions are strength +1 (or +2 if mounted) for each wound on Theoden.At the start of the assignment phase, the Shadow player may exhaust a minion of strength 15 or more to hinder Snowmane.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be Theoden. [Rohan] companions are strength +1 (or +2 if mounted) for each wound on Theoden. At the start of the assignment phase, the Shadow player may exhaust a minion of strength 15 or more to hinder Snowmane.",
    "lore": "\"Lightfoot's foal, swift Snowmane.\"",
    "versions": [
     {
@@ -4812,7 +4785,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be Theoden.[Rohan] companions are strength +1 (or +2 if mounted) for each wound on Theoden.At the start of the assignment phase, the Shadow player may exhaust a minion of strength 15 or more to hinder Snowmane.",
+      "gameText": "Bearer must be Theoden. [Rohan] companions are strength +1 (or +2 if mounted) for each wound on Theoden. At the start of the assignment phase, the Shadow player may exhaust a minion of strength 15 or more to hinder Snowmane.",
       "lore": "\"Lightfoot's foal, swift Snowmane.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S088.0_card.jpg",
@@ -4840,9 +4813,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert Theoden or Eomer to wound a mounted minion twice.  You may then exert X [rohan] companions to discard X stacked Shadow cards.",
    "lore": "\"He let blow the horns to rally all men to his banner that could come thither; for he thought to make a great shield-wall at the last, and stand, and fight there on foot till all fell...\"",
    "versions": [
@@ -4888,9 +4861,9 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Play up to 2 pipes from your draw deck.  If you cannot spot Theoden, add a burden for each pipe played.",
    "lore": "\"'Live now in blessedness; and when you sit in peace with your pipe, think of me! For never now shall I sit with you in Meduseld, as I promised, or listen to your herb-lore.'\"",
    "versions": [
@@ -4937,9 +4910,9 @@
    "subtypes": "Hand Weapon",
    "twilight": 2,
    "strengthMod": "+2",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a [ROHAN] companion. While bearer is mounted, bearer is strength +1 and each time bearer wins a skirmish, you must exert them to wound a minion.",
    "lore": "\"South strode Éomer and men fled before his face, and they were caught between the hammer and the anvil.\"",
    "versions": [
@@ -4973,7 +4946,6 @@
      "fields": {
       "unique": false,
       "twilight": 2,
-      "block": "None",
       "gameText": "Bearer must be a [ROHAN] companion. While bearer is mounted, bearer is strength +1 and each time bearer wins a skirmish, you must exert them to wound a minion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S091.1_card.jpg",
@@ -5002,9 +4974,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a [SAURON] card. Each time a companion exerts, draw a card (limit once per site). Response: If a companion is exerted by a Free Peoples card, discard another Cirith Ungol Watcher to add 2 threats and hinder that companion.",
    "versions": [
     {
@@ -5022,7 +4994,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot a [sauron] card and add a threat.Each time a companion exerts, draw a card (limit once per site).Response: If a companion is exerted by a Free Peoples card, discard another Cirith Ungol Watcher to add 3 threats and hinder that companion."
+      "gameText": "To play, spot a [sauron] card and add a threat. Each time a companion exerts, draw a card (limit once per site). Response: If a companion is exerted by a Free Peoples card, discard another Cirith Ungol Watcher to add 3 threats and hinder that companion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S092.0_card.jpg",
      "wikiImage": "LOTR-ENV3S092.0_card.jpg"
@@ -5035,7 +5007,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "To play, spot a [SAURON] card. Each time a companion exerts, draw a card (limit once per site). Response: If a companion is exerted by a Free Peoples card, discard another Cirith Ungol Watcher to add 2 threats and hinder that companion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S092.1_card.jpg",
@@ -5064,10 +5035,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Twilight.To play, hinder 2 twilight conditions.Skirmish: Exert a Troll twice and hinder this condition to discard a Free Peoples card borne by a companion that Troll is skirmishing.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Twilight. To play, hinder 2 twilight conditions. Skirmish: Exert a Troll twice and hinder this condition to discard a Free Peoples card borne by a companion that Troll is skirmishing.",
    "lore": "\"'Go now, and die in what way seems best to you.'\"",
    "versions": [
     {
@@ -5085,7 +5056,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Twilight.To play, hinder 2 twilight conditions.Skirmish: Exert a Troll twice and hinder this condition to discard a Free Peoples card borne by a companion that Troll is skirmishing.",
+      "gameText": "Twilight. To play, hinder 2 twilight conditions. Skirmish: Exert a Troll twice and hinder this condition to discard a Free Peoples card borne by a companion that Troll is skirmishing.",
       "lore": "\"'Go now, and die in what way seems best to you.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S093.0_card.jpg",
@@ -5114,10 +5085,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Twilight.To play, hinder 2 twilight conditions.Response: If a burden is added, hinder an Orc and this condition to add a threat.Response: If a threat is added, hinder an Orc and this condition to add a burden.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Twilight. To play, hinder 2 twilight conditions. Response: If a burden is added, hinder an Orc and this condition to add a threat. Response: If a threat is added, hinder an Orc and this condition to add a burden.",
    "lore": "\"'He is burning, already burning,' he said sadly. 'The house of his spirit crumbles.'\"",
    "versions": [
     {
@@ -5135,7 +5106,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Twilight.To play, hinder 2 twilight conditions.Response: If a burden is added, hinder an Orc and this condition to add a threat.Response: If a threat is added, hinder an Orc and this condition to add a burden.",
+      "gameText": "Twilight. To play, hinder 2 twilight conditions. Response: If a burden is added, hinder an Orc and this condition to add a threat. Response: If a threat is added, hinder an Orc and this condition to add a burden.",
       "lore": "\"'He is burning, already burning,' he said sadly. 'The house of his spirit crumbles.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S094.0_card.jpg",
@@ -5164,9 +5135,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Twilight. To play, hinder 2 twilight conditions. Skirmish: Exert an Orc or Troll and hinder a twilight condition to make that minion strength +2.",
    "lore": "\"The shadows closed on men again, and their hearts went cold, and the valour of Gondor withered into ash.\"",
    "versions": [
@@ -5185,7 +5156,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Twilight.To play, hinder 2 twilight conditions.Skirmish: Exert an Orc or Troll and hinder 2 twilight conditions to make that minion strength +2.",
+      "gameText": "Twilight. To play, hinder 2 twilight conditions. Skirmish: Exert an Orc or Troll and hinder 2 twilight conditions to make that minion strength +2.",
       "lore": "\"The shadows closed on men again, and their hearts went cold, and the valour of Gondor withered into ash.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S095.0_card.jpg",
@@ -5199,7 +5170,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Twilight. To play, hinder 2 twilight conditions. Skirmish: Exert an Orc or Troll and hinder a twilight condition to make that minion strength +2."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S095.1_card.jpg",
@@ -5227,9 +5197,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Twilight. To play, hinder 4 twilight conditions. This cannot be discarded or hindered. Orcs gain fierce. Trolls gain enduring. Nazgul gain damage +1. Your Men and Uruk-hai gain archer. Shadow: Hinder X of your other Shadow support cards to play Sauron from your hand or discard pile; he is twilight cost -X.",
    "versions": [
     {
@@ -5260,7 +5230,6 @@
      "fields": {
       "unique": true,
       "twilight": 5,
-      "block": "None",
       "gameText": "Twilight. To play, hinder 4 twilight conditions. This cannot be discarded or hindered. Orcs gain fierce. Trolls gain enduring. Nazgul gain damage +1. Your Men and Uruk-hai gain archer. Shadow: Hinder X of your other Shadow support cards to play Sauron from your hand or discard pile; he is twilight cost -X."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S096.1_card.jpg",
@@ -5288,9 +5257,9 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Twilight. Each time you play an Orc or Troll, add (1) (limit once per phase). Shadow or Regroup: Remove (2) to choose a Shadow condition from your discard pile. Shuffle it into your draw deck (or you may play it if it is twilight).",
    "lore": "\"'No...not at sunrise. The Darkness has begun. There will be no dawn.'\"",
    "versions": [
@@ -5308,7 +5277,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Twilight. Each time you play an Orc or Troll, you may hinder this to add (1).Shadow or Regroup: Remove (2) to choose a Shadow condition from your discard pile. Shuffle it into your draw deck (or you may play it if it is twilight).",
+      "gameText": "Twilight. Each time you play an Orc or Troll, you may hinder this to add (1). Shadow or Regroup: Remove (2) to choose a Shadow condition from your discard pile. Shuffle it into your draw deck (or you may play it if it is twilight).",
       "lore": "\"'No...not at sunrise. The Darkness has begun. There will be no dawn.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S097.0_card.jpg",
@@ -5322,8 +5291,7 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "twilight": 2,
-      "block": "None"
+      "twilight": 2
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S097.1_card.jpg",
      "wikiImage": "LOTR-ENV3S097.1_card.jpg"
@@ -5337,7 +5305,6 @@
      "fields": {
       "unique": true,
       "twilight": 2,
-      "block": "None",
       "gameText": "Twilight. Each time you play an Orc or Troll, add (1) (limit once per phase). Shadow or Regroup: Remove (2) to choose a Shadow condition from your discard pile. Shuffle it into your draw deck (or you may play it if it is twilight)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV3S097.2_card.jpg",
@@ -5368,10 +5335,10 @@
    "strength": 6,
    "vitality": 3,
    "siteNumber": 4,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "This minion is strength +1 for each hindered card you can spot.Skirmish: Exert this minion to hinder a weapon or condition borne by a companion it is skirmishing.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "This minion is strength +1 for each hindered card you can spot. Skirmish: Exert this minion to hinder a weapon or condition borne by a companion it is skirmishing.",
    "lore": "\"Their purpose was only to test the strength of the defence and to keep the men of Gondor busy in many places.\"",
    "versions": [
     {
@@ -5391,7 +5358,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "This minion is strength +1 for each hindered card you can spot.Skirmish: Exert this minion to hinder a weapon or condition borne by a companion it is skirmishing.",
+      "gameText": "This minion is strength +1 for each hindered card you can spot. Skirmish: Exert this minion to hinder a weapon or condition borne by a companion it is skirmishing.",
       "lore": "\"Their purpose was only to test the strength of the defence and to keep the men of Gondor busy in many places.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S098.0_card.jpg",
@@ -5419,9 +5386,9 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Maneuver: Exert a [SAURON] minion and remove a companion in the dead pile from the game to exert every character sharing a culture with that companion. Hinder this condition.",
    "lore": "\"It tumbled down, small round shot that did not burn. But when men ran to learn what it might be, they cried aloud or wept.\"",
    "versions": [
@@ -5453,7 +5420,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Maneuver: Exert a [SAURON] minion and remove a companion in the dead pile from the game to exert every character sharing a culture with that companion. Hinder this condition."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S099.1_card.jpg",
@@ -5485,10 +5451,10 @@
    "strength": 24,
    "vitality": 5,
    "siteNumber": 6,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Sauron is twilight cost -1 for each artifact and companion you can spot (limit -6).While you can spot 6 companions, Sauron is fierce.  While you can spot 7 companions, Sauron is relentless (he participates in 1 extra round of skirmishes after fierce.).Each time a companion loses a skirmish to Sauron, kill that companion.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Sauron is twilight cost -1 for each artifact and companion you can spot (limit -6). While you can spot 6 companions, Sauron is fierce.  While you can spot 7 companions, Sauron is relentless (he participates in 1 extra round of skirmishes after fierce.). Each time a companion loses a skirmish to Sauron, kill that companion.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S100.0",
@@ -5508,7 +5474,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Sauron is twilight cost -1 for each artifact and companion you can spot (limit -6).While you can spot 6 companions, Sauron is fierce.  While you can spot 7 companions, Sauron is relentless (he participates in 1 extra round of skirmishes after fierce.).Each time a companion loses a skirmish to Sauron, kill that companion."
+      "gameText": "Sauron is twilight cost -1 for each artifact and companion you can spot (limit -6). While you can spot 6 companions, Sauron is fierce.  While you can spot 7 companions, Sauron is relentless (he participates in 1 extra round of skirmishes after fierce.). Each time a companion loses a skirmish to Sauron, kill that companion."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S100.0_card.jpg",
      "wikiImage": "LOTR-ENV3S100.0_card.jpg"
@@ -5535,9 +5501,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert 3 [sauron] minions (or spot Sauron) to hinder all Free Peoples support cards.  For each card hindered, hinder a Shadow support card.",
    "lore": "\"Victory was slipping from his grasp even as he stretched out his hand to seize it. But his arm was long. He was still in command, wielding great powers.\"",
    "versions": [
@@ -5587,10 +5553,10 @@
    "strength": 9,
    "vitality": 3,
    "siteNumber": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Lurker.Each time a companion loses a skirmish, the Free Peoples player must add a threat or a burden.Skirmish: Exert this minion to make a wounded companion strength -1.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Lurker. Each time a companion loses a skirmish, the Free Peoples player must add a threat or a burden. Skirmish: Exert this minion to make a wounded companion strength -1.",
    "lore": "\"Those nearby saw the anguish in his face, and now he seemed...crushed, defeated at last.\"",
    "versions": [
     {
@@ -5611,7 +5577,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Lurker.Each time a companion loses a skirmish, the Free Peoples player must add a threat or a burden.Skirmish: Exert this minion to make a wounded companion strength -1.",
+      "gameText": "Lurker. Each time a companion loses a skirmish, the Free Peoples player must add a threat or a burden. Skirmish: Exert this minion to make a wounded companion strength -1.",
       "lore": "\"Those nearby saw the anguish in his face, and now he seemed...crushed, defeated at last.\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S102.0_card.jpg",
@@ -5639,10 +5605,10 @@
    "unique": false,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot 2 [sauron] or [ringwraith] cards.Each time a Free Peoples card reveals or discards a card from any draw deck, you may exert an unbound companion or ally to draw a card (limit once per site).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot 2 [sauron] or [ringwraith] cards. Each time a Free Peoples card reveals or discards a card from any draw deck, you may exert an unbound companion or ally to draw a card (limit once per site).",
    "lore": "\"'Fëanor himself, maybe, wrought them, in days so long ago...But there is nothing that Sauron cannot turn to evil uses.'\"",
    "versions": [
     {
@@ -5659,7 +5625,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot 2 [sauron] or [ringwraith] cards.Each time a Free Peoples card reveals or discards a card from any draw deck, you may exert an unbound companion or ally to draw a card (limit once per site).",
+      "gameText": "To play, spot 2 [sauron] or [ringwraith] cards. Each time a Free Peoples card reveals or discards a card from any draw deck, you may exert an unbound companion or ally to draw a card (limit once per site).",
       "lore": "\"'Fëanor himself, maybe, wrought them, in days so long ago...But there is nothing that Sauron cannot turn to evil uses.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S103.0_card.jpg",
@@ -5687,9 +5653,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a unique [sauron] or [ringwraith] minion and hinder the Ring-bearer to make each minion strength +2 until the regroup phase.",
    "lore": "\"'And now he shall endure the slow torment of years, as long and slow as our arts in the Great Tower can contrive, and never be released, unless maybe when he is changed and broken...'\"",
    "versions": [
@@ -5735,9 +5701,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 5,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Make a skirmishing Hobbit bearing a hand weapon (except the Ring-bearer) strength +X, where X is the total vitality of all characters in that skirmish.  At the end of that skirmish, hinder a minion involved in that skirmish if you cannot spot more than 4 companions.",
    "lore": "\"'You've hurt my master, you brute, and you'll pay!'\"",
    "versions": [
@@ -5783,9 +5749,9 @@
    "unique": false,
    "subtypes": ",",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Pipeweed. Bearer must bear a pipe. When you play this possession, you may shuffle up to 2 pipes or pipeweed from your discard pile into your draw deck.",
    "lore": "\"'We have heaps of it,' he said; 'and you can all pack as much as you wish, when we go.'\"",
    "versions": [
@@ -5803,7 +5769,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Pipeweed. Bearer must bear a pipe.When you play this possession, you may shuffle up to 2 pipes or pipeweed from your discard pile into your draw deck.Skirmish: Discard this possession to heal bearer.",
+      "gameText": "Pipeweed. Bearer must bear a pipe. When you play this possession, you may shuffle up to 2 pipes or pipeweed from your discard pile into your draw deck. Skirmish: Discard this possession to heal bearer.",
       "lore": "\"'We have heaps of it,' he said; 'and you can all pack as much as you wish, when we go.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S106.0_card.jpg",
@@ -5817,7 +5783,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Pipeweed. Bearer must bear a pipe. When you play this possession, you may shuffle up to 2 pipes or pipeweed from your discard pile into your draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S106.1_card.jpg",
@@ -5845,9 +5810,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Exert a unique [gondor] or [shire] companion (except Frodo) to make that companion strength +1 for each burden on Frodo (limit +3 unless you cannot spot more than 4 companions).  Remove this from the game.",
    "lore": "\"'His Eye is now straining towards us, blind almost to all else that is moving....Therein lies all our hope.'\"",
    "versions": [
@@ -5893,10 +5858,10 @@
    "unique": false,
    "subtypes": "Assignment",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Spot a Hobbit companion (except the Ring-bearer).In region 1, hinder all other Hobbits.In region 2, make that Hobbit defender +2 until the regroup phase.In region 3, make that Hobbit enduring until the regroup phase.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Spot a Hobbit companion (except the Ring-bearer). In region 1, hinder all other Hobbits. In region 2, make that Hobbit defender +2 until the regroup phase. In region 3, make that Hobbit enduring until the regroup phase.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S108.0",
@@ -5912,7 +5877,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Spot a Hobbit companion (except the Ring-bearer).In region 1, hinder all other Hobbits.In region 2, make that Hobbit defender +2 until the regroup phase.In region 3, make that Hobbit enduring until the regroup phase."
+      "gameText": "Spot a Hobbit companion (except the Ring-bearer). In region 1, hinder all other Hobbits. In region 2, make that Hobbit defender +2 until the regroup phase. In region 3, make that Hobbit enduring until the regroup phase."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S108.0_card.jpg",
      "wikiImage": "LOTR-ENV3S108.0_card.jpg"
@@ -5939,9 +5904,9 @@
    "unique": false,
    "subtypes": "Skirmish",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot a Hobbit skirmishing more than 1 minion to resolve skirmishes between that Hobbit and those minions individually.  Until the regroup phase, add a burden each time that Hobbit loses a skirmish and a threat each time that Hobbit wins.",
    "lore": "\"The orc wheeled round, but before it could make a move Sam slashed its whip-hand from its arm.\"",
    "versions": [
@@ -5990,12 +5955,12 @@
    "twilight": 0,
    "strength": 2,
    "vitality": 4,
-   "resistance": 0,
-   "canBearRing": false,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Ring-bearer (resistance 7).  Ring-bound.Frodo is strength +1 for each burden.",
+   "resistance": 7,
+   "canBearRing": true,
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Ring-bearer (resistance 7).  Ring-bound. Frodo is strength +1 for each burden.",
    "lore": "\"'Look here, Sam dear lad,' said Frodo: 'I am tired, weary, I haven't a hope left. But I have to go on trying to get to the Mountain, as long as I can move. The Ring is enough. This extra weight is killing me. It must go.'\"",
    "versions": [
     {
@@ -6012,12 +5977,12 @@
       "twilight": 0,
       "strength": 2,
       "vitality": 4,
-      "resistance": 0,
-      "canBearRing": false,
+      "resistance": 7,
+      "canBearRing": true,
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Ring-bearer (resistance 7).  Ring-bound.Frodo is strength +1 for each burden.",
+      "gameText": "Ring-bearer (resistance 7).  Ring-bound. Frodo is strength +1 for each burden.",
       "lore": "\"'Look here, Sam dear lad,' said Frodo: 'I am tired, weary, I haven't a hope left. But I have to go on trying to get to the Mountain, as long as I can move. The Ring is enough. This extra weight is killing me. It must go.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S110.0_card.jpg",
@@ -6045,9 +6010,9 @@
    "unique": false,
    "subtypes": "Maneuver",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Spot Frodo to restore a [shire] card.  If you cannot spot more than 4 companions, you may add (3) to reconcile your hand and heal up to 2 [shire] companions.",
    "lore": "\"'I'll get there, if I leave everything but my bones behind,' said Sam. 'And I'll carry Mr. Frodo up myself, if it breaks my back and heart.'\"",
    "versions": [
@@ -6093,10 +6058,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Pipeweed.When you play this, you may discard a Free Peoples card from your draw deck.When you discard this with a pipe, you may spot another Hornblower Barrel to take 2 other Free Peoples cards (except events or Hornblower Barrels) from your discard pile into hand.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Pipeweed. When you play this, you may discard a Free Peoples card from your draw deck. When you discard this with a pipe, you may spot another Hornblower Barrel to take 2 other Free Peoples cards (except events or Hornblower Barrels) from your discard pile into hand.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S112.0",
@@ -6112,7 +6077,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Pipeweed.When you play this, you may discard a Free Peoples card from your draw deck.When you discard this with a pipe, you may spot another Hornblower Barrel to take 2 other Free Peoples cards (except events or Hornblower Barrels) from your discard pile into hand."
+      "gameText": "Pipeweed. When you play this, you may discard a Free Peoples card from your draw deck. When you discard this with a pipe, you may spot another Hornblower Barrel to take 2 other Free Peoples cards (except events or Hornblower Barrels) from your discard pile into hand."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S112.0_card.jpg",
      "wikiImage": "LOTR-ENV3S112.0_card.jpg"
@@ -6139,10 +6104,10 @@
    "unique": true,
    "subtypes": "Pipe",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be an unbound Hobbit.Each time a pipeweed is discarded, you may exert bearer to play that pipeweed from your discard pile.  Hinder it and this pipe.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be an unbound Hobbit. Each time a pipeweed is discarded, you may exert bearer to play that pipeweed from your discard pile.  Hinder it and this pipe.",
    "lore": "\"'But Ents only drink, and drink is not enough for content. Treebeard's draughts may be nourishing, but one feels the need of something solid.'\"",
    "versions": [
     {
@@ -6159,7 +6124,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be an unbound Hobbit.Each time a pipeweed is discarded, you may exert bearer to play that pipeweed from your discard pile.  Hinder it and this pipe.",
+      "gameText": "Bearer must be an unbound Hobbit. Each time a pipeweed is discarded, you may exert bearer to play that pipeweed from your discard pile.  Hinder it and this pipe.",
       "lore": "\"'But Ents only drink, and drink is not enough for content. Treebeard's draughts may be nourishing, but one feels the need of something solid.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S113.0_card.jpg",
@@ -6187,10 +6152,10 @@
    "unique": true,
    "subtypes": "Pipe",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Bearer must be an unbound Hobbit.Fellowship: Discard a pipeweed to remove X threats, where X is the number of pipes you can spot. Hinder this pipe or hinder bearer.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Bearer must be an unbound Hobbit. Fellowship: Discard a pipeweed to remove X threats, where X is the number of pipes you can spot. Hinder this pipe or hinder bearer.",
    "lore": "\"'I have carried it a long way, though I don't know why. I never really expected to find any pipe-weed on the journey, when my own ran out.'\"",
    "versions": [
     {
@@ -6207,7 +6172,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Bearer must be an unbound Hobbit.Fellowship: Discard a pipeweed to remove X threats, where X is the number of pipes you can spot. Hinder this pipe or hinder bearer.",
+      "gameText": "Bearer must be an unbound Hobbit. Fellowship: Discard a pipeweed to remove X threats, where X is the number of pipes you can spot. Hinder this pipe or hinder bearer.",
       "lore": "\"'I have carried it a long way, though I don't know why. I never really expected to find any pipe-weed on the journey, when my own ran out.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S114.0_card.jpg",
@@ -6238,11 +6203,11 @@
    "twilight": 2,
    "strength": 3,
    "vitality": 4,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Aragorn",
-   "block": "None",
-   "arrowDirection": "None",
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Ring-bound. Frodo is resistance +2.Maneuver: If you cannot spot more than 4 companions, add a burden to choose condition or possession, then choose odd or even.  Hinder all Shadow support cards with a type and twilight cost matching your choice. Limit once per turn.",
    "lore": "\"'I can't carry it for you, but I can carry you...!'\"",
    "versions": [
@@ -6260,7 +6225,7 @@
       "twilight": 2,
       "strength": 3,
       "vitality": 4,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Aragorn",
       "block": "None",
@@ -6296,12 +6261,12 @@
    "twilight": 1,
    "strength": 3,
    "vitality": 4,
-   "resistance": 0,
+   "resistance": 6,
    "canBearRing": false,
    "signet": "Frodo",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "Ring-bound. To play, add a burden.Assignment: If you cannot spot a companion with a culture other than [shire], exert Smeagol and hinder him to spot a minion.  Add (2) (and add 2 threats if that minion is twilight cost 5 or more) to hinder that minion.",
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "Ring-bound. To play, add a burden. Assignment: If you cannot spot a companion with a culture other than [shire], exert Smeagol and hinder him to spot a minion.  Add (2) (and add 2 threats if that minion is twilight cost 5 or more) to hinder that minion.",
    "lore": "\"...thought that they beheld an old weary hobbit...\"",
    "versions": [
     {
@@ -6318,12 +6283,12 @@
       "twilight": 1,
       "strength": 3,
       "vitality": 4,
-      "resistance": 0,
+      "resistance": 6,
       "canBearRing": false,
       "signet": "Frodo",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "Ring-bound. To play, add a burden.Assignment: If you cannot spot a companion with a culture other than [shire], exert Smeagol and hinder him to spot a minion.  Add (2) (and add 2 threats if that minion is twilight cost 5 or more) to hinder that minion.",
+      "gameText": "Ring-bound. To play, add a burden. Assignment: If you cannot spot a companion with a culture other than [shire], exert Smeagol and hinder him to spot a minion.  Add (2) (and add 2 threats if that minion is twilight cost 5 or more) to hinder that minion.",
       "lore": "\"...thought that they beheld an old weary hobbit...\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S116.0_card.jpg",
@@ -6354,9 +6319,9 @@
    "twilight": 1,
    "strengthMod": "+1",
    "resistanceMod": "+1",
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "Bearer must be a Ring-bound Hobbit. Skirmish: If you cannot spot more than 4 companions, add a threat to make bearer strength +1 for each threat you can spot (limit +6). Response: If The One Ring is transferred, play this on the new Ring-bearer. You may use this ability from your discard pile.",
    "lore": "\"Sting flashed out...but at its edges a blue fire flicked.\"",
    "versions": [
@@ -6391,7 +6356,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": true,
-      "block": "None",
       "gameText": "Bearer must be a Ring-bound Hobbit. Skirmish: If you cannot spot more than 4 companions, add a threat to make bearer strength +1 for each threat you can spot (limit +6). Response: If The One Ring is transferred, play this on the new Ring-bearer. You may use this ability from your discard pile."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S117.1_card.jpg",
@@ -6419,10 +6383,10 @@
    "unique": true,
    "subtypes": "Support Area",
    "twilight": 3,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot 2 Hobbit companions.Skirmish: Exert a companion and hinder each card borne by them to make that companion strength +1 for each card hindered (+3 if that card is a weapon).  Hinder this condition (or discard this if you can spot more than 4 companions).",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot 2 Hobbit companions. Skirmish: Exert a companion and hinder each card borne by them to make that companion strength +1 for each card hindered (+3 if that card is a weapon).  Hinder this condition (or discard this if you can spot more than 4 companions).",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S118.0",
@@ -6438,7 +6402,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot 2 Hobbit companions.Skirmish: Exert a companion and hinder each card borne by them to make that companion strength +1 for each card hindered (+3 if that card is a weapon).  Hinder this condition (or discard this if you can spot more than 4 companions)."
+      "gameText": "To play, spot 2 Hobbit companions. Skirmish: Exert a companion and hinder each card borne by them to make that companion strength +1 for each card hindered (+3 if that card is a weapon).  Hinder this condition (or discard this if you can spot more than 4 companions)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S118.0_card.jpg",
      "wikiImage": "LOTR-ENV3S118.0_card.jpg"
@@ -6465,9 +6429,9 @@
    "unique": false,
    "subtypes": "Pipe",
    "twilight": 1,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
    "gameText": "To play, spot a pipe or an unbound Hobbit. Bearer must be a companion. Fellowship: Discard 2 pipeweeds and spot X pipes to make X companions strength +1 until the regroup phase. Hinder this pipe.",
    "lore": "\"'I keep a treasure or two near my skin, as precious as Rings to me. Here's one: my old wooden pipe.'\"",
    "versions": [
@@ -6485,7 +6449,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot a pipe or an unbound Hobbit. Bearer must be a companion.Fellowship: Discard a pipeweed and spot X pipes to make X companions strength +1 until the regroup phase.  Hinder this pipe.",
+      "gameText": "To play, spot a pipe or an unbound Hobbit. Bearer must be a companion. Fellowship: Discard a pipeweed and spot X pipes to make X companions strength +1 until the regroup phase.  Hinder this pipe.",
       "lore": "\"'I keep a treasure or two near my skin, as precious as Rings to me. Here's one: my old wooden pipe.'\""
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S119.0_card.jpg",
@@ -6499,7 +6463,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "To play, spot a pipe or an unbound Hobbit. Bearer must be a companion. Fellowship: Discard 2 pipeweeds and spot X pipes to make X companions strength +1 until the regroup phase. Hinder this pipe."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S119.1_card.jpg",
@@ -6527,10 +6490,10 @@
    "unique": false,
    "subtypes": "Fellowship",
    "twilight": 2,
-   "signet": "None",
-   "block": "None",
-   "arrowDirection": "None",
-   "gameText": "To play, spot a Hobbit companion.Make the Shadow player exhaust 1 of your characters.  For each exertion made, hinder a Shadow support card.  If you cannot spot more than 4 companions, you may make the Shadow player shuffle one of their hindered cards (and all cards stacked on it) into their owner's draw deck.",
+   "signet": null,
+   "block": null,
+   "arrowDirection": null,
+   "gameText": "To play, spot a Hobbit companion. Make the Shadow player exhaust 1 of your characters.  For each exertion made, hinder a Shadow support card.  If you cannot spot more than 4 companions, you may make the Shadow player shuffle one of their hindered cards (and all cards stacked on it) into their owner's draw deck.",
    "versions": [
     {
      "wikiId": "LOTR-ENV3S120.0",
@@ -6546,7 +6509,7 @@
       "signet": "None",
       "block": "None",
       "arrowDirection": "None",
-      "gameText": "To play, spot a Hobbit companion.Make the Shadow player exhaust 1 of your characters.  For each exertion made, hinder a Shadow support card.  If you cannot spot more than 4 companions, you may make the Shadow player shuffle one of their hindered cards (and all cards stacked on it) into their owner's draw deck."
+      "gameText": "To play, spot a Hobbit companion. Make the Shadow player exhaust 1 of your characters.  For each exertion made, hinder a Shadow support card.  If you cannot spot more than 4 companions, you may make the Shadow player shuffle one of their hindered cards (and all cards stacked on it) into their owner's draw deck."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S120.0_card.jpg",
      "wikiImage": "LOTR-ENV3S120.0_card.jpg"
@@ -6573,11 +6536,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 1,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 0,
    "arrowDirection": "Left",
    "gameText": "Fellowship: Exert an unbound Hobbit to play a pipe and pipeweed from your draw deck (limit once per phase).",
+   "homeSites": [
+    "1K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S121.0",
@@ -6591,10 +6557,13 @@
       "subtypes": "Standard",
       "siteNumber": 1,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 0,
       "arrowDirection": "Left",
-      "gameText": "Fellowship: Exert an unbound Hobbit to play a pipe and pipeweed from your draw deck (limit once per phase)."
+      "gameText": "Fellowship: Exert an unbound Hobbit to play a pipe and pipeweed from your draw deck (limit once per phase).",
+      "homeSites": [
+       "1K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S121.0_card.jpg",
      "wikiImage": "LOTR-ENV3S121.0_card.jpg"
@@ -6621,11 +6590,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 8,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 8,
    "arrowDirection": "Left",
    "gameText": "At the start of each phase, the Shadow player may remove (1) to take a Shadow event for that phase into hand from discard.",
+   "homeSites": [
+    "8K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S122.0",
@@ -6639,10 +6611,13 @@
       "subtypes": "Standard",
       "siteNumber": 8,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 8,
       "arrowDirection": "Left",
-      "gameText": "At the start of each phase, the Shadow player may remove (1) to take a Shadow event into hand from their discard pile."
+      "gameText": "At the start of each phase, the Shadow player may remove (1) to take a Shadow event into hand from their discard pile.",
+      "homeSites": [
+       "8K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S122.0_card.jpg",
      "wikiImage": "LOTR-ENV3S122.0_card.jpg"
@@ -6655,7 +6630,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "At the start of each phase, the Shadow player may remove (1) to take a Shadow event for that phase into hand from discard."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S122.1_card.jpg",
@@ -6683,11 +6657,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 8,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 7,
    "arrowDirection": "Left",
    "gameText": "At the start of the maneuver phase, hinder all weapons. All characters gain enduring.",
+   "homeSites": [
+    "8K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S123.0",
@@ -6701,10 +6678,13 @@
       "subtypes": "Standard",
       "siteNumber": 8,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 7,
       "arrowDirection": "Left",
-      "gameText": "All characters lose all strength bonuses from weapons and gain enduring."
+      "gameText": "All characters lose all strength bonuses from weapons and gain enduring.",
+      "homeSites": [
+       "8K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S123.0_card.jpg",
      "wikiImage": "LOTR-ENV3S123.0_card.jpg"
@@ -6717,7 +6697,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "At the start of the maneuver phase, hinder all weapons. All characters gain enduring."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S123.1_card.jpg",
@@ -6745,11 +6724,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 8,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 5,
    "arrowDirection": "Left",
    "gameText": "When moving here, for each Free Peoples card borne by companions, the Free Peoples player must discard it or add (1).",
+   "homeSites": [
+    "8K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S124.0",
@@ -6763,10 +6745,13 @@
       "subtypes": "Standard",
       "siteNumber": 8,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 5,
       "arrowDirection": "Left",
-      "gameText": "When moving here, for each Free Peoples card borne by companions, the Free Peoples player must discard it or add (2)."
+      "gameText": "When moving here, for each Free Peoples card borne by companions, the Free Peoples player must discard it or add (2).",
+      "homeSites": [
+       "8K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S124.0_card.jpg",
      "wikiImage": "LOTR-ENV3S124.0_card.jpg"
@@ -6779,7 +6764,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "When moving here, for each Free Peoples card borne by companions, the Free Peoples player must discard it or add (1)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S124.1_card.jpg",
@@ -6807,11 +6791,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 8,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 8,
    "arrowDirection": "Left",
    "gameText": "Battleground. Each minion is strength +1 for each threat you can spot.",
+   "homeSites": [
+    "8K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S125.0",
@@ -6825,10 +6812,13 @@
       "subtypes": "Standard",
       "siteNumber": 8,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 8,
       "arrowDirection": "Left",
-      "gameText": "Battleground. Each minion is strength +1 for each threat you can spot."
+      "gameText": "Battleground. Each minion is strength +1 for each threat you can spot.",
+      "homeSites": [
+       "8K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S125.0_card.jpg",
      "wikiImage": "LOTR-ENV3S125.0_card.jpg"
@@ -6855,11 +6845,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 9,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Mountain. Underground. Game text on Free Peoples items and The One Ring does not apply. Each minion is strength +1.",
+   "homeSites": [
+    "9K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S126.0",
@@ -6873,10 +6866,13 @@
       "subtypes": "Standard",
       "siteNumber": 9,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Mountain.  Underground. Game text on Free Peoples items and The One Ring does not apply."
+      "gameText": "Mountain.  Underground. Game text on Free Peoples items and The One Ring does not apply.",
+      "homeSites": [
+       "9K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S126.0_card.jpg",
      "wikiImage": "LOTR-ENV3S126.0_card.jpg"
@@ -6889,7 +6885,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Mountain. Underground. Game text on Free Peoples items and The One Ring does not apply. Each minion is strength +1."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S126.1_card.jpg",
@@ -6917,11 +6912,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 9,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Mountain. Underground. Battleground. Each time a card is hindered, discard it.  Each time a character is exerted, wound it.",
+   "homeSites": [
+    "9K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S127.0",
@@ -6935,10 +6933,13 @@
       "subtypes": "Standard",
       "siteNumber": 9,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Mountain. Underground. Battleground. Each time a card is hindered, discard it.  Each time a character is exerted, wound it."
+      "gameText": "Mountain. Underground. Battleground. Each time a card is hindered, discard it.  Each time a character is exerted, wound it.",
+      "homeSites": [
+       "9K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S127.0_card.jpg",
      "wikiImage": "LOTR-ENV3S127.0_card.jpg"
@@ -6965,11 +6966,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 9,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Mountain. Battleground. Each time a threat is added, the Free Peoples player must assign all threat wounds.",
+   "homeSites": [
+    "9K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S128.0",
@@ -6983,10 +6987,13 @@
       "subtypes": "Standard",
       "siteNumber": 9,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Mountain. Battleground. Each time a threat is added, the Free Peoples player must assign all threat wounds."
+      "gameText": "Mountain. Battleground. Each time a threat is added, the Free Peoples player must assign all threat wounds.",
+      "homeSites": [
+       "9K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S128.0_card.jpg",
      "wikiImage": "LOTR-ENV3S128.0_card.jpg"
@@ -7013,11 +7020,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 9,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Mountain. At the start of each phase, the Shadow player may remove (1) to hinder a card (except companions or The One Ring).",
+   "homeSites": [
+    "9K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S129.0",
@@ -7031,10 +7041,13 @@
       "subtypes": "Standard",
       "siteNumber": 9,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Mountain. At the start of each phase, the Shadow player may hinder a card (except a companion or The One Ring)."
+      "gameText": "Mountain. At the start of each phase, the Shadow player may hinder a card (except a companion or The One Ring).",
+      "homeSites": [
+       "9K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S129.0_card.jpg",
      "wikiImage": "LOTR-ENV3S129.0_card.jpg"
@@ -7047,7 +7060,6 @@
      "batch": "pc-2026-03-28",
      "fields": {
       "unique": false,
-      "block": "None",
       "gameText": "Mountain. At the start of each phase, the Shadow player may remove (1) to hinder a card (except companions or The One Ring)."
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S129.1_card.jpg",
@@ -7075,11 +7087,14 @@
    "unique": false,
    "subtypes": "Standard",
    "siteNumber": 9,
-   "signet": "None",
-   "block": "None",
+   "signet": null,
+   "block": "King",
    "shadowNumber": 9,
    "arrowDirection": "Left",
    "gameText": "Mountain. Shadow: Remove a burden or a threat to play a minion from your discard pile. If it costs (5) or more, add (1).",
+   "homeSites": [
+    "9K"
+   ],
    "versions": [
     {
      "wikiId": "LOTR-ENV3S130.0",
@@ -7093,10 +7108,13 @@
       "subtypes": "Standard",
       "siteNumber": 9,
       "signet": "None",
-      "block": "None",
+      "block": "King",
       "shadowNumber": 9,
       "arrowDirection": "Left",
-      "gameText": "Mountain. Shadow: Remove a burden or a threat to play a minion from your discard pile. If it costs (5) or more, add (1)."
+      "gameText": "Mountain. Shadow: Remove a burden or a threat to play a minion from your discard pile. If it costs (5) or more, add (1).",
+      "homeSites": [
+       "9K"
+      ]
      },
      "image": "https://cdn.lotrtcgpc.net/cards/sets/v03/LOTR-ENV3S130.0_card.jpg",
      "wikiImage": "LOTR-ENV3S130.0_card.jpg"
