@@ -19,7 +19,7 @@ RELEASE_FIELDS = [
     "LanguageCode", "IsPhysical", "IsPlayable", "CollInfo", "IsUnique", "Title", "Subtitle", "Subtypes",
     "TwilightCost", "Strength", "StrengthMod", "Vitality", "VitalityMod", "SiteNum", "SiteNumMod",
     "Resistance", "ResistanceMod", "CanBearRing", "Signet", "Block", "ShadowNum", "ArrowDir",
-    "GameText", "Lore", "PromoText",
+    "GameText", "Lore", "PromoText", "CardType", "HomeSites",
 ]
 
 SET_FIELDS = ["ID", "Name", "Abbr", "Creator", "ReleaseDate", "IsOfficial"]

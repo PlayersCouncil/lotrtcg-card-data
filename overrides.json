@@ -1,10 +1,57 @@
 {
-  "_comment": "One-off exceptions to the wiki's Gemp IDs. Each rule must match exactly one English wiki card or the build fails, so a rule never silently stops applying.",
+  "_comment": "One-off exceptions. gempIds: Gemp ID fixes the wiki can't express; each rule must match exactly one English wiki card or the build fails, so a rule never silently stops applying. acknowledged: known differences between the wiki and Gemp that aren't errors; the report lists them separately.",
   "gempIds": [
     {
       "match": { "title": "Soldier's Cache" },
       "gempId": "17_35",
       "note": "Meant to be printed as 17S35 in a Rise of Saruman starter, left out by a printing error, reissued as 18U59 but printed with 17U59. The wiki records it as 18_59 (where it should have been); Gemp keeps it as 17_35 (18_58 is mapped to it as an alternate). Gemp's ID stays (Ketura, 2026-11-01)."
+    }
+  ],
+  "acknowledged": [
+    {
+      "gempId": "15_204",
+      "field": "subtitle",
+      "note": "Forth the Three Hunters! was printed in three cultures with the same collector info; \"Dwarven Version\" etc. are Gemp's labels, not printed subtitles"
+    },
+    {
+      "gempId": "15_205",
+      "field": "subtitle",
+      "note": "As 15_204"
+    },
+    {
+      "gempId": "15_206",
+      "field": "subtitle",
+      "note": "As 15_204"
+    },
+    {
+      "gempId": "103_41",
+      "field": "strengthMod",
+      "note": "Bladetusk possessions print character stats (they become a minion); Gemp keeps them inside the card's effect"
+    },
+    {
+      "gempId": "103_41",
+      "field": "vitalityMod",
+      "note": "As 103_41 strength"
+    },
+    {
+      "gempId": "103_42",
+      "field": "strengthMod",
+      "note": "As 103_41"
+    },
+    {
+      "gempId": "103_42",
+      "field": "vitalityMod",
+      "note": "As 103_41"
+    },
+    {
+      "gempId": "103_43",
+      "field": "strengthMod",
+      "note": "As 103_41"
+    },
+    {
+      "gempId": "103_43",
+      "field": "vitalityMod",
+      "note": "As 103_41"
     }
   ]
 }

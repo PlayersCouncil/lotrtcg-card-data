@@ -27,6 +27,9 @@ A card record is keyed by its **Gemp base blueprint ID**:
 - `kind: "card"` is a Decipher or V-set card. Its fields are the card as Decipher left it: revision 0 plus Decipher's own errata. V-set cards include their PC revisions (they're PC cards).
 - `kind: "errata"` is a PC errata blueprint (`51_50`), `errataOf` the original (`1_50`), with the PC revisions applied. The original carries `errataId`.
 - `versions` lists the English revisions in order. A revision's `fields` are what the wiki records on that revision row; anything not listed is unchanged from the revision before.
+  - A revision that changes the card type carries `type`; allies and sites carry `homeSites` (`["2T", "8T"]`).
+  - A revision that **removes** a printed value gives it explicitly as "none": `"0"` for a stat modifier (`strengthMod: "0"`), `"None"` for `signet`, `block` or `arrowDirection`. The card's own fields show that as `null`.
+- Companions with no printed resistance have resistance 6 (how they're ruled in post-Shadows play); the wiki stores that 6.
 - `translations` are printings in other languages, with only the fields that differ from English.
 - `alternates` are the Gemp IDs mapped to this card (promos, alternate images, reprints); `printings` are the wiki's other English printings of it.
 - `image` is what Gemp shows today, on `cdn.lotrtcgpc.net` (Decipher errata images Gemp keeps itself are on `play.lotrtcgpc.net`).
@@ -58,3 +61,9 @@ python -m pytest
 ## Exceptions
 
 `overrides.json` holds one-off Gemp ID fixes the wiki can't express. Each rule must match exactly one English wiki card or the build fails, so a rule never silently stops applying. Today there's one: Soldier's Cache, which the wiki records as 18_59 and Gemp keeps as 17_35.
+
+`overrides.json` → `acknowledged` lists known differences between the wiki and Gemp that aren't errors (Gemp's own version labels, for instance). Each is `{gempId, field, note}`; the report moves matching entries to its "acknowledged" section instead of listing them as mismatches.
+
+## The report
+
+`data/report.md` compares every value the wiki and Gemp both describe: title, subtitle, uniqueness, card type, culture, side, twilight or shadow number, strength, vitality and resistance, ring-bearer, signet, site number and home sites, block, arrow direction, and the printed bonuses on possessions, artifacts, conditions and followers. It also lists Gemp keywords, races, item classes and event phases the wiki shows nowhere, game text whose numbers differ, and wiki game text with paragraphs run together or markup left in it. An erratum's values are compared with Gemp's errata blueprint; a difference there means the wiki's revision doesn't record what the erratum changed.

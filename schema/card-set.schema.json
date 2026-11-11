@@ -44,6 +44,7 @@
         "resistanceMod": { "$ref": "#/$defs/text" },
         "siteNumber": { "type": ["integer", "string", "null"] },
         "siteNumberMod": { "$ref": "#/$defs/text" },
+        "homeSites": { "type": ["array", "null"], "items": { "type": "string" }, "description": "Allies and sites: every home site as printed, e.g. [\"2T\", \"8T\"]" },
         "shadowNumber": { "type": ["integer", "string", "null"] },
         "block": { "$ref": "#/$defs/text" },
         "signet": { "$ref": "#/$defs/text" },

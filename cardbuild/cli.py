@@ -100,9 +100,8 @@ def cmd_build(args):
     build = assemble.Build(config, pulled, blueprints, mapping, images, cdn_index,
                            load_json(ROOT / "overrides.json", {}), load_json(ROOT / "errata-batches.json", {}).get("names", {}))
     records, batches = build.run()
-    mismatches, unrecorded = report.compare(records, blueprints)
-    build.report["valueMismatch"] = mismatches
-    build.report["erratumNotRecordedOnWiki"] = unrecorded
+    overrides = load_json(ROOT / "overrides.json", {})
+    build.report.update(report.compare(records, blueprints, overrides.get("acknowledged", [])))
     final_report = report.finish(build.report)
 
     # Write the data, then work out whether it changed

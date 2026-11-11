@@ -1,4 +1,5 @@
 """The build against small fixtures (tests/fixtures): no network."""
+import copy
 import json
 import pathlib
 
@@ -105,11 +106,68 @@ def test_wiki_card_without_gemp_id_is_reported(built):
 
 def test_report_compares_values(built):
     _, records, _, blueprints = built
-    mismatches, unrecorded = report.compare(records, blueprints)
-    assert mismatches == [] and unrecorded == []
+    records = copy.deepcopy(records)
+    assert dict(report.compare(records, blueprints)) == {}
     records["1_50"]["strength"] = 7
-    mismatches, _ = report.compare(records, blueprints)
-    assert mismatches == [{"gempId": "1_50", "wiki": "LOTR-EN01S050.0", "field": "strength", "gemp": 6, "wiki_value": 7}]
+    found = report.compare(records, blueprints)
+    assert found["valueMismatch"] == [{"gempId": "1_50", "wiki": "LOTR-EN01S050.0", "title": "Legolas, Greenleaf",
+                                       "field": "strength", "gemp": 6, "wiki_value": 7}]
+
+
+def test_report_compares_every_field_both_sources_have(built):
+    _, records, _, blueprints = built
+    records, blueprints = copy.deepcopy(records), copy.deepcopy(blueprints)
+    records["1_50"].update(unique=False, canBearRing=False, signet="None")
+    blueprints["1_50"].update(canStartWithRing=True, resistance=7, signet="Aragorn", keywords=["Archer", "Ambush 2"])
+    records["1_50"]["gameText"] = "Archer. Ambush (2)."
+    fields = {e["field"] for e in report.compare(records, blueprints)["valueMismatch"]}
+    assert fields == {"unique", "canBearRing", "resistance", "signet"}
+    # "None" and blank are the same; keywords match however the wiki spells their number
+    records["1_50"].update(unique=True, canBearRing=True, resistance=7, signet="Aragorn")
+    assert dict(report.compare(records, blueprints)) == {}
+    blueprints["1_50"]["keywords"] = ["Fierce"]
+    assert [e["gemp"] for e in report.compare(records, blueprints)["keywordNotOnWiki"]] == ["Fierce"]
+
+
+def test_report_errata_card_type_is_compared(built):
+    _, records, _, blueprints = built
+    records, blueprints = copy.deepcopy(records), copy.deepcopy(blueprints)
+    blueprints["51_50"]["type"] = "Ally"
+    assert [e["field"] for e in report.compare(records, blueprints)["erratumNotRecordedOnWiki"]] == ["type"]
+
+
+def test_report_acknowledged_differences_are_set_aside(built):
+    _, records, _, blueprints = built
+    records = copy.deepcopy(records)
+    records["1_50"]["strength"] = 7
+    found = report.compare(records, blueprints, [{"gempId": "1_50", "field": "strength", "note": "test"}])
+    assert "valueMismatch" not in found and found["acknowledged"][0]["field"] == "strength"
+
+
+def test_report_text_hygiene(built):
+    _, records, _, blueprints = built
+    records = copy.deepcopy(records)
+    records["1_50"]["versions"][0]["fields"]["gameText"] = "Ring-bound.Frodo is strength +1."
+    records["1_3"]["versions"][0]["fields"]["gameText"] = "Spell.\\Exert Gandalf."
+    assert {e["wiki"] for e in report.compare(records, blueprints)["textHygiene"]} == {"LOTR-EN01S050.0", "LOTR-EN01S003.0"}
+
+
+def test_report_home_sites():
+    assert report._homes(["3"]) == report._homes(["3F"]) == ["3"]
+    assert report._homes(["2T", "8T"]) == ["2T", "8T"]
+
+
+def test_revision_changes_card_type_and_removes_values():
+    versions = [
+        {"revision": 0, "issuer": None, "fields": {"type": "Event", "strengthMod": "+2", "signet": "None", "homeSites": ["2T", "8T"]}},
+        {"revision": 1, "issuer": "Player's Council", "fields": {"type": "Condition", "strengthMod": "0"}},
+    ]
+    current, last = assemble.Build.layer(versions, {"Decipher", "Player's Council"})
+    assert current == {"type": "Condition", "strengthMod": None, "signet": None, "homeSites": ["2T", "8T"]}
+    assert last["revision"] == 1
+    decipher_only, _ = assemble.Build.layer(versions, {"Decipher"})
+    assert decipher_only["type"] == "Event" and decipher_only["strengthMod"] == "+2"
+    assert assemble.to_value("homeSites", "2T,8T") == ["2T", "8T"]
 
 
 def test_typo_in_title_still_links_the_card():

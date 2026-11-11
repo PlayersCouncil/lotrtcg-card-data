@@ -24,9 +24,22 @@ VERSION_FIELDS = {
     "SiteNumMod": "siteNumberMod", "Resistance": "resistance", "ResistanceMod": "resistanceMod",
     "CanBearRing": "canBearRing", "Signet": "signet", "Block": "block", "ShadowNum": "shadowNumber",
     "ArrowDir": "arrowDirection", "GameText": "gameText", "Lore": "lore", "PromoText": "promoText",
+    # Set on a revision only when an erratum changes it (CardType), or on allies and sites (HomeSites)
+    "CardType": "type", "HomeSites": "homeSites",
 }
 INT_FIELDS = {"twilight", "strength", "vitality", "siteNumber", "resistance", "shadowNumber"}
 BOOL_FIELDS = {"unique", "canBearRing"}
+LIST_FIELDS = {"homeSites"}
+
+# A revision removes a printed value by giving it explicitly as "none": 0 for a stat modifier, None for
+# Signet, Block or ArrowDir (Template:Errata). A blank field means "unchanged". After layering, those
+# explicit "none" values become null.
+NONE_VALUES = {"strengthMod": {"0", "+0", "-0"}, "vitalityMod": {"0", "+0", "-0"}, "resistanceMod": {"0", "+0", "-0"},
+               "siteNumberMod": {"0", "+0", "-0"}, "signet": {"None"}, "block": {"None"}, "arrowDirection": {"None"}}
+
+
+def without_none_values(fields):
+    return {k: (None if v is not None and str(v) in NONE_VALUES.get(k, ()) else v) for k, v in fields.items()}
 
 # Wiki set IDs that differ from Gemp's set numbers
 WIKI_SET_TO_GEMP = {"V0": 100, "V1": 101, "V2": 102, "V3": 103}
@@ -45,8 +58,6 @@ def letters(text):
 # Wiki subsets that are printings only, never Gemp blueprints: foil and rare foil
 IGNORED_SUBSETS = {"F", "RF"}
 
-# The wiki writes "None" for an empty signet, site block or arrow
-NONE_STRINGS = {"signet", "block", "arrowDirection"}
 
 
 def same_title(a, b):
@@ -59,7 +70,8 @@ def same_title(a, b):
 
 
 def to_value(field, raw):
-    if raw is None or raw == "" or (field in NONE_STRINGS and raw == "None"):
+    # "None" (and a 0 modifier) is kept here so a revision can remove a printed value; layer() turns it into null
+    if raw is None or raw == "":
         return None
     if field in INT_FIELDS:
         try:
@@ -68,6 +80,8 @@ def to_value(field, raw):
             return raw
     if field in BOOL_FIELDS:
         return raw in ("1", "true", "True", "yes")
+    if field in LIST_FIELDS:
+        return [part.strip() for part in str(raw).split(",") if part.strip()]
     return raw
 
 
@@ -203,7 +217,7 @@ class Build:
                 continue
             current.update(version["fields"])
             last = version
-        return current, last
+        return without_none_values(current), last
 
     # ---- images ----
 
