@@ -177,6 +177,7 @@ SECTIONS = [
     ("decipherErrataWithoutDate", "Decipher errata revisions without a release date"),
     ("revisionWithoutIssuer", "Revisions without an issuer"),
     ("imageMissing", "Images Gemp references that aren't on the CDN"),
+    ("timeline", "Cards or revisions the format timeline names that this build doesn't have"),
     ("unusableGempId", "Wiki Gemp IDs that aren't in set_number form"),
     ("acknowledged", "Known differences, acknowledged in overrides.json (not errors)"),
 ]

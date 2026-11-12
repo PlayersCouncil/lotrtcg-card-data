@@ -9,6 +9,7 @@ Every card of the Lord of the Rings Trading Card Game as JSON, built from the [P
 | The wiki (Cargo tables `Cards`, `CardReleases`, `CardSets`) | Card facts, game text, lore, every revision with issuer and release date, every language |
 | Gemp (`config.json` → `gemp.branch`) | Which blueprint IDs exist, the alternate-ID mapping (`blueprintMapping.txt`), and the images Gemp shows (its client's image maps) |
 | The CDN file list (`files.lotrtcgpc.net/_dirindex/manifest.json`) | Which images exist, and the files for older revisions |
+| `timeline/format-timeline.json` (committed; written by decipher-map's `ru_formats.py`) | The format timeline: the official formats, their micro-formats, the errata in force in each, and each one's nearest Gemp hall format |
 
 To fix a card, fix the wiki (or Gemp); the next build picks it up. `data/report.md` lists where the sources disagree.
 
@@ -21,6 +22,7 @@ To fix a card, fix the wiki (or Gemp); the next build picks it up. `data/report.
 | `data/errata-batches.json` | Errata batches (issuer + release date), with names from `errata-batches.json` where given |
 | `data/version.json` | What the data was built from (wiki revision, Gemp commits, CDN manifest hash), a content hash, counts |
 | `data/report.json`, `data/report.md` | Where the wiki, Gemp and the CDN disagree |
+| `data/format-timeline.json` | The format timeline, copied from `timeline/` by the build after checking every card and revision it names against this build (problems are in the report's timeline section). Its schema: decipher-map's `notes/format-timeline-data.md` |
 
 A card record is keyed by its **Gemp base blueprint ID**:
 
@@ -57,6 +59,14 @@ python -m pytest
 ```
 
 `--gemp-sha` skips the GitHub API lookups when they aren't reachable; `--manifest` uses a saved CDN manifest.
+
+## The format timeline
+
+`timeline/format-timeline.json` is the one input committed by hand: decipher-map builds it from the Decipher archive,
+the rules documents and this card data, and it is copied in when it changes. The build copies it to
+`data/format-timeline.json` unchanged, and lists in the report any card it names that the build doesn't have, or any
+revision a card doesn't have. Its hash is one of the sources in `data/version.json`, so committing a new timeline makes
+the next scheduled check rebuild. Remove the file and the build removes the copy.
 
 ## Exceptions
 

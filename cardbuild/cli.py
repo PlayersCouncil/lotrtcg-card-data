@@ -11,7 +11,7 @@ import os
 import pathlib
 import sys
 
-from . import assemble, cdn, gemp, report, wiki
+from . import assemble, cdn, gemp, report, timeline, wiki
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -48,6 +48,7 @@ def current_sources(config, wiki_client, manifest=None, gemp_sha=None):
         "wiki": wiki_client.latest_revision(config["wiki"]["watchNamespaces"]),
         "gemp": {"repo": config["gemp"]["repo"], "branch": config["gemp"]["branch"], "commits": commits},
         "cdn": {"manifestHash": manifest.get("hash")},
+        "timeline": {"sha256": timeline.file_hash(ROOT / timeline.SOURCE)},
     }, manifest
 
 
@@ -56,6 +57,7 @@ def sources_key(sources):
         "wiki": sources["wiki"]["revid"],
         "gemp": [sources["gemp"]["repo"], sources["gemp"]["branch"], sorted(sources["gemp"]["commits"].items())],
         "cdn": sources["cdn"]["manifestHash"],
+        "timeline": (sources.get("timeline") or {}).get("sha256"),
     }
 
 
@@ -102,6 +104,9 @@ def cmd_build(args):
     records, batches = build.run()
     overrides = load_json(ROOT / "overrides.json", {})
     build.report.update(report.compare(records, blueprints, overrides.get("acknowledged", [])))
+    format_timeline = load_json(ROOT / timeline.SOURCE)
+    if format_timeline is not None:
+        build.report["timeline"] = timeline.check(format_timeline, records)
     final_report = report.finish(build.report)
 
     # Write the data, then work out whether it changed
@@ -121,6 +126,10 @@ def cmd_build(args):
     texts.append(dump(out / "sets.json", assemble.build_sets(pulled["sets"], records)))
     texts.append(dump(out / "errata-batches.json", batches))
     texts.append(dump(out / "report.json", final_report))
+    if format_timeline is not None:
+        texts.append(dump(out / "format-timeline.json", format_timeline))
+    elif (out / "format-timeline.json").exists():
+        (out / "format-timeline.json").unlink()
     content_hash = hashlib.sha256("".join(texts).encode("utf-8")).hexdigest()
 
     previous = load_json(out / "version.json", {})
@@ -134,6 +143,9 @@ def cmd_build(args):
                    "errata": sum(1 for r in records.values() if r["kind"] == "errata"),
                    "sets": len(by_set), "errataBatches": len(batches)},
     }
+    if format_timeline is not None:
+        version["timeline"] = {"schema": format_timeline.get("schema"), "generatedAt": format_timeline.get("generatedAt"),
+                               "microformats": len(format_timeline.get("microformats", []))}
     dump(out / "version.json", version)
     (out / "report.md").write_text(report.markdown(final_report, version), encoding="utf-8")
     print(json.dumps({"contentChanged": previous.get("contentHash") != content_hash, **version["counts"],
