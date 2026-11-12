@@ -1,11 +1,11 @@
 {
  "schemaVersion": 1,
- "contentHash": "7886fd2eeab60b5df871c209ecd70a70eaa4c70a18e6cc0aaa8198ecf514d425",
- "builtAt": "2026-11-11T21:47:21Z",
+ "contentHash": "9b0f32a94ffba176078b2a7926af251e99dcbff00e2d300b2397623977c1e331",
+ "builtAt": "2026-11-12T02:46:53Z",
  "sources": {
   "wiki": {
-   "revid": 128693,
-   "timestamp": "2026-11-11T21:09:34Z"
+   "revid": 128770,
+   "timestamp": "2026-11-12T01:29:46Z"
   },
   "gemp": {
    "repo": "PlayersCouncil/gemp-lotr",
@@ -18,6 +18,9 @@
   },
   "cdn": {
    "manifestHash": "ac0cda8f7ef23a512c4b01b7c92813e4d424320f262eb9ead3fb2743d5ee74f8"
+  },
+  "timeline": {
+   "sha256": "eb6fde0e1687729c0491c6b66ed89996561a03434dda662f727194c7a0f30463"
   }
  },
  "counts": {
@@ -25,5 +28,10 @@
   "errata": 266,
   "sets": 40,
   "errataBatches": 33
+ },
+ "timeline": {
+  "schema": "format-timeline/2",
+  "generatedAt": "2026-11-12T02:39:11",
+  "microformats": 175
  }
 }

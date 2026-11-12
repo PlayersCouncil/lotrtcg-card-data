@@ -641,6 +641,7 @@
  "decipherErrataWithoutDate": [],
  "revisionWithoutIssuer": [],
  "imageMissing": [],
+ "timeline": [],
  "unusableGempId": [],
  "acknowledged": [
   {
@@ -731,6 +732,7 @@
   "decipherErrataWithoutDate": 0,
   "revisionWithoutIssuer": 0,
   "imageMissing": 0,
+  "timeline": 0,
   "unusableGempId": 0,
   "acknowledged": 9
  }

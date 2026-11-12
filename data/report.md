@@ -1,6 +1,6 @@
 # Card data report
 
-Wiki revision 128693, Gemp `feature/card-test-overhaul`, CDN manifest `ac0cda8f7ef2`.
+Wiki revision 128770, Gemp `feature/card-test-overhaul`, CDN manifest `ac0cda8f7ef2`.
 
 Where the wiki, Gemp and the CDN disagree. Fix the source (usually the wiki) and the next build picks it up.
 
@@ -193,6 +193,10 @@ None.
 None.
 
 ## Images Gemp references that aren't on the CDN (0)
+
+None.
+
+## Cards or revisions the format timeline names that this build doesn't have (0)
 
 None.
 
