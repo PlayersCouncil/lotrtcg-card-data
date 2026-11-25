@@ -10,19 +10,15 @@
     "branch": "master",
     "watchPaths": [
       "gemp-lotr/gemp-lotr-cards/src/main/resources/cards",
-      "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt",
-      "gemp-lotr/gemp-lotr-async/src/main/web/js/gemp-022"
+      "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt"
     ],
     "cardsDir": "gemp-lotr/gemp-lotr-cards/src/main/resources/cards",
-    "mappingFile": "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt",
-    "jsDir": "gemp-lotr/gemp-lotr-async/src/main/web/js/gemp-022",
-    "publicBase": "https://play.lotrtcgpc.net"
+    "mappingFile": "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt"
   },
   "cdn": {
     "manifest": "https://files.lotrtcgpc.net/_dirindex/manifest.json",
     "base": "https://cdn.lotrtcgpc.net/",
-    "oldImageHost": "https://i.lotrtcgpc.net/",
-    "cardsPrefix": "cards/"
+    "tree": {"prefix": "wiki/", "sizes": {"1x": "original", "2x": "double", "4x": "huge"}}
   },
   "sets": {
     "cards": [[0, 19], [100, 149]],

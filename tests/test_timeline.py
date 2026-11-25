@@ -2,7 +2,7 @@
 from cardbuild import timeline
 
 RECORDS = {
-    "1_40": {"kind": "card", "versions": [{"revision": 0}, {"revision": 1}], "alternates": ["0_99"]},
+    "1_40": {"kind": "card", "versions": [{"revision": 0}, {"revision": 1}], "reprints": ["0_99"]},
     "1_55": {"kind": "card", "versions": [{"revision": 0}, {"revision": 1}, {"revision": 2}]},
 }
 

@@ -15,7 +15,7 @@ from . import assemble, cdn, gemp, report, timeline, wiki
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2
 
 
 def load_json(path, default=None):
@@ -69,7 +69,8 @@ def cmd_check(args):
     config = load_json(ROOT / "config.json")
     sources, _ = current_sources(config, make_wiki(config), gemp_sha=args.gemp_sha)
     previous = load_json(DATA / "version.json", {})
-    changed = args.force or "sources" not in previous or sources_key(previous["sources"]) != sources_key(sources)
+    changed = (args.force or "sources" not in previous or previous.get("schemaVersion") != SCHEMA_VERSION
+               or sources_key(previous["sources"]) != sources_key(sources))
     print(json.dumps({"changed": changed, "sources": sources}, indent=1))
     if args.github_output:
         with open(args.github_output, "a", encoding="utf-8") as handle:
@@ -83,6 +84,11 @@ def cmd_build(args):
     wiki_client = make_wiki(config)
     manifest = load_json(args.manifest) if args.manifest else None
     sources, manifest = current_sources(config, wiki_client, manifest, gemp_sha=args.gemp_sha)
+    cdn_index = cdn.Cdn(manifest, config["cdn"]["base"], config["cdn"]["tree"])
+    if not cdn_index.by_size["1x"]:
+        # Without the tree every card would come out with no image; better no build than that
+        print(f"the CDN file index has no files under {cdn_index.folders['1x']}: not building", file=sys.stderr)
+        return 1
 
     # The wiki pull is the slow part; reuse it when the wiki hasn't changed (the workflow caches this folder)
     cache_file = pathlib.Path(args.wiki_cache) / f"wiki-{sources['wiki']['revid']}.json" if args.wiki_cache else None
@@ -96,10 +102,8 @@ def cmd_build(args):
     gemp_root = pathlib.Path(args.gemp)
     blueprints = gemp.load_blueprints(gemp_root / config["gemp"]["cardsDir"])
     mapping = gemp.load_mapping(gemp_root / config["gemp"]["mappingFile"])
-    images = gemp.ImageMaps(gemp_root / config["gemp"]["jsDir"])
-    cdn_index = cdn.Cdn(manifest, config["cdn"]["base"], config["cdn"]["oldImageHost"], config["cdn"]["cardsPrefix"], config["gemp"]["publicBase"])
 
-    build = assemble.Build(config, pulled, blueprints, mapping, images, cdn_index,
+    build = assemble.Build(config, pulled, blueprints, mapping, cdn_index,
                            load_json(ROOT / "overrides.json", {}), load_json(ROOT / "errata-batches.json", {}).get("names", {}))
     records, batches = build.run()
     overrides = load_json(ROOT / "overrides.json", {})

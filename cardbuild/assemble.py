@@ -3,7 +3,8 @@
 One record per Gemp blueprint in the configured sets: the Decipher and V-set
 cards ("card") and the PC errata blueprints ("errata", errataOf the original).
 Card facts and version history come from the wiki; Gemp supplies which IDs
-exist, the alternate-ID mapping and the images Gemp shows.
+exist and the alternate-ID mapping. Images are the CDN's files of the names
+the wiki gives (cardbuild.cdn).
 """
 import collections
 import difflib
@@ -95,12 +96,11 @@ def stem(wiki_id):
 
 
 class Build:
-    def __init__(self, config, wiki, blueprints, mapping, images, cdn, overrides, batch_names):
+    def __init__(self, config, wiki, blueprints, mapping, cdn, overrides, batch_names):
         self.config = config
         self.wiki = wiki
         self.blueprints = blueprints
         self.mapping = mapping
-        self.images = images
         self.cdn = cdn
         self.overrides = overrides
         self.batch_names = batch_names
@@ -113,6 +113,7 @@ class Build:
     def _index_wiki(self):
         self.cards_by_id = {card["ID"]: card for card in self.wiki["cards"]}
         self.releases_by_card = collections.defaultdict(list)
+        self.releases_by_id = {release["ID"]: release for release in self.wiki["releases"]}
         for release in self.wiki["releases"]:
             self.releases_by_card[release["BaseCardID"]].append(release)
         self.english = [c for c in self.wiki["cards"] if c["ID"].startswith("LOTR-EN")]
@@ -128,9 +129,9 @@ class Build:
             card["GEMP_ID"] = rule["gempId"]
 
     def _assign_cards(self):
-        """Gemp base ID -> the wiki card for it, plus the wiki's other printings of it."""
+        """Gemp base ID -> the wiki card for it, plus the wiki's other printings of it (alts)."""
         self.wiki_for = {}
-        self.printings_for = collections.defaultdict(list)
+        self.alts_for = collections.defaultdict(list)
         candidates = collections.defaultdict(list)
         for card in self.english:
             for gemp_id in wiki_gemp_ids(card):
@@ -152,8 +153,15 @@ class Build:
             # The card whose own Gemp ID is the base, standard subset first; the rest are other printings
             found.sort(key=lambda pair: (pair[0] != base, pair[1]["Subset"] != "S", pair[1]["ID"]))
             self.wiki_for[base] = found[0][1]
+            base_portrait = self._base_portrait(found[0][1])
             for gemp_id, card in found[1:]:
-                self.printings_for[base].append({"wikiId": card["ID"], "gempId": gemp_id, "subset": card["Subset"], "collInfo": card["CollInfo"]})
+                alt = {"wikiId": card["ID"], "gempId": gemp_id, "subset": card["Subset"], "collInfo": card["CollInfo"]}
+                release = self._base_release(card) or {}
+                images = self._images(release, base_portrait)
+                if images:
+                    alt["images"] = images
+                # Kept beside the alt for the report: the card image file the wiki gives for it
+                self.alts_for[base].append((alt, release.get("ImageFilename") or None))
         for card in self.english:
             # Foil (F) and rare foil (RF) printings never get Gemp blueprints of their own (Ketura, 2026-11-01)
             if card.get("Subset") in IGNORED_SUBSETS:
@@ -172,6 +180,16 @@ class Build:
         rows = [r for r in self.releases_by_card.get(card["ID"], []) if r["LanguageCode"] == "EN" and stem(r["ID"]) == stem(card["ID"])]
         return sorted(rows, key=lambda r: int(r["Revision"] or 0))
 
+    def _base_release(self, card):
+        """The card's English revision-0 row, if the wiki has one."""
+        rows = self._revisions(card)
+        return rows[0] if rows and int(rows[0]["Revision"] or 0) == 0 else None
+
+    def _base_portrait(self, card):
+        """The portrait file name of the card's base version (English revision 0)."""
+        release = self._base_release(card)
+        return (release.get("PortraitFilename") or None) if release else None
+
     def _batch(self, release):
         issuer, date = release.get("Issuer") or "", release.get("ReleaseDate") or ""
         if not issuer or not date:
@@ -181,8 +199,9 @@ class Build:
         self.batches[key]["cards"] += 1
         return key
 
-    def _versions(self, card, gemp_id):
+    def _versions(self, card):
         versions = []
+        base_portrait = self._base_portrait(card)
         for release in self._revisions(card):
             changes = {}
             for wiki_field, field in VERSION_FIELDS.items():
@@ -193,16 +212,19 @@ class Build:
             issuer = release.get("Issuer") or None
             if revision > 0 and not issuer:
                 self.report["revisionWithoutIssuer"].append({"wiki": release["ID"]})
-            versions.append({
+            version = {
                 "wikiId": release["ID"],
                 "revision": revision,
                 "issuer": issuer if revision > 0 else None,
                 "releaseDate": release.get("ReleaseDate") or None,
                 "batch": self._batch(release) if revision > 0 else None,
                 "fields": changes,
-                "image": self._version_image(gemp_id, release, revision, issuer),
-                "wikiImage": release.get("ImageFilename") or None,
-            })
+            }
+            # The base version has no portrait to inherit; a later one shows only a portrait of its own
+            images = self._images(release, base_portrait if revision > 0 else None)
+            if images:
+                version["images"] = images
+            versions.append(version)
             if revision > 0 and issuer == ISSUER_DECIPHER and not release.get("ReleaseDate"):
                 self.report["decipherErrataWithoutDate"].append(release["ID"])
         return versions
@@ -221,31 +243,44 @@ class Build:
 
     # ---- images ----
 
-    def _version_image(self, gemp_id, release, revision, issuer):
-        set_number, _ = split_id(gemp_id)
-        if revision == 0 and set_number <= 19:
-            return self.cdn.url(self.images.explicit(gemp_id) or self.images.decipher_original(gemp_id))
-        if issuer == ISSUER_DECIPHER:
-            return self.cdn.url(self.images.decipher_errata(gemp_id))
-        # PC revisions and V-set cards: find the file on the CDN by name. The CDN names errata
-        # revisions with subset E where the wiki has S (LOTR-EN01E050.1_card.jpg).
-        name = release.get("ImageFilename") or ""
-        names = [name]
-        match = re.match(r"^(LOTR-EN[0-9V]\w)S(\d+\.\d+_card\.jpg)$", name)
-        if match:
-            names.append(f"{match.group(1)}E{match.group(2)}")
-        return self.cdn.find([n for n in names if n])
+    def _images(self, release, inherited_portrait):
+        """A release row's images in the CDN tree: its card image in each size, and its portrait when the row
+        names one other than inherited_portrait (the base version's). None when the tree has none of them."""
+        images = {}
+        for size in ("1x", "2x", "4x"):
+            url = self.cdn.url(size, release.get("ImageFilename"))
+            if url:
+                images[size] = url
+        portrait = release.get("PortraitFilename") or None
+        if portrait and portrait != inherited_portrait:
+            url = self.cdn.url("1x", portrait)
+            if url:
+                images["portrait"] = url
+        return images or None
 
-    def _current_image(self, blueprint_id):
-        url = self.cdn.url(self.images.current(blueprint_id))
-        if self.cdn.exists(url) is False:
-            self.report["imageMissing"].append({"gempId": blueprint_id, "url": url})
-        return url
+    @staticmethod
+    def _record_images(versions, last):
+        """The images of the version a record describes, with the portrait in effect for it: the version's
+        own portrait if it has one, otherwise the base version's."""
+        if last is None:
+            return None
+        images = {k: v for k, v in (last.get("images") or {}).items() if k != "portrait"}
+        own = (last.get("images") or {}).get("portrait")
+        base = (versions[0].get("images") or {}).get("portrait") if versions[0]["revision"] == 0 else None
+        if own or base:
+            images["portrait"] = own or base
+        return images or None
+
+    def _no_image(self, what, gemp_id, wiki_id, file, images):
+        """Report a card, version or alt without a standard-size image; file is the name the wiki gives."""
+        if not (images or {}).get("1x"):
+            self.report["noImage"].append({"gempId": gemp_id, "wikiId": wiki_id, "file": file, "what": what})
 
     # ---- printings in other languages ----
 
     def _translations(self, card):
         out = []
+        base_portrait = self._base_portrait(card)
         for release in self.releases_by_card.get(card["ID"], []):
             if release["LanguageCode"] == "EN":
                 continue
@@ -253,12 +288,15 @@ class Build:
             for wiki_field in ("Title", "Subtitle", "GameText", "Lore", "PromoText"):
                 if release.get(wiki_field):
                     fields[VERSION_FIELDS[wiki_field]] = release[wiki_field]
-            out.append({
+            translation = {
                 "wikiId": release["ID"], "language": release["LanguageCode"], "subset": release.get("Subset"),
                 "revision": int(release["Revision"] or 0), "fields": fields,
-                "wikiImage": release.get("ImageFilename") or None,
                 "physical": release.get("IsPhysical") == "1",
-            })
+            }
+            images = self._images(release, base_portrait)
+            if images:
+                translation["images"] = images
+            out.append(translation)
         return sorted(out, key=lambda p: (p["language"], p["wikiId"]))
 
     # ---- records ----
@@ -289,9 +327,9 @@ class Build:
         self._apply_overrides()
         self._assign_cards()
         self.batches = {}
-        alternates = collections.defaultdict(list)
+        reprints = collections.defaultdict(list)
         for alternate, base in self.mapping.items():
-            alternates[base].append(alternate)
+            reprints[base].append(alternate)
 
         records = {}
         for blueprint_id in sorted(self.blueprints, key=lambda b: split_id(b)):
@@ -299,7 +337,7 @@ class Build:
             if in_ranges(set_number, self.card_ranges):
                 if blueprint_id in self.mapping:
                     continue  # an alternate of another blueprint; listed on that one
-                records[blueprint_id] = self._card(blueprint_id, set_number, number, alternates)
+                records[blueprint_id] = self._card(blueprint_id, set_number, number, reprints)
             elif in_ranges(set_number, self.errata_ranges):
                 records[blueprint_id] = self._errata(blueprint_id, set_number, number)
 
@@ -309,22 +347,39 @@ class Build:
                 records[original]["errataId"] = blueprint_id
         return records, sorted(self.batches.values(), key=lambda b: (b["releaseDate"], b["id"]))
 
-    def _card(self, blueprint_id, set_number, number, alternates):
+    def _card(self, blueprint_id, set_number, number, reprints):
         card = self.wiki_for.get(blueprint_id)
         record = {"id": blueprint_id, "set": str(set_number), "number": number, "kind": "card"}
         if card is None:
             self.report["gempOnly"].append({"gempId": blueprint_id, "title": self.blueprints[blueprint_id].get("title")})
             record.update({"source": "gemp", **self._from_gemp(blueprint_id), "versions": [], "translations": []})
+            self._no_image("card", blueprint_id, None, None, None)
         else:
-            versions = self._versions(card, blueprint_id)
+            versions = self._versions(card)
             # V-set cards are PC cards: their PC revisions are the card. Decipher cards: Decipher's own errata only.
             issuers = {ISSUER_DECIPHER, ISSUER_PC} if set_number >= 100 else {ISSUER_DECIPHER}
-            current, _ = self.layer(versions, issuers)
+            current, last = self.layer(versions, issuers)
             record.update({"source": "wiki", **self._base_fields(card), **current, "versions": versions, "translations": self._translations(card)})
-        record["image"] = self._current_image(blueprint_id)
-        record["alternates"] = sorted(alternates.get(blueprint_id, []), key=split_id)
-        record["printings"] = self.printings_for.get(blueprint_id, [])
+            self._set_record_images(record, versions, last)
+            for version in versions:
+                self._no_image("version", blueprint_id, version["wikiId"], self._file(version), version.get("images"))
+        record["reprints"] = sorted(reprints.get(blueprint_id, []), key=split_id)
+        record["alts"] = []
+        for alt, file in self.alts_for.get(blueprint_id, []):
+            record["alts"].append(alt)
+            self._no_image("alt", alt["gempId"], alt["wikiId"], file, alt.get("images"))
         return record
+
+    def _set_record_images(self, record, versions, last):
+        """The record's images: those of `last`, the version its fields describe."""
+        images = self._record_images(versions, last)
+        if images:
+            record["images"] = images
+        self._no_image("card", record["id"], last["wikiId"] if last else record.get("wikiId"), self._file(last) if last else None, images)
+
+    def _file(self, version):
+        """The card image file name the wiki gives for a version."""
+        return self.releases_by_id[version["wikiId"]].get("ImageFilename") or None
 
     def _errata(self, blueprint_id, set_number, number):
         original = f"{set_number - 50}_{number}"
@@ -333,8 +388,9 @@ class Build:
         if card is None:
             self.report["gempOnly"].append({"gempId": blueprint_id, "title": self.blueprints[blueprint_id].get("title")})
             record.update({"source": "gemp", **self._from_gemp(blueprint_id)})
+            self._no_image("card", blueprint_id, None, None, None)
         else:
-            versions = self._versions(card, original)
+            versions = self._versions(card)
             current, last = self.layer(versions, {ISSUER_DECIPHER, ISSUER_PC})
             has_pc = any(v["issuer"] == ISSUER_PC for v in versions)
             if not has_pc:
@@ -344,7 +400,7 @@ class Build:
             if not has_pc:
                 # Without the PC revision on the wiki, Gemp is the only record of the erratum's stats
                 record.update({k: v for k, v in self._from_gemp(blueprint_id).items() if v is not None and k not in ("gameText", "lore")})
-        record["image"] = self._current_image(blueprint_id)
+            self._set_record_images(record, versions, last)
         return record
 
 

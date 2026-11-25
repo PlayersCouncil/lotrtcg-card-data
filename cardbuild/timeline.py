@@ -20,7 +20,7 @@ def file_hash(path):
 
 def check(timeline, records):
     """Report entries for the cards and revisions the timeline names that aren't in the records."""
-    alternates = {alt: rid for rid, r in records.items() for alt in r.get("alternates") or []}
+    alternates = {alt: rid for rid, r in records.items() for alt in r.get("reprints") or []}
     problems, seen = [], set()
 
     def card(cid, where, revision=None):

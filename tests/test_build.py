@@ -9,6 +9,8 @@ from cardbuild import assemble, cdn, gemp, report
 
 FIXTURES = pathlib.Path(__file__).parent / "fixtures"
 CONFIG = {"sets": {"cards": [[0, 19], [100, 149]], "errata": [[50, 69]]}}
+TREE = {"prefix": "wiki/", "sizes": {"1x": "original", "2x": "double", "4x": "huge"}}
+CDN = "https://cdn.lotrtcgpc.net/"
 OVERRIDES = {"gempIds": [{"match": {"title": "Soldier's Cache"}, "gempId": "17_35"}]}
 
 
@@ -16,10 +18,8 @@ def run(overrides=OVERRIDES):
     wiki = json.loads((FIXTURES / "wiki.json").read_text(encoding="utf-8"))
     blueprints = gemp.load_blueprints(FIXTURES / "gemp" / "cards")
     mapping = gemp.load_mapping(FIXTURES / "gemp" / "blueprintMapping.txt")
-    images = gemp.ImageMaps(FIXTURES / "gemp" / "js")
-    index = cdn.Cdn(json.loads((FIXTURES / "manifest.json").read_text()), "https://cdn.lotrtcgpc.net/",
-                    "https://i.lotrtcgpc.net/", "cards/", "https://play.lotrtcgpc.net")
-    build = assemble.Build(CONFIG, wiki, blueprints, mapping, images, index, overrides, {"pc-2024-12-06": "2024 Yuletide"})
+    index = cdn.Cdn(json.loads((FIXTURES / "manifest.json").read_text()), CDN, TREE)
+    build = assemble.Build(CONFIG, wiki, blueprints, mapping, index, overrides, {"pc-2024-12-06": "2024 Yuletide"})
     records, batches = build.run()
     return build, records, batches, blueprints
 
@@ -56,31 +56,111 @@ def test_versions_and_batches(built):
     assert {b["id"]: b["name"] for b in batches} == {"decipher-2001-11-20": None, "pc-2024-12-06": "2024 Yuletide"}
 
 
-def test_images(built):
+EN01 = CDN + "wiki/{}/EN/01/LOTR-EN01S050.{}"
+
+
+def test_images_in_every_size_the_tree_has(built):
     _, records, _, _ = built
-    assert records["1_50"]["image"] == "https://cdn.lotrtcgpc.net/cards/decipher/LOTR01050.jpg"
-    assert records["51_50"]["image"] == "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E050.1_card.jpg"
-    # Decipher errata in Card.remadeErratas come from Gemp's own images folder
-    assert records["1_3"]["image"] == "https://play.lotrtcgpc.net/gemp-lotr/images/erratas/LOTR01003.jpg"
-    # An older PC revision's image is found on the CDN under its E-subset name, not the huge/ copy
-    assert records["1_50"]["versions"][1]["image"] == "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E050.1_card.jpg"
+    base, revision = records["1_50"]["versions"]
+    assert base["images"] == {"1x": EN01.format("original", "0_card.jpg"), "2x": EN01.format("double", "0_card.jpg"),
+                              "4x": EN01.format("huge", "0_card.jpg"), "portrait": EN01.format("original", "0_portrait.jpg")}
+    # 1x and 4x only; the portrait the revision repeats is the base's, so it isn't repeated here
+    assert revision["images"] == {"1x": EN01.format("original", "1_card.jpg"), "4x": EN01.format("huge", "1_card.jpg")}
+    # 1x only; the portrait the wiki names isn't in the tree
+    assert records["17_35"]["images"] == {"1x": CDN + "wiki/original/EN/18/LOTR-EN18S058.0_card.jpg"}
 
 
-def test_larger_renders_are_never_a_cards_image_wherever_their_folder_sits():
-    manifest = {"hash": "x", "root": {"d": {"wiki": {"d": {
-        "huge": {"d": {"EN": {"d": {"01": {"f": [["LOTR-EN01S050.1_card.jpg", 1, 1]]}}}}},
-        "double": {"d": {"EN": {"d": {"01": {"f": [["LOTR-EN01S050.1_card.jpg", 1, 1]]}}}}},
-        "original": {"d": {"EN": {"d": {"01": {"f": [["LOTR-EN01S050.1_card.jpg", 1, 1]]}}}}}}}}}}
-    index = cdn.Cdn(manifest, "https://cdn.lotrtcgpc.net/", "https://i.lotrtcgpc.net/")
-    assert index.find(["LOTR-EN01S050.1_card.jpg"]) == "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S050.1_card.jpg"
-
-
-def test_alternates_and_printings(built):
+def test_a_record_shows_the_images_of_the_version_it_describes(built):
     _, records, _, _ = built
-    assert records["1_50"]["alternates"] == ["0_13"]
-    assert records["1_50"]["printings"][0]["wikiId"] == "LOTR-EN00S013.0"
+    # The card as Decipher left it: revision 0
+    assert records["1_50"]["images"] == records["1_50"]["versions"][0]["images"]
+    # The PC erratum: revision 1, with the base version's portrait in effect
+    assert records["51_50"]["images"] == {"1x": EN01.format("original", "1_card.jpg"), "4x": EN01.format("huge", "1_card.jpg"),
+                                          "portrait": EN01.format("original", "0_portrait.jpg")}
+
+
+def test_images_left_out_when_the_tree_has_no_file(built):
+    _, records, _, _ = built
+    assert "images" not in records["1_3"]
+    assert all("images" not in v for v in records["1_3"]["versions"])
+    assert "images" not in records["1_99"]  # from Gemp only
+    de, fr = records["1_50"]["translations"]
+    assert de["images"] == {"1x": CDN + "wiki/original/DE/01/LOTR-DE01S050.0_card.jpg"}
+    assert fr["language"] == "FR" and "images" not in fr
+
+
+def test_alt_has_its_own_images_and_portrait_override(built):
+    _, records, _, _ = built
+    alt = records["1_50"]["alts"][0]
+    assert alt["images"] == {"1x": CDN + "wiki/original/EN/00/LOTR-EN00S013.0_card.jpg",
+                             "portrait": CDN + "wiki/original/EN/00/LOTR-EN00S013.0_portrait.jpg"}
+
+
+def test_only_an_overriding_portrait_gives_a_variant_images():
+    build = assemble.Build(CONFIG, {}, {}, {}, cdn.Cdn(json.loads((FIXTURES / "manifest.json").read_text()), CDN, TREE), {}, {})
+    row = {"ImageFilename": "", "PortraitFilename": "LOTR-EN00S013.0_portrait.jpg"}
+    assert build._images(row, "LOTR-EN01S050.0_portrait.jpg") == {"portrait": CDN + "wiki/original/EN/00/LOTR-EN00S013.0_portrait.jpg"}
+    assert build._images(row, "LOTR-EN00S013.0_portrait.jpg") is None
+
+
+def test_no_image_report(built):
+    build, _, _, _ = built
+    entries = build.report["noImage"]
+    assert {"gempId": "1_3", "wikiId": "LOTR-EN01S003.1", "file": "LOTR-EN01S003.1_card.jpg", "what": "card"} in entries
+    assert {"gempId": "1_3", "wikiId": "LOTR-EN01S003.0", "file": None, "what": "version"} in entries
+    assert {"gempId": "1_3", "wikiId": "LOTR-EN01S003.1", "file": "LOTR-EN01S003.1_card.jpg", "what": "version"} in entries
+    assert {"gempId": "1_99", "wikiId": None, "file": None, "what": "card"} in entries
+    # English only: the French printing has no file in the tree but isn't listed
+    assert not any(e["wikiId"].startswith("LOTR-FR") for e in entries if e["wikiId"])
+    assert not any(e["gempId"] in ("1_50", "51_50", "17_35") for e in entries)
+    assert "noImage" in dict(report.SECTIONS)
+
+
+def tree(*paths):
+    """A manifest holding these file paths."""
+    root = {}
+    for path in paths:
+        node = root
+        *folders, name = path.split("/")
+        for folder in folders:
+            node = node.setdefault("d", {}).setdefault(folder, {})
+        node.setdefault("f", []).append([name, 1, 1])
+    return {"hash": "x", "root": root}
+
+
+def test_images_are_found_by_name_in_their_size_folder_only():
+    index = cdn.Cdn(tree("wiki/huge/EN/01/a.jpg", "wiki/other/b.jpg", "cards/c.jpg", "wiki/original/EN/01/d.jpg"), CDN, TREE)
+    assert index.url("4x", "a.jpg") == CDN + "wiki/huge/EN/01/a.jpg"
+    assert index.url("1x", "a.jpg") is None
+    assert index.url("1x", "b.jpg") is None and index.url("1x", "c.jpg") is None
+    assert index.url("1x", "d.jpg") == CDN + "wiki/original/EN/01/d.jpg"
+    assert index.url("1x", None) is None
+
+
+def test_a_name_twice_in_one_size_folder_fails():
+    cdn.Cdn(tree("wiki/original/EN/01/a.jpg", "wiki/huge/EN/01/a.jpg"), CDN, TREE)  # different sizes: fine
+    with pytest.raises(RuntimeError, match="a.jpg is in wiki/original/ twice"):
+        cdn.Cdn(tree("wiki/original/EN/01/a.jpg", "wiki/original/DE/01/a.jpg"), CDN, TREE)
+
+
+def test_reprints_and_alts(built):
+    _, records, _, _ = built
+    assert records["1_50"]["reprints"] == ["0_13"]
+    assert records["1_50"]["alts"][0]["wikiId"] == "LOTR-EN00S013.0"
+    assert records["1_50"]["alts"][0]["gempId"] == "0_13"
     assert "0_13" not in records  # an alternate is listed on its base, not as its own record
     assert records["1_50"]["translations"][0]["language"] == "DE"
+    for record in records.values():
+        assert not {"image", "wikiImage", "alternates", "printings"} & set(record)
+        assert not any({"image", "wikiImage"} & set(v) for v in record.get("versions", []) + record.get("translations", []))
+
+
+def test_built_records_match_the_schema(built):
+    jsonschema = pytest.importorskip("jsonschema")
+    _, records, _, _ = built
+    schema = json.loads((FIXTURES.parent.parent / "schema" / "card-set.schema.json").read_text(encoding="utf-8"))
+    for set_number in {r["set"] for r in records.values()}:
+        jsonschema.validate({"set": set_number, "cards": [r for r in records.values() if r["set"] == set_number]}, schema)
 
 
 def test_wrong_gemp_id_is_reported_not_used(built):
@@ -187,15 +267,3 @@ def test_revision_changes_card_type_and_removes_values():
 def test_typo_in_title_still_links_the_card():
     assert assemble.same_title("Ruinous Hail", "Ruinous Hall")
     assert not assemble.same_title("Celeborn", "Arod")
-
-
-def test_masterworks_image_name():
-    images = gemp.ImageMaps(FIXTURES / "gemp" / "js")
-    assert images.decipher_original("12_195") == "https://i.lotrtcgpc.net/decipher/LOTR12O01.jpg"
-    assert images.decipher_original("17_149") == "https://i.lotrtcgpc.net/decipher/LOTR17O01.jpg"
-    assert images.decipher_original("4_7") == "https://i.lotrtcgpc.net/decipher/LOTR04007.jpg"
-
-
-def test_commented_out_js_entries_are_ignored():
-    images = gemp.ImageMaps(FIXTURES / "gemp" / "js")
-    assert "51_1" not in images.pc and "51_50" in images.pc

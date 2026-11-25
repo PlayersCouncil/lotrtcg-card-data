@@ -13,9 +13,17 @@
     "gempId": { "type": "string", "pattern": "^[0-9]+_[0-9]+$" },
     "text": { "type": ["string", "null"] },
     "int": { "type": ["integer", "null"] },
+    "images": {
+      "type": "object",
+      "description": "Image URLs on the CDN, each present only if the file is there. 1x: standard size, 2x and 4x: larger renders, portrait: the character portrait",
+      "additionalProperties": false,
+      "minProperties": 1,
+      "properties": {
+        "1x": { "type": "string" }, "2x": { "type": "string" }, "4x": { "type": "string" }, "portrait": { "type": "string" } }
+    },
     "card": {
       "type": "object",
-      "required": ["id", "set", "number", "kind", "source", "title", "image"],
+      "required": ["id", "set", "number", "kind", "source", "title"],
       "properties": {
         "id": { "$ref": "#/$defs/gempId", "description": "Gemp base blueprint ID" },
         "set": { "type": "string" },
@@ -53,14 +61,15 @@
         "gameText": { "$ref": "#/$defs/text" },
         "lore": { "$ref": "#/$defs/text" },
         "promoText": { "$ref": "#/$defs/text" },
-        "image": { "type": ["string", "null"], "description": "The image Gemp shows today" },
-        "alternates": { "type": "array", "items": { "$ref": "#/$defs/gempId" }, "description": "Gemp IDs mapped to this card (promos, alternate images, reprints)" },
-        "printings": {
+        "images": { "$ref": "#/$defs/images", "description": "Images of the version the record's fields describe, with the portrait in effect for it. Absent when none is known" },
+        "reprints": { "type": "array", "items": { "$ref": "#/$defs/gempId" }, "description": "Gemp IDs mapped to this card (promos, alternate images, reprints)" },
+        "alts": {
           "type": "array",
-          "description": "Other English printings of this card on the wiki",
+          "description": "Other English printings of this card on the wiki (alternate printings)",
           "items": { "type": "object", "required": ["wikiId", "gempId"], "properties": {
             "wikiId": { "type": "string" }, "gempId": { "$ref": "#/$defs/gempId" },
-            "subset": { "$ref": "#/$defs/text" }, "collInfo": { "$ref": "#/$defs/text" } } }
+            "subset": { "$ref": "#/$defs/text" }, "collInfo": { "$ref": "#/$defs/text" },
+            "images": { "$ref": "#/$defs/images", "description": "The printing's own images; portrait only where it differs from the card's" } } }
         },
         "versions": {
           "type": "array",
@@ -69,7 +78,8 @@
             "wikiId": { "type": "string" }, "revision": { "type": "integer" },
             "issuer": { "enum": [null, "Decipher", "Player's Council"] },
             "releaseDate": { "$ref": "#/$defs/text" }, "batch": { "$ref": "#/$defs/text" },
-            "fields": { "type": "object" }, "image": { "$ref": "#/$defs/text" }, "wikiImage": { "$ref": "#/$defs/text" } } }
+            "fields": { "type": "object" },
+            "images": { "$ref": "#/$defs/images", "description": "Revision 0: its images and portrait. Later revisions: portrait only where it differs from revision 0's" } } }
         },
         "translations": {
           "type": "array",
@@ -77,7 +87,8 @@
           "items": { "type": "object", "required": ["wikiId", "language"], "properties": {
             "wikiId": { "type": "string" }, "language": { "type": "string" }, "subset": { "$ref": "#/$defs/text" },
             "revision": { "type": "integer" }, "fields": { "type": "object" },
-            "wikiImage": { "$ref": "#/$defs/text" }, "physical": { "type": "boolean" } } }
+            "images": { "$ref": "#/$defs/images", "description": "The printing's own images; portrait only where it differs from the English card's" },
+            "physical": { "type": "boolean" } } }
         }
       }
     }

@@ -16,8 +16,8 @@ CARD_FIELDS = [
 
 RELEASE_FIELDS = [
     "ID", "BaseCardID", "Subset", "Revision", "Issuer", "ReleaseDate", "ReleaseNotes", "ImageFilename",
-    "LanguageCode", "IsPhysical", "IsPlayable", "CollInfo", "IsUnique", "Title", "Subtitle", "Subtypes",
-    "TwilightCost", "Strength", "StrengthMod", "Vitality", "VitalityMod", "SiteNum", "SiteNumMod",
+    "PortraitFilename", "LanguageCode", "IsPhysical", "IsPlayable", "CollInfo", "IsUnique", "Title", "Subtitle",
+    "Subtypes", "TwilightCost", "Strength", "StrengthMod", "Vitality", "VitalityMod", "SiteNum", "SiteNumMod",
     "Resistance", "ResistanceMod", "CanBearRing", "Signet", "Block", "ShadowNum", "ArrowDir",
     "GameText", "Lore", "PromoText", "CardType", "HomeSites",
 ]

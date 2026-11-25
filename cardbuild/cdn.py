@@ -1,4 +1,10 @@
-"""The CDN's file list (files.lotrtcgpc.net/_dirindex/manifest.json), for checking and finding images."""
+"""The CDN's file list (files.lotrtcgpc.net/_dirindex/manifest.json), for finding card images.
+
+Card images live in one tree on the CDN, one folder per size under the tree's prefix (config.json → cdn.tree):
+wiki/original/ (standard size: card images and portraits), wiki/double/ (2x) and wiki/huge/ (4x). Within each
+size folder a file name is unique, so an image is found by its wiki file name alone; where in the folder it sits
+(language, set) is taken from the file list.
+"""
 import json
 import urllib.request
 
@@ -10,49 +16,26 @@ def fetch_manifest(url, user_agent="lotrtcg-card-data"):
 
 
 class Cdn:
-    def __init__(self, manifest, base, old_host, cards_prefix="cards/", gemp_base=None):
+    def __init__(self, manifest, base, tree):
         self.base = base
-        self.old_host = old_host
-        self.cards_prefix = cards_prefix
-        self.gemp_base = gemp_base
         self.hash = manifest.get("hash")
-        self.paths = set()
-        self.by_name = {}
+        self.folders = {size: tree["prefix"] + folder + "/" for size, folder in tree["sizes"].items()}
+        self.by_size = {size: {} for size in self.folders}
         self._walk(manifest["root"], "")
 
     def _walk(self, node, prefix):
         for entry in node.get("f", []):
             path = prefix + entry[0]
-            self.paths.add(path)
-            # double/ and huge/ hold the larger renders, as the last folder (cards/errata/double/) or as a
-            # folder further up (wiki/double/EN/01/); a card's image is the plain one
-            if not {"double", "huge"} & set(prefix.split("/")):
-                self.by_name.setdefault(entry[0], []).append(path)
+            for size, folder in self.folders.items():
+                if path.startswith(folder):
+                    names = self.by_size[size]
+                    if entry[0] in names:
+                        raise RuntimeError(f"{entry[0]} is in {folder} twice: {names[entry[0]]} and {path}")
+                    names[entry[0]] = path
         for name, child in node.get("d", {}).items():
             self._walk(child, prefix + name + "/")
 
-    def url(self, image):
-        """A Gemp image reference as a public URL: i.lotrtcgpc.net becomes the CDN, Gemp-relative paths Gemp's host."""
-        if image is None:
-            return None
-        if image.startswith(self.old_host):
-            return self.base + self.cards_prefix + image[len(self.old_host):]
-        if image.startswith("/") and self.gemp_base:
-            return self.gemp_base + image
-        return image
-
-    def exists(self, url):
-        """True/False for CDN URLs, None for URLs elsewhere (not checkable from the manifest)."""
-        if url is None:
-            return False
-        if not url.startswith(self.base):
-            return None
-        return url[len(self.base):] in self.paths
-
-    def find(self, names):
-        """The first of these file names that's on the CDN, as a URL (prefers the shortest path)."""
-        for name in names:
-            paths = self.by_name.get(name)
-            if paths:
-                return self.base + sorted(paths, key=len)[0]
-        return None
+    def url(self, size, name):
+        """The URL of the file with this name in this size's folder, or None if it isn't there."""
+        path = self.by_size[size].get(name) if name else None
+        return self.base + path if path else None
