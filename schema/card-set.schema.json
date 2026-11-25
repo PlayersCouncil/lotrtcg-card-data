@@ -15,11 +15,11 @@
     "int": { "type": ["integer", "null"] },
     "images": {
       "type": "object",
-      "description": "Image URLs on the CDN, each present only if the file is there. 1x: standard size, 2x and 4x: larger renders, portrait: the character portrait",
+      "description": "Image URLs on the CDN, each present only if the file is there. 1x: standard size, 2x and 4x: larger renders, foil: a scan of the foil printing, portrait: the character portrait",
       "additionalProperties": false,
       "minProperties": 1,
       "properties": {
-        "1x": { "type": "string" }, "2x": { "type": "string" }, "4x": { "type": "string" }, "portrait": { "type": "string" } }
+        "1x": { "type": "string" }, "2x": { "type": "string" }, "4x": { "type": "string" }, "foil": { "type": "string" }, "portrait": { "type": "string" } }
     },
     "card": {
       "type": "object",

@@ -34,9 +34,10 @@ A card record is keyed by its **Gemp base blueprint ID**:
 - Companions with no printed resistance have resistance 6 (how they're ruled in post-Shadows play); the wiki stores that 6.
 - `translations` are printings in other languages, with only the fields that differ from English.
 - `reprints` are the Gemp IDs mapped to this card (promos, alternate images, reprints); `alts` are the wiki's other English printings of it.
-- `images` are the card's image URLs on `cdn.lotrtcgpc.net`: `1x` (standard size), `2x` and `4x` (larger renders) and `portrait`. Each is there only if the file is in the CDN's image tree (`wiki/original/`, `wiki/double/`, `wiki/huge/`), found by the file name the wiki gives; with none, `images` is left out.
+- `images` are the card's image URLs on `cdn.lotrtcgpc.net`: `1x` (standard size), `2x` and `4x` (larger renders), `foil` (a scan of the foil printing) and `portrait`. Each is there only if the file is in the CDN's image tree (`wiki/original/`, `wiki/double/`, `wiki/huge/`), found by the file name the wiki gives; with none, `images` is left out.
   - A record's `images` are those of the version its fields describe, with the portrait in effect for that version.
   - Every version, translation and alt carries its own `images`. Revision 0 carries the card's portrait; the others carry a `portrait` only where theirs differs from it.
+  - `foil` is found by file name: a foil scan has the clean image's name with only the subset letter changed (`S` to `F`, `O` to `G`; `config.json` → `cdn.tree.foilOf`). Where the wiki's row names the scan itself, as for Masterworks, `1x` is the clean image and the scan is `foil`.
 - `source` is `wiki`, `wiki+gemp` (a PC erratum the wiki has no revision for yet: stats from Gemp) or `gemp` (no wiki card at all).
 
 Pin a commit or tag rather than reading `main` if a consumer needs stable data.

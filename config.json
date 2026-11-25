@@ -18,7 +18,7 @@
   "cdn": {
     "manifest": "https://files.lotrtcgpc.net/_dirindex/manifest.json",
     "base": "https://cdn.lotrtcgpc.net/",
-    "tree": {"prefix": "wiki/", "sizes": {"1x": "original", "2x": "double", "4x": "huge"}}
+    "tree": {"prefix": "wiki/", "sizes": {"1x": "original", "2x": "double", "4x": "huge"}, "foilOf": {"S": "F", "O": "G"}}
   },
   "sets": {
     "cards": [[0, 19], [100, 149]],

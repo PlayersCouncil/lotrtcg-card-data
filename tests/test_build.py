@@ -128,6 +128,27 @@ def tree(*paths):
     return {"hash": "x", "root": root}
 
 
+def test_foil_scans_sit_beside_the_clean_image():
+    files = ["wiki/original/EN/12/LOTR-EN12S079.0_card.jpg", "wiki/original/EN/12/LOTR-EN12F079.0_card.jpg",
+             "wiki/original/EN/12/LOTR-EN12O079.0_card.jpg", "wiki/original/EN/12/LOTR-EN12G079.0_card.jpg",
+             "wiki/huge/EN/12/LOTR-EN12O079.0_card.jpg", "wiki/original/EN/15/LOTR-EN15G060.0_card.jpg",
+             "wiki/original/EN/01/LOTR-EN01S050.1_card.jpg"]
+    foils = dict(TREE, foilOf={"S": "F", "O": "G"})
+    build = assemble.Build(CONFIG, {}, {}, {}, cdn.Cdn(tree(*files), CDN, foils), {}, {})
+    at = CDN + "wiki/original/EN/12/LOTR-EN12"
+    # A row naming the scan shows the clean image, in every size it has, and lists the scan as foil
+    assert build._images({"ImageFilename": "LOTR-EN12G079.0_card.jpg"}, None) == {
+        "1x": at + "O079.0_card.jpg", "4x": CDN + "wiki/huge/EN/12/LOTR-EN12O079.0_card.jpg", "foil": at + "G079.0_card.jpg"}
+    # A clean image gets the scan of its foil printing
+    assert build._images({"ImageFilename": "LOTR-EN12S079.0_card.jpg"}, None) == {"1x": at + "S079.0_card.jpg", "foil": at + "F079.0_card.jpg"}
+    # No counterpart in the tree: the file stands for itself, and nothing is called a foil
+    assert build._images({"ImageFilename": "LOTR-EN15G060.0_card.jpg"}, None) == {"1x": CDN + "wiki/original/EN/15/LOTR-EN15G060.0_card.jpg"}
+    assert build._images({"ImageFilename": "LOTR-EN01S050.1_card.jpg"}, None) == {"1x": CDN + "wiki/original/EN/01/LOTR-EN01S050.1_card.jpg"}
+    # A row naming a file the tree does not hold has no images, whatever sits beside that name
+    assert build._images({"ImageFilename": "LOTR-EN01F050.1_card.jpg"}, None) is None
+    assert build._images({"ImageFilename": "LOTR-EN12S080.0_card.jpg"}, None) is None
+
+
 def test_images_are_found_by_name_in_their_size_folder_only():
     index = cdn.Cdn(tree("wiki/huge/EN/01/a.jpg", "wiki/other/b.jpg", "cards/c.jpg", "wiki/original/EN/01/d.jpg"), CDN, TREE)
     assert index.url("4x", "a.jpg") == CDN + "wiki/huge/EN/01/a.jpg"

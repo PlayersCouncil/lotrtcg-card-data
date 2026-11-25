@@ -244,13 +244,17 @@ class Build:
     # ---- images ----
 
     def _images(self, release, inherited_portrait):
-        """A release row's images in the CDN tree: its card image in each size, and its portrait when the row
-        names one other than inherited_portrait (the base version's). None when the tree has none of them."""
+        """A release row's images in the CDN tree: its card image in each size, the foil scan of it, and its
+        portrait when the row names one other than inherited_portrait (the base version's). The card image is
+        the clean one even when the row names the foil scan. None when the tree has none of them."""
         images = {}
+        shown, foil = self.cdn.clean_and_foil(release.get("ImageFilename"))
         for size in ("1x", "2x", "4x"):
-            url = self.cdn.url(size, release.get("ImageFilename"))
+            url = self.cdn.url(size, shown)
             if url:
                 images[size] = url
+        if foil:
+            images["foil"] = self.cdn.url("1x", foil)
         portrait = release.get("PortraitFilename") or None
         if portrait and portrait != inherited_portrait:
             url = self.cdn.url("1x", portrait)
