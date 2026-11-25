@@ -24,9 +24,9 @@ class Cdn:
         for entry in node.get("f", []):
             path = prefix + entry[0]
             self.paths.add(path)
-            folder = prefix.rstrip("/").split("/")[-1] if prefix else ""
-            # The double/ and huge/ folders hold upscaled copies; a card's image is the plain one
-            if folder not in ("double", "huge"):
+            # double/ and huge/ hold the larger renders, as the last folder (cards/errata/double/) or as a
+            # folder further up (wiki/double/EN/01/); a card's image is the plain one
+            if not {"double", "huge"} & set(prefix.split("/")):
                 self.by_name.setdefault(entry[0], []).append(path)
         for name, child in node.get("d", {}).items():
             self._walk(child, prefix + name + "/")

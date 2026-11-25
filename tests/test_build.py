@@ -66,6 +66,15 @@ def test_images(built):
     assert records["1_50"]["versions"][1]["image"] == "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E050.1_card.jpg"
 
 
+def test_larger_renders_are_never_a_cards_image_wherever_their_folder_sits():
+    manifest = {"hash": "x", "root": {"d": {"wiki": {"d": {
+        "huge": {"d": {"EN": {"d": {"01": {"f": [["LOTR-EN01S050.1_card.jpg", 1, 1]]}}}}},
+        "double": {"d": {"EN": {"d": {"01": {"f": [["LOTR-EN01S050.1_card.jpg", 1, 1]]}}}}},
+        "original": {"d": {"EN": {"d": {"01": {"f": [["LOTR-EN01S050.1_card.jpg", 1, 1]]}}}}}}}}}}
+    index = cdn.Cdn(manifest, "https://cdn.lotrtcgpc.net/", "https://i.lotrtcgpc.net/")
+    assert index.find(["LOTR-EN01S050.1_card.jpg"]) == "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S050.1_card.jpg"
+
+
 def test_alternates_and_printings(built):
     _, records, _, _ = built
     assert records["1_50"]["alternates"] == ["0_13"]
