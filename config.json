@@ -7,7 +7,7 @@
   },
   "gemp": {
     "repo": "PlayersCouncil/gemp-lotr",
-    "branch": "feature/card-test-overhaul",
+    "branch": "master",
     "watchPaths": [
       "gemp-lotr/gemp-lotr-cards/src/main/resources/cards",
       "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt",
