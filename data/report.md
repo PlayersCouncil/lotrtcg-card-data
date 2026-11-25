@@ -1,6 +1,6 @@
 # Card data report
 
-Wiki revision 128770, Gemp `feature/card-test-overhaul`, CDN manifest `5969afbc2164`.
+Wiki revision 131529, Gemp `master`, CDN manifest `5969afbc2164`.
 
 Where the wiki, Gemp and the CDN disagree. Fix the source (usually the wiki) and the next build picks it up.
 
@@ -156,10 +156,9 @@ None.
 
 None.
 
-## Values that differ between the wiki and Gemp (4)
+## Values that differ between the wiki and Gemp (3)
 
 - gempId: `100_1`, wiki: `LOTR-ENV0S001.0`, title: `Rath Dínen`, field: `arrowDirection`, gemp: `right`, wiki_value: `left`
-- gempId: `10_98`, wiki: `LOTR-EN10S098.0`, title: `Ruinous Hail`, field: `title`, gemp: `ruinoushall`, wiki_value: `ruinoushail`
 - gempId: `5_119`, wiki: `LOTR-EN05S119.0`, title: `Nan Curunír`, field: `arrowDirection`, gemp: `left`, wiki_value: `right`
 - gempId: `5_120`, wiki: `LOTR-EN05S120.0`, title: `Caverns of Isengard`, field: `arrowDirection`, gemp: `right`, wiki_value: `left`
 

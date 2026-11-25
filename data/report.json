@@ -530,14 +530,6 @@
    "wiki_value": "left"
   },
   {
-   "gempId": "10_98",
-   "wiki": "LOTR-EN10S098.0",
-   "title": "Ruinous Hail",
-   "field": "title",
-   "gemp": "ruinoushall",
-   "wiki_value": "ruinoushail"
-  },
-  {
    "gempId": "5_119",
    "wiki": "LOTR-EN05S119.0",
    "title": "Nan Curunír",
@@ -725,7 +717,7 @@
   "wikiWithoutGempId": 125,
   "pcErrataMissingOnWiki": 0,
   "erratumNotRecordedOnWiki": 0,
-  "valueMismatch": 4,
+  "valueMismatch": 3,
   "keywordNotOnWiki": 0,
   "gameTextNumbers": 10,
   "textHygiene": 0,

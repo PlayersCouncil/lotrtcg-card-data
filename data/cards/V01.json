@@ -169,6 +169,26 @@
      "wikiId": "LOTR-ENV1S003.1",
      "revision": 1,
      "issuer": "Player's Council",
+     "releaseDate": "2024-12-06",
+     "batch": "pc-2024-12-06",
+     "fields": {
+      "title": "Gimli",
+      "subtitle": "Vengeful Longbeard",
+      "unique": true,
+      "subtypes": "Dwarf",
+      "twilight": 2,
+      "strength": 6,
+      "vitality": 3,
+      "resistance": 6,
+      "gameText": "Damage +1. While Gimli bears 2 items, he is strength +2. While Gimli bears 3 items, he is damage +1."
+     },
+     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E003.1_card.jpg",
+     "wikiImage": "LOTR-ENV1S003.1_card.jpg"
+    },
+    {
+     "wikiId": "LOTR-ENV1S003.2",
+     "revision": 2,
+     "issuer": "Player's Council",
      "releaseDate": "2025-12-13",
      "batch": "pc-2025-12-13",
      "fields": {
@@ -182,8 +202,8 @@
       "resistance": 6,
       "gameText": "Damage +1. While Gimli bears 2 items, he is damage +1. While Gimli bears 3 items, he is strength +2."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E003.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S003.1_card.jpg"
+     "image": null,
+     "wikiImage": "LOTR-ENV1S003.2_card.jpg"
     }
    ],
    "translations": [],
