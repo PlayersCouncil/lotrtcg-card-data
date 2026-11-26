@@ -16,6 +16,11 @@ from .gemp import in_ranges, split_id
 
 ISSUER_PC = "Player's Council"
 ISSUER_DECIPHER = "Decipher"
+ISSUER_GEMP = "Gemp"
+# Whose revisions make up a card under its own Gemp ID: Decipher's errata, and the corrections Gemp plays the card
+# with that are neither Decipher's nor the PC's (a clause the print left out, say). The PC's errata are not among
+# them: on Gemp those are a blueprint of their own (set + 50).
+BASE_ISSUERS = frozenset({ISSUER_DECIPHER, ISSUER_GEMP})
 
 # Wiki CardReleases fields carried into a version, and their dataset names.
 # A blank field on a revision row means "unchanged from the previous revision".
@@ -218,7 +223,7 @@ class Build:
 
     def _batch(self, release):
         issuer, date = release.get("Issuer") or "", release.get("ReleaseDate") or ""
-        if not issuer or not date:
+        if not issuer or not date or issuer == ISSUER_GEMP:      # a Gemp correction is not part of an errata batch
             return None
         key = ("pc" if issuer == ISSUER_PC else "decipher" if issuer == ISSUER_DECIPHER else letters(issuer)) + "-" + date
         self.batches.setdefault(key, {"id": key, "issuer": issuer, "releaseDate": date, "name": self.batch_names.get(key), "cards": 0})
@@ -387,8 +392,8 @@ class Build:
             self._no_image("card", blueprint_id, None, None, None)
         else:
             versions = self._versions(card)
-            # V-set cards are PC cards: their PC revisions are the card. Decipher cards: Decipher's own errata only.
-            issuers = {ISSUER_DECIPHER, ISSUER_PC} if set_number >= 100 else {ISSUER_DECIPHER}
+            # V-set cards are PC cards: their PC revisions are the card. Decipher cards: no PC errata.
+            issuers = BASE_ISSUERS | {ISSUER_PC} if set_number >= 100 else BASE_ISSUERS
             current, last = self.layer(versions, issuers)
             record.update({"source": "wiki", **self._base_fields(card), **current, "versions": versions, "translations": self._translations(card)})
             self._set_record_images(record, versions, last)
@@ -422,7 +427,7 @@ class Build:
             self._no_image("card", blueprint_id, None, None, None)
         else:
             versions = self._versions(card)
-            current, last = self.layer(versions, {ISSUER_DECIPHER, ISSUER_PC})
+            current, last = self.layer(versions, BASE_ISSUERS | {ISSUER_PC})
             has_pc = any(v["issuer"] == ISSUER_PC for v in versions)
             if not has_pc:
                 self.report["pcErrataMissingOnWiki"].append({"gempId": blueprint_id, "wiki": card["ID"]})

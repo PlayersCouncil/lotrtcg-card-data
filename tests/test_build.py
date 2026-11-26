@@ -321,6 +321,22 @@ def test_revision_changes_card_type_and_removes_values():
     assert assemble.to_value("homeSites", "2T,8T") == ["2T", "8T"]
 
 
+def test_gemp_revisions_are_part_of_the_card_and_pc_errata_are_not(built):
+    versions = [
+        {"revision": 0, "issuer": None, "fields": {"gameText": "As printed."}},
+        {"revision": 1, "issuer": "Gemp", "fields": {"gameText": "As Gemp plays it."}},
+        {"revision": 2, "issuer": "Player's Council", "fields": {"gameText": "PC errata."}},
+    ]
+    card, last = assemble.Build.layer(versions, assemble.BASE_ISSUERS)
+    assert card["gameText"] == "As Gemp plays it." and last["revision"] == 1
+    errata, last = assemble.Build.layer(versions, assemble.BASE_ISSUERS | {assemble.ISSUER_PC})
+    assert errata["gameText"] == "PC errata." and last["revision"] == 2
+    # a Gemp correction is not an errata batch, dated or not
+    build = built[0]
+    before = dict(build.batches)
+    assert build._batch({"Issuer": "Gemp", "ReleaseDate": "2022-11-10"}) is None and build.batches == before
+
+
 def test_typo_in_title_still_links_the_card():
     assert assemble.same_title("Ruinous Hail", "Ruinous Hall")
     assert not assemble.same_title("Celeborn", "Arod")

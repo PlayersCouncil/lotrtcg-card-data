@@ -78,7 +78,7 @@
           "description": "English revisions in order. fields: what the wiki records on that revision row; a field not listed is unchanged from the previous revision",
           "items": { "type": "object", "required": ["wikiId", "revision", "fields"], "properties": {
             "wikiId": { "type": "string" }, "revision": { "type": "integer" },
-            "issuer": { "enum": [null, "Decipher", "Player's Council"] },
+            "issuer": { "enum": [null, "Decipher", "Player's Council", "Gemp"], "description": "Gemp: a correction Gemp plays the card with that is neither Decipher's errata nor the PC's" },
             "releaseDate": { "$ref": "#/$defs/text" }, "batch": { "$ref": "#/$defs/text" },
             "fields": { "type": "object" },
             "images": { "$ref": "#/$defs/images", "description": "Revision 0: its images and portrait. Later revisions: portrait only where it differs from revision 0's" } } }

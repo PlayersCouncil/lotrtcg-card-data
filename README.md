@@ -26,7 +26,8 @@ To fix a card, fix the wiki (or Gemp); the next build picks it up. `data/report.
 
 A card record is keyed by its **Gemp base blueprint ID**:
 
-- `kind: "card"` is a Decipher or V-set card. Its fields are the card as Decipher left it: revision 0 plus Decipher's own errata. V-set cards include their PC revisions (they're PC cards).
+- `kind: "card"` is a Decipher or V-set card. Its fields are the card as Gemp plays it under that ID: revision 0, Decipher's own errata, and any revision issued by `Gemp`. V-set cards include their PC revisions (they're PC cards).
+- A revision's `issuer` is `Decipher`, `Player's Council` or `Gemp`. `Gemp` marks a correction Gemp plays the card with that is neither Decipher's errata nor a PC erratum (a clause the printed card left out, for instance). It applies to the card itself, not to its PC errata blueprint alone, and it has no `batch`.
 - `kind: "errata"` is a PC errata blueprint (`51_50`), `errataOf` the original (`1_50`), with the PC revisions applied. The original carries `errataId`.
 - `versions` lists the English revisions in order. A revision's `fields` are what the wiki records on that revision row; anything not listed is unchanged from the revision before.
   - A revision that changes the card type carries `type`; allies and sites carry `homeSites` (`["2T", "8T"]`).
