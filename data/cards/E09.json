@@ -9,6 +9,7 @@
    "errataOf": "9_4",
    "source": "wiki",
    "wikiId": "LOTR-EN09S004.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gimli,_Bearer_of_Grudges_(9R%2B4)",
    "collInfo": "9R+4",
    "rarity": "R+",
    "culture": "Dwarven",
@@ -32,7 +33,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S004.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S004.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S004.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S004.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F004.0_portrait.jpg"
    }
   },
   {
@@ -43,6 +45,7 @@
    "errataOf": "9_14",
    "source": "wiki",
    "wikiId": "LOTR-EN09S014.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Galadriel,_Bearer_of_Wisdom_(9R%2B14)",
    "collInfo": "9R+14",
    "rarity": "R+",
    "culture": "Elven",
@@ -66,7 +69,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S014.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S014.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S014.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S014.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F014.0_portrait.jpg"
    }
   },
   {
@@ -77,6 +81,7 @@
    "errataOf": "9_16",
    "source": "wiki",
    "wikiId": "LOTR-EN09S016.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Glorfindel,_Revealed_in_Wrath_(9R%2B16)",
    "collInfo": "9R+16",
    "rarity": "R+",
    "culture": "Elven",
@@ -99,7 +104,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S016.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S016.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S016.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S016.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F016.0_portrait.jpg"
    }
   },
   {
@@ -110,6 +116,7 @@
    "errataOf": "9_26",
    "source": "wiki",
    "wikiId": "LOTR-EN09S026.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Radagast,_The_Brown_(9R%2B26)",
    "collInfo": "9R+26",
    "rarity": "R+",
    "culture": "Gandalf",
@@ -133,7 +140,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S026.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S026.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S026.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S026.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F026.0_portrait.jpg"
    }
   },
   {
@@ -144,6 +152,7 @@
    "errataOf": "9_27",
    "source": "wiki",
    "wikiId": "LOTR-EN09S027.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Sent_Back_(9R27)",
    "collInfo": "9R27",
    "rarity": "R",
    "culture": "Gandalf",
@@ -162,7 +171,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S027.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S027.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S027.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S027.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F027.0_portrait.jpg"
    }
   },
   {
@@ -173,6 +183,7 @@
    "errataOf": "9_30",
    "source": "wiki",
    "wikiId": "LOTR-EN09S030.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Smeagol,_Bearer_of_Great_Secrets_(9R%2B30)",
    "collInfo": "9R+30",
    "rarity": "R+",
    "culture": "Gollum",
@@ -195,7 +206,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S030.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S030.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S030.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S030.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F030.0_portrait.jpg"
    }
   },
   {
@@ -206,6 +218,7 @@
    "errataOf": "9_31",
    "source": "wiki",
    "wikiId": "LOTR-EN09S031.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Boromir,_Bearer_of_Council_(9R%2B31)",
    "collInfo": "9R+31",
    "rarity": "R+",
    "culture": "Gondor",
@@ -229,7 +242,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S031.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S031.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S031.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S031.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F031.0_portrait.jpg"
    }
   },
   {
@@ -240,6 +254,7 @@
    "errataOf": "9_32",
    "source": "wiki",
    "wikiId": "LOTR-EN09S032.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Elendil,_The_Tall_(9R%2B32)",
    "collInfo": "9R+32",
    "rarity": "R+",
    "culture": "Gondor",
@@ -263,7 +278,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S032.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S032.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S032.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S032.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F032.0_portrait.jpg"
    }
   },
   {
@@ -274,6 +290,7 @@
    "errataOf": "9_33",
    "source": "wiki",
    "wikiId": "LOTR-EN09S033.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Isildur,_Bearer_of_Heirlooms_(9R%2B33)",
    "collInfo": "9R+33",
    "rarity": "R+",
    "culture": "Gondor",
@@ -297,7 +314,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S033.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S033.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S033.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S033.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F033.0_portrait.jpg"
    }
   },
   {
@@ -308,6 +326,7 @@
    "errataOf": "9_35",
    "source": "wiki",
    "wikiId": "LOTR-EN09S035.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Sapling_of_the_White_Tree_(9R35)",
    "collInfo": "9R35",
    "rarity": "R",
    "culture": "Gondor",
@@ -326,7 +345,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S035.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S035.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S035.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S035.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F035.0_portrait.jpg"
    }
   },
   {
@@ -337,6 +357,7 @@
    "errataOf": "9_46",
    "source": "wiki",
    "wikiId": "LOTR-EN09S046.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/The_Red_Arrow_(9R46)",
    "collInfo": "9R46",
    "rarity": "R",
    "culture": "Rohan",
@@ -355,7 +376,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S046.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S046.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S046.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S046.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F046.0_portrait.jpg"
    }
   },
   {
@@ -366,6 +388,7 @@
    "errataOf": "9_49",
    "source": "wiki",
    "wikiId": "LOTR-EN09S049.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Bilbo,_Bearer_of_Things_Burgled_(9R%2B49)",
    "collInfo": "9R+49",
    "rarity": "R+",
    "culture": "Shire",
@@ -389,7 +412,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S049.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S049.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S049.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S049.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F049.0_portrait.jpg"
    }
   }
  ]

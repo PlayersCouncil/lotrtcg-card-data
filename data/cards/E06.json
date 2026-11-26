@@ -9,6 +9,7 @@
    "errataOf": "6_8",
    "source": "wiki",
    "wikiId": "LOTR-EN06S008.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Too_Long_Have_These_Peasants_Stood_(6U8)",
    "collInfo": "6U8",
    "rarity": "U",
    "culture": "Dunland",
@@ -27,7 +28,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S008.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/06/LOTR-EN06S008.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S008.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S008.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S008.0_portrait.jpg"
    }
   },
   {
@@ -38,6 +40,7 @@
    "errataOf": "6_16",
    "source": "wiki",
    "wikiId": "LOTR-EN06S016.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Forearmed_(6U16)",
    "collInfo": "6U16",
    "rarity": "U",
    "culture": "Elven",
@@ -56,7 +59,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S016.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/06/LOTR-EN06S016.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S016.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S016.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S016.0_portrait.jpg"
    }
   },
   {
@@ -67,6 +71,7 @@
    "errataOf": "6_22",
    "source": "wiki",
    "wikiId": "LOTR-EN06S022.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Naith_Troop_(6U22)",
    "collInfo": "6U22",
    "rarity": "U",
    "culture": "Elven",
@@ -89,7 +94,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S022.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/06/LOTR-EN06S022.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S022.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S022.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S022.0_portrait.jpg"
    }
   },
   {
@@ -100,6 +106,7 @@
    "errataOf": "6_23",
    "source": "wiki",
    "wikiId": "LOTR-EN06S023.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Naith_Warband_(6R23)",
    "collInfo": "6R23",
    "rarity": "R",
    "culture": "Elven",
@@ -122,7 +129,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S023.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/06/LOTR-EN06S023.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S023.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S023.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S023.0_portrait.jpg"
    }
   }
  ]

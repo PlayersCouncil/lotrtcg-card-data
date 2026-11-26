@@ -9,6 +9,7 @@
    "errataOf": "15_14",
    "source": "wiki",
    "wikiId": "LOTR-EN15S014.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Elven_Warrior_(15C14)",
    "collInfo": "15C14",
    "rarity": "C",
    "culture": "Elven",
@@ -31,7 +32,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S014.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/15/LOTR-EN15S014.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S014.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S014.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S014.0_portrait.jpg"
    }
   },
   {
@@ -42,6 +44,7 @@
    "errataOf": "15_15",
    "source": "wiki",
    "wikiId": "LOTR-EN15S015.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Focus_(15C15)",
    "collInfo": "15C15",
    "rarity": "C",
    "culture": "Elven",
@@ -60,7 +63,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S015.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/15/LOTR-EN15S015.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S015.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S015.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S015.0_portrait.jpg"
    }
   },
   {
@@ -71,6 +75,7 @@
    "errataOf": "15_17",
    "source": "wiki",
    "wikiId": "LOTR-EN15S017.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Haldir,_Sentry_of_the_Golden_Wood_(15U17)",
    "collInfo": "15U17",
    "rarity": "U",
    "culture": "Elven",
@@ -94,7 +99,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S017.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/15/LOTR-EN15S017.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S017.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S017.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S017.0_portrait.jpg"
    }
   },
   {
@@ -105,6 +111,7 @@
    "errataOf": "15_62",
    "source": "wiki",
    "wikiId": "LOTR-EN15S062.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Ithilien_Blade_(15C62)",
    "collInfo": "15C62",
    "rarity": "C",
    "culture": "Gondor",
@@ -124,7 +131,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S062.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/15/LOTR-EN15S062.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S062.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S062.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S062.0_portrait.jpg"
    }
   },
   {
@@ -135,6 +143,7 @@
    "errataOf": "15_64",
    "source": "wiki",
    "wikiId": "LOTR-EN15S064.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Madril,_Defender_of_Osgiliath_(15R64)",
    "collInfo": "15R64",
    "rarity": "R",
    "culture": "Gondor",
@@ -158,7 +167,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S064.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/15/LOTR-EN15S064.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S064.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S064.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S064.0_portrait.jpg"
    }
   },
   {
@@ -169,6 +179,7 @@
    "errataOf": "15_112",
    "source": "wiki",
    "wikiId": "LOTR-EN15S112.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Mountain-troll_(15R112)",
    "collInfo": "15R112",
    "rarity": "R",
    "culture": "Orc",
@@ -190,7 +201,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S112.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/15/LOTR-EN15S112.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S112.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S112.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S112.0_portrait.jpg"
    }
   },
   {
@@ -201,6 +213,7 @@
    "errataOf": "15_148",
    "source": "wiki",
    "wikiId": "LOTR-EN15S148.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Little_Golden_Flower_(15R148)",
    "collInfo": "15R148",
    "rarity": "R",
    "culture": "Shire",
@@ -219,7 +232,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S148.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/15/LOTR-EN15S148.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S148.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/15/LOTR-EN15S148.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/15/LOTR-EN15S148.0_portrait.jpg"
    }
   }
  ]

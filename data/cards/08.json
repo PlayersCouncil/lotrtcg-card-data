@@ -8,6 +8,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S001.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Aggression_(8C1)",
    "collInfo": "8C1",
    "rarity": "C",
    "culture": "Dwarven",
@@ -44,7 +45,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S001.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S001.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S001.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F001.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F001.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S001.0_portrait.jpg"
      }
     },
     {
@@ -120,7 +122,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S001.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S001.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S001.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F001.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F001.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S001.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -133,6 +136,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S002.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Battle_in_Earnest_(8R2)",
    "collInfo": "8R2",
    "rarity": "R",
    "culture": "Dwarven",
@@ -169,7 +173,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S002.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S002.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S002.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F002.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F002.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S002.0_portrait.jpg"
      }
     }
    ],
@@ -230,7 +235,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S002.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S002.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S002.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F002.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F002.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S002.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -242,6 +248,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S003.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Blood_Runs_Chill_(8R3)",
    "collInfo": "8R3",
    "rarity": "R",
    "culture": "Dwarven",
@@ -278,7 +285,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S003.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S003.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S003.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F003.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F003.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S003.0_portrait.jpg"
      }
     },
     {
@@ -358,7 +366,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S003.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S003.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S003.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F003.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F003.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S003.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -371,6 +380,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S004.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Counts_But_One_(8U4)",
    "collInfo": "8U4",
    "rarity": "U",
    "culture": "Dwarven",
@@ -407,7 +417,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S004.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S004.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S004.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F004.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F004.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S004.0_portrait.jpg"
      }
     }
    ],
@@ -468,7 +479,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S004.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S004.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S004.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F004.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F004.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S004.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -480,6 +492,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S005.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gimli,_Counter_of_Foes_(8C5)",
    "collInfo": "8C5",
    "rarity": "C",
    "culture": "Dwarven",
@@ -526,7 +539,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S005.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S005.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S005.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F005.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F005.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S005.0_portrait.jpg"
      }
     }
    ],
@@ -587,7 +601,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S005.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S005.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S005.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F005.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F005.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S005.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -599,6 +614,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S006.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Honed_(8C6)",
    "collInfo": "8C6",
    "rarity": "C",
    "culture": "Dwarven",
@@ -635,7 +651,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S006.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S006.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S006.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F006.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F006.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S006.0_portrait.jpg"
      }
     }
    ],
@@ -696,7 +713,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S006.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S006.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S006.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F006.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F006.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S006.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -708,6 +726,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S007.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Unheard_of_(8R7)",
    "collInfo": "8R7",
    "rarity": "R",
    "culture": "Dwarven",
@@ -744,7 +763,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S007.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S007.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S007.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F007.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F007.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S007.0_portrait.jpg"
      }
     }
    ],
@@ -805,7 +825,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S007.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S007.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S007.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F007.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F007.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S007.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -817,6 +838,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S008.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Wish_For_Our_Kinfolk_(8U8)",
    "collInfo": "8U8",
    "rarity": "U",
    "culture": "Dwarven",
@@ -853,7 +875,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S008.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S008.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S008.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F008.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F008.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S008.0_portrait.jpg"
      }
     }
    ],
@@ -914,7 +937,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S008.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S008.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S008.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F008.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F008.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S008.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -926,6 +950,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S009.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/A_Grey_Ship_(8U9)",
    "collInfo": "8U9",
    "rarity": "U",
    "culture": "Elven",
@@ -962,7 +987,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S009.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S009.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S009.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F009.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F009.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S009.0_portrait.jpg"
      }
     }
    ],
@@ -1023,7 +1049,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S009.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S009.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S009.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F009.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F009.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S009.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -1035,6 +1062,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S010.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Legolas,_Elven_Stalwart_(8C10)",
    "collInfo": "8C10",
    "rarity": "C",
    "culture": "Elven",
@@ -1081,7 +1109,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S010.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S010.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S010.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F010.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F010.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S010.0_portrait.jpg"
      }
     }
    ],
@@ -1142,7 +1171,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S010.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S010.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S010.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F010.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F010.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S010.0_portrait.jpg"
    },
    "reprints": [
     "0_24"
@@ -1150,11 +1180,13 @@
    "alts": [
     {
      "wikiId": "LOTR-EN00S024.0",
+     "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Legolas,_Elven_Stalwart_(0P24)",
      "gempId": "0_24",
      "subset": "S",
      "collInfo": "0P24",
      "images": {
-      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S024.0_card.jpg"
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S024.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S024.0_portrait.jpg"
      }
     }
    ]
@@ -1166,6 +1198,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S011.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Life_of_the_Eldar_(8R11)",
    "collInfo": "8R11",
    "rarity": "R",
    "culture": "Elven",
@@ -1202,7 +1235,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S011.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S011.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S011.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F011.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F011.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S011.0_portrait.jpg"
      }
     }
    ],
@@ -1263,7 +1297,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S011.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S011.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S011.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F011.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F011.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S011.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -1275,6 +1310,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S012.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Reckless_We_Rode_(8R12)",
    "collInfo": "8R12",
    "rarity": "R",
    "culture": "Elven",
@@ -1311,7 +1347,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S012.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S012.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S012.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F012.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F012.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S012.0_portrait.jpg"
      }
     }
    ],
@@ -1372,7 +1409,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S012.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S012.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S012.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F012.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F012.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S012.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -1384,6 +1422,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S013.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Shake_Off_the_Shadow_(8U13)",
    "collInfo": "8U13",
    "rarity": "U",
    "culture": "Elven",
@@ -1420,7 +1459,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S013.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S013.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S013.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F013.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F013.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S013.0_portrait.jpg"
      }
     }
    ],
@@ -1481,7 +1521,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S013.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S013.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S013.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F013.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F013.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S013.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -1493,6 +1534,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S014.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/A_Fool_(8C14)",
    "collInfo": "8C14",
    "rarity": "C",
    "culture": "Gandalf",
@@ -1529,7 +1571,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S014.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S014.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S014.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F014.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F014.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S014.0_portrait.jpg"
      }
     }
    ],
@@ -1590,7 +1633,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S014.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S014.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S014.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F014.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F014.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S014.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -1602,6 +1646,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S015.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gandalf,_Leader_of_Men_(8R15)",
    "collInfo": "8R15",
    "rarity": "R",
    "culture": "Gandalf",
@@ -1648,7 +1693,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S015.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S015.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S015.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F015.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F015.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S015.0_portrait.jpg"
      }
     }
    ],
@@ -1720,7 +1766,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S015.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S015.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S015.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F015.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F015.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S015.0_portrait.jpg"
    },
    "reprints": [
     "8_124"
@@ -1734,6 +1781,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S016.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Let_Us_Not_Tarry_(8U16)",
    "collInfo": "8U16",
    "rarity": "U",
    "culture": "Gandalf",
@@ -1770,7 +1818,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S016.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S016.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S016.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F016.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F016.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S016.0_portrait.jpg"
      }
     }
    ],
@@ -1831,7 +1880,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S016.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S016.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S016.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F016.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F016.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S016.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -1843,6 +1893,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S017.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Mighty_Steed_(8U17)",
    "collInfo": "8U17",
    "rarity": "U",
    "culture": "Gandalf",
@@ -1879,7 +1930,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S017.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S017.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S017.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F017.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F017.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S017.0_portrait.jpg"
      }
     }
    ],
@@ -1940,7 +1992,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S017.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S017.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S017.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F017.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F017.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S017.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -1952,6 +2005,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S018.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Not_the_First_Halfling_(8U18)",
    "collInfo": "8U18",
    "rarity": "U",
    "culture": "Gandalf",
@@ -1986,7 +2040,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S018.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S018.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S018.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F018.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F018.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S018.0_portrait.jpg"
      }
     }
    ],
@@ -2046,7 +2101,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S018.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S018.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S018.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F018.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F018.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S018.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -2058,6 +2114,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S019.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/On_Your_Doorstep_(8U19)",
    "collInfo": "8U19",
    "rarity": "U",
    "culture": "Gandalf",
@@ -2094,7 +2151,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S019.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S019.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S019.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F019.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F019.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S019.0_portrait.jpg"
      }
     }
    ],
@@ -2155,7 +2213,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S019.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S019.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S019.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F019.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F019.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S019.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -2167,6 +2226,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S020.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Saved_From_the_Fire_(8R20)",
    "collInfo": "8R20",
    "rarity": "R",
    "culture": "Gandalf",
@@ -2203,7 +2263,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S020.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S020.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S020.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F020.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F020.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S020.0_portrait.jpg"
      }
     },
     {
@@ -2293,7 +2354,8 @@
     }
    ],
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S020.1_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S020.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S020.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -2306,6 +2368,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S021.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Shadowfax,_Greatheart_(8R21)",
    "collInfo": "8R21",
    "rarity": "R",
    "culture": "Gandalf",
@@ -2342,7 +2405,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S021.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S021.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S021.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F021.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F021.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S021.0_portrait.jpg"
      }
     }
    ],
@@ -2403,7 +2467,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S021.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S021.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S021.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F021.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F021.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S021.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -2415,6 +2480,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S022.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Hidden_Even_From_Her_(8C22)",
    "collInfo": "8C22",
    "rarity": "C",
    "culture": "Gollum",
@@ -2451,7 +2517,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S022.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S022.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S022.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F022.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F022.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S022.0_portrait.jpg"
      }
     }
    ],
@@ -2512,7 +2579,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S022.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S022.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S022.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F022.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F022.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S022.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -2524,6 +2592,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S023.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Larder_(8U23)",
    "collInfo": "8U23",
    "rarity": "U",
    "culture": "Gollum",
@@ -2560,7 +2629,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S023.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S023.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S023.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F023.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F023.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S023.0_portrait.jpg"
      }
     }
    ],
@@ -2621,7 +2691,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S023.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S023.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S023.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F023.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F023.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S023.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -2633,6 +2704,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S024.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Promise_Keeping_(8R24)",
    "collInfo": "8R24",
    "rarity": "R",
    "culture": "Gollum",
@@ -2669,7 +2741,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S024.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S024.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S024.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F024.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F024.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S024.0_portrait.jpg"
      }
     },
     {
@@ -2745,7 +2818,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S024.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S024.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S024.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F024.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F024.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S024.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -2758,6 +2832,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S025.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Shelob,_Eater_of_Light_(8R25)",
    "collInfo": "8R25",
    "rarity": "R",
    "culture": "Gollum",
@@ -2802,7 +2877,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S025.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S025.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S025.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F025.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F025.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S025.0_portrait.jpg"
      }
     }
    ],
@@ -2875,7 +2951,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S025.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S025.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S025.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F025.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F025.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S025.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -2887,6 +2964,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S026.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Shelob,_Last_Child_of_Ungoliant_(8C26)",
    "collInfo": "8C26",
    "rarity": "C",
    "culture": "Gollum",
@@ -2931,7 +3009,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S026.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S026.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S026.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F026.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F026.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S026.0_portrait.jpg"
      }
     }
    ],
@@ -2993,7 +3072,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S026.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S026.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S026.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F026.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F026.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S026.0_portrait.jpg"
    },
    "reprints": [
     "0_48"
@@ -3001,11 +3081,13 @@
    "alts": [
     {
      "wikiId": "LOTR-EN00S048.0",
+     "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Shelob,_Last_Child_of_Ungoliant_(0P48)",
      "gempId": "0_48",
      "subset": "S",
      "collInfo": "0P48",
      "images": {
-      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S048.0_card.jpg"
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S048.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S048.0_portrait.jpg"
      }
     }
    ]
@@ -3017,6 +3099,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S027.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Smeagol,_Slippery_Sneak_(8R27)",
    "collInfo": "8R27",
    "rarity": "R",
    "culture": "Gollum",
@@ -3059,7 +3142,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S027.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S027.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S027.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F027.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F027.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S027.0_portrait.jpg"
      }
     }
    ],
@@ -3119,7 +3203,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S027.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S027.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S027.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F027.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F027.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S027.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -3131,6 +3216,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S028.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Spider_Poison_(8C28)",
    "collInfo": "8C28",
    "rarity": "C",
    "culture": "Gollum",
@@ -3167,7 +3253,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S028.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S028.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S028.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F028.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F028.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S028.0_portrait.jpg"
      }
     }
    ],
@@ -3228,7 +3315,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S028.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S028.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S028.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F028.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F028.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S028.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -3240,6 +3328,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S029.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Still_Far_Ahead_(8U29)",
    "collInfo": "8U29",
    "rarity": "U",
    "culture": "Gollum",
@@ -3276,7 +3365,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S029.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S029.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S029.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F029.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F029.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S029.0_portrait.jpg"
      }
     }
    ],
@@ -3337,7 +3427,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S029.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S029.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S029.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F029.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F029.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S029.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -3349,6 +3440,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S030.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Web_(8C30)",
    "collInfo": "8C30",
    "rarity": "C",
    "culture": "Gollum",
@@ -3385,7 +3477,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S030.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S030.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S030.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F030.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F030.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S030.0_portrait.jpg"
      }
     }
    ],
@@ -3446,7 +3539,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S030.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S030.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S030.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F030.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F030.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S030.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -3458,6 +3552,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S031.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/At_His_Command_(8C31)",
    "collInfo": "8C31",
    "rarity": "C",
    "culture": "Gondor",
@@ -3494,7 +3589,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S031.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S031.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S031.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F031.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F031.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S031.0_portrait.jpg"
      }
     }
    ],
@@ -3555,7 +3651,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S031.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S031.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S031.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F031.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F031.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S031.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -3567,6 +3664,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S032.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Catapult_(8R32)",
    "collInfo": "8R32",
    "rarity": "R",
    "culture": "Gondor",
@@ -3601,7 +3699,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S032.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S032.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S032.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F032.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F032.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S032.0_portrait.jpg"
      }
     }
    ],
@@ -3661,7 +3760,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S032.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S032.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S032.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F032.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F032.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S032.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -3673,6 +3773,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S033.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Elessar%27s_Edict_(8R33)",
    "collInfo": "8R33",
    "rarity": "R",
    "culture": "Gondor",
@@ -3709,7 +3810,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S033.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S033.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S033.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F033.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F033.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S033.0_portrait.jpg"
      }
     },
     {
@@ -3780,7 +3882,8 @@
     }
    ],
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S033.1_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S033.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S033.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -3792,6 +3895,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S034.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Faramir,_Defender_of_Osgiliath_(8C34)",
    "collInfo": "8C34",
    "rarity": "C",
    "culture": "Gondor",
@@ -3838,7 +3942,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S034.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S034.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S034.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F034.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F034.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S034.0_portrait.jpg"
      }
     }
    ],
@@ -3899,7 +4004,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S034.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S034.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S034.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F034.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F034.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S034.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -3911,6 +4017,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S035.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Fourth_Level_(8C35)",
    "collInfo": "8C35",
    "rarity": "C",
    "culture": "Gondor",
@@ -3949,7 +4056,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S035.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S035.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S035.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F035.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F035.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S035.0_portrait.jpg"
      }
     }
    ],
@@ -4010,7 +4118,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S035.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S035.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S035.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F035.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F035.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S035.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -4022,6 +4131,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S036.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Garrison_of_Gondor_(8R36)",
    "collInfo": "8R36",
    "rarity": "R",
    "culture": "Gondor",
@@ -4066,7 +4176,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S036.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S036.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S036.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F036.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F036.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S036.0_portrait.jpg"
      }
     }
    ],
@@ -4127,7 +4238,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S036.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S036.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S036.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F036.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F036.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S036.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -4139,6 +4251,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S037.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Imrahil,_Prince_of_Dol_Amroth_(8R37)",
    "collInfo": "8R37",
    "rarity": "R",
    "culture": "Gondor",
@@ -4185,7 +4298,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S037.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S037.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S037.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F037.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F037.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S037.0_portrait.jpg"
      }
     }
    ],
@@ -4246,7 +4360,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S037.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S037.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S037.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F037.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F037.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S037.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -4258,6 +4373,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S038.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/King_of_the_Dead,_Oathbreaker_(8R38)",
    "collInfo": "8R38",
    "rarity": "R",
    "culture": "Gondor",
@@ -4304,7 +4420,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S038.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S038.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S038.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F038.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F038.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S038.0_portrait.jpg"
      }
     }
    ],
@@ -4377,7 +4494,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S038.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S038.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S038.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F038.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F038.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S038.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -4389,6 +4507,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S039.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Knight_of_Dol_Amroth_(8C39)",
    "collInfo": "8C39",
    "rarity": "C",
    "culture": "Gondor",
@@ -4433,7 +4552,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S039.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S039.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S039.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F039.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F039.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S039.0_portrait.jpg"
      }
     }
    ],
@@ -4494,7 +4614,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S039.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S039.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S039.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F039.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F039.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S039.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -4506,6 +4627,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S040.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Knight%27s_Mount_(8C40)",
    "collInfo": "8C40",
    "rarity": "C",
    "culture": "Gondor",
@@ -4544,7 +4666,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S040.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S040.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S040.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F040.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F040.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S040.0_portrait.jpg"
      }
     }
    ],
@@ -4605,7 +4728,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S040.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S040.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S040.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F040.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F040.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S040.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -4617,6 +4741,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S041.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Oathbreaker_(8C41)",
    "collInfo": "8C41",
    "rarity": "C",
    "culture": "Gondor",
@@ -4661,7 +4786,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S041.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S041.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S041.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F041.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F041.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S041.0_portrait.jpg"
      }
     }
    ],
@@ -4722,7 +4848,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S041.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S041.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S041.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F041.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F041.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S041.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -4734,6 +4861,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S042.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/A_Path_Appointed_(8U42)",
    "collInfo": "8U42",
    "rarity": "U",
    "culture": "Gondor",
@@ -4770,7 +4898,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S042.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S042.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S042.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F042.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F042.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S042.0_portrait.jpg"
      }
     }
    ],
@@ -4831,7 +4960,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S042.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S042.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S042.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F042.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F042.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S042.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -4843,6 +4973,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S043.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Shadow_Host_(8R43)",
    "collInfo": "8R43",
    "rarity": "R",
    "culture": "Gondor",
@@ -4887,7 +5018,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S043.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S043.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S043.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F043.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F043.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S043.0_portrait.jpg"
      }
     },
     {
@@ -4963,7 +5095,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S043.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S043.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S043.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F043.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F043.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S043.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -4976,6 +5109,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S044.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Sixth_Level_(8U44)",
    "collInfo": "8U44",
    "rarity": "U",
    "culture": "Gondor",
@@ -5012,7 +5146,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S044.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S044.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S044.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F044.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F044.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S044.0_portrait.jpg"
      }
     }
    ],
@@ -5073,7 +5208,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S044.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S044.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S044.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F044.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F044.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S044.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -5085,6 +5221,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S045.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Sleepless_Dead_(8U45)",
    "collInfo": "8U45",
    "rarity": "U",
    "culture": "Gondor",
@@ -5129,7 +5266,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S045.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S045.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S045.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F045.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F045.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S045.0_portrait.jpg"
      }
     }
    ],
@@ -5190,7 +5328,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S045.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S045.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S045.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F045.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F045.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S045.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -5202,6 +5341,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S046.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Spectral_Sword_(8U46)",
    "collInfo": "8U46",
    "rarity": "U",
    "culture": "Gondor",
@@ -5240,7 +5380,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S046.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S046.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S046.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F046.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F046.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S046.0_portrait.jpg"
      }
     }
    ],
@@ -5301,7 +5442,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S046.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S046.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S046.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F046.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F046.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S046.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -5313,6 +5455,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S047.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Stronger_and_More_Terrible_(8C47)",
    "collInfo": "8C47",
    "rarity": "C",
    "culture": "Gondor",
@@ -5349,7 +5492,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S047.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S047.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S047.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F047.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F047.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S047.0_portrait.jpg"
      }
     }
    ],
@@ -5410,7 +5554,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S047.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S047.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S047.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F047.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F047.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S047.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -5422,6 +5567,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S048.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Swept_Away_(8C48)",
    "collInfo": "8C48",
    "rarity": "C",
    "culture": "Gondor",
@@ -5458,7 +5604,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S048.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S048.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S048.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F048.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F048.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S048.0_portrait.jpg"
      }
     },
     {
@@ -5534,7 +5681,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S048.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S048.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S048.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F048.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F048.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S048.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -5547,6 +5695,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S049.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Black_Numenorean_(8R49)",
    "collInfo": "8R49",
    "rarity": "R",
    "culture": "Raider",
@@ -5589,7 +5738,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S049.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S049.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S049.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F049.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F049.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S049.0_portrait.jpg"
      }
     }
    ],
@@ -5650,7 +5800,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S049.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S049.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S049.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F049.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F049.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S049.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -5662,6 +5813,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S050.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Black_Sails_of_Umbar_(8C50)",
    "collInfo": "8C50",
    "rarity": "C",
    "culture": "Raider",
@@ -5696,7 +5848,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S050.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S050.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S050.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F050.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F050.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S050.0_portrait.jpg"
      }
     }
    ],
@@ -5756,7 +5909,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S050.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S050.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S050.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F050.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F050.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S050.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -5768,6 +5922,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S051.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Castamir_of_Umbar_(8R51)",
    "collInfo": "8R51",
    "rarity": "R",
    "culture": "Raider",
@@ -5810,7 +5965,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S051.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S051.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S051.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F051.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F051.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S051.0_portrait.jpg"
      }
     },
     {
@@ -5922,7 +6078,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S051.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S051.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S051.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F051.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F051.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S051.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -5935,6 +6092,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S052.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Corsair_Ballista_(8C52)",
    "collInfo": "8C52",
    "rarity": "C",
    "culture": "Raider",
@@ -5973,7 +6131,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S052.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S052.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S052.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F052.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F052.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S052.0_portrait.jpg"
      }
     }
    ],
@@ -6034,7 +6193,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S052.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S052.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S052.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F052.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F052.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S052.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -6046,6 +6206,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S053.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Corsair_Buccaneer_(8C53)",
    "collInfo": "8C53",
    "rarity": "C",
    "culture": "Raider",
@@ -6088,7 +6249,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S053.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S053.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S053.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F053.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F053.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S053.0_portrait.jpg"
      }
     }
    ],
@@ -6149,7 +6311,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S053.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S053.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S053.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F053.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F053.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S053.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -6161,6 +6324,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S054.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Corsair_Freebooter_(8C54)",
    "collInfo": "8C54",
    "rarity": "C",
    "culture": "Raider",
@@ -6203,7 +6367,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S054.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S054.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S054.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F054.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F054.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S054.0_portrait.jpg"
      }
     }
    ],
@@ -6264,7 +6429,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S054.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S054.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S054.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F054.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F054.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S054.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -6276,6 +6442,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S055.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Corsair_Gunners_(8C55)",
    "collInfo": "8C55",
    "rarity": "C",
    "culture": "Raider",
@@ -6318,7 +6485,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S055.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S055.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S055.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F055.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F055.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S055.0_portrait.jpg"
      }
     }
    ],
@@ -6379,7 +6547,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S055.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S055.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S055.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F055.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F055.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S055.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -6391,6 +6560,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S056.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Corsair_Lookout_(8U56)",
    "collInfo": "8U56",
    "rarity": "U",
    "culture": "Raider",
@@ -6433,7 +6603,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S056.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S056.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S056.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F056.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F056.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S056.0_portrait.jpg"
      }
     }
    ],
@@ -6494,7 +6665,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S056.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S056.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S056.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F056.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F056.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S056.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -6506,6 +6678,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S057.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Corsair_Marauder_(8R57)",
    "collInfo": "8R57",
    "rarity": "R",
    "culture": "Raider",
@@ -6548,7 +6721,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S057.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S057.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S057.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F057.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F057.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S057.0_portrait.jpg"
      }
     },
     {
@@ -6650,7 +6824,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S057.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S057.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S057.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F057.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F057.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S057.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -6663,6 +6838,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S058.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Corsair_Plunderer_(8C58)",
    "collInfo": "8C58",
    "rarity": "C",
    "culture": "Raider",
@@ -6705,7 +6881,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S058.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S058.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S058.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F058.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F058.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S058.0_portrait.jpg"
      }
     }
    ],
@@ -6766,7 +6943,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S058.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S058.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S058.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F058.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F058.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S058.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -6778,6 +6956,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S059.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Corsair_War_Galley_(8U59)",
    "collInfo": "8U59",
    "rarity": "U",
    "culture": "Raider",
@@ -6812,7 +6991,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S059.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S059.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S059.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F059.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F059.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S059.0_portrait.jpg"
      }
     },
     {
@@ -6903,7 +7083,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S059.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S059.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S059.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F059.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F059.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S059.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -6916,6 +7097,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S060.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Haradrim_Marksman_(8U60)",
    "collInfo": "8U60",
    "rarity": "U",
    "culture": "Raider",
@@ -6958,7 +7140,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S060.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S060.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S060.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F060.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F060.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S060.0_portrait.jpg"
      }
     }
    ],
@@ -7019,7 +7202,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S060.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S060.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S060.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F060.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F060.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S060.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -7031,6 +7215,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S061.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Haradwaith_(8C61)",
    "collInfo": "8C61",
    "rarity": "C",
    "culture": "Raider",
@@ -7065,7 +7250,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S061.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S061.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S061.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F061.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F061.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S061.0_portrait.jpg"
      }
     }
    ],
@@ -7123,7 +7309,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S061.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S061.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S061.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F061.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F061.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S061.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -7135,6 +7322,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S062.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Heavy_Axeman_(8R62)",
    "collInfo": "8R62",
    "rarity": "R",
    "culture": "Raider",
@@ -7177,7 +7365,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S062.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S062.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S062.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F062.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F062.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S062.0_portrait.jpg"
      }
     }
    ],
@@ -7238,7 +7427,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S062.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S062.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S062.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F062.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F062.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S062.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -7250,6 +7440,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S063.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Line_of_Defense_(8C63)",
    "collInfo": "8C63",
    "rarity": "C",
    "culture": "Raider",
@@ -7286,7 +7477,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S063.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S063.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S063.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F063.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F063.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S063.0_portrait.jpg"
      }
     }
    ],
@@ -7347,7 +7539,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S063.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S063.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S063.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F063.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F063.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S063.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -7359,6 +7552,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S064.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Mumakil_(8U64)",
    "collInfo": "8U64",
    "rarity": "U",
    "culture": "Raider",
@@ -7397,7 +7591,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S064.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S064.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S064.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F064.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F064.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S064.0_portrait.jpg"
      }
     }
    ],
@@ -7457,7 +7652,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S064.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S064.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S064.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F064.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F064.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S064.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -7469,6 +7665,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S065.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Ships_of_Great_Draught_(8R65)",
    "collInfo": "8R65",
    "rarity": "R",
    "culture": "Raider",
@@ -7503,7 +7700,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S065.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S065.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S065.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F065.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F065.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S065.0_portrait.jpg"
      }
     }
    ],
@@ -7563,7 +7761,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S065.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S065.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S065.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F065.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F065.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S065.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -7575,6 +7774,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S066.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Wind_That_Sped_Ships_(8C66)",
    "collInfo": "8C66",
    "rarity": "C",
    "culture": "Raider",
@@ -7611,7 +7811,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S066.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S066.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S066.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F066.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F066.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S066.0_portrait.jpg"
      }
     }
    ],
@@ -7672,7 +7873,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S066.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S066.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S066.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F066.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F066.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S066.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -7684,6 +7886,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S067.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Between_Nazgul_and_Prey_(8R67)",
    "collInfo": "8R67",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -7720,7 +7923,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S067.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S067.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S067.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F067.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F067.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S067.0_portrait.jpg"
      }
     }
    ],
@@ -7781,7 +7985,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S067.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S067.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S067.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F067.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F067.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S067.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -7793,6 +7998,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S068.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Beyond_All_Darkness_(8R68)",
    "collInfo": "8R68",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -7829,7 +8035,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S068.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S068.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S068.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F068.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F068.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S068.0_portrait.jpg"
      }
     }
    ],
@@ -7890,7 +8097,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S068.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S068.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S068.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F068.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F068.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S068.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -7902,6 +8110,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S069.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Black_Dart_(8U69)",
    "collInfo": "8U69",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -7936,7 +8145,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S069.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S069.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S069.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F069.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F069.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S069.0_portrait.jpg"
      }
     },
     {
@@ -8006,7 +8216,8 @@
     }
    ],
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S069.1_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S069.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S069.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -8018,6 +8229,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S070.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Black_Flail_(8R70)",
    "collInfo": "8R70",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -8054,7 +8266,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S070.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S070.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S070.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F070.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F070.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S070.0_portrait.jpg"
      }
     }
    ],
@@ -8114,7 +8327,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S070.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S070.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S070.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F070.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F070.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S070.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -8126,6 +8340,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S071.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Flung_Into_the_Fray_(8U71)",
    "collInfo": "8U71",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -8162,7 +8377,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S071.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S071.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S071.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F071.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F071.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S071.0_portrait.jpg"
      }
     }
    ],
@@ -8222,7 +8438,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S071.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S071.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S071.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F071.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F071.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S071.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -8234,6 +8451,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S072.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gothmog,_Morgul_Commander_(8R72)",
    "collInfo": "8R72",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -8276,7 +8494,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S072.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S072.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S072.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F072.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F072.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S072.0_portrait.jpg"
      }
     }
    ],
@@ -8336,7 +8555,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S072.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S072.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S072.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F072.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F072.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S072.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -8348,6 +8568,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S073.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Mastered_By_Madness_(8U73)",
    "collInfo": "8U73",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -8384,7 +8605,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S073.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S073.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S073.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F073.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F073.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S073.0_portrait.jpg"
      }
     }
    ],
@@ -8445,7 +8667,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S073.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S073.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S073.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F073.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F073.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S073.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -8457,6 +8680,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S074.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Morgul_Ambusher_(8C74)",
    "collInfo": "8C74",
    "rarity": "C",
    "culture": "Ringwraith",
@@ -8499,7 +8723,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S074.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S074.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S074.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F074.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F074.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S074.0_portrait.jpg"
      }
     }
    ],
@@ -8560,7 +8785,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S074.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S074.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S074.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F074.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F074.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S074.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -8572,6 +8798,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S075.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Morgul_Creeper_(8C75)",
    "collInfo": "8C75",
    "rarity": "C",
    "culture": "Ringwraith",
@@ -8612,7 +8839,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S075.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S075.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S075.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F075.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F075.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S075.0_portrait.jpg"
      }
     }
    ],
@@ -8672,7 +8900,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S075.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S075.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S075.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F075.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F075.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S075.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -8684,6 +8913,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S076.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Morgul_Lurker_(8C76)",
    "collInfo": "8C76",
    "rarity": "C",
    "culture": "Ringwraith",
@@ -8726,7 +8956,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S076.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S076.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S076.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F076.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F076.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S076.0_portrait.jpg"
      }
     }
    ],
@@ -8787,7 +9018,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S076.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S076.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S076.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F076.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F076.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S076.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -8799,6 +9031,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S077.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Morgul_Squealer_(8R77)",
    "collInfo": "8R77",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -8841,7 +9074,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S077.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S077.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S077.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F077.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F077.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S077.0_portrait.jpg"
      }
     }
    ],
@@ -8901,7 +9135,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S077.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S077.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S077.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F077.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F077.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S077.0_portrait.jpg"
    },
    "reprints": [
     "8_125"
@@ -8915,6 +9150,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S078.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Streaming_to_the_Field_(8U78)",
    "collInfo": "8U78",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -8949,7 +9185,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S078.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S078.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S078.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F078.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F078.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S078.0_portrait.jpg"
      }
     }
    ],
@@ -9009,7 +9246,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S078.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S078.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S078.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F078.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F078.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S078.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -9021,6 +9259,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S079.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Ulaire_Attea,_Thrall_of_the_One_(8U79)",
    "collInfo": "8U79",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -9063,7 +9302,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S079.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S079.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S079.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F079.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F079.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S079.0_portrait.jpg"
      }
     }
    ],
@@ -9123,7 +9363,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S079.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S079.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S079.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F079.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F079.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S079.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -9135,6 +9376,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S080.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Ulaire_Nertea,_Thrall_of_the_One_(8U80)",
    "collInfo": "8U80",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -9179,7 +9421,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S080.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S080.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S080.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F080.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F080.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S080.0_portrait.jpg"
      }
     }
    ],
@@ -9240,7 +9483,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S080.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S080.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S080.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F080.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F080.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S080.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -9252,6 +9496,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S081.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Ulaire_Otsea,_Thrall_of_the_One_(8R81)",
    "collInfo": "8R81",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -9296,7 +9541,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S081.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S081.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S081.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F081.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F081.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S081.0_portrait.jpg"
      }
     }
    ],
@@ -9357,7 +9603,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S081.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S081.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S081.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F081.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F081.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S081.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -9369,6 +9616,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S082.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Unhindered_(8U82)",
    "collInfo": "8U82",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -9403,7 +9651,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S082.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S082.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S082.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F082.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F082.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S082.0_portrait.jpg"
      }
     }
    ],
@@ -9463,7 +9712,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S082.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S082.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S082.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F082.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F082.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S082.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -9475,6 +9725,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S083.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Winged_Mount_(8U83)",
    "collInfo": "8U83",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -9513,7 +9764,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S083.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S083.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S083.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F083.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F083.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S083.0_portrait.jpg"
      }
     }
    ],
@@ -9574,7 +9826,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S083.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S083.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S083.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F083.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F083.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S083.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -9586,6 +9839,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S084.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/The_Witch-king,_Black_Captain_(8R84)",
    "collInfo": "8R84",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -9630,7 +9884,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S084.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S084.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S084.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F084.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F084.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S084.0_portrait.jpg"
      }
     }
    ],
@@ -9692,7 +9947,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S084.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S084.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S084.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F084.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F084.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S084.0_portrait.jpg"
    },
    "reprints": [
     "0_61"
@@ -9700,11 +9956,13 @@
    "alts": [
     {
      "wikiId": "LOTR-EN00S061.0",
+     "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/The_Witch-king,_Black_Captain_(0P61)",
      "gempId": "0_61",
      "subset": "S",
      "collInfo": "0P61",
      "images": {
-      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S061.0_card.jpg"
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S061.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S061.0_portrait.jpg"
      }
     }
    ]
@@ -9716,6 +9974,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S085.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Charged_Headlong_(8U85)",
    "collInfo": "8U85",
    "rarity": "U",
    "culture": "Rohan",
@@ -9752,7 +10011,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S085.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S085.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S085.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F085.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F085.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S085.0_portrait.jpg"
      }
     }
    ],
@@ -9813,7 +10073,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S085.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S085.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S085.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F085.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F085.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S085.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -9825,6 +10086,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S086.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Doom_Drove_Them_(8U86)",
    "collInfo": "8U86",
    "rarity": "U",
    "culture": "Rohan",
@@ -9861,7 +10123,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S086.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S086.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S086.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F086.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F086.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S086.0_portrait.jpg"
      }
     }
    ],
@@ -9921,7 +10184,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S086.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S086.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S086.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F086.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F086.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S086.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -9933,6 +10197,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S087.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Eomer,_Keeper_of_Oaths_(8C87)",
    "collInfo": "8C87",
    "rarity": "C",
    "culture": "Rohan",
@@ -9979,7 +10244,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S087.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S087.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S087.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F087.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F087.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S087.0_portrait.jpg"
      }
     }
    ],
@@ -10040,7 +10306,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S087.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S087.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S087.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F087.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F087.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S087.0_portrait.jpg"
    },
    "reprints": [
     "0_49"
@@ -10048,11 +10315,13 @@
    "alts": [
     {
      "wikiId": "LOTR-EN00S049.0",
+     "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Eomer,_Keeper_of_Oaths_(0P49)",
      "gempId": "0_49",
      "subset": "S",
      "collInfo": "0P49",
      "images": {
-      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S049.0_card.jpg"
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S049.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S049.0_portrait.jpg"
      }
     }
    ]
@@ -10064,6 +10333,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S088.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Eowyn%27s_Shield_(8R88)",
    "collInfo": "8R88",
    "rarity": "R",
    "culture": "Rohan",
@@ -10100,7 +10370,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S088.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S088.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S088.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F088.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F088.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S088.0_portrait.jpg"
      }
     }
    ],
@@ -10161,7 +10432,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S088.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S088.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S088.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F088.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F088.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S088.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -10173,6 +10445,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S089.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Fury_of_the_Northmen_(8C89)",
    "collInfo": "8C89",
    "rarity": "C",
    "culture": "Rohan",
@@ -10209,7 +10482,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S089.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S089.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S089.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F089.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F089.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S089.0_portrait.jpg"
      }
     }
    ],
@@ -10270,7 +10544,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S089.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S089.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S089.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F089.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F089.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S089.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -10282,6 +10557,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S090.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/No_Living_Man_(8C90)",
    "collInfo": "8C90",
    "rarity": "C",
    "culture": "Rohan",
@@ -10318,7 +10594,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S090.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S090.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S090.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F090.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F090.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S090.0_portrait.jpg"
      }
     }
    ],
@@ -10379,7 +10656,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S090.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S090.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S090.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F090.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F090.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S090.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -10391,6 +10669,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S091.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Rohirrim_Army_(8R91)",
    "collInfo": "8R91",
    "rarity": "R",
    "culture": "Rohan",
@@ -10435,7 +10714,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S091.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S091.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S091.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F091.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F091.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S091.0_portrait.jpg"
      }
     },
     {
@@ -10511,7 +10791,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S091.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S091.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S091.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F091.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F091.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S091.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -10524,6 +10805,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S092.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Theoden,_Tall_and_Proud_(8R92)",
    "collInfo": "8R92",
    "rarity": "R",
    "culture": "Rohan",
@@ -10570,7 +10852,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S092.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S092.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S092.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F092.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F092.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S092.0_portrait.jpg"
      }
     }
    ],
@@ -10631,7 +10914,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S092.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S092.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S092.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F092.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F092.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S092.0_portrait.jpg"
    },
    "reprints": [
     "8_127"
@@ -10645,6 +10929,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S093.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Called_Away_(8R93)",
    "collInfo": "8R93",
    "rarity": "R",
    "culture": "Sauron",
@@ -10681,7 +10966,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S093.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S093.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S093.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F093.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F093.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S093.0_portrait.jpg"
      }
     }
    ],
@@ -10742,7 +11028,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S093.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S093.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S093.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F093.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F093.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S093.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -10754,6 +11041,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S094.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gorgoroth_Agitator_(8U94)",
    "collInfo": "8U94",
    "rarity": "U",
    "culture": "Sauron",
@@ -10794,7 +11082,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S094.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S094.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S094.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F094.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F094.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S094.0_portrait.jpg"
      }
     }
    ],
@@ -10854,7 +11143,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S094.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S094.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S094.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F094.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F094.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S094.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -10866,6 +11156,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S095.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gorgoroth_Assassin_(8R95)",
    "collInfo": "8R95",
    "rarity": "R",
    "culture": "Sauron",
@@ -10908,7 +11199,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S095.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S095.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S095.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F095.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F095.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S095.0_portrait.jpg"
      }
     }
    ],
@@ -10969,7 +11261,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S095.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S095.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S095.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F095.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F095.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S095.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -10981,6 +11274,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S096.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gorgoroth_Berserker_(8R96)",
    "collInfo": "8R96",
    "rarity": "R",
    "culture": "Sauron",
@@ -11023,7 +11317,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S096.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S096.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S096.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F096.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F096.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S096.0_portrait.jpg"
      }
     }
    ],
@@ -11081,7 +11376,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S096.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S096.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S096.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F096.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F096.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S096.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -11093,6 +11389,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S097.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gorgoroth_Breaker_(8U97)",
    "collInfo": "8U97",
    "rarity": "U",
    "culture": "Sauron",
@@ -11135,7 +11432,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S097.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S097.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S097.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F097.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F097.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S097.0_portrait.jpg"
      }
     }
    ],
@@ -11196,7 +11494,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S097.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S097.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S097.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F097.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F097.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S097.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -11208,6 +11507,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S098.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gorgoroth_Looter_(8U98)",
    "collInfo": "8U98",
    "rarity": "U",
    "culture": "Sauron",
@@ -11250,7 +11550,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S098.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S098.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S098.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F098.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F098.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S098.0_portrait.jpg"
      }
     }
    ],
@@ -11311,7 +11612,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S098.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S098.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S098.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F098.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F098.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S098.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -11323,6 +11625,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S099.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gorgoroth_Patrol_(8U99)",
    "collInfo": "8U99",
    "rarity": "U",
    "culture": "Sauron",
@@ -11365,7 +11668,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S099.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S099.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S099.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F099.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F099.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S099.0_portrait.jpg"
      }
     }
    ],
@@ -11426,7 +11730,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S099.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S099.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S099.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F099.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F099.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S099.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -11438,6 +11743,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S100.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gorgoroth_Servitor_(8U100)",
    "collInfo": "8U100",
    "rarity": "U",
    "culture": "Sauron",
@@ -11478,7 +11784,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S100.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S100.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S100.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F100.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F100.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S100.0_portrait.jpg"
      }
     }
    ],
@@ -11538,7 +11845,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S100.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S100.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S100.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F100.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F100.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S100.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -11550,6 +11858,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S101.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gorgoroth_Stormer_(8C101)",
    "collInfo": "8C101",
    "rarity": "C",
    "culture": "Sauron",
@@ -11592,7 +11901,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S101.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S101.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S101.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F101.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F101.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S101.0_portrait.jpg"
      }
     }
    ],
@@ -11653,7 +11963,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S101.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S101.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S101.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F101.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F101.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S101.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -11665,6 +11976,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S102.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Great_Hill_Troll_(8C102)",
    "collInfo": "8C102",
    "rarity": "C",
    "culture": "Sauron",
@@ -11707,7 +12019,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S102.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S102.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S102.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F102.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F102.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S102.0_portrait.jpg"
      }
     },
     {
@@ -11783,7 +12096,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S102.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S102.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S102.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F102.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F102.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S102.0_portrait.jpg"
    },
    "reprints": [
     "8_123"
@@ -11798,6 +12112,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S103.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Grond,_Hammer_of_the_Underworld_(8R103)",
    "collInfo": "8R103",
    "rarity": "R",
    "culture": "Sauron",
@@ -11836,7 +12151,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S103.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S103.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S103.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F103.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F103.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S103.0_portrait.jpg"
      }
     },
     {
@@ -11922,7 +12238,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S103.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S103.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S103.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F103.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F103.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S103.0_portrait.jpg"
    },
    "reprints": [],
    "alts": [],
@@ -11935,6 +12252,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S104.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Morgai_(8C104)",
    "collInfo": "8C104",
    "rarity": "C",
    "culture": "Sauron",
@@ -11971,7 +12289,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S104.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S104.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S104.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F104.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F104.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S104.0_portrait.jpg"
      }
     }
    ],
@@ -12029,7 +12348,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S104.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S104.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S104.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F104.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F104.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S104.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -12041,6 +12361,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S105.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Olog-hai_of_Mordor_(8R105)",
    "collInfo": "8R105",
    "rarity": "R",
    "culture": "Sauron",
@@ -12081,7 +12402,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S105.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S105.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S105.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F105.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F105.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S105.0_portrait.jpg"
      }
     }
    ],
@@ -12141,7 +12463,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S105.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S105.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S105.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F105.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F105.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S105.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -12153,6 +12476,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S106.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Siege_Troop_(8C106)",
    "collInfo": "8C106",
    "rarity": "C",
    "culture": "Sauron",
@@ -12193,7 +12517,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S106.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S106.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S106.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F106.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F106.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S106.0_portrait.jpg"
      }
     }
    ],
@@ -12253,7 +12578,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S106.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S106.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S106.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F106.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F106.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S106.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -12265,6 +12591,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S107.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Their_Marching_Companies_(8U107)",
    "collInfo": "8U107",
    "rarity": "U",
    "culture": "Sauron",
@@ -12301,7 +12628,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S107.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S107.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S107.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F107.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F107.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S107.0_portrait.jpg"
      }
     }
    ],
@@ -12361,7 +12689,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S107.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S107.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S107.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F107.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F107.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S107.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -12373,6 +12702,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S108.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Troll_of_Gorgoroth,_Abomination_of_Sauron_(8R108)",
    "collInfo": "8R108",
    "rarity": "R",
    "culture": "Sauron",
@@ -12417,7 +12747,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S108.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S108.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S108.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F108.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F108.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S108.0_portrait.jpg"
      }
     }
    ],
@@ -12478,7 +12809,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S108.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S108.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S108.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F108.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F108.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S108.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -12490,6 +12822,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S109.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Closer_and_Closer_He_Bent_(8C109)",
    "collInfo": "8C109",
    "rarity": "C",
    "culture": "Shire",
@@ -12526,7 +12859,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S109.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S109.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S109.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F109.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F109.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S109.0_portrait.jpg"
      }
     }
    ],
@@ -12587,7 +12921,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S109.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S109.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S109.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F109.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F109.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S109.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -12599,6 +12934,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S110.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Morgai_Foothills_(8U110)",
    "collInfo": "8U110",
    "rarity": "U",
    "culture": "Shire",
@@ -12635,7 +12971,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S110.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S110.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S110.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F110.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F110.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S110.0_portrait.jpg"
      }
     }
    ],
@@ -12695,7 +13032,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S110.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S110.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S110.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F110.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F110.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S110.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -12707,6 +13045,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S111.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/So_Fair,_So_Desperate_(8C111)",
    "collInfo": "8C111",
    "rarity": "C",
    "culture": "Shire",
@@ -12743,7 +13082,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S111.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S111.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S111.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F111.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F111.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S111.0_portrait.jpg"
      }
     }
    ],
@@ -12804,7 +13144,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S111.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S111.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S111.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F111.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F111.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S111.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -12816,6 +13157,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S112.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Song_of_the_Shire_(8U112)",
    "collInfo": "8U112",
    "rarity": "U",
    "culture": "Shire",
@@ -12852,7 +13194,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S112.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S112.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S112.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F112.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F112.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S112.0_portrait.jpg"
      }
     }
    ],
@@ -12912,7 +13255,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S112.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S112.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S112.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F112.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F112.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S112.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -12924,6 +13268,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S113.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Sting,_Bane_of_the_Eight_Legs_(8R113)",
    "collInfo": "8R113",
    "rarity": "R",
    "culture": "Shire",
@@ -12962,7 +13307,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S113.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S113.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S113.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F113.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F113.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S113.0_portrait.jpg"
      }
     }
    ],
@@ -13023,7 +13369,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S113.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S113.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S113.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F113.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F113.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S113.0_portrait.jpg"
    },
    "reprints": [
     "8_126"
@@ -13037,6 +13384,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S114.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Straining_Towards_Us_(8C114)",
    "collInfo": "8C114",
    "rarity": "C",
    "culture": "Shire",
@@ -13073,7 +13421,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S114.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S114.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S114.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F114.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F114.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S114.0_portrait.jpg"
      }
     }
    ],
@@ -13134,7 +13483,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S114.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S114.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S114.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F114.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F114.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S114.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -13146,6 +13496,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S115.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Unheeded_(8R115)",
    "collInfo": "8R115",
    "rarity": "R",
    "culture": "Shire",
@@ -13182,7 +13533,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S115.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S115.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S115.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F115.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F115.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S115.0_portrait.jpg"
      }
     }
    ],
@@ -13243,7 +13595,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S115.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S115.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S115.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F115.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F115.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S115.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -13255,6 +13608,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S116.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/We_Shall_Meet_Again_Soon_(8C116)",
    "collInfo": "8C116",
    "rarity": "C",
    "culture": "Shire",
@@ -13291,7 +13645,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S116.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S116.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S116.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F116.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F116.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S116.0_portrait.jpg"
      }
     }
    ],
@@ -13352,7 +13707,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S116.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S116.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S116.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F116.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F116.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S116.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -13364,6 +13720,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S117.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/The_Dimholt_(8U117)",
    "collInfo": "8U117",
    "rarity": "U",
    "culture": null,
@@ -13408,7 +13765,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S117.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S117.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S117.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F117.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F117.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S117.0_portrait.jpg"
      }
     }
    ],
@@ -13468,7 +13826,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S117.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S117.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S117.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F117.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F117.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S117.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -13480,6 +13839,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S118.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/City_of_the_Dead_(8U118)",
    "collInfo": "8U118",
    "rarity": "U",
    "culture": null,
@@ -13524,7 +13884,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S118.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S118.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S118.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F118.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F118.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S118.0_portrait.jpg"
      }
     }
    ],
@@ -13584,7 +13945,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S118.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S118.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S118.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F118.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F118.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S118.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -13596,6 +13958,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S119.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Crashed_Gate_(8U119)",
    "collInfo": "8U119",
    "rarity": "U",
    "culture": null,
@@ -13640,7 +14003,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S119.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S119.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S119.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F119.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F119.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S119.0_portrait.jpg"
      }
     }
    ],
@@ -13700,7 +14064,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S119.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S119.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S119.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F119.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F119.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S119.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -13712,6 +14077,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S120.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Osgiliath_Channel_(8U120)",
    "collInfo": "8U120",
    "rarity": "U",
    "culture": null,
@@ -13756,7 +14122,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S120.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S120.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S120.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F120.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F120.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S120.0_portrait.jpg"
      }
     }
    ],
@@ -13816,7 +14183,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S120.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S120.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S120.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F120.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F120.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S120.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -13828,6 +14196,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S121.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Merry,_Noble_Warrior_(8P121)",
    "collInfo": "8P121",
    "rarity": "P",
    "culture": "Shire",
@@ -13872,7 +14241,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S121.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S121.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S121.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F121.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F121.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S121.0_portrait.jpg"
      }
     }
    ],
@@ -13932,7 +14302,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S121.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S121.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S121.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F121.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F121.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S121.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -13944,6 +14315,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN08S122.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Pippin,_Guard_of_Minas_Tirith_(8P122)",
    "collInfo": "8P122",
    "rarity": "P",
    "culture": "Shire",
@@ -13990,7 +14362,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S122.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S122.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S122.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F122.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F122.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S122.0_portrait.jpg"
      }
     }
    ],
@@ -14051,7 +14424,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S122.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/08/LOTR-EN08S122.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/08/LOTR-EN08S122.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F122.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08F122.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/08/LOTR-EN08S122.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []

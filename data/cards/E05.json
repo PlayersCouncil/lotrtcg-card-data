@@ -9,6 +9,7 @@
    "errataOf": "5_7",
    "source": "wiki",
    "wikiId": "LOTR-EN05S007.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gimli,_Skilled_Defender_(5R7)",
    "collInfo": "5R7",
    "rarity": "R",
    "culture": "Dwarven",
@@ -32,7 +33,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S007.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S007.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S007.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S007.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S007.0_portrait.jpg"
    }
   },
   {
@@ -43,6 +45,7 @@
    "errataOf": "5_10",
    "source": "wiki",
    "wikiId": "LOTR-EN05S010.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Balglin,_Elven_Warrior_(5U10)",
    "collInfo": "5U10",
    "rarity": "U",
    "culture": "Elven",
@@ -66,7 +69,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S010.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S010.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S010.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S010.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S010.0_portrait.jpg"
    }
   },
   {
@@ -77,6 +81,7 @@
    "errataOf": "5_13",
    "source": "wiki",
    "wikiId": "LOTR-EN05S013.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Taurnil,_Sharp-eyed_Bowman_(5U13)",
    "collInfo": "5U13",
    "rarity": "U",
    "culture": "Elven",
@@ -100,7 +105,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S013.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S013.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S013.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S013.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S013.0_portrait.jpg"
    }
   },
   {
@@ -111,6 +117,7 @@
    "errataOf": "5_50",
    "source": "wiki",
    "wikiId": "LOTR-EN05S050.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Foul_Horde_(5R50)",
    "collInfo": "5R50",
    "rarity": "R",
    "culture": "Isengard",
@@ -134,7 +141,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S050.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S050.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S050.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S050.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S050.0_portrait.jpg"
    }
   },
   {
@@ -145,6 +153,7 @@
    "errataOf": "5_51",
    "source": "wiki",
    "wikiId": "LOTR-EN05S051.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Grima,_Chief_Counselor_(5R51)",
    "collInfo": "5R51",
    "rarity": "R",
    "culture": "Isengard",
@@ -170,7 +179,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S051.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S051.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S051.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S051.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S051.0_portrait.jpg"
    }
   },
   {
@@ -181,6 +191,7 @@
    "errataOf": "5_57",
    "source": "wiki",
    "wikiId": "LOTR-EN05S057.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Scaling_Ladder_(5U57)",
    "collInfo": "5U57",
    "rarity": "U",
    "culture": "Isengard",
@@ -199,7 +210,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S057.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S057.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S057.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S057.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S057.0_portrait.jpg"
    }
   },
   {
@@ -210,6 +222,7 @@
    "errataOf": "5_85",
    "source": "wiki",
    "wikiId": "LOTR-EN05S085.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Let_Us_Be_Swift_(5C85)",
    "collInfo": "5C85",
    "rarity": "C",
    "culture": "Rohan",
@@ -228,7 +241,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S085.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S085.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S085.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S085.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S085.0_portrait.jpg"
    }
   },
   {
@@ -239,6 +253,7 @@
    "errataOf": "5_86",
    "source": "wiki",
    "wikiId": "LOTR-EN05S086.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/No_Rest_for_the_Weary_(5R86)",
    "collInfo": "5R86",
    "rarity": "R",
    "culture": "Rohan",
@@ -257,7 +272,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S086.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S086.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S086.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S086.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S086.0_portrait.jpg"
    }
   },
   {
@@ -268,6 +284,7 @@
    "errataOf": "5_92",
    "source": "wiki",
    "wikiId": "LOTR-EN05S092.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Sigewulf,_Brave_Volunteer_(5U92)",
    "collInfo": "5U92",
    "rarity": "U",
    "culture": "Rohan",
@@ -293,7 +310,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S092.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S092.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S092.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S092.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S092.0_portrait.jpg"
    }
   },
   {
@@ -304,6 +322,7 @@
    "errataOf": "5_121",
    "source": "wiki",
    "wikiId": "LOTR-EN05S121.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Legolas,_Archer_of_Mirkwood_(5P121)",
    "collInfo": "5P121",
    "rarity": "P",
    "culture": "Elven",
@@ -327,7 +346,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S121.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/05/LOTR-EN05S121.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S121.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/05/LOTR-EN05S121.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/05/LOTR-EN05S121.0_portrait.jpg"
    }
   }
  ]

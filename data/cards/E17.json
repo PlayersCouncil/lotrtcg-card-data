@@ -9,6 +9,7 @@
    "errataOf": "17_7",
    "source": "wiki",
    "wikiId": "LOTR-EN17S007.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Elven_Guardian_(17S7)",
    "collInfo": "17S7",
    "rarity": "S",
    "culture": "Elven",
@@ -31,7 +32,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S007.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/17/LOTR-EN17S007.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S007.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S007.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S007.0_portrait.jpg"
    }
   },
   {
@@ -42,6 +44,7 @@
    "errataOf": "17_10",
    "source": "wiki",
    "wikiId": "LOTR-EN17S010.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Namarie_(17U10)",
    "collInfo": "17U10",
    "rarity": "U",
    "culture": "Elven",
@@ -60,7 +63,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S010.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/17/LOTR-EN17S010.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S010.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S010.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S010.0_portrait.jpg"
    }
   },
   {
@@ -71,6 +75,7 @@
    "errataOf": "17_15",
    "source": "wiki",
    "wikiId": "LOTR-EN17S015.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/A_New_Light_(17U15)",
    "collInfo": "17U15",
    "rarity": "U",
    "culture": "Gandalf",
@@ -89,7 +94,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S015.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/17/LOTR-EN17S015.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S015.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S015.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S015.0_portrait.jpg"
    }
   },
   {
@@ -100,6 +106,7 @@
    "errataOf": "17_24",
    "source": "wiki",
    "wikiId": "LOTR-EN17S024.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Shadowfax,_Greatest_of_the_Mearas_(17R24)",
    "collInfo": "17R24",
    "rarity": "R",
    "culture": "Gandalf",
@@ -122,7 +129,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S024.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/17/LOTR-EN17S024.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S024.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S024.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S024.0_portrait.jpg"
    }
   }
  ]

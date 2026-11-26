@@ -9,6 +9,7 @@
    "errataOf": "11_31",
    "source": "wiki",
    "wikiId": "LOTR-EN11S031.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Final_Account_(11C31)",
    "collInfo": "11C31",
    "rarity": "C",
    "culture": "Gandalf",
@@ -27,7 +28,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S031.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S031.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S031.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S031.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S031.0_portrait.jpg"
    }
   },
   {
@@ -38,6 +40,7 @@
    "errataOf": "11_100",
    "source": "wiki",
    "wikiId": "LOTR-EN11S100.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Strange-looking_Men_(11R100)",
    "collInfo": "11R100",
    "rarity": "R",
    "culture": "Men",
@@ -59,7 +62,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S100.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S100.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S100.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S100.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S100.0_portrait.jpg"
    }
   },
   {
@@ -70,6 +74,7 @@
    "errataOf": "11_114",
    "source": "wiki",
    "wikiId": "LOTR-EN11S114.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Demoralized_(11U114)",
    "collInfo": "11U114",
    "rarity": "U",
    "culture": "Orc",
@@ -88,7 +93,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S114.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S114.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S114.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S114.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S114.0_portrait.jpg"
    }
   },
   {
@@ -99,6 +105,7 @@
    "errataOf": "11_132",
    "source": "wiki",
    "wikiId": "LOTR-EN11S132.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Orkish_Smith_(11C132)",
    "collInfo": "11C132",
    "rarity": "C",
    "culture": "Orc",
@@ -120,7 +127,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S132.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S132.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S132.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S132.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S132.0_portrait.jpg"
    }
   },
   {
@@ -131,6 +139,7 @@
    "errataOf": "11_227",
    "source": "wiki",
    "wikiId": "LOTR-EN11S227.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Anduin_Banks_(11U227)",
    "collInfo": "11U227",
    "rarity": "U",
    "culture": null,
@@ -149,7 +158,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S227.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S227.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S227.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S227.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S227.0_portrait.jpg"
    }
   },
   {
@@ -160,6 +170,7 @@
    "errataOf": "11_232",
    "source": "wiki",
    "wikiId": "LOTR-EN11S232.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Cavern_Entrance_(11S232)",
    "collInfo": "11S232",
    "rarity": "S",
    "culture": null,
@@ -179,7 +190,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S232.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S232.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S232.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S232.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S232.0_portrait.jpg"
    }
   },
   {
@@ -190,6 +202,7 @@
    "errataOf": "11_249",
    "source": "wiki",
    "wikiId": "LOTR-EN11S249.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Neekerbreekers%27_Bog_(11S249)",
    "collInfo": "11S249",
    "rarity": "S",
    "culture": null,
@@ -208,7 +221,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S249.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S249.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S249.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S249.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S249.0_portrait.jpg"
    }
   }
  ]

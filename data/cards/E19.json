@@ -9,6 +9,7 @@
    "errataOf": "19_1",
    "source": "wiki",
    "wikiId": "LOTR-EN19S001.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/The_One_Ring,_The_Great_Ring_(19P1)",
    "collInfo": "19P1",
    "rarity": "P",
    "culture": "The One Ring",
@@ -25,7 +26,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S001.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S001.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S001.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S001.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F001.0_portrait.jpg"
    }
   },
   {
@@ -36,6 +38,7 @@
    "errataOf": "19_24",
    "source": "wiki",
    "wikiId": "LOTR-EN19S024.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Brought_Down_From_Inside_(19P24)",
    "collInfo": "19P24",
    "rarity": "P",
    "culture": "Rohan",
@@ -54,7 +57,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S024.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S024.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S024.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S024.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F024.0_portrait.jpg"
    }
   },
   {
@@ -65,6 +69,7 @@
    "errataOf": "19_30",
    "source": "wiki",
    "wikiId": "LOTR-EN19S030.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Pippin,_Steadfast_Friend_(19P30)",
    "collInfo": "19P30",
    "rarity": "P",
    "culture": "Shire",
@@ -88,7 +93,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S030.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S030.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S030.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S030.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F030.0_portrait.jpg"
    }
   },
   {
@@ -99,6 +105,7 @@
    "errataOf": "19_37",
    "source": "wiki",
    "wikiId": "LOTR-EN19S037.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Ulaire_Lemenya,_Dark_Enemy_(19P37)",
    "collInfo": "19P37",
    "rarity": "P",
    "culture": "Ringwraith",
@@ -121,7 +128,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S037.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S037.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S037.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S037.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F037.0_portrait.jpg"
    }
   },
   {
@@ -132,6 +140,7 @@
    "errataOf": "19_38",
    "source": "wiki",
    "wikiId": "LOTR-EN19S038.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Ulaire_Nertea,_Dark_Horseman_(19P38)",
    "collInfo": "19P38",
    "rarity": "P",
    "culture": "Ringwraith",
@@ -154,7 +163,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S038.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S038.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S038.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S038.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F038.0_portrait.jpg"
    }
   }
  ]

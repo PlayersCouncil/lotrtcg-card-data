@@ -9,6 +9,7 @@
    "errataOf": "7_35",
    "source": "wiki",
    "wikiId": "LOTR-EN07S035.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Fool%27s_Hope_(7U35)",
    "collInfo": "7U35",
    "rarity": "U",
    "culture": "Gandalf",
@@ -27,7 +28,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S035.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S035.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S035.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S035.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S035.0_portrait.jpg"
    }
   },
   {
@@ -38,6 +40,7 @@
    "errataOf": "7_49",
    "source": "wiki",
    "wikiId": "LOTR-EN07S049.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Steadfast_Champion_(7U49)",
    "collInfo": "7U49",
    "rarity": "U",
    "culture": "Gandalf",
@@ -54,7 +57,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S049.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S049.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S049.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S049.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S049.0_portrait.jpg"
    }
   },
   {
@@ -65,6 +69,7 @@
    "errataOf": "7_54",
    "source": "wiki",
    "wikiId": "LOTR-EN07S054.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Clever_Hobbits_(7U54)",
    "collInfo": "7U54",
    "rarity": "U",
    "culture": "Gollum",
@@ -83,7 +88,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S054.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S054.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S054.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S054.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S054.0_portrait.jpg"
    }
   },
   {
@@ -94,6 +100,7 @@
    "errataOf": "7_80",
    "source": "wiki",
    "wikiId": "LOTR-EN07S080.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Anduril,_King%27s_Blade_(7R80)",
    "collInfo": "7R80",
    "rarity": "R",
    "culture": "Gondor",
@@ -114,7 +121,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S080.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S080.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S080.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S080.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S080.0_portrait.jpg"
    }
   },
   {
@@ -125,6 +133,7 @@
    "errataOf": "7_82",
    "source": "wiki",
    "wikiId": "LOTR-EN07S082.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Cirion_(7C82)",
    "collInfo": "7C82",
    "rarity": "C",
    "culture": "Gondor",
@@ -147,7 +156,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S082.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S082.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S082.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S082.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S082.0_portrait.jpg"
    }
   },
   {
@@ -158,6 +168,7 @@
    "errataOf": "7_91",
    "source": "wiki",
    "wikiId": "LOTR-EN07S091.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Faramir,_Wizard%27s_Pupil_(7R91)",
    "collInfo": "7R91",
    "rarity": "R",
    "culture": "Gondor",
@@ -178,7 +189,8 @@
    "gameText": "Ranger. Fellowship: Play a [ROHAN] Man to heal Faramir. Skirmish: Exert Faramir to make an unbound Hobbit strength +2. Skirmish: Exert Gandalf to make Faramir unable to take wounds.",
    "wikiVersion": "LOTR-EN07S091.1",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S091.1_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S091.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S091.0_portrait.jpg"
    }
   },
   {
@@ -189,6 +201,7 @@
    "errataOf": "7_96",
    "source": "wiki",
    "wikiId": "LOTR-EN07S096.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gondorian_Captain_(7C96)",
    "collInfo": "7C96",
    "rarity": "C",
    "culture": "Gondor",
@@ -210,7 +223,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S096.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S096.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S096.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S096.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S096.0_portrait.jpg"
    }
   },
   {
@@ -221,6 +235,7 @@
    "errataOf": "7_190",
    "source": "wiki",
    "wikiId": "LOTR-EN07S190.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Morgul_Destroyer_(7U190)",
    "collInfo": "7U190",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -241,7 +256,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S190.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S190.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S190.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S190.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S190.0_portrait.jpg"
    }
   },
   {
@@ -252,6 +268,7 @@
    "errataOf": "7_236",
    "source": "wiki",
    "wikiId": "LOTR-EN07S236.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Herugrim,_Sword_of_the_Mark_(7R236)",
    "collInfo": "7R236",
    "rarity": "R",
    "culture": "Rohan",
@@ -272,7 +289,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S236.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S236.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S236.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S236.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S236.0_portrait.jpg"
    }
   },
   {
@@ -283,6 +301,7 @@
    "errataOf": "7_242",
    "source": "wiki",
    "wikiId": "LOTR-EN07S242.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Merry%27s_Sword_(7R242)",
    "collInfo": "7R242",
    "rarity": "R",
    "culture": "Rohan",
@@ -299,7 +318,8 @@
    "gameText": "Bearer must be Merry. Maneuver: Exert Merry X times to exert a minion once for each [ROHAN] companion you spot (limit X).",
    "wikiVersion": "LOTR-EN07S242.1",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S242.1_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S242.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S242.0_portrait.jpg"
    }
   },
   {
@@ -310,6 +330,7 @@
    "errataOf": "7_256",
    "source": "wiki",
    "wikiId": "LOTR-EN07S256.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/They_Sang_as_They_Slew_(7C256)",
    "collInfo": "7C256",
    "rarity": "C",
    "culture": "Rohan",
@@ -328,7 +349,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S256.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S256.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S256.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S256.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S256.0_portrait.jpg"
    }
   },
   {
@@ -339,6 +361,7 @@
    "errataOf": "7_332",
    "source": "wiki",
    "wikiId": "LOTR-EN07S332.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Rohirrim_Road_(7U332)",
    "collInfo": "7U332",
    "rarity": "U",
    "culture": null,
@@ -360,7 +383,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S332.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S332.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S332.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S332.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S332.0_portrait.jpg"
    }
   },
   {
@@ -371,6 +395,7 @@
    "errataOf": "7_359",
    "source": "wiki",
    "wikiId": "LOTR-EN07S359.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Northern_Ithilien_(7U359)",
    "collInfo": "7U359",
    "rarity": "U",
    "culture": null,
@@ -392,7 +417,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S359.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/07/LOTR-EN07S359.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S359.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/07/LOTR-EN07S359.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/07/LOTR-EN07S359.0_portrait.jpg"
    }
   }
  ]

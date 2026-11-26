@@ -1,6 +1,6 @@
 # Card data report
 
-Wiki revision 131529, Gemp `master`, CDN manifest `172533fcd7fc`.
+Wiki revision 131546, Gemp `master`, CDN manifest `172533fcd7fc`.
 
 Where the wiki, Gemp and the CDN disagree. Fix the source (usually the wiki) and the next build picks it up.
 
@@ -183,9 +183,11 @@ None.
 
 None.
 
-## Decipher errata revisions without a release date (0)
+## Decipher errata revisions without a release date (3)
 
-None.
+- `LOTR-EN01S235.1`
+- `LOTR-EN13S190.1`
+- `LOTR-EN15S081.1`
 
 ## Revisions without an issuer (0)
 
@@ -194,6 +196,16 @@ None.
 ## English cards, versions and alternate printings with no image in the tree (0)
 
 None.
+
+## Wiki cards not stored on Data:<card page>/Data (wikiUrl is the page worked out, if any) (7)
+
+- wiki: `LOTR-EN01S119.0`, storedOn: `What Are They? (1C119)/Data`, wikiUrl: `https://wiki.lotrtcgpc.net/wiki/What_Are_They%3F_(1C119)`
+- wiki: `LOTR-EN01S202.0`, storedOn: `What Is This New Devilry? (1U202)/Data`, wikiUrl: `https://wiki.lotrtcgpc.net/wiki/What_Is_This_New_Devilry%3F_(1U202)`
+- wiki: `LOTR-EN02S015.0`, storedOn: `What Are We Waiting For? (2R15)/Data`, wikiUrl: `https://wiki.lotrtcgpc.net/wiki/What_Are_We_Waiting_For%3F_(2R15)`
+- wiki: `LOTR-EN03S050.0`, storedOn: `Can You Protect Me From Yourself? (3R50)/Data`, wikiUrl: `https://wiki.lotrtcgpc.net/wiki/Can_You_Protect_Me_From_Yourself%3F_(3R50)`
+- wiki: `LOTR-EN03S105.0`, storedOn: `Why Shouldn't I Keep It? (3R105)/Data`, wikiUrl: `https://wiki.lotrtcgpc.net/wiki/Why_Shouldn%27t_I_Keep_It%3F_(3R105)`
+- wiki: `LOTR-EN04S213.0`, storedOn: `What Did You Discover? (4R213)/Data`, wikiUrl: `https://wiki.lotrtcgpc.net/wiki/What_Did_You_Discover%3F_(4R213)`
+- wiki: `LOTR-EN04S214.0`, storedOn: `Where Has Grima Stowed It? (4R214)/Data`, wikiUrl: `https://wiki.lotrtcgpc.net/wiki/Where_Has_Grima_Stowed_It%3F_(4R214)`
 
 ## Cards or revisions the format timeline names that this build doesn't have (0)
 

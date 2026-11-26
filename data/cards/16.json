@@ -8,6 +8,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN16S001.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Barrow-wight_Stalker_(16R1)",
    "collInfo": "16R1",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -50,7 +51,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S001.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S001.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S001.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F001.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F001.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S001.0_portrait.jpg"
      }
     }
    ],
@@ -59,7 +61,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S001.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S001.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S001.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F001.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F001.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S001.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -71,6 +74,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN16S002.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Candle_Corpses_(16R2)",
    "collInfo": "16R2",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -113,7 +117,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S002.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S002.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S002.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F002.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F002.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S002.0_portrait.jpg"
      }
     }
    ],
@@ -122,7 +127,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S002.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S002.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S002.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F002.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F002.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S002.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -134,6 +140,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN16S003.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Covetous_Wisp_(16R3)",
    "collInfo": "16R3",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -176,7 +183,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S003.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S003.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S003.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F003.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F003.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S003.0_portrait.jpg"
      }
     }
    ],
@@ -185,7 +193,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S003.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S003.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S003.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F003.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F003.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S003.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -197,6 +206,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN16S004.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Dead_Faces_(16R4)",
    "collInfo": "16R4",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -239,7 +249,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S004.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S004.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S004.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F004.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F004.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S004.0_portrait.jpg"
      }
     }
    ],
@@ -248,7 +259,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S004.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S004.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S004.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F004.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F004.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S004.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -260,6 +272,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN16S005.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Spirit_of_Dread_(16R5)",
    "collInfo": "16R5",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -302,7 +315,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S005.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S005.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S005.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F005.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F005.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S005.0_portrait.jpg"
      }
     }
    ],
@@ -311,7 +325,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S005.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S005.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S005.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F005.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F005.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S005.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -323,6 +338,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN16S006.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Undead_of_Angmar_(16R6)",
    "collInfo": "16R6",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -365,7 +381,8 @@
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S006.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S006.0_card.jpg",
       "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S006.0_card.jpg",
-      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F006.0_card.jpg"
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F006.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S006.0_portrait.jpg"
      }
     }
    ],
@@ -374,7 +391,8 @@
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S006.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S006.0_card.jpg",
     "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S006.0_card.jpg",
-    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F006.0_card.jpg"
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F006.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S006.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []

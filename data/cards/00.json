@@ -8,6 +8,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S056.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Ghan-buri-Ghan,_Chieftain_of_the_Woses_(0P56)",
    "collInfo": "0P56",
    "rarity": "P",
    "culture": "Gandalf",
@@ -51,7 +52,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S056.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S056.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S056.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S056.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S056.0_portrait.jpg"
      }
     }
    ],
@@ -59,7 +61,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S056.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S056.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S056.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S056.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S056.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -71,6 +74,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S057.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Radagast%27s_Staff_(0P57)",
    "collInfo": "0P57",
    "rarity": "P",
    "culture": "Gandalf",
@@ -108,7 +112,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S057.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S057.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S057.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S057.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S057.0_portrait.jpg"
      }
     }
    ],
@@ -116,7 +121,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S057.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S057.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S057.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S057.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S057.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -128,6 +134,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S058.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Anarion,_Lord_of_Anorien_(0P58)",
    "collInfo": "0P58",
    "rarity": "P",
    "culture": "Gondor",
@@ -173,7 +180,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S058.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S058.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S058.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S058.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S058.0_portrait.jpg"
      }
     }
    ],
@@ -181,7 +189,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S058.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S058.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S058.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S058.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S058.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -193,6 +202,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S059.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Erkenbrand,_Master_of_Westfold_(0P59)",
    "collInfo": "0P59",
    "rarity": "P",
    "culture": "Rohan",
@@ -238,7 +248,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S059.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S059.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S059.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S059.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S059.0_portrait.jpg"
      }
     }
    ],
@@ -246,7 +257,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S059.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S059.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S059.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S059.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S059.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -258,6 +270,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S060.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Tom_Bombadil%27s_Hat_(0P60)",
    "collInfo": "0P60",
    "rarity": "P",
    "culture": "Shire",
@@ -291,7 +304,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S060.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S060.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S060.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S060.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S060.0_portrait.jpg"
      }
     }
    ],
@@ -299,7 +313,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S060.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S060.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S060.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S060.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S060.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -311,6 +326,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S062.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gimli,_Dwarven_Delegate_(0P62)",
    "collInfo": "0P62",
    "rarity": "P",
    "culture": "Dwarven",
@@ -356,7 +372,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S062.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S062.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S062.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S062.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S062.0_portrait.jpg"
      }
     }
    ],
@@ -364,7 +381,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S062.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S062.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S062.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S062.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S062.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -376,6 +394,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S063.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Arwen,_Maiden_of_Rivendell_(0P63)",
    "collInfo": "0P63",
    "rarity": "P",
    "culture": "Elven",
@@ -421,7 +440,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S063.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S063.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S063.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S063.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S063.0_portrait.jpg"
      }
     }
    ],
@@ -429,7 +449,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S063.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S063.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S063.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S063.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S063.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -441,6 +462,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S064.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gandalf,_Stormcrow_(0P64)",
    "collInfo": "0P64",
    "rarity": "P",
    "culture": "Gandalf",
@@ -484,7 +506,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S064.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S064.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S064.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S064.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S064.0_portrait.jpg"
      }
     }
    ],
@@ -492,7 +515,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S064.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S064.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S064.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S064.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S064.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -504,6 +528,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S065.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Boromir,_Steward%27s_Heir_(0P65)",
    "collInfo": "0P65",
    "rarity": "P",
    "culture": "Gondor",
@@ -549,7 +574,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S065.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S065.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S065.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S065.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S065.0_portrait.jpg"
      }
     }
    ],
@@ -557,7 +583,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S065.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S065.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S065.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S065.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S065.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -569,6 +596,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S066.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Eomer,_Forthwith_Banished_(0P66)",
    "collInfo": "0P66",
    "rarity": "P",
    "culture": "Rohan",
@@ -612,7 +640,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S066.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S066.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S066.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S066.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S066.0_portrait.jpg"
      }
     }
    ],
@@ -620,7 +649,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S066.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S066.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S066.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S066.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S066.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -632,6 +662,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN00S067.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Frodo,_Mr._Underhill_(0P67)",
    "collInfo": "0P67",
    "rarity": "P",
    "culture": "Shire",
@@ -677,7 +708,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S067.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S067.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S067.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S067.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S067.0_portrait.jpg"
      }
     }
    ],
@@ -685,7 +717,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S067.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S067.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S067.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S067.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S067.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []

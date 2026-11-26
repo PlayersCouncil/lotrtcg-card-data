@@ -8,6 +8,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-ENV0S001.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Rath_Dinen_(V0_1)",
    "collInfo": "V0_1",
    "rarity": "N",
    "culture": null,
@@ -43,7 +44,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V0/LOTR-ENV0S001.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V0/LOTR-ENV0S001.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V0/LOTR-ENV0S001.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V0/LOTR-ENV0S001.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/V0/LOTR-ENV0S001.0_portrait.jpg"
      }
     }
    ],
@@ -51,7 +53,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V0/LOTR-ENV0S001.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V0/LOTR-ENV0S001.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V0/LOTR-ENV0S001.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V0/LOTR-ENV0S001.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/V0/LOTR-ENV0S001.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []

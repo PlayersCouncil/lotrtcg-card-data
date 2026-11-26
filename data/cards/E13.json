@@ -9,6 +9,7 @@
    "errataOf": "13_20",
    "source": "wiki",
    "wikiId": "LOTR-EN13S020.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Lorien_Protector_(13S20)",
    "collInfo": "13S20",
    "rarity": "S",
    "culture": "Elven",
@@ -31,7 +32,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/13/LOTR-EN13S020.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/13/LOTR-EN13S020.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/13/LOTR-EN13S020.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/13/LOTR-EN13S020.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/13/LOTR-EN13S020.0_portrait.jpg"
    }
   },
   {
@@ -42,6 +44,7 @@
    "errataOf": "13_23",
    "source": "wiki",
    "wikiId": "LOTR-EN13S023.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Shrouded_Elf_(13C23)",
    "collInfo": "13C23",
    "rarity": "C",
    "culture": "Elven",
@@ -64,7 +67,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/13/LOTR-EN13S023.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/13/LOTR-EN13S023.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/13/LOTR-EN13S023.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/13/LOTR-EN13S023.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/13/LOTR-EN13S023.0_portrait.jpg"
    }
   },
   {
@@ -75,6 +79,7 @@
    "errataOf": "13_188",
    "source": "wiki",
    "wikiId": "LOTR-EN13S188.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Courtyard_Parapet_(13U188)",
    "collInfo": "13U188",
    "rarity": "U",
    "culture": null,
@@ -93,7 +98,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/13/LOTR-EN13S188.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/13/LOTR-EN13S188.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/13/LOTR-EN13S188.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/13/LOTR-EN13S188.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/13/LOTR-EN13S188.0_portrait.jpg"
    }
   }
  ]

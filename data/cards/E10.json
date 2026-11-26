@@ -9,6 +9,7 @@
    "errataOf": "10_2",
    "source": "wiki",
    "wikiId": "LOTR-EN10S002.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Memories_of_Darkness_(10U2)",
    "collInfo": "10U2",
    "rarity": "U",
    "culture": "Dwarven",
@@ -27,7 +28,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S002.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/10/LOTR-EN10S002.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S002.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S002.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S002.0_portrait.jpg"
    }
   },
   {
@@ -38,6 +40,7 @@
    "errataOf": "10_8",
    "source": "wiki",
    "wikiId": "LOTR-EN10S008.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Cirdan,_The_Shipwright_(10R8)",
    "collInfo": "10R8",
    "rarity": "R",
    "culture": "Elven",
@@ -61,7 +64,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S008.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/10/LOTR-EN10S008.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S008.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S008.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S008.0_portrait.jpg"
    }
   },
   {
@@ -72,6 +76,7 @@
    "errataOf": "10_11",
    "source": "wiki",
    "wikiId": "LOTR-EN10S011.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Galadriel,_Lady_Redeemed_(10R11)",
    "collInfo": "10R11",
    "rarity": "R",
    "culture": "Elven",
@@ -95,7 +100,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S011.4_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/10/LOTR-EN10S011.4_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S011.4_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S011.4_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S011.0_portrait.jpg"
    }
   },
   {
@@ -106,6 +112,7 @@
    "errataOf": "10_12",
    "source": "wiki",
    "wikiId": "LOTR-EN10S012.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Glimpse_of_Fate_(10U12)",
    "collInfo": "10U12",
    "rarity": "U",
    "culture": "Elven",
@@ -124,7 +131,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S012.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/10/LOTR-EN10S012.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S012.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S012.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S012.0_portrait.jpg"
    }
   },
   {
@@ -135,6 +143,7 @@
    "errataOf": "10_17",
    "source": "wiki",
    "wikiId": "LOTR-EN10S017.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Out_of_the_High_Airs_(10R17)",
    "collInfo": "10R17",
    "rarity": "R",
    "culture": "Gandalf",
@@ -153,7 +162,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S017.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/10/LOTR-EN10S017.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S017.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S017.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S017.0_portrait.jpg"
    }
   },
   {
@@ -164,6 +174,7 @@
    "errataOf": "10_20",
    "source": "wiki",
    "wikiId": "LOTR-EN10S020.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Final_Strike_(10U20)",
    "collInfo": "10U20",
    "rarity": "U",
    "culture": "Gollum",
@@ -180,7 +191,8 @@
    "lore": "“The fires below awoke in anger....”",
    "wikiVersion": "LOTR-EN10S020.1",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S020.1_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S020.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S020.0_portrait.jpg"
    }
   },
   {
@@ -191,6 +203,7 @@
    "errataOf": "10_28",
    "source": "wiki",
    "wikiId": "LOTR-EN10S028.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Denethor,_Lord_of_Minas_Tirith_(10R28)",
    "collInfo": "10R28",
    "rarity": "R",
    "culture": "Gondor",
@@ -212,7 +225,8 @@
    "lore": "“There Denethor sat in a grey gloom, like an old patient spider....”",
    "wikiVersion": "LOTR-EN10S028.2",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S028.2_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S028.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S028.0_portrait.jpg"
    }
   },
   {
@@ -223,6 +237,7 @@
    "errataOf": "10_52",
    "source": "wiki",
    "wikiId": "LOTR-EN10S052.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Under_Foot_(10C52)",
    "collInfo": "10C52",
    "rarity": "C",
    "culture": "Raider",
@@ -241,7 +256,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S052.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/10/LOTR-EN10S052.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S052.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S052.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S052.0_portrait.jpg"
    }
   },
   {
@@ -252,6 +268,7 @@
    "errataOf": "10_68",
    "source": "wiki",
    "wikiId": "LOTR-EN10S068.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Ulaire_Enquea,_Thrall_of_the_One_(10R68)",
    "collInfo": "10R68",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -274,7 +291,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S068.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/10/LOTR-EN10S068.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S068.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S068.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S068.0_portrait.jpg"
    }
   },
   {
@@ -285,6 +303,7 @@
    "errataOf": "10_72",
    "source": "wiki",
    "wikiId": "LOTR-EN10S072.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Eowyn,_Lady_of_Ithilien_(10R72)",
    "collInfo": "10R72",
    "rarity": "R",
    "culture": "Rohan",
@@ -308,7 +327,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S072.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/10/LOTR-EN10S072.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S072.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S072.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S072.0_portrait.jpg"
    }
   },
   {
@@ -319,6 +339,7 @@
    "errataOf": "10_91",
    "source": "wiki",
    "wikiId": "LOTR-EN10S091.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Mordor_Fiend_(10C91)",
    "collInfo": "10C91",
    "rarity": "C",
    "culture": "Sauron",
@@ -340,7 +361,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S091.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/10/LOTR-EN10S091.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S091.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/10/LOTR-EN10S091.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/10/LOTR-EN10S091.0_portrait.jpg"
    }
   }
  ]

@@ -9,6 +9,7 @@
    "errataOf": "3_4",
    "source": "wiki",
    "wikiId": "LOTR-EN03S004.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/A_Royal_Welcome_(3U4)",
    "collInfo": "3U4",
    "rarity": "U",
    "culture": "Dwarven",
@@ -25,7 +26,8 @@
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN03S004.3",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S004.3_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S004.3_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S004.0_portrait.jpg"
    }
   },
   {
@@ -36,6 +38,7 @@
    "errataOf": "3_5",
    "source": "wiki",
    "wikiId": "LOTR-EN03S005.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Song_of_Durin_(3U5)",
    "collInfo": "3U5",
    "rarity": "U",
    "culture": "Dwarven",
@@ -54,7 +57,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S005.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S005.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S005.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S005.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S005.0_portrait.jpg"
    }
   },
   {
@@ -65,6 +69,7 @@
    "errataOf": "3_7",
    "source": "wiki",
    "wikiId": "LOTR-EN03S007.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Arwen,_Elven_Rider_(3U7)",
    "collInfo": "3U7",
    "rarity": "U",
    "culture": "Elven",
@@ -88,7 +93,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S007.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S007.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S007.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S007.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S007.0_portrait.jpg"
    }
   },
   {
@@ -99,6 +105,7 @@
    "errataOf": "3_8",
    "source": "wiki",
    "wikiId": "LOTR-EN03S008.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Arwen,_Lady_Undomiel_(3R8)",
    "collInfo": "3R8",
    "rarity": "R",
    "culture": "Elven",
@@ -122,7 +129,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S008.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S008.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S008.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S008.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S008.0_portrait.jpg"
    }
   },
   {
@@ -133,6 +141,7 @@
    "errataOf": "3_13",
    "source": "wiki",
    "wikiId": "LOTR-EN03S013.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Elrond,_Herald_to_Gil-galad_(3R13)",
    "collInfo": "3R13",
    "rarity": "R",
    "culture": "Elven",
@@ -158,7 +167,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S013.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S013.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S013.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S013.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S013.0_portrait.jpg"
    }
   },
   {
@@ -169,6 +179,7 @@
    "errataOf": "3_14",
    "source": "wiki",
    "wikiId": "LOTR-EN03S014.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Erestor,_Chief_Advisor_to_Elrond_(3C14)",
    "collInfo": "3C14",
    "rarity": "C",
    "culture": "Elven",
@@ -194,7 +205,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S014.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S014.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S014.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S014.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S014.0_portrait.jpg"
    }
   },
   {
@@ -205,6 +217,7 @@
    "errataOf": "3_17",
    "source": "wiki",
    "wikiId": "LOTR-EN03S017.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Galadriel,_Lady_of_the_Golden_Wood_(3R17)",
    "collInfo": "3R17",
    "rarity": "R",
    "culture": "Elven",
@@ -230,7 +243,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S017.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S017.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S017.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S017.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S017.0_portrait.jpg"
    }
   },
   {
@@ -241,6 +255,7 @@
    "errataOf": "3_20",
    "source": "wiki",
    "wikiId": "LOTR-EN03S020.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Golradir,_Councilor_of_Imladris_(3U20)",
    "collInfo": "3U20",
    "rarity": "U",
    "culture": "Elven",
@@ -266,7 +281,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S020.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S020.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S020.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S020.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S020.0_portrait.jpg"
    }
   },
   {
@@ -277,6 +293,7 @@
    "errataOf": "3_24",
    "source": "wiki",
    "wikiId": "LOTR-EN03S024.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Phial_of_Galadriel_(3U24)",
    "collInfo": "3U24",
    "rarity": "U",
    "culture": "Elven",
@@ -294,7 +311,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S024.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S024.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S024.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S024.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S024.0_portrait.jpg"
    }
   },
   {
@@ -305,6 +323,7 @@
    "errataOf": "3_25",
    "source": "wiki",
    "wikiId": "LOTR-EN03S025.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Saelbeth,_Elven_Councilor_(3U25)",
    "collInfo": "3U25",
    "rarity": "U",
    "culture": "Elven",
@@ -330,7 +349,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S025.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S025.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S025.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S025.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S025.0_portrait.jpg"
    }
   },
   {
@@ -341,6 +361,7 @@
    "errataOf": "3_27",
    "source": "wiki",
    "wikiId": "LOTR-EN03S027.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Vilya_(3R27)",
    "collInfo": "3R27",
    "rarity": "R",
    "culture": "Elven",
@@ -360,7 +381,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S027.3_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S027.3_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S027.3_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S027.3_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S027.0_portrait.jpg"
    }
   },
   {
@@ -371,6 +393,7 @@
    "errataOf": "3_30",
    "source": "wiki",
    "wikiId": "LOTR-EN03S030.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Deep_in_Thought_(3C30)",
    "collInfo": "3C30",
    "rarity": "C",
    "culture": "Gandalf",
@@ -389,7 +412,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S030.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S030.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S030.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S030.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S030.0_portrait.jpg"
    }
   },
   {
@@ -400,6 +424,7 @@
    "errataOf": "3_38",
    "source": "wiki",
    "wikiId": "LOTR-EN03S038.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Aragorn,_Heir_to_the_White_City_(3R38)",
    "collInfo": "3R38",
    "rarity": "R",
    "culture": "Gondor",
@@ -423,7 +448,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S038.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S038.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S038.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S038.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S038.0_portrait.jpg"
    }
   },
   {
@@ -434,6 +460,7 @@
    "errataOf": "3_41",
    "source": "wiki",
    "wikiId": "LOTR-EN03S041.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gondor_Bowmen_(3R41)",
    "collInfo": "3R41",
    "rarity": "R",
    "culture": "Gondor",
@@ -452,7 +479,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S041.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S041.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S041.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S041.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S041.0_portrait.jpg"
    }
   },
   {
@@ -463,6 +491,7 @@
    "errataOf": "3_42",
    "source": "wiki",
    "wikiId": "LOTR-EN03S042.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Horn_of_Boromir_(3R42)",
    "collInfo": "3R42",
    "rarity": "R",
    "culture": "Gondor",
@@ -480,7 +509,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S042.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S042.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S042.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S042.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S042.0_portrait.jpg"
    }
   },
   {
@@ -491,6 +521,7 @@
    "errataOf": "3_50",
    "source": "wiki",
    "wikiId": "LOTR-EN03S050.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Can_You_Protect_Me_From_Yourself%3F_(3R50)",
    "collInfo": "3R50",
    "rarity": "R",
    "culture": "Isengard",
@@ -508,7 +539,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S050.3_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S050.3_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S050.3_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S050.3_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S050.0_portrait.jpg"
    }
   },
   {
@@ -519,6 +551,7 @@
    "errataOf": "3_53",
    "source": "wiki",
    "wikiId": "LOTR-EN03S053.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Hate_and_Anger_(3U53)",
    "collInfo": "3U53",
    "rarity": "U",
    "culture": "Isengard",
@@ -535,7 +568,8 @@
    "subtypes": "Shadow",
    "wikiVersion": "LOTR-EN03S053.1",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S053.1_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S053.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S053.0_portrait.jpg"
    }
   },
   {
@@ -546,6 +580,7 @@
    "errataOf": "3_54",
    "source": "wiki",
    "wikiId": "LOTR-EN03S054.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Hollowing_of_Isengard_(3R54)",
    "collInfo": "3R54",
    "rarity": "R",
    "culture": "Isengard",
@@ -564,7 +599,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S054.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S054.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S054.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S054.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S054.0_portrait.jpg"
    }
   },
   {
@@ -575,6 +611,7 @@
    "errataOf": "3_66",
    "source": "wiki",
    "wikiId": "LOTR-EN03S066.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Orthanc_Berserker_(3R66)",
    "collInfo": "3R66",
    "rarity": "R",
    "culture": "Isengard",
@@ -594,7 +631,8 @@
    "lore": "The voice of Saruman compels his minions to stop at nothing to earn his favor.",
    "wikiVersion": "LOTR-EN03S066.2",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S066.2_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S066.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S066.0_portrait.jpg"
    }
   },
   {
@@ -605,6 +643,7 @@
    "errataOf": "3_67",
    "source": "wiki",
    "wikiId": "LOTR-EN03S067.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/The_Palantir_of_Orthanc_(3R67)",
    "collInfo": "3R67",
    "rarity": "R",
    "culture": "Isengard",
@@ -623,7 +662,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S067.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S067.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S067.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S067.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S067.0_portrait.jpg"
    }
   },
   {
@@ -634,6 +674,7 @@
    "errataOf": "3_68",
    "source": "wiki",
    "wikiId": "LOTR-EN03S068.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Saruman,_Keeper_of_Isengard_(3R68)",
    "collInfo": "3R68",
    "rarity": "R",
    "culture": "Isengard",
@@ -655,7 +696,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S068.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S068.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S068.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S068.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S068.0_portrait.jpg"
    }
   },
   {
@@ -666,6 +708,7 @@
    "errataOf": "3_70",
    "source": "wiki",
    "wikiId": "LOTR-EN03S070.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Servants_to_Saruman_(3C70)",
    "collInfo": "3C70",
    "rarity": "C",
    "culture": "Isengard",
@@ -681,7 +724,8 @@
    "lore": "“‘This is grievous news concerning Saruman... for we trusted him and he is deep in all our counsels.'”",
    "wikiVersion": "LOTR-EN03S070.1",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S070.1_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S070.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S070.0_portrait.jpg"
    }
   },
   {
@@ -692,6 +736,7 @@
    "errataOf": "3_72",
    "source": "wiki",
    "wikiId": "LOTR-EN03S072.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Trapped_and_Alone_(3U72)",
    "collInfo": "3U72",
    "rarity": "U",
    "culture": "Isengard",
@@ -707,7 +752,8 @@
    "lore": "“‘...I had no chance of escape, and my days were bitter.'”",
    "wikiVersion": "LOTR-EN03S072.1",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S072.1_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S072.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S072.0_portrait.jpg"
    }
   },
   {
@@ -718,6 +764,7 @@
    "errataOf": "3_74",
    "source": "wiki",
    "wikiId": "LOTR-EN03S074.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Uruk_Raider_(3C74)",
    "collInfo": "3C74",
    "rarity": "C",
    "culture": "Isengard",
@@ -740,7 +787,8 @@
    ],
    "wikiVersion": "LOTR-EN03S074.2",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S074.2_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S074.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S074.0_portrait.jpg"
    }
   },
   {
@@ -751,6 +799,7 @@
    "errataOf": "3_79",
    "source": "wiki",
    "wikiId": "LOTR-EN03S079.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Malice_(3U79)",
    "collInfo": "3U79",
    "rarity": "U",
    "culture": "Moria",
@@ -769,7 +818,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S079.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S079.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S079.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S079.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S079.0_portrait.jpg"
    }
   },
   {
@@ -780,6 +830,7 @@
    "errataOf": "3_80",
    "source": "wiki",
    "wikiId": "LOTR-EN03S080.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Such_a_Little_Thing_(3R80)",
    "collInfo": "3R80",
    "rarity": "R",
    "culture": "Moria",
@@ -798,7 +849,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S080.3_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S080.3_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S080.3_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S080.3_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S080.0_portrait.jpg"
    }
   },
   {
@@ -809,6 +861,7 @@
    "errataOf": "3_82",
    "source": "wiki",
    "wikiId": "LOTR-EN03S082.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/News_of_Mordor_(3U82)",
    "collInfo": "3U82",
    "rarity": "U",
    "culture": "Ringwraith",
@@ -827,7 +880,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S082.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S082.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S082.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S082.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S082.0_portrait.jpg"
    }
   },
   {
@@ -838,6 +892,7 @@
    "errataOf": "3_85",
    "source": "wiki",
    "wikiId": "LOTR-EN03S085.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Too_Great_and_Terrible_(3R85)",
    "collInfo": "3R85",
    "rarity": "R",
    "culture": "Ringwraith",
@@ -856,7 +911,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S085.4_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S085.4_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S085.4_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S085.4_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S085.0_portrait.jpg"
    }
   },
   {
@@ -867,6 +923,7 @@
    "errataOf": "3_87",
    "source": "wiki",
    "wikiId": "LOTR-EN03S087.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/The_Dark_Lord_Advances_(3C87)",
    "collInfo": "3C87",
    "rarity": "C",
    "culture": "Sauron",
@@ -885,7 +942,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S087.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S087.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S087.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S087.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S087.0_portrait.jpg"
    }
   },
   {
@@ -896,6 +954,7 @@
    "errataOf": "3_88",
    "source": "wiki",
    "wikiId": "LOTR-EN03S088.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Get_Off_the_Road!_(3U88)",
    "collInfo": "3U88",
    "rarity": "U",
    "culture": "Sauron",
@@ -914,7 +973,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S088.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S088.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S088.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S088.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S088.0_portrait.jpg"
    }
   },
   {
@@ -925,6 +985,7 @@
    "errataOf": "3_90",
    "source": "wiki",
    "wikiId": "LOTR-EN03S090.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Hand_of_Sauron_(3C90)",
    "collInfo": "3C90",
    "rarity": "C",
    "culture": "Sauron",
@@ -943,7 +1004,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S090.2_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S090.2_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S090.2_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S090.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S090.0_portrait.jpg"
    }
   },
   {
@@ -954,6 +1016,7 @@
    "errataOf": "3_91",
    "source": "wiki",
    "wikiId": "LOTR-EN03S091.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/His_Cruelty_and_Malice_(3R91)",
    "collInfo": "3R91",
    "rarity": "R",
    "culture": "Sauron",
@@ -971,7 +1034,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S091.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S091.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S091.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S091.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S091.0_portrait.jpg"
    }
   },
   {
@@ -982,6 +1046,7 @@
    "errataOf": "3_92",
    "source": "wiki",
    "wikiId": "LOTR-EN03S092.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Massing_in_the_East_(3U92)",
    "collInfo": "3U92",
    "rarity": "U",
    "culture": "Sauron",
@@ -1000,7 +1065,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S092.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S092.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S092.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S092.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S092.0_portrait.jpg"
    }
   },
   {
@@ -1011,6 +1077,7 @@
    "errataOf": "3_103",
    "source": "wiki",
    "wikiId": "LOTR-EN03S103.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Terrible_as_the_Dawn_(3R103)",
    "collInfo": "3R103",
    "rarity": "R",
    "culture": "Sauron",
@@ -1029,7 +1096,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S103.4_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S103.4_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S103.4_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S103.4_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S103.0_portrait.jpg"
    }
   },
   {
@@ -1040,6 +1108,7 @@
    "errataOf": "3_104",
    "source": "wiki",
    "wikiId": "LOTR-EN03S104.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Tower_of_Barad-dur_(3R104)",
    "collInfo": "3R104",
    "rarity": "R",
    "culture": "Sauron",
@@ -1058,7 +1127,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S104.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S104.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S104.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S104.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S104.0_portrait.jpg"
    }
   },
   {
@@ -1069,6 +1139,7 @@
    "errataOf": "3_106",
    "source": "wiki",
    "wikiId": "LOTR-EN03S106.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Bill_the_Pony_(3U106)",
    "collInfo": "3U106",
    "rarity": "U",
    "culture": "Shire",
@@ -1087,7 +1158,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S106.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S106.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S106.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S106.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S106.0_portrait.jpg"
    }
   },
   {
@@ -1098,6 +1170,7 @@
    "errataOf": "3_108",
    "source": "wiki",
    "wikiId": "LOTR-EN03S108.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Frying_Pan_(3C108)",
    "collInfo": "3C108",
    "rarity": "C",
    "culture": "Shire",
@@ -1117,7 +1190,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S108.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S108.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S108.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S108.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S108.0_portrait.jpg"
    }
   },
   {
@@ -1128,6 +1202,7 @@
    "errataOf": "3_113",
    "source": "wiki",
    "wikiId": "LOTR-EN03S113.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/The_Shire_Countryside_(3R113)",
    "collInfo": "3R113",
    "rarity": "R",
    "culture": "Shire",
@@ -1145,7 +1220,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S113.1_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/03/LOTR-EN03S113.1_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S113.1_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/03/LOTR-EN03S113.1_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S113.0_portrait.jpg"
    }
   },
   {
@@ -1156,6 +1232,7 @@
    "errataOf": "3_120",
    "source": "wiki",
    "wikiId": "LOTR-EN03S120.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Wastes_of_Emyn_Muil_(3U120)",
    "collInfo": "3U120",
    "rarity": "U",
    "culture": null,
@@ -1175,7 +1252,8 @@
    ],
    "wikiVersion": "LOTR-EN03S120.2",
    "images": {
-    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S120.2_card.jpg"
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S120.2_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/03/LOTR-EN03S120.0_portrait.jpg"
    }
   }
  ]

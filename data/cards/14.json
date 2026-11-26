@@ -8,6 +8,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S001.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Dain_Ironfoot,_King_Under_the_Mountain_(14R1)",
    "collInfo": "14R1",
    "rarity": "R",
    "culture": "Dwarven",
@@ -53,7 +54,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S001.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S001.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S001.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S001.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S001.0_portrait.jpg"
      }
     }
    ],
@@ -61,7 +63,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S001.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S001.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S001.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S001.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S001.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -73,6 +76,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S002.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Elladan,_Son_of_Elrond_(14R2)",
    "collInfo": "14R2",
    "rarity": "R",
    "culture": "Elven",
@@ -118,7 +122,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S002.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S002.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S002.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S002.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S002.0_portrait.jpg"
      }
     }
    ],
@@ -126,7 +131,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S002.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S002.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S002.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S002.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S002.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -138,6 +144,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S003.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Elrohir,_Son_of_Elrond_(14R3)",
    "collInfo": "14R3",
    "rarity": "R",
    "culture": "Elven",
@@ -183,7 +190,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S003.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S003.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S003.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S003.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S003.0_portrait.jpg"
      }
     }
    ],
@@ -191,7 +199,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S003.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S003.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S003.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S003.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S003.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -203,6 +212,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S004.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Gildor_Inglorion,_of_the_House_of_Finrod_(14R4)",
    "collInfo": "14R4",
    "rarity": "R",
    "culture": "Elven",
@@ -248,7 +258,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S004.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S004.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S004.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S004.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S004.0_portrait.jpg"
      }
     }
    ],
@@ -256,7 +267,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S004.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S004.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S004.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S004.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S004.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -268,6 +280,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S005.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Brand,_King_of_Dale_(14R5)",
    "collInfo": "14R5",
    "rarity": "R",
    "culture": "Gandalf",
@@ -313,7 +326,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S005.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S005.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S005.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S005.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S005.0_portrait.jpg"
      }
     }
    ],
@@ -321,7 +335,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S005.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S005.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S005.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S005.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S005.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -333,6 +348,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S006.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Grimbeorn,_Beorning_Chieftain_(14R6)",
    "collInfo": "14R6",
    "rarity": "R",
    "culture": "Gandalf",
@@ -378,7 +394,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S006.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S006.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S006.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S006.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S006.0_portrait.jpg"
      }
     }
    ],
@@ -386,7 +403,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S006.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S006.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S006.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S006.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S006.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -398,6 +416,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S007.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Duilin,_Ranger_from_Blackroot_Vale_(14R7)",
    "collInfo": "14R7",
    "rarity": "R",
    "culture": "Gondor",
@@ -443,7 +462,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S007.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S007.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S007.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S007.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S007.0_portrait.jpg"
      }
     }
    ],
@@ -451,7 +471,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S007.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S007.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S007.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S007.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S007.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -463,6 +484,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S008.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Duinhir,_Tall_Man_of_Blackroot_Vale_(14R8)",
    "collInfo": "14R8",
    "rarity": "R",
    "culture": "Gondor",
@@ -508,7 +530,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S008.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S008.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S008.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S008.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S008.0_portrait.jpg"
      }
     }
    ],
@@ -516,7 +539,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S008.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S008.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S008.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S008.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S008.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -528,6 +552,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S009.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Halbarad,_Ranger_of_the_North_(14R9)",
    "collInfo": "14R9",
    "rarity": "R",
    "culture": "Gondor",
@@ -573,7 +598,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S009.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S009.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S009.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S009.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S009.0_portrait.jpg"
      }
     }
    ],
@@ -581,7 +607,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S009.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S009.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S009.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S009.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S009.0_portrait.jpg"
    },
    "reprints": [
     "14_16"
@@ -595,6 +622,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S010.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Furious_Hillman_(14R10)",
    "collInfo": "14R10",
    "rarity": "R",
    "culture": "Men",
@@ -636,7 +664,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S010.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S010.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S010.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S010.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S010.0_portrait.jpg"
      }
     }
    ],
@@ -644,7 +673,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S010.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S010.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S010.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S010.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S010.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -656,6 +686,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S011.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Swarming_Hillman_(14R11)",
    "collInfo": "14R11",
    "rarity": "R",
    "culture": "Men",
@@ -697,7 +728,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S011.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S011.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S011.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S011.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S011.0_portrait.jpg"
      }
     }
    ],
@@ -705,7 +737,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S011.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S011.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S011.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S011.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S011.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -717,6 +750,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S012.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Half-troll_of_Far_Harad_(14R12)",
    "collInfo": "14R12",
    "rarity": "R",
    "culture": "Orc",
@@ -758,7 +792,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S012.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S012.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S012.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S012.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S012.0_portrait.jpg"
      }
     }
    ],
@@ -766,7 +801,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S012.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S012.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S012.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S012.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S012.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -778,6 +814,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S013.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Horror_of_Harad_(14R13)",
    "collInfo": "14R13",
    "rarity": "R",
    "culture": "Orc",
@@ -819,7 +856,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S013.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S013.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S013.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S013.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S013.0_portrait.jpg"
      }
     }
    ],
@@ -827,7 +865,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S013.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S013.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S013.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S013.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S013.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -839,6 +878,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S014.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Uruk-hai_Healer_(14R14)",
    "collInfo": "14R14",
    "rarity": "R",
    "culture": "Uruk-hai",
@@ -880,7 +920,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S014.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S014.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S014.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S014.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S014.0_portrait.jpg"
      }
     }
    ],
@@ -888,7 +929,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S014.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S014.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S014.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S014.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S014.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
@@ -900,6 +942,7 @@
    "kind": "card",
    "source": "wiki",
    "wikiId": "LOTR-EN14S015.0",
+   "wikiUrl": "https://wiki.lotrtcgpc.net/wiki/Uruk-hai_Scout_(14R15)",
    "collInfo": "14R15",
    "rarity": "R",
    "culture": "Uruk-hai",
@@ -941,7 +984,8 @@
      "images": {
       "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S015.0_card.jpg",
       "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S015.0_card.jpg",
-      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S015.0_card.jpg"
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S015.0_card.jpg",
+      "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S015.0_portrait.jpg"
      }
     }
    ],
@@ -949,7 +993,8 @@
    "images": {
     "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S015.0_card.jpg",
     "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/14/LOTR-EN14S015.0_card.jpg",
-    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S015.0_card.jpg"
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/14/LOTR-EN14S015.0_card.jpg",
+    "portrait": "https://cdn.lotrtcgpc.net/wiki/original/EN/14/LOTR-EN14S015.0_portrait.jpg"
    },
    "reprints": [],
    "alts": []
