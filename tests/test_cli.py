@@ -5,7 +5,7 @@ import pathlib
 
 import pytest
 
-from cardbuild import cli
+from cardbuild import cli, wiki
 
 FIXTURES = pathlib.Path(__file__).parent / "fixtures"
 SOURCES = {"wiki": {"revid": 1, "timestamp": None}, "gemp": {"repo": "r", "branch": "b", "commits": {}},
@@ -39,3 +39,15 @@ def test_check_rebuilds_when_the_schema_version_changes(tmp_path, monkeypatch, c
     monkeypatch.setattr(cli, "current_sources", lambda *a, **k: (SOURCES, None))
     assert cli.cmd_check(argparse.Namespace(force=False, github_output=None, gemp_sha=None)) == 0
     assert json.loads(capsys.readouterr().out)["changed"] is changed
+
+
+def test_a_saved_pull_is_reused_only_for_the_same_fields(tmp_path, monkeypatch):
+    monkeypatch.setattr(cli, "DATA", tmp_path)
+    monkeypatch.setattr(cli, "make_wiki", lambda config: NoWiki())
+    monkeypatch.setattr(cli, "current_sources", lambda *a, **k: (SOURCES, None))
+    output = tmp_path / "github-output"
+    cli.cmd_check(argparse.Namespace(force=False, github_output=str(output), gemp_sha=None))
+    name = wiki.cache_name(1)
+    assert f"wiki_cache={name}\n" in output.read_text()
+    monkeypatch.setattr(wiki, "CARD_FIELDS", wiki.CARD_FIELDS + ["Another"])
+    assert wiki.cache_name(1) != name

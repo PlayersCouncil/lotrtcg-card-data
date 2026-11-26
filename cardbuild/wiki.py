@@ -3,6 +3,7 @@
 The wiki rate-limits its API (HTTP 429 after a few quick requests), so every
 request waits `delaySeconds` and backs off on 429.
 """
+import hashlib
 import json
 import time
 import urllib.error
@@ -12,6 +13,8 @@ import urllib.request
 CARD_FIELDS = [
     "ID", "ReprintBaseID", "Title", "Subtitle", "SetNum", "Subset", "SetOrder", "Rarity", "CardNum",
     "Revision", "CollInfo", "GEMP_ID", "Culture", "Side", "CardType", "IsPhysical", "IsPlayable",
+    # The page the row is stored on, "Data:<the card's page>/Data": the only place the wiki gives the card's page name
+    "_pageName=Page",
 ]
 
 RELEASE_FIELDS = [
@@ -23,6 +26,18 @@ RELEASE_FIELDS = [
 ]
 
 SET_FIELDS = ["ID", "Name", "Abbr", "Creator", "ReleaseDate", "IsOfficial"]
+
+
+def pull_key():
+    """Names what a pull asks the wiki for. A saved pull is reused only under the same key, so one saved before
+    a field was added (and so without it) is pulled again."""
+    asked = json.dumps([CARD_FIELDS, RELEASE_FIELDS, SET_FIELDS])
+    return hashlib.sha256(asked.encode("utf-8")).hexdigest()[:8]
+
+
+def cache_name(revid):
+    """The saved pull of one wiki revision: the workflow's cache key, and the file name (plus .json)."""
+    return f"wiki-{revid}-{pull_key()}"
 
 
 class Wiki:

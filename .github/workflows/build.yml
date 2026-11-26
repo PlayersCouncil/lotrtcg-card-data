@@ -48,12 +48,13 @@ jobs:
           echo "GEMP_SHA=$(git -C gemp rev-parse HEAD)" >> "$GITHUB_ENV"
 
       # The wiki pull is the slow part (paced to spare the wiki); reuse it while the wiki is unchanged
+      # and the build asks it for the same fields
       - name: Restore the wiki pull
         if: steps.check.outputs.changed == 'true'
         uses: actions/cache@v4
         with:
           path: .cache/wiki
-          key: wiki-${{ steps.check.outputs.wiki_revid }}
+          key: ${{ steps.check.outputs.wiki_cache }}
 
       - name: Build
         if: steps.check.outputs.changed == 'true'

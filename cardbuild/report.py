@@ -177,6 +177,7 @@ SECTIONS = [
     ("decipherErrataWithoutDate", "Decipher errata revisions without a release date"),
     ("revisionWithoutIssuer", "Revisions without an issuer"),
     ("noImage", "English cards, versions and alternate printings with no image in the tree"),
+    ("oddDataPage", "Wiki cards not stored on Data:<card page>/Data (wikiUrl is the page worked out, if any)"),
     ("timeline", "Cards or revisions the format timeline names that this build doesn't have"),
     ("unusableGempId", "Wiki Gemp IDs that aren't in set_number form"),
     ("acknowledged", "Known differences, acknowledged in overrides.json (not errors)"),

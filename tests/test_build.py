@@ -8,7 +8,8 @@ import pytest
 from cardbuild import assemble, cdn, gemp, report
 
 FIXTURES = pathlib.Path(__file__).parent / "fixtures"
-CONFIG = {"sets": {"cards": [[0, 19], [100, 149]], "errata": [[50, 69]]}}
+WIKI = "https://wiki.lotrtcgpc.net/wiki/"
+CONFIG = {"wiki": {"pages": WIKI}, "sets": {"cards": [[0, 19], [100, 149]], "errata": [[50, 69]]}}
 TREE = {"prefix": "wiki/", "sizes": {"1x": "original", "2x": "double", "4x": "huge"}}
 CDN = "https://cdn.lotrtcgpc.net/"
 OVERRIDES = {"gempIds": [{"match": {"title": "Soldier's Cache"}, "gempId": "17_35"}]}
@@ -174,6 +175,41 @@ def test_reprints_and_alts(built):
     for record in records.values():
         assert not {"image", "wikiImage", "alternates", "printings"} & set(record)
         assert not any({"image", "wikiImage"} & set(v) for v in record.get("versions", []) + record.get("translations", []))
+
+
+def test_wiki_url_is_the_page_the_card_is_stored_under(built):
+    build, records, _, _ = built
+    assert records["1_50"]["wikiUrl"] == WIKI + "Legolas,_Greenleaf_(1R50)"
+    assert records["51_50"]["wikiUrl"] == records["1_50"]["wikiUrl"]  # an erratum has no page of its own
+    assert records["1_50"]["alts"][0]["wikiUrl"] == WIKI + "Legolas,_Greenleaf_(0P13)"  # a printing does
+    assert records["17_35"]["wikiUrl"] == WIKI + "Soldier%27s_Cache_(18U58)"  # written as the wiki writes it
+    assert "wikiUrl" not in records["1_99"]  # no wiki card
+    assert not build.report["oddDataPage"]
+
+
+def test_wiki_card_stored_off_its_data_page_is_reported():
+    wiki = json.loads((FIXTURES / "wiki.json").read_text(encoding="utf-8"))
+    stored = {"LOTR-EN01S003.0": "Data:Scratch", "LOTR-EN01S050.0": "Legolas, Greenleaf (1R50)/Data"}
+    for card in wiki["cards"]:
+        card["Page"] = stored.get(card["ID"], card["Page"])
+    index = cdn.Cdn(json.loads((FIXTURES / "manifest.json").read_text()), CDN, TREE)
+    build = assemble.Build(CONFIG, wiki, gemp.load_blueprints(FIXTURES / "gemp" / "cards"),
+                           gemp.load_mapping(FIXTURES / "gemp" / "blueprintMapping.txt"), index, OVERRIDES, {})
+    records, _ = build.run()
+    assert "wikiUrl" not in records["1_3"]
+    # The Data subpage in the main namespace still names the card's page
+    assert records["1_50"]["wikiUrl"] == WIKI + "Legolas,_Greenleaf_(1R50)"
+    assert sorted(build.report["oddDataPage"], key=lambda e: e["wiki"]) == [
+        {"wiki": "LOTR-EN01S003.0", "storedOn": "Data:Scratch", "wikiUrl": None},
+        {"wiki": "LOTR-EN01S050.0", "storedOn": "Legolas, Greenleaf (1R50)/Data", "wikiUrl": WIKI + "Legolas,_Greenleaf_(1R50)"},
+    ]
+    assert "oddDataPage" in dict(report.SECTIONS)
+
+
+def test_page_addresses_keep_the_punctuation_the_wiki_keeps():
+    assert assemble.page_url(WIKI, "Forth the Three Hunters! (15C60)") == WIKI + "Forth_the_Three_Hunters!_(15C60)"
+    assert assemble.page_url(WIKI, "Rath Dinen (V0 1)") == WIKI + "Rath_Dinen_(V0_1)"
+    assert assemble.page_url(WIKI, "What Are We Waiting For? (1C1)") == WIKI + "What_Are_We_Waiting_For%3F_(1C1)"
 
 
 def test_built_records_match_the_schema(built):

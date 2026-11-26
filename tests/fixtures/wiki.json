@@ -17,7 +17,8 @@
    "Side": "Free Peoples",
    "CardType": "Companion",
    "IsPhysical": "1",
-   "IsPlayable": "1"
+   "IsPlayable": "1",
+   "Page": "Data:Legolas, Greenleaf (1R50)/Data"
   },
   {
    "ID": "LOTR-EN00S013.0",
@@ -36,7 +37,8 @@
    "Side": "Free Peoples",
    "CardType": "Companion",
    "IsPhysical": "1",
-   "IsPlayable": "1"
+   "IsPlayable": "1",
+   "Page": "Data:Legolas, Greenleaf (0P13)/Data"
   },
   {
    "ID": "LOTR-EN01S003.0",
@@ -55,7 +57,8 @@
    "Side": "Free Peoples",
    "CardType": "Event",
    "IsPhysical": "1",
-   "IsPlayable": "1"
+   "IsPlayable": "1",
+   "Page": "Data:Axe Strike (1C3)/Data"
   },
   {
    "ID": "LOTR-EN01A003.0",
@@ -74,7 +77,8 @@
    "Side": "Free Peoples",
    "CardType": "Companion",
    "IsPhysical": "1",
-   "IsPlayable": "1"
+   "IsPlayable": "1",
+   "Page": "Data:Wrong Card (1R3)/Data"
   },
   {
    "ID": "LOTR-EN18S058.0",
@@ -93,7 +97,8 @@
    "Side": "Free Peoples",
    "CardType": "Condition",
    "IsPhysical": "1",
-   "IsPlayable": "1"
+   "IsPlayable": "1",
+   "Page": "Data:Soldier's Cache (18U58)/Data"
   },
   {
    "ID": "LOTR-EN01S900.0",
@@ -112,7 +117,8 @@
    "Side": "Free Peoples",
    "CardType": "Companion",
    "IsPhysical": "1",
-   "IsPlayable": "1"
+   "IsPlayable": "1",
+   "Page": "Data:No Gemp Id (1R900)/Data"
   }
  ],
  "releases": [

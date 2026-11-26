@@ -2,14 +2,15 @@
 
 One record per Gemp blueprint in the configured sets: the Decipher and V-set
 cards ("card") and the PC errata blueprints ("errata", errataOf the original).
-Card facts and version history come from the wiki; Gemp supplies which IDs
-exist and the alternate-ID mapping. Images are the CDN's files of the names
-the wiki gives (cardbuild.cdn).
+Card facts, version history and each card's wiki page come from the wiki; Gemp
+supplies which IDs exist and the alternate-ID mapping. Images are the CDN's
+files of the names the wiki gives (cardbuild.cdn).
 """
 import collections
 import difflib
 import re
 import unicodedata
+import urllib.parse
 
 from .gemp import in_ranges, split_id
 
@@ -59,6 +60,17 @@ def letters(text):
 # Wiki subsets that are printings only, never Gemp blueprints: foil and rare foil
 IGNORED_SUBSETS = {"F", "RF"}
 
+# A card's Cargo row is stored on the Data subpage of the card's own page, in the Data namespace:
+# "Data:<card page>/Data". A few rows still sit on the subpage in the main namespace, "<card page>/Data".
+DATA_PAGE = re.compile(r"^(Data:)?(.+)/Data$")
+# The punctuation MediaWiki leaves as it is in a page address (wfUrlencode); everything else is percent-encoded
+PAGE_ADDRESS_SAFE = ";@$!*(),/~:"
+
+
+def page_url(pages, title):
+    """A wiki page's address as the wiki writes it: Slopes of Amon Hen (1U361) -> .../Slopes_of_Amon_Hen_(1U361)."""
+    return pages + urllib.parse.quote(title.replace(" ", "_"), safe=PAGE_ADDRESS_SAFE)
+
 
 
 def same_title(a, b):
@@ -107,6 +119,8 @@ class Build:
         self.report = collections.defaultdict(list)
         self.card_ranges = config["sets"]["cards"]
         self.errata_ranges = config["sets"]["errata"]
+        self.wiki_pages = config["wiki"]["pages"]
+        self._wiki_urls = {}
 
     # ---- wiki indexes ----
 
@@ -155,7 +169,8 @@ class Build:
             self.wiki_for[base] = found[0][1]
             base_portrait = self._base_portrait(found[0][1])
             for gemp_id, card in found[1:]:
-                alt = {"wikiId": card["ID"], "gempId": gemp_id, "subset": card["Subset"], "collInfo": card["CollInfo"]}
+                alt = {"wikiId": card["ID"], **self._wiki_url(card), "gempId": gemp_id, "subset": card["Subset"],
+                       "collInfo": card["CollInfo"]}
                 release = self._base_release(card) or {}
                 images = self._images(release, base_portrait)
                 if images:
@@ -168,6 +183,17 @@ class Build:
                 continue
             if not wiki_gemp_ids(card) and card.get("IsPlayable") == "1":
                 self.report["wikiWithoutGempId"].append({"wiki": card["ID"], "title": card["Title"]})
+
+    def _wiki_url(self, card):
+        """{"wikiUrl": the card's wiki page}, from the page its row is stored on; {} when that isn't a Data
+        subpage. A row stored anywhere but Data:<card page>/Data is listed in the report."""
+        if card["ID"] not in self._wiki_urls:
+            match = DATA_PAGE.match(card.get("Page") or "")
+            url = page_url(self.wiki_pages, match.group(2)) if match else None
+            if not match or not match.group(1):
+                self.report["oddDataPage"].append({"wiki": card["ID"], "storedOn": card.get("Page") or None, "wikiUrl": url})
+            self._wiki_urls[card["ID"]] = {"wikiUrl": url} if url else {}
+        return self._wiki_urls[card["ID"]]
 
     def _wanted(self, blueprint_id):
         parts = split_id(blueprint_id)
@@ -308,6 +334,7 @@ class Build:
     def _base_fields(self, card):
         return {
             "wikiId": card["ID"],
+            **self._wiki_url(card),
             "collInfo": card.get("CollInfo") or None,
             "rarity": card.get("Rarity") or None,
             "culture": {"Site": None, "": None}.get(card.get("Culture"), card.get("Culture")),

@@ -1,6 +1,7 @@
 {
   "wiki": {
     "api": "https://wiki.lotrtcgpc.net/api.php",
+    "pages": "https://wiki.lotrtcgpc.net/wiki/",
     "delaySeconds": 2,
     "userAgent": "lotrtcg-card-data build (Players Council; https://github.com/PlayersCouncil/lotrtcg-card-data)",
     "watchNamespaces": [3000, 10, 828]

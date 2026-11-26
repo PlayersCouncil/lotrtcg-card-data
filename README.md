@@ -38,6 +38,7 @@ A card record is keyed by its **Gemp base blueprint ID**:
   - A record's `images` are those of the version its fields describe, with the portrait in effect for that version.
   - Every version, translation and alt carries its own `images`. Revision 0 carries the card's portrait; the others carry a `portrait` only where theirs differs from it.
   - `foil` is found by file name: a foil scan has the clean image's name with only the subset letter changed (`S` to `F`, `O` to `G`; `config.json` → `cdn.tree.foilOf`). Where the wiki's row names the scan itself, as for Masterworks, `1x` is the clean image and the scan is `foil`.
+- `wikiUrl` is the card's page on the wiki, taken from where the wiki stores the card's data (`Data:<page>/Data`), so it is the wiki's own page name. An erratum carries the page of the card it errata; an alt carries its own. Left out when there is no wiki card.
 - `source` is `wiki`, `wiki+gemp` (a PC erratum the wiki has no revision for yet: stats from Gemp) or `gemp` (no wiki card at all).
 
 Pin a commit or tag rather than reading `main` if a consumer needs stable data.
@@ -47,7 +48,7 @@ Pin a commit or tag rather than reading `main` if a consumer needs stable data.
 The scheduled workflow (`.github/workflows/build.yml`) runs daily:
 
 1. **Check** (three small requests): the wiki's newest revision in the Data, Template and Module namespaces, Gemp's latest commits on the card paths, and the CDN manifest's hash. If they match `data/version.json`, it stops there.
-2. **Build** only when something changed: a sparse checkout of Gemp's card files and blueprint mapping, the wiki pull (paced at one request every 2 seconds, since the wiki rate-limits; cached by wiki revision), then the data and the report.
+2. **Build** only when something changed: a sparse checkout of Gemp's card files and blueprint mapping, the wiki pull (paced at one request every 2 seconds, since the wiki rate-limits; cached by wiki revision and by the fields the build asks for), then the data and the report.
 3. **Commit** `data/` if the output changed.
 
 Run it from the Actions tab (with "force" to rebuild regardless).
@@ -79,4 +80,4 @@ the next scheduled check rebuild. Remove the file and the build removes the copy
 
 ## The report
 
-`data/report.md` compares every value the wiki and Gemp both describe: title, subtitle, uniqueness, card type, culture, side, twilight or shadow number, strength, vitality and resistance, ring-bearer, signet, site number and home sites, block, arrow direction, and the printed bonuses on possessions, artifacts, conditions and followers. It also lists Gemp keywords, races, item classes and event phases the wiki shows nowhere, game text whose numbers differ, wiki game text with paragraphs run together or markup left in it, and the English cards, versions and alternate printings with no image in the tree. An erratum's values are compared with Gemp's errata blueprint; a difference there means the wiki's revision doesn't record what the erratum changed.
+`data/report.md` compares every value the wiki and Gemp both describe: title, subtitle, uniqueness, card type, culture, side, twilight or shadow number, strength, vitality and resistance, ring-bearer, signet, site number and home sites, block, arrow direction, and the printed bonuses on possessions, artifacts, conditions and followers. It also lists Gemp keywords, races, item classes and event phases the wiki shows nowhere, game text whose numbers differ, wiki game text with paragraphs run together or markup left in it, the English cards, versions and alternate printings with no image in the tree, and wiki cards whose data isn't stored on `Data:<card page>/Data`. An erratum's values are compared with Gemp's errata blueprint; a difference there means the wiki's revision doesn't record what the erratum changed.

@@ -33,6 +33,7 @@
         "errataId": { "$ref": "#/$defs/gempId", "description": "On a card: its PC errata blueprint, if any" },
         "source": { "enum": ["wiki", "wiki+gemp", "gemp"], "description": "wiki: from the wiki. wiki+gemp: an erratum the wiki has no PC revision for, stats from Gemp. gemp: no wiki card, Gemp's own fields" },
         "wikiId": { "type": "string", "description": "The wiki card (revision 0), e.g. LOTR-EN01S050.0" },
+        "wikiUrl": { "type": "string", "description": "The card's page on the wiki. On an erratum: the page of the card it errata. Absent without a wiki card" },
         "wikiVersion": { "type": ["string", "null"], "description": "On an erratum: the wiki revision it reflects" },
         "collInfo": { "$ref": "#/$defs/text" },
         "rarity": { "$ref": "#/$defs/text" },
@@ -68,6 +69,7 @@
           "description": "Other English printings of this card on the wiki (alternate printings)",
           "items": { "type": "object", "required": ["wikiId", "gempId"], "properties": {
             "wikiId": { "type": "string" }, "gempId": { "$ref": "#/$defs/gempId" },
+            "wikiUrl": { "type": "string", "description": "The printing's own page on the wiki" },
             "subset": { "$ref": "#/$defs/text" }, "collInfo": { "$ref": "#/$defs/text" },
             "images": { "$ref": "#/$defs/images", "description": "The printing's own images; portrait only where it differs from the card's" } } }
         },

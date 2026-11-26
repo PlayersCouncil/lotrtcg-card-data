@@ -75,7 +75,7 @@ def cmd_check(args):
     if args.github_output:
         with open(args.github_output, "a", encoding="utf-8") as handle:
             handle.write(f"changed={'true' if changed else 'false'}\n")
-            handle.write(f"wiki_revid={sources['wiki']['revid']}\n")
+            handle.write(f"wiki_cache={wiki.cache_name(sources['wiki']['revid'])}\n")
     return 0
 
 
@@ -91,7 +91,7 @@ def cmd_build(args):
         return 1
 
     # The wiki pull is the slow part; reuse it when the wiki hasn't changed (the workflow caches this folder)
-    cache_file = pathlib.Path(args.wiki_cache) / f"wiki-{sources['wiki']['revid']}.json" if args.wiki_cache else None
+    cache_file = pathlib.Path(args.wiki_cache) / (wiki.cache_name(sources["wiki"]["revid"]) + ".json") if args.wiki_cache else None
     pulled = load_json(cache_file) if cache_file else None
     if pulled is None:
         print("pulling the wiki (paced, a few minutes)...", file=sys.stderr)
@@ -166,7 +166,7 @@ def main(argv=None):
     check.add_argument("--gemp-sha", help="use this Gemp commit instead of asking GitHub")
     build = sub.add_parser("build", help="rebuild data/")
     build.add_argument("--gemp", required=True, help="path to a Gemp checkout")
-    build.add_argument("--wiki-cache", help="folder to keep the raw wiki pull in, keyed by wiki revision")
+    build.add_argument("--wiki-cache", help="folder to keep the raw wiki pull in, keyed by wiki revision and by the fields asked for")
     build.add_argument("--manifest", help="use this CDN manifest file instead of fetching it")
     build.add_argument("--out", help="output folder (default: data/)")
     build.add_argument("--gemp-sha", help="the Gemp commit checked out at --gemp, instead of asking GitHub")
