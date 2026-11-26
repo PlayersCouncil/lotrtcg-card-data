@@ -1,6 +1,6 @@
 # Card data report
 
-Wiki revision 131529, Gemp `master`, CDN manifest `5969afbc2164`.
+Wiki revision 131529, Gemp `master`, CDN manifest `172533fcd7fc`.
 
 Where the wiki, Gemp and the CDN disagree. Fix the source (usually the wiki) and the next build picks it up.
 
@@ -191,7 +191,7 @@ None.
 
 None.
 
-## Images Gemp references that aren't on the CDN (0)
+## English cards, versions and alternate printings with no image in the tree (0)
 
 None.
 

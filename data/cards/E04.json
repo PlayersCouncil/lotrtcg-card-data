@@ -23,7 +23,11 @@
    "gameText": "Tale. When you play this condition, reveal the top 6 cards of your draw deck and stack them here. Fellowship: Spot a Dwarf and discard the top card of your draw deck to take a Free Peoples card stacked here into hand. Fellowship: Spot a Dwarf to discard the top 5 cards of your draw deck.",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN04S046.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E046.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S046.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S046.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S046.1_card.jpg"
+   }
   },
   {
    "id": "54_47",
@@ -47,7 +51,9 @@
    "gameText": "Plays to your support area. Skirmish: Exert a Dwarf and stack a Free Peoples card from hand here to make that Dwarf unable to take wounds.",
    "lore": "“‘It's a bit tight around the chest.'”",
    "wikiVersion": "LOTR-EN04S047.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E047.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S047.1_card.jpg"
+   }
   },
   {
    "id": "54_65",
@@ -77,7 +83,11 @@
    "gameText": "Valiant. To play, spot an Elf. While Erethon bears a ranged weapon, he is strength +1 and damage +1, and he does not add to the fellowship archery total.",
    "lore": "At close range, Erethón's accuracy is uncanny.",
    "wikiVersion": "LOTR-EN04S065.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E065.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S065.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S065.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S065.1_card.jpg"
+   }
   },
   {
    "id": "54_67",
@@ -107,7 +117,11 @@
    "gameText": "Valiant. To play, spot an Elf. Skirmish: Exert Fereveldir and discard an [ELVEN] token from your condition to wound a minion Fereveldir is skirmishing.",
    "lore": "Thandronen's sons patrol the borders of Lórien together.",
    "wikiVersion": "LOTR-EN04S067.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E067.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S067.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S067.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S067.1_card.jpg"
+   }
   },
   {
    "id": "54_68",
@@ -137,7 +151,11 @@
    "gameText": "Valiant. To play, spot an Elf. Skirmish: Exert Ferevellon to make a minion skirmishing him strength -2.",
    "lore": "The Uruks at Helm's Deep fell to his blade as easily as Goblins from the mountains.",
    "wikiVersion": "LOTR-EN04S068.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E068.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S068.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S068.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S068.1_card.jpg"
+   }
   },
   {
    "id": "54_71",
@@ -167,7 +185,11 @@
    "gameText": "Valiant. While no opponent controls a site, Haldir is strength +2. Regroup: Exert Haldir at a battleground and exert another Elf to liberate a site.",
    "lore": "“‘In days of old, my people stood beside the King of Gondor – we come to honor that allegiance.'”",
    "wikiVersion": "LOTR-EN04S071.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E071.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S071.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S071.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S071.1_card.jpg"
+   }
   },
   {
    "id": "54_73",
@@ -197,7 +219,11 @@
    "gameText": "Archer. Each time a Shadow event or Shadow condition is played, remove (1) for each unbound Hobbit you can spot (limit (2)).",
    "lore": "“‘They are far, far away.... I know in my heart that they have not rested this night.'”",
    "wikiVersion": "LOTR-EN04S073.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E073.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S073.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S073.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S073.2_card.jpg"
+   }
   },
   {
    "id": "54_76",
@@ -226,7 +252,11 @@
    "gameText": "Valiant. Regroup: Exert this companion to make a Shadow player wound a minion.",
    "lore": "Haldir's Elven bowmen were experienced defenders of the borders of the Golden Wood",
    "wikiVersion": "LOTR-EN04S076.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E076.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S076.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S076.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S076.1_card.jpg"
+   }
   },
   {
    "id": "54_78",
@@ -255,7 +285,11 @@
    "gameText": "Valiant. Each minion skirmishing this companion is strength -2 for each wound on that minion.",
    "lore": "Long, curved Elven steel cut down Uruks already weakened by Elven arrows.",
    "wikiVersion": "LOTR-EN04S078.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E078.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S078.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S078.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S078.1_card.jpg"
+   }
   },
   {
    "id": "54_80",
@@ -285,7 +319,11 @@
    "gameText": "Valiant. To play, spot an Elf. The twilight cost of each ranged weapon played on Ordulus is -1.",
    "lore": "Ordulus always has an arrow nocked and a full quiver too.",
    "wikiVersion": "LOTR-EN04S080.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E080.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S080.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S080.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S080.1_card.jpg"
+   }
   },
   {
    "id": "54_81",
@@ -315,7 +353,11 @@
    "gameText": "Valiant. To play, spot an Elf. While Pengedhel bears a ranged weapon, he is strength +2 and he does not add to the fellowship archery total.",
    "lore": "Pengedhel can wield an arrow like a short spear.",
    "wikiVersion": "LOTR-EN04S081.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E081.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S081.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S081.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S081.1_card.jpg"
+   }
   },
   {
    "id": "54_85",
@@ -345,7 +387,11 @@
    "gameText": "Valiant. To play, spot an Elf. Regroup: Exert Thandronen to discard a minion stacked on a condition or stacked on a site.",
    "lore": "The twin sons of Thandronen marched with their father to defend Helm's Deep.",
    "wikiVersion": "LOTR-EN04S085.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E085.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S085.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S085.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S085.1_card.jpg"
+   }
   },
   {
    "id": "54_86",
@@ -375,7 +421,11 @@
    "gameText": "Valiant. To play, spot an Elf. While Thonnas bears a ranged weapon, each minion skirmishing him is strength -2 and Thonnas does not add to the fellowship archery total.",
    "lore": "Elves of Lórien hone their knife-work fighting Goblin raiders.",
    "wikiVersion": "LOTR-EN04S086.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E086.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S086.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S086.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S086.1_card.jpg"
+   }
   },
   {
    "id": "54_92",
@@ -400,7 +450,11 @@
    "lore": "“His hood and grey rags were flung away. His white garments shone.”",
    "subtypes": "Response",
    "wikiVersion": "LOTR-EN04S092.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E092.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S092.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S092.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S092.1_card.jpg"
+   }
   },
   {
    "id": "54_96",
@@ -424,7 +478,9 @@
    "gameText": "Skirmish: Spot Gandalf and 3 twilight tokens to make a companion who has the Gandalf signet unable to take wounds.",
    "lore": "“‘A witless worm you have become.'”",
    "wikiVersion": "LOTR-EN04S096.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E096.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S096.1_card.jpg"
+   }
   },
   {
    "id": "54_97",
@@ -448,7 +504,9 @@
    "gameText": "Spell. Skirmish: Spot Gandalf to make him unable to take wounds. Any Shadow player may make you wound a minion to prevent this.",
    "lore": "“‘His fire was about me. I was burned.'”",
    "wikiVersion": "LOTR-EN04S097.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E097.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S097.1_card.jpg"
+   }
   },
   {
    "id": "54_99",
@@ -472,7 +530,11 @@
    "gameText": "Fellowship or Maneuver: Spot Gandalf to discard a Shadow possession or hinder a Shadow artifact.",
    "lore": "“‘I have not passed through fire and death to bandy crooked words with a serving-man till the lightning falls.'”",
    "wikiVersion": "LOTR-EN04S099.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E099.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S099.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S099.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S099.1_card.jpg"
+   }
   },
   {
    "id": "54_146",
@@ -496,7 +558,11 @@
    "gameText": "Plays to your support area. Maneuver: If you can spot an [ISENGARD] minion, spot a fortification. Make the Free Peoples player distribute X + 1 wounds among your [ISENGARD] minions, where X is its twilight cost. Discard that fortification. Archery: Spot 2 [ISENGARD] archers to make allies take wounds from archery fire instead of companions.",
    "lore": "“‘We are the fighting Uruk-hai.... Bring out your skulking king!'”",
    "wikiVersion": "LOTR-EN04S146.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E146.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S146.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S146.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S146.1_card.jpg"
+   }
   },
   {
    "id": "54_153",
@@ -528,7 +594,11 @@
     "3"
    ],
    "wikiVersion": "LOTR-EN04S153.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E153.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S153.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S153.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S153.1_card.jpg"
+   }
   },
   {
    "id": "54_154",
@@ -560,7 +630,11 @@
     "3"
    ],
    "wikiVersion": "LOTR-EN04S154.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E154.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S154.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S154.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S154.1_card.jpg"
+   }
   },
   {
    "id": "54_192",
@@ -588,7 +662,11 @@
    "gameText": "Damage +1. Shadow: Exert this minion to play an Uruk-hai; its twilight cost is -1 for each other Uruk-hai you can spot (limit -2).",
    "lore": "“‘We are the Uruk-hai; we do not stop the fight for night or day, for fair weather or for storm.'”",
    "wikiVersion": "LOTR-EN04S192.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/54_192.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S192.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S192.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S192.1_card.jpg"
+   }
   },
   {
    "id": "54_245",
@@ -619,7 +697,11 @@
     "4"
    ],
    "wikiVersion": "LOTR-EN04S245.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E245.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S245.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S245.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S245.1_card.jpg"
+   }
   },
   {
    "id": "54_276",
@@ -644,7 +726,11 @@
    "lore": "“‘...it was the spirit of your people that held it strong.'”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN04S276.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E276.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S276.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S276.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S276.2_card.jpg"
+   }
   },
   {
    "id": "54_280",
@@ -671,7 +757,11 @@
    "gameText": "Bearer must be Theoden. He is damage +1.",
    "lore": "“‘Here, lord, is Herugrim, your ancient blade....'”",
    "wikiVersion": "LOTR-EN04S280.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E280.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S280.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S280.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S280.1_card.jpg"
+   }
   },
   {
    "id": "54_289",
@@ -696,7 +786,11 @@
    "lore": "“‘How fair are the bright eyes in the grass! Evermind they are called... for they blossom in all seasons of the year, and grow where dead men rest.'”",
    "subtypes": "Fellowship",
    "wikiVersion": "LOTR-EN04S289.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E289.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S289.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S289.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S289.1_card.jpg"
+   }
   },
   {
    "id": "54_304",
@@ -720,7 +814,11 @@
    "gameText": "Fellowship: Spot 2 Ring-bound Hobbits (or Smeagol) and add 2 burdens to play the fellowship's next 2 sites (replacing opponent's sites if necessary).",
    "lore": "“‘The Dead can't be really there! Is it some devilry hatched in the Dark Land?'”",
    "wikiVersion": "LOTR-EN04S304.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/54_304.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S304.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S304.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S304.1_card.jpg"
+   }
   },
   {
    "id": "54_355",
@@ -749,7 +847,11 @@
    ],
    "twilight": 7,
    "wikiVersion": "LOTR-EN04S355.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN04E355.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/04/LOTR-EN04S355.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/04/LOTR-EN04S355.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/04/LOTR-EN04S355.1_card.jpg"
+   }
   }
  ]
 }

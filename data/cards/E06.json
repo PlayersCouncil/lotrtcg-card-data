@@ -24,7 +24,11 @@
    "lore": "The rabble of Dunland pillaged their way across the Mark.",
    "subtypes": "Response",
    "wikiVersion": "LOTR-EN06S008.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN06E008.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S008.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/06/LOTR-EN06S008.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S008.1_card.jpg"
+   }
   },
   {
    "id": "56_16",
@@ -49,7 +53,11 @@
    "lore": "“‘Give them a volley.'”",
    "subtypes": "Skirmish",
    "wikiVersion": "LOTR-EN06S016.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN06E016.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S016.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/06/LOTR-EN06S016.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S016.1_card.jpg"
+   }
   },
   {
    "id": "56_22",
@@ -78,7 +86,11 @@
    "gameText": "Valiant. To play, spot 3 Elf companions. Skirmish: Exert Naith Troop to discard the top card of your draw deck. If it is an [ELVEN] card, make a minion skirmishing Naith Troop strength -2.",
    "lore": "Now only the bow and the sword can forestall the coming of the Shadow.",
    "wikiVersion": "LOTR-EN06S022.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN06E022.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S022.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/06/LOTR-EN06S022.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S022.1_card.jpg"
+   }
   },
   {
    "id": "56_23",
@@ -107,7 +119,11 @@
    "gameText": "Valiant. To play, spot 3 Elf companions. While Naith Warband bears a ranged weapon, it takes no more than 1 wound during each skirmish phase and does not add to the fellowship archery total.",
    "lore": "“‘But do not think that only by singing amid the trees... is Lothlórien maintained and defended....'”",
    "wikiVersion": "LOTR-EN06S023.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN06E023.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/06/LOTR-EN06S023.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/06/LOTR-EN06S023.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/06/LOTR-EN06S023.1_card.jpg"
+   }
   }
  ]
 }

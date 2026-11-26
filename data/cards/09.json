@@ -38,8 +38,12 @@
       "gameText": "Fellowship: Add 2 burdens to play a ring from your draw deck. Maneuver: Exert bearer to wear The One Ring until the regroup phase. While wearing The One Ring, each time the Ring-bearer is about to take a wound, add a burden instead.",
       "lore": "“One Ring to bring them all....”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09001.jpg",
-     "wikiImage": "LOTR-EN09S001.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S001.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S001.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S001.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F001.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -53,7 +57,6 @@
       "subtitle": "... und ewig zu binden",
       "lore": "\"Ins Dunkel zu treiben....\""
      },
-     "wikiImage": "LOTR-DE09F001.0_card.jpg",
      "physical": false
     },
     {
@@ -62,7 +65,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F001.0_card.jpg",
      "physical": false
     },
     {
@@ -71,20 +73,27 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F001.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09001.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S001.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S001.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S001.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F001.0_card.jpg"
+   },
+   "reprints": [
     "0_68"
    ],
-   "printings": [
+   "alts": [
     {
      "wikiId": "LOTR-EN00S068.0",
      "gempId": "0_68",
      "subset": "S",
-     "collInfo": "0P68"
+     "collInfo": "0P68",
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S068.0_card.jpg"
+     }
     }
    ]
   },
@@ -135,8 +144,12 @@
       "gameText": "When you play Freca, you may spot another [DUNLAND] Man to take control of a site. When Freca is killed, the Free Peoples player may liberate a site.",
       "lore": "“‘We will die for Saruman.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09002.jpg",
-     "wikiImage": "LOTR-EN09S002.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S002.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S002.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S002.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F002.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -149,7 +162,6 @@
       "subtitle": "Hungriger Wilder",
       "lore": "\"Auf in den Tod für Saruman!\""
      },
-     "wikiImage": "LOTR-DE09F002.0_card.jpg",
      "physical": false
     },
     {
@@ -158,7 +170,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F002.0_card.jpg",
      "physical": false
     },
     {
@@ -167,15 +178,19 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F002.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09002.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S002.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S002.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S002.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F002.0_card.jpg"
+   },
+   "reprints": [
     "9_60"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "9_3",
@@ -226,8 +241,12 @@
       "gameText": "Damage +1. While you can spot 2 Dwarves, Durin III is twilight cost -2. Durin III is strength +1 for each artifact and each possession he bears.",
       "lore": "“Durin is the name that the Dwarves used for the eldest of the Seven Fathers of their race....”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09003.jpg",
-     "wikiImage": "LOTR-EN09S003.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S003.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S003.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S003.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F003.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -241,7 +260,6 @@
       "subtitle": "Zwergenkönig",
       "lore": "Durin ist der Name, den die Zwerge für den ältesten der Sieben Väter ihrer Rasse... gebrauchten."
      },
-     "wikiImage": "LOTR-DE09F003.0_card.jpg",
      "physical": false
     },
     {
@@ -250,7 +268,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F003.0_card.jpg",
      "physical": false
     },
     {
@@ -259,15 +276,19 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F003.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09003.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S003.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S003.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S003.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F003.0_card.jpg"
+   },
+   "reprints": [
     "9_55"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "9_4",
@@ -318,8 +339,12 @@
       "gameText": "Damage +1. While Gimli is the Ring-bearer, at the start of each skirmish involving him, add 2 burdens or 2 threats. While Gimli is damage +X, he is resistance +X.",
       "lore": "“‘Never trust an Elf.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09004.jpg",
-     "wikiImage": "LOTR-EN09S004.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S004.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S004.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S004.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F004.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S004.1",
@@ -338,8 +363,11 @@
       "resistance": 5,
       "gameText": "Damage +1. While Gimli is the Ring-bearer, at the start of each skirmish involving him, add 2 burdens or 2 threats. While Gimli is damage +X, he is resistance +X."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E004.1_card.jpg",
-     "wikiImage": "LOTR-EN09S004.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S004.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S004.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S004.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -352,7 +380,6 @@
       "subtitle": "Grollheger",
       "lore": "\"Niemand traut einem Elben!\""
      },
-     "wikiImage": "LOTR-DE09F004.0_card.jpg",
      "physical": false
     },
     {
@@ -361,7 +388,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F004.0_card.jpg",
      "physical": false
     },
     {
@@ -370,15 +396,19 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F004.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09004.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S004.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S004.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S004.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F004.0_card.jpg"
+   },
+   "reprints": [
     "9_56"
    ],
-   "printings": [],
+   "alts": [],
    "errataId": "59_4"
   },
   {
@@ -430,8 +460,12 @@
       "gameText": "Each time a Dwarf wins a fierce skirmish, you may heal that Dwarf. Skirmish: Discard a [DWARVEN] card from hand to make a Dwarf damage +1.",
       "lore": "“...they were joined by great forces sent from the Houses of the other Fathers....”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09005.jpg",
-     "wikiImage": "LOTR-EN09S005.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S005.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S005.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S005.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F005.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -445,7 +479,6 @@
       "subtitle": "Zwergenkönig",
       "lore": "...und ihnen schlossen sich starke Kräfte an, die von den Häusern der anderen Väter entsandt wurden..."
      },
-     "wikiImage": "LOTR-DE09F005.0_card.jpg",
      "physical": false
     },
     {
@@ -454,7 +487,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F005.0_card.jpg",
      "physical": false
     },
     {
@@ -463,13 +495,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F005.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09005.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S005.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S005.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S005.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F005.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_6",
@@ -510,8 +546,12 @@
       "arrowDirection": "None",
       "gameText": "Bearer must be a Dwarf. Bearer is damage +1. Maneuver: For each Dwarf you spot, reveal a card from the top of your draw deck. Take all Free Peoples cards revealed into hand and discard the rest. Discard this artifact."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09006.jpg",
-     "wikiImage": "LOTR-EN09S006.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S006.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S006.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S006.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F006.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -523,7 +563,6 @@
      "fields": {
       "title": "Der Ring des Wachstums"
      },
-     "wikiImage": "LOTR-DE09F006.0_card.jpg",
      "physical": false
     },
     {
@@ -532,7 +571,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F006.0_card.jpg",
      "physical": false
     },
     {
@@ -541,13 +579,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F006.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09006.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S006.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S006.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S006.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F006.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_7",
@@ -590,8 +632,12 @@
       "gameText": "Bearer must be a Dwarf. Bearer is damage +2. Regroup: Spot a Dwarf that is damage +X to heal X Dwarves. Discard this artifact.",
       "lore": "“‘Azog! If you are in come out! Or is the play in the valley too rough?'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09007.jpg",
-     "wikiImage": "LOTR-EN09S007.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S007.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S007.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S007.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F007.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -604,7 +650,6 @@
       "title": "Der Ring des Zorns",
       "lore": "\"Azog! Wenn du drinnen bist, komm heraus! Oder ist der Waffengang im Tal zu roh?\""
      },
-     "wikiImage": "LOTR-DE09F007.0_card.jpg",
      "physical": false
     },
     {
@@ -613,7 +658,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F007.0_card.jpg",
      "physical": false
     },
     {
@@ -622,13 +666,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F007.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09007.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S007.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S007.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S007.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F007.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_8",
@@ -671,8 +719,12 @@
       "gameText": "Bearer must be a Dwarf. Bearer is damage +1. Maneuver: Take a [DWARVEN] event into hand from your discard pile. Discard this artifact.",
       "lore": "“But, as Thrór had said, the Ring needed gold to breed gold....”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09008.jpg",
-     "wikiImage": "LOTR-EN09S008.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S008.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S008.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S008.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F008.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -685,7 +737,6 @@
       "title": "Der Ring der List",
       "lore": "Doch wie Thrór gesagt hatte: Der Ring brauchte Gold, um Gold zu hecken..."
      },
-     "wikiImage": "LOTR-DE09F008.0_card.jpg",
      "physical": false
     },
     {
@@ -694,7 +745,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F008.0_card.jpg",
      "physical": false
     },
     {
@@ -703,13 +753,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F008.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09008.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S008.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S008.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S008.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F008.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_9",
@@ -754,8 +808,12 @@
       "gameText": "Bearer must be a Dwarf. Response: If bearer wins a skirmish, discard this artifact to exert each Orc.",
       "lore": "“‘We fought this war for vengeance, and vengeance we have taken. But it is not sweet.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09009.jpg",
-     "wikiImage": "LOTR-EN09S009.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S009.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S009.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S009.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F009.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -768,7 +826,6 @@
       "title": "Der Ring der Vergeltung",
       "lore": "\"Wir führten diesen Krieg um der Rache willen, und Rache haben wir genommen. Aber sie ist nicht süß\""
      },
-     "wikiImage": "LOTR-DE09F009.0_card.jpg",
      "physical": false
     },
     {
@@ -777,7 +834,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F009.0_card.jpg",
      "physical": false
     },
     {
@@ -786,13 +842,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F009.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09009.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S009.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S009.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S009.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F009.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_10",
@@ -843,8 +903,12 @@
       "gameText": "You may play [DWARVEN] skirmish events stacked on [DWARVEN] conditions as if from hand.",
       "lore": "“Concerning the beginning of the Dwarves strange tales are told both by the Eldar and by the Dwarves themselves....”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09010.jpg",
-     "wikiImage": "LOTR-EN09S010.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S010.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S010.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S010.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F010.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -858,7 +922,6 @@
       "subtitle": "Zwergenkönig",
       "lore": "Über die Anfänge der Zwerge werden seltsame Geschichten erzählt, sowohl von den Eldar als auch von den Zwergen selbst..."
      },
-     "wikiImage": "LOTR-DE09F010.0_card.jpg",
      "physical": false
     },
     {
@@ -867,7 +930,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F010.0_card.jpg",
      "physical": false
     },
     {
@@ -876,13 +938,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F010.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09010.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S010.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S010.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S010.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F010.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_11",
@@ -933,8 +999,12 @@
       "gameText": "Skirmish: If Uri is damage +X, exert him to make him strength +X.",
       "lore": "“...the Dwarves had the victory through their strength, and their matchless weapons, and the fire of their anger, as they hunted for Azog in every den under mountain.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09011.jpg",
-     "wikiImage": "LOTR-EN09S011.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S011.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S011.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S011.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F011.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -948,7 +1018,6 @@
       "subtitle": "Zwergenkönig",
       "lore": "Aber die Zwerge waren siegreich durch ihre Stärke, ihre unvergleichlichen Waffen und ihre rasende Wut, als sie in jeder Höhle unter dem Gebirge nach Azog jagten."
      },
-     "wikiImage": "LOTR-DE09F011.0_card.jpg",
      "physical": false
     },
     {
@@ -957,7 +1026,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F011.0_card.jpg",
      "physical": false
     },
     {
@@ -966,13 +1034,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F011.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09011.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S011.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S011.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S011.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F011.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_12",
@@ -1015,8 +1087,12 @@
       "gameText": "Bearer must be an Elf. If bearer is Gil-galad, he is strength +1 for each [ELVEN] artifact you can spot (limit +6). Regroup: Discard Aiglos to wound a minion for each Elf you spot.",
       "lore": "“‘...for the Spear of Gil-galad... none could withstand.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09012.jpg",
-     "wikiImage": "LOTR-EN09S012.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S012.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S012.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S012.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F012.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1028,7 +1104,6 @@
      "fields": {
       "lore": "\"Denn dem Speer von Gil-galad... konnte niemand widerstehen.\""
      },
-     "wikiImage": "LOTR-DE09F012.0_card.jpg",
      "physical": false
     },
     {
@@ -1037,7 +1112,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F012.0_card.jpg",
      "physical": false
     },
     {
@@ -1046,13 +1120,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F012.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09012.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S012.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S012.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S012.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F012.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_13",
@@ -1091,8 +1169,12 @@
       "gameText": "To play, spot an Elf. Bearer must be an Elf or Hobbit. Maneuver: Discard this possession to make a Shadow player return a minion with strength 6 or less to its owner's hand.",
       "lore": "“‘It freezes, it bites! Elves twisted it, curse them!'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09013.jpg",
-     "wikiImage": "LOTR-EN09S013.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S013.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S013.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S013.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F013.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1105,7 +1187,6 @@
       "title": "Elbenseil",
       "lore": "\"Es ist eiskalt, es schneidet ein. Elben haben es zusammengedreht, verflucht sollen sie sein!\""
      },
-     "wikiImage": "LOTR-DE09F013.0_card.jpg",
      "physical": false
     },
     {
@@ -1114,7 +1195,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F013.0_card.jpg",
      "physical": false
     },
     {
@@ -1123,13 +1203,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F013.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09013.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S013.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S013.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S013.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F013.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_14",
@@ -1180,8 +1264,12 @@
       "gameText": "While Galadriel bears an artifact or The One Ring, she is resistance +1 for each [ELVEN] companion you can spot.",
       "lore": "“‘...I shall not be dark, but beautiful and terrible as the Morning and the Night!...Dreadful as the Storm and the Lightning!'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09014.jpg",
-     "wikiImage": "LOTR-EN09S014.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S014.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S014.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S014.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F014.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S014.1",
@@ -1200,8 +1288,11 @@
       "resistance": 4,
       "gameText": "While Galadriel bears an artifact or The One Ring, she is resistance +1 for each [ELVEN] companion you can spot."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E014.1_card.jpg",
-     "wikiImage": "LOTR-EN09S014.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S014.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S014.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S014.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1214,7 +1305,6 @@
       "subtitle": "Hüterin des Wissens",
       "lore": "\"...ich werde nicht dunkel sein, sondern schön und entsetzlich wie der Morgen und die Nacht! (...) Grausam wie der Sturm und der Blitz!\""
      },
-     "wikiImage": "LOTR-DE09F014.0_card.jpg",
      "physical": false
     },
     {
@@ -1223,7 +1313,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F014.0_card.jpg",
      "physical": false
     },
     {
@@ -1232,15 +1321,19 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F014.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09014.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S014.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S014.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S014.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F014.0_card.jpg"
+   },
+   "reprints": [
     "9_54"
    ],
-   "printings": [],
+   "alts": [],
    "errataId": "59_14"
   },
   {
@@ -1292,8 +1385,12 @@
       "gameText": "To play, spot 2 [ELVEN] companions. Regroup: Exert Gil-Galad to wound each wounded minion.",
       "lore": "“‘Gil-galad was an Elven-king. / Of him the harpers sadly sing: / the last whose realm was fair and free / between the Mountains and the Sea.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09015.jpg",
-     "wikiImage": "LOTR-EN09S015.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S015.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S015.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S015.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F015.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1306,7 +1403,6 @@
       "subtitle": "Hoher König der Elben",
       "lore": "\"Gil-galad war ein Elbenfürst, / Die Harfe klagt im Liede noch: / Von Berg und Meer umfriedet lag / Sein Reich im Glanz und ohne Joch"
      },
-     "wikiImage": "LOTR-DE09F015.0_card.jpg",
      "physical": false
     },
     {
@@ -1315,7 +1411,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F015.0_card.jpg",
      "physical": false
     },
     {
@@ -1324,13 +1419,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F015.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09015.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S015.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S015.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S015.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F015.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_16",
@@ -1379,8 +1478,12 @@
       "arrowDirection": "None",
       "gameText": "When Glorfindel is in your starting fellowship, his twilight cost is -2. Skirmish: Reveal the top card of your draw deck. You may exert Glorfindel to make a Nazgul he is skirmishing strength -X, where X is the twilight cost of the card revealed."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09016.jpg",
-     "wikiImage": "LOTR-EN09S016.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S016.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S016.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S016.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F016.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S016.1",
@@ -1391,8 +1494,11 @@
      "fields": {
       "gameText": "Skirmish: Reveal the top card of your draw deck. You may exert Glorfindel to make a Nazgul he is skirmishing strength -X, where X is the twilight cost of the card revealed."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E016.1_card.jpg",
-     "wikiImage": "LOTR-EN09S016.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S016.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S016.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S016.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1404,7 +1510,6 @@
      "fields": {
       "subtitle": "Im Zorn enthüllt"
      },
-     "wikiImage": "LOTR-DE09F016.0_card.jpg",
      "physical": false
     },
     {
@@ -1413,7 +1518,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F016.0_card.jpg",
      "physical": false
     },
     {
@@ -1422,20 +1526,27 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F016.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09016.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S016.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S016.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S016.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F016.0_card.jpg"
+   },
+   "reprints": [
     "0_50"
    ],
-   "printings": [
+   "alts": [
     {
      "wikiId": "LOTR-EN00S050.0",
      "gempId": "0_50",
      "subset": "S",
-     "collInfo": "0P50"
+     "collInfo": "0P50",
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S050.0_card.jpg"
+     }
     }
    ],
    "errataId": "59_16"
@@ -1481,8 +1592,12 @@
       "gameText": "Bearer must be a [GONDOR] Man. If bearer is Aragorn, he may bear this hand weapon in addition to 1 other hand weapon. Skirmish: Discard this weapon to wound a minion bearer is skirmishing.",
       "lore": "“It was overlaid with a tracery of flowers and leaves wrought of silver and gold....”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09017.jpg",
-     "wikiImage": "LOTR-EN09S017.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S017.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S017.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S017.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F017.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1495,7 +1610,6 @@
       "title": "Messer der Galadrim",
       "lore": "Sie war überzogen mit Flechtwerk aus goldenen und silbernen Blüten und Blättern..."
      },
-     "wikiImage": "LOTR-DE09F017.0_card.jpg",
      "physical": false
     },
     {
@@ -1504,7 +1618,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F017.0_card.jpg",
      "physical": false
     },
     {
@@ -1513,13 +1626,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F017.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09017.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S017.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S017.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S017.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F017.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_18",
@@ -1562,8 +1679,12 @@
       "gameText": "Bearer must be Merry. Skirmish: Exert Merry twice or discard this possession to wound a minion he is skirmishing. Any Shadow player may remove (1) to prevent this.",
       "lore": "“‘They have already seen service in war.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09018.jpg",
-     "wikiImage": "LOTR-EN09S018.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S018.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S018.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S018.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F018.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1576,7 +1697,6 @@
       "title": "Merrys Dolch",
       "lore": "\"Sie sind bereits in Schlachten getragen worden.\""
      },
-     "wikiImage": "LOTR-DE09F018.0_card.jpg",
      "physical": false
     },
     {
@@ -1585,7 +1705,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F018.0_card.jpg",
      "physical": false
     },
     {
@@ -1594,13 +1713,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F018.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09018.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S018.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S018.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S018.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F018.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_19",
@@ -1645,8 +1768,12 @@
       "gameText": "Bearer must be Cirdan or Gandalf. Fellowship: Remove X culture tokens, where X is equal to bearer?s vitality. Discard this artifact.",
       "lore": "“...the Third Ring, Narya the Great, and the stone upon it was red as fire.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09019.jpg",
-     "wikiImage": "LOTR-EN09S019.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S019.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S019.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S019.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F019.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1659,7 +1786,6 @@
       "subtitle": "Der Ring des Feuers",
       "lore": "...den Dritten Ring trug; Narya den Großen, und der Stein auf ihm war rot wie Feuer."
      },
-     "wikiImage": "LOTR-DE09F019.0_card.jpg",
      "physical": false
     },
     {
@@ -1668,7 +1794,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F019.0_card.jpg",
      "physical": false
     },
     {
@@ -1677,13 +1802,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F019.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09019.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S019.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S019.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S019.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F019.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_20",
@@ -1728,8 +1857,12 @@
       "gameText": "Bearer must be Galadriel. Maneuver: Heal 2 companions and place up to 2 cards from hand on top of your draw deck. Discard this artifact.",
       "lore": "“...Nenya, the ring wrought of mithril, that bore a single white stone flickering like a frosty star.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09020.jpg",
-     "wikiImage": "LOTR-EN09S020.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S020.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S020.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S020.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F020.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1742,7 +1875,6 @@
       "subtitle": "Der Ring von Adamant",
       "lore": "...Nenya, der aus mithril gearbeitete Ring; er hatte einen einzigen weißen Stein, der wie ein frostiger Stern funkelte."
      },
-     "wikiImage": "LOTR-DE09F020.0_card.jpg",
      "physical": false
     },
     {
@@ -1751,7 +1883,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F020.0_card.jpg",
      "physical": false
     },
     {
@@ -1760,13 +1891,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F020.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09020.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S020.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S020.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S020.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F020.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_21",
@@ -1809,8 +1944,12 @@
       "gameText": "Bearer must be Pippin. Skirmish: Exert Pippin twice or discard this possession to wound a minion an Elf is skirmishing. Any Shadow player may remove (1) to prevent this.",
       "lore": "“‘These are the daggers of the Noldorin.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09021.jpg",
-     "wikiImage": "LOTR-EN09S021.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S021.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S021.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S021.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F021.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1823,7 +1962,6 @@
       "title": "Pippins Dolch",
       "lore": "\"Dies sind Dolche der Noldor.\""
      },
-     "wikiImage": "LOTR-DE09F021.0_card.jpg",
      "physical": false
     },
     {
@@ -1832,7 +1970,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F021.0_card.jpg",
      "physical": false
     },
     {
@@ -1841,13 +1978,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F021.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09021.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S021.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S021.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S021.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F021.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_22",
@@ -1886,8 +2027,12 @@
       "arrowDirection": "None",
       "gameText": "To play, spot a Dwarf. When you play this possession, add 2 [ELVEN] tokens here. Fellowship: Discard this possession or remove an [ELVEN] token from here to reveal the top card of your draw deck. If it is a [DWARVEN] or [ELVEN] card, you may take it into hand."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09022.jpg",
-     "wikiImage": "LOTR-EN09S022.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S022.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S022.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S022.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F022.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1899,7 +2044,6 @@
      "fields": {
       "title": "Locken aus Elbenhaar"
      },
-     "wikiImage": "LOTR-DE09F022.0_card.jpg",
      "physical": false
     },
     {
@@ -1908,7 +2052,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F022.0_card.jpg",
      "physical": false
     },
     {
@@ -1917,13 +2060,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F022.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09022.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S022.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S022.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S022.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F022.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_23",
@@ -1968,8 +2115,12 @@
       "gameText": "Bearer must be Elrond or Gil-galad. Skirmish: Discard the top card of your draw deck. Make a minion skirmishing an Elf strength -X, where X is the twilight cost of the discarded card. Discard this artifact.",
       "lore": "“Gil-galad before he died gave his ring to Elrond....”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09023.jpg",
-     "wikiImage": "LOTR-EN09S023.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S023.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S023.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S023.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F023.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -1982,7 +2133,6 @@
       "subtitle": "Der Ring der Luft",
       "lore": "Ehe er starb, gab Gil-galad seinen Ring an Elrond...."
      },
-     "wikiImage": "LOTR-DE09F023.0_card.jpg",
      "physical": false
     },
     {
@@ -1991,7 +2141,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F023.0_card.jpg",
      "physical": false
     },
     {
@@ -2000,13 +2149,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F023.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09023.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S023.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S023.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S023.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F023.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_24",
@@ -2047,8 +2200,12 @@
       "gameText": "To play, spot an Ent. Bearer must be a companion. Limit 1 per bearer. Skirmish: Exert bearer to make him or her damage +1.",
       "lore": "“Indeed the hobbits felt that the hair on their heads was actually standing up, waving and curling and growing.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09024.jpg",
-     "wikiImage": "LOTR-EN09S024.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S024.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S024.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S024.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F024.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2061,7 +2218,6 @@
       "title": "Ent-Trunk",
       "lore": "Die Hobbits merkten geradezu, wie sich ihre Haare aufrichteten, sich wellten und kräuselten und wuchsen."
      },
-     "wikiImage": "LOTR-DE09F024.0_card.jpg",
      "physical": false
     },
     {
@@ -2070,7 +2226,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F024.0_card.jpg",
      "physical": false
     },
     {
@@ -2079,13 +2234,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F024.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09024.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S024.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S024.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S024.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F024.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_25",
@@ -2134,8 +2293,12 @@
       "gameText": "Damage +1. This companion is strength +1 for each Ent you spot. Response: If this companion is about to take a wound, exert an Ent to prevent that.",
       "lore": "“‘...the Forest itself was moving behind us.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09025.jpg",
-     "wikiImage": "LOTR-EN09S025.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S025.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S025.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S025.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F025.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2147,7 +2310,6 @@
      "fields": {
       "lore": "\"...dass der Wald selbst hinter uns herging.\""
      },
-     "wikiImage": "LOTR-DE09F025.0_card.jpg",
      "physical": false
     },
     {
@@ -2156,7 +2318,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F025.0_card.jpg",
      "physical": false
     },
     {
@@ -2165,13 +2326,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F025.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09025.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S025.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S025.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S025.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F025.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_26",
@@ -2222,8 +2387,12 @@
       "gameText": "The move limit is +1. Each time the fellowship moves during the regroup phase, each opponent may discard 2 cards to draw 2 cards.",
       "lore": "“‘...a master of shapes and changes of hue; and he has much lore of herbs and beasts....'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09026.jpg",
-     "wikiImage": "LOTR-EN09S026.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S026.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S026.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S026.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F026.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S026.1",
@@ -2236,8 +2405,11 @@
       "strength": 7,
       "gameText": "The move limit is +1. When Radagast leaves play, this bonus is immediately lost. Each time the fellowship moves, each opponent may discard 2 cards from hand to draw 2 cards."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E026.1_card.jpg",
-     "wikiImage": "LOTR-EN09S026.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S026.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S026.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S026.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2249,7 +2421,6 @@
      "fields": {
       "subtitle": "Der Braune"
      },
-     "wikiImage": "LOTR-DE09F026.0_card.jpg",
      "physical": false
     },
     {
@@ -2258,7 +2429,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F026.0_card.jpg",
      "physical": false
     },
     {
@@ -2267,20 +2437,27 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F026.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09026.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S026.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S026.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S026.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F026.0_card.jpg"
+   },
+   "reprints": [
     "0_51"
    ],
-   "printings": [
+   "alts": [
     {
      "wikiId": "LOTR-EN00S051.0",
      "gempId": "0_51",
      "subset": "S",
-     "collInfo": "0P51"
+     "collInfo": "0P51",
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S051.0_card.jpg"
+     }
     }
    ],
    "errataId": "59_26"
@@ -2324,8 +2501,12 @@
       "gameText": "Skirmish: Discard this condition to discard each minion skirmishing a Wizard. Place that Wizard in your dead pile. Fellowship or Regroup: Play a Wizard (even if another copy of that Wizard is in your dead pile).",
       "lore": "“‘The Sun shines through you.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09027.jpg",
-     "wikiImage": "LOTR-EN09S027.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S027.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S027.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S027.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F027.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S027.1",
@@ -2336,8 +2517,11 @@
      "fields": {
       "gameText": "Skirmish: Discard this condition to discard each minion skirmishing your Wizard. Place that Wizard in your dead pile. Fellowship: Play a Wizard (even if another copy of that Wizard is in your dead pile)."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E027.1_card.jpg",
-     "wikiImage": "LOTR-EN09S027.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S027.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S027.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S027.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2350,7 +2534,6 @@
       "title": "Zurück geschickt",
       "lore": "\"Die Sonne scheint durch dich hindurch.\""
      },
-     "wikiImage": "LOTR-DE09F027.0_card.jpg",
      "physical": false
     },
     {
@@ -2359,7 +2542,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F027.0_card.jpg",
      "physical": false
     },
     {
@@ -2368,13 +2550,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F027.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09027.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S027.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S027.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S027.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F027.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "59_27"
   },
   {
@@ -2420,8 +2606,12 @@
       "arrowDirection": "None",
       "gameText": "Shadow: Exert Gollum twice to exert the Ring-bearer. Shadow: Remove a burden to add (1). Skirmish: Remove a burden to add (2). Regroup: Remove a burden to add (3). Regroup: Exert Gollum twice to wound the Ring-bearer."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09028.jpg",
-     "wikiImage": "LOTR-EN09S028.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S028.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S028.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S028.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F028.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2433,7 +2623,6 @@
      "fields": {
       "subtitle": "Schwarz wie die Nacht"
      },
-     "wikiImage": "LOTR-DE09F028.0_card.jpg",
      "physical": false
     },
     {
@@ -2442,7 +2631,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F028.0_card.jpg",
      "physical": false
     },
     {
@@ -2451,15 +2639,19 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F028.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09028.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S028.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S028.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S028.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F028.0_card.jpg"
+   },
+   "reprints": [
     "9_59"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "9_29",
@@ -2500,8 +2692,12 @@
       "gameText": "While Gollum is at a mountain, river, or underground site, he is strength +2. Regroup: Spot Gollum to reveal your hand. Place all Shadow cards revealed beneath your draw deck. Discard this condition.",
       "lore": "“‘I hoped the river-voyage would beat him, but he is too clever a waterman.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09029.jpg",
-     "wikiImage": "LOTR-EN09S029.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S029.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S029.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S029.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F029.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2514,7 +2710,6 @@
       "title": "Glitschig wie ein Fisch",
       "lore": "\"Ich hatte gehofft, bei der Flussfahrt könnten wir ihn abhängen, aber er ist ein zu geschickter Wassermann.\""
      },
-     "wikiImage": "LOTR-DE09F029.0_card.jpg",
      "physical": false
     },
     {
@@ -2523,7 +2718,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F029.0_card.jpg",
      "physical": false
     },
     {
@@ -2532,13 +2726,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F029.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09029.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S029.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S029.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S029.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F029.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_30",
@@ -2587,8 +2785,12 @@
       "gameText": "Ring-bound. To play, add a burden. Each time the fellowship moves, place an unbound companion in the dead pile. Regroup: If Smeagol is the Ring-bearer, add 2 burdens to discard each minion.",
       "lore": "“‘...he used it to find out secrets, and he put his knowledge to crooked and malicious uses.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09030.jpg",
-     "wikiImage": "LOTR-EN09S030.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S030.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S030.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S030.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F030.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S030.1",
@@ -2606,8 +2808,11 @@
       "resistance": 8,
       "gameText": "Ring-bound. To play, add a burden. Each time the fellowship moves, place an unbound companion in the dead pile. Regroup: If Smeagol is the Ring-bearer, add 2 burdens to discard each minion."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E030.1_card.jpg",
-     "wikiImage": "LOTR-EN09S030.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S030.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S030.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S030.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2620,7 +2825,6 @@
       "subtitle": "Hüter dunkler Geheimnisse",
       "lore": "\"...und er benutzte ihn, um Geheimnisse aufzuspüren, und er machte von seinem Wissen auf unredliche und boshafte Weise Gebrauch.\""
      },
-     "wikiImage": "LOTR-DE09F030.0_card.jpg",
      "physical": false
     },
     {
@@ -2629,7 +2833,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F030.0_card.jpg",
      "physical": false
     },
     {
@@ -2638,13 +2841,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F030.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09030.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S030.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S030.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S030.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F030.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "59_30"
   },
   {
@@ -2696,8 +2903,12 @@
       "gameText": "While Boromir is the Ring-bearer, at the start of each skirmish involving him, add 3 burdens or wound him twice. Each time Boromir wins a skirmish, discard each minion he is skirmishing.",
       "lore": "“‘True-hearted Men, they will not be corrupted. We of Minas Tirith have been staunch....’”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09031.jpg",
-     "wikiImage": "LOTR-EN09S031.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S031.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S031.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S031.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F031.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S031.1",
@@ -2716,8 +2927,11 @@
       "resistance": 7,
       "gameText": "While Boromir is the Ring-bearer, at the start of each skirmish involving him, add 2 burdens or wound him twice. Each time Boromir wins a skirmish, discard each minion he is skirmishing."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E031.1_card.jpg",
-     "wikiImage": "LOTR-EN09S031.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S031.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S031.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S031.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2730,7 +2944,6 @@
       "subtitle": "Auserwählter des Rates",
       "lore": "\"Aufrechte Menschen lassen sich nicht verführen. Wir in Minas Tirith sind in langen Jahren der Prüfung standhaft geblieben.\""
      },
-     "wikiImage": "LOTR-DE09F031.0_card.jpg",
      "physical": false
     },
     {
@@ -2739,7 +2952,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F031.0_card.jpg",
      "physical": false
     },
     {
@@ -2748,13 +2960,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F031.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09031.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S031.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S031.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S031.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F031.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "59_31"
   },
   {
@@ -2806,8 +3022,12 @@
       "gameText": "To play, spot 2 [GONDOR] Men. Fellowship: Play an artifact on Elendil to make the move limit +1 for this turn. Regroup: Discard a [GONDOR] artifact to liberate a site.",
       "lore": "“...and the North-realm they made in Arnor, and the South-realm in Gondor....”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09032.jpg",
-     "wikiImage": "LOTR-EN09S032.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S032.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S032.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S032.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F032.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S032.1",
@@ -2826,8 +3046,11 @@
       "resistance": 6,
       "gameText": "To play, spot 2 [GONDOR] Men. Fellowship: Play an artifact on Elendil to make the move limit +1 for this turn. Regroup: Discard a [GONDOR] artifact borne by a companion to liberate a site."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E032.1_card.jpg",
-     "wikiImage": "LOTR-EN09S032.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S032.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S032.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S032.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2840,7 +3063,6 @@
       "subtitle": "Der Seemann",
       "lore": "...und sie errichteten das Nordreich in Arnor und das Südreich in Gondor..."
      },
-     "wikiImage": "LOTR-DE09F032.0_card.jpg",
      "physical": false
     },
     {
@@ -2849,7 +3071,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F032.0_card.jpg",
      "physical": false
     },
     {
@@ -2858,13 +3079,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F032.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09032.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S032.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S032.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S032.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F032.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "59_32"
   },
   {
@@ -2916,8 +3141,12 @@
       "gameText": "While Isildur is the Ring-bearer, at the start of each skirmish involving him, add 2 burdens or exert 3 companions. While Isildur bears The One Ring or an artifact, each [GONDOR] knight is strength +1.",
       "lore": "“‘“But for my part I will risk no hurt to this thing: of all the works of Sauron the only fair.”'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09033.jpg",
-     "wikiImage": "LOTR-EN09S033.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S033.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S033.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S033.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F033.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S033.1",
@@ -2936,8 +3165,11 @@
       "resistance": 7,
       "gameText": "While Isildur is the Ring-bearer, at the start of each skirmish involving him, add 2 burdens or exert 3 companions. While Isildur bears The One Ring or an artifact, each [GONDOR] knight is strength +1."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E033.1_card.jpg",
-     "wikiImage": "LOTR-EN09S033.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S033.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S033.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S033.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -2950,7 +3182,6 @@
       "subtitle": "Träger des Erbstückes",
       "lore": "\"Doch ich für mein Teil will es nicht wagen, diesem Ring Schaden zuzufügen: von allen Werken Saurons ist es das einzig schöne.\""
      },
-     "wikiImage": "LOTR-DE09F033.0_card.jpg",
      "physical": false
     },
     {
@@ -2959,7 +3190,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F033.0_card.jpg",
      "physical": false
     },
     {
@@ -2968,15 +3198,19 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F033.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09033.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S033.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S033.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S033.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F033.0_card.jpg"
+   },
+   "reprints": [
     "9_53"
    ],
-   "printings": [],
+   "alts": [],
    "errataId": "59_33"
   },
   {
@@ -3022,8 +3256,12 @@
       "gameText": "Bearer must be a [GONDOR] Man. If bearer is Elendil or Isildur, he is strength +1 for each [GONDOR] artifact you can spot (limit +6). Response: If bearer is about to take a wound, exert 2 [GONDOR] Men to prevent that.",
       "lore": "“‘...Isildur cut the Ring from his hand....'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09034.jpg",
-     "wikiImage": "LOTR-EN09S034.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S034.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S034.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S034.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F034.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3036,7 +3274,6 @@
       "subtitle": "Klinge der Treuen",
       "lore": "\"...Isildur schnitt den Ring von seiner Hand...\""
      },
-     "wikiImage": "LOTR-DE09F034.0_card.jpg",
      "physical": false
     },
     {
@@ -3045,7 +3282,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F034.0_card.jpg",
      "physical": false
     },
     {
@@ -3054,13 +3290,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F034.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09034.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S034.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S034.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S034.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F034.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_35",
@@ -3101,8 +3341,12 @@
       "gameText": "To play, spot an unbound [GONDOR] Man. Response: If a [GONDOR] Man is about to take a wound, discard this artifact to prevent that.",
       "lore": "“‘Verily this is a sapling of the line of Nimloth the fair; and that was a seedling of Galathilion, and that a fruit of Telperion of many names, Eldest of Trees.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09035.jpg",
-     "wikiImage": "LOTR-EN09S035.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S035.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S035.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S035.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F035.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S035.1",
@@ -3117,8 +3361,11 @@
       "twilight": 1,
       "gameText": "To play, spot an unbound [GONDOR] Man. Response: If a [GONDOR] Man is about to take a wound, discard this artifact to prevent that wound and heal that Man."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E035.1_card.jpg",
-     "wikiImage": "LOTR-EN09S035.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S035.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S035.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S035.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3131,7 +3378,6 @@
       "title": "Schössling des weißen Baumes",
       "lore": "\"Fürwahr, das ist ein Schössling aus dem Stamm von Nimloth dem Schönen; und der war ein Sämling von Galathilion, und dieser wiederum die Frucht von Telperion, dem Vielnamigen, dem Ältesten der Bäume.\""
      },
-     "wikiImage": "LOTR-DE09F035.0_card.jpg",
      "physical": false
     },
     {
@@ -3140,7 +3386,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F035.0_card.jpg",
      "physical": false
     },
     {
@@ -3149,15 +3394,19 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F035.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09035.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S035.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S035.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S035.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F035.0_card.jpg"
+   },
+   "reprints": [
     "9_58"
    ],
-   "printings": [],
+   "alts": [],
    "errataId": "59_35"
   },
   {
@@ -3199,8 +3448,12 @@
       "gameText": "Tale. To play, spot a [GONDOR] Man. The Ring-bearer is resistance +1 for each [GONDOR] artifact you can spot (limit +3). Fellowship: Discard this artifact to play a ring from your discard pile.",
       "lore": "“What evil it saith I do not know; but I trace here a copy of it, lest it fade beyond recall.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09036.jpg",
-     "wikiImage": "LOTR-EN09S036.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S036.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S036.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S036.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F036.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3213,7 +3466,6 @@
       "title": "Die Schriftrolle des Isildur",
       "lore": "\"Was sie Böses besaget, weiß ich nicht; aber ich zeichne hier eine Abschrift auf, falls sie so verblasset, dass sie nicht mehr zu erkennen ist.\""
      },
-     "wikiImage": "LOTR-DE09F036.0_card.jpg",
      "physical": false
     },
     {
@@ -3222,7 +3474,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F036.0_card.jpg",
      "physical": false
     },
     {
@@ -3231,13 +3482,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F036.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09036.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S036.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S036.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S036.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F036.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_37",
@@ -3278,8 +3533,12 @@
       "gameText": "To play, spot a [GONDOR] Man with 3 or more vitality (or spot a [GONDOR] Man and add 2 threats). Regroup: Exert a [GONDOR] Man or discard this artifact to discard your hand and draw 3 cards.",
       "lore": "“‘Didst thou think that the eyes of the White Tower were blind?'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09037.jpg",
-     "wikiImage": "LOTR-EN09S037.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S037.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S037.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S037.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F037.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3292,7 +3551,6 @@
       "title": "Der sehende Stein von Minas Anor",
       "lore": "\"Glaubtest du, dass die Augen des Weißen Turms blind seien?\""
      },
-     "wikiImage": "LOTR-DE09F037.0_card.jpg",
      "physical": false
     },
     {
@@ -3301,7 +3559,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F037.0_card.jpg",
      "physical": false
     },
     {
@@ -3310,13 +3567,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F037.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09037.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S037.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S037.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S037.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F037.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_38",
@@ -3357,8 +3618,12 @@
       "gameText": "To play, spot a [GONDOR] Man with 3 or more vitality (or spot a [GONDOR] Man and add 2 threats). Regroup: Add a threat or discard this artifact to remove (2) or to draw a card.",
       "lore": "“‘I am the lawful master of the Stone, and I had both the right and the strength to use it, or so I judged.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09038.jpg",
-     "wikiImage": "LOTR-EN09S038.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S038.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S038.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S038.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F038.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3371,7 +3636,6 @@
       "title": "Der sehende Stein vom Orthanc",
       "lore": "\"Ich bin der rechtmäßige Herr des Steins, und ich habe das Recht und auch die Kraft, ihn zu gebrauchen, so beurteile ich es jedenfalls.\""
      },
-     "wikiImage": "LOTR-DE09F038.0_card.jpg",
      "physical": false
     },
     {
@@ -3380,7 +3644,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F038.0_card.jpg",
      "physical": false
     },
     {
@@ -3389,13 +3652,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F038.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09038.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S038.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S038.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S038.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F038.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_39",
@@ -3434,8 +3701,12 @@
       "arrowDirection": "None",
       "gameText": "Shadow: Play an [ISENGARD] minion to stack the top card of your draw deck on this card. Skirmish: Remove(1) and discard a Free Peoples card stacked here to make an [ISENGARD] minion strength +1. Regroup: Remove (1) to take an [ISENGARD] card stacked here into hand."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09039.jpg",
-     "wikiImage": "LOTR-EN09S039.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S039.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S039.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S039.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F039.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3447,7 +3718,6 @@
      "fields": {
       "title": "Bibliothek des Orthanc"
      },
-     "wikiImage": "LOTR-DE09F039.0_card.jpg",
      "physical": false
     },
     {
@@ -3456,7 +3726,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F039.0_card.jpg",
      "physical": false
     },
     {
@@ -3465,13 +3734,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F039.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09039.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S039.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S039.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S039.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F039.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_40",
@@ -3512,8 +3785,12 @@
       "gameText": "If an [ISENGARD] minion wins a skirmish, until the regroup phase, make that minion strength +1 for each site you control and fierce.",
       "lore": "“‘There's some devilry at work in the Shire....'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09040.jpg",
-     "wikiImage": "LOTR-EN09S040.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S040.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S040.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S040.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F040.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3526,7 +3803,6 @@
       "title": "Plünderung des Auenlandes",
       "lore": "\"Da geht irgendeine Teufelei im Auenland vor sich.\""
      },
-     "wikiImage": "LOTR-DE09F040.0_card.jpg",
      "physical": false
     },
     {
@@ -3535,7 +3811,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F040.0_card.jpg",
      "physical": false
     },
     {
@@ -3544,13 +3819,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F040.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09040.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S040.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S040.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S040.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F040.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_41",
@@ -3599,8 +3878,12 @@
       "gameText": "When you play Host of Moria, you may play a [MORIA] card from your discard pile.",
       "lore": "“There was a horn-blast and a rush of feet, and orcs one after another leaped into the chamber.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09041.jpg",
-     "wikiImage": "LOTR-EN09S041.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S041.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S041.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S041.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F041.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3614,7 +3897,6 @@
       "subtitle": "Legionen des Unterreiches",
       "lore": "Ein Hornstoß erscholl und ein Getrappel von Füßen war zu hören, und dann sprang ein Ork nach dem anderen in die Kammer."
      },
-     "wikiImage": "LOTR-DE09F041.0_card.jpg",
      "physical": false
     },
     {
@@ -3623,7 +3905,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F041.0_card.jpg",
      "physical": false
     },
     {
@@ -3632,15 +3913,19 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F041.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09041.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S041.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S041.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S041.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F041.0_card.jpg"
+   },
+   "reprints": [
     "9_61"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "9_42",
@@ -3683,8 +3968,12 @@
       "gameText": "Bearer must be a Nazgul. When you play this artifact, you may wound an unwounded companion. Response: If a player reconciles, return bearer to his owner's hand.",
       "lore": "“‘The Nine, the Seven, and the Three... had each their proper gem.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09042.jpg",
-     "wikiImage": "LOTR-EN09S042.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S042.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S042.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S042.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F042.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3697,7 +3986,6 @@
       "title": "Der Ring der Strenge",
       "lore": "\"Die Neun, die Sieben und die Drei... hatten alle einen eigenen Edelstein.\""
      },
-     "wikiImage": "LOTR-DE09F042.0_card.jpg",
      "physical": false
     },
     {
@@ -3706,7 +3994,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F042.0_card.jpg",
      "physical": false
     },
     {
@@ -3715,13 +4002,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F042.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09042.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S042.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S042.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S042.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F042.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_43",
@@ -3764,8 +4055,12 @@
       "gameText": "Bearer must be The Witch-king. Skirmish: Exert bearer twice to make a [WRAITH] minion damage +1. Response: If a player reconciles, return bearer to his owner's hand.",
       "lore": "“‘Nine he gave to Mortal Men, proud and great, and so ensnared them.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09043.jpg",
-     "wikiImage": "LOTR-EN09S043.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S043.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S043.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S043.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F043.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3778,7 +4073,6 @@
       "title": "Der Ring der Wut",
       "lore": "\"Neun gab er den sterblichen Menschen, stolzen und großen Menschen, und so verführte er sie.\""
      },
-     "wikiImage": "LOTR-DE09F043.0_card.jpg",
      "physical": false
     },
     {
@@ -3787,7 +4081,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F043.0_card.jpg",
      "physical": false
     },
     {
@@ -3796,13 +4089,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F043.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09043.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S043.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S043.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S043.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F043.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_44",
@@ -3845,8 +4142,12 @@
       "gameText": "Bearer must be a Nazgul. Maneuver: Remove a burden to heal each Nazgul. Response: If a player reconciles, return bearer to his owner's hand.",
       "lore": "“‘So it is now: the Nine he has gathered to himself....'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09044.jpg",
-     "wikiImage": "LOTR-EN09S044.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S044.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S044.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S044.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F044.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3859,7 +4160,6 @@
       "title": "Der Ring des Hasses",
       "lore": "So steht es also nun: die Neun hat er für sich gewonnen...\""
      },
-     "wikiImage": "LOTR-DE09F044.0_card.jpg",
      "physical": false
     },
     {
@@ -3868,7 +4168,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F044.0_card.jpg",
      "physical": false
     },
     {
@@ -3877,13 +4176,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F044.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09044.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S044.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S044.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S044.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F044.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_45",
@@ -3924,8 +4227,12 @@
       "gameText": "Bearer must be Merry or Pippin. Bearer gains the Theoden signet. Response: If bearer wins a skirmish, exert him to discard each minion involved in that skirmish.",
       "lore": "“‘He that blows it at need shall set fear in the hearts of his enemies and joy in the hearts of his friends....'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09045.jpg",
-     "wikiImage": "LOTR-EN09S045.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S045.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S045.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S045.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F045.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -3938,7 +4245,6 @@
       "title": "Das Horn der Mark",
       "lore": "\"Wer es bläst, wenn er in Not ist, erweckt Furcht im Herzen seiner Feinde und Freude im Herzen seiner Freunde...\""
      },
-     "wikiImage": "LOTR-DE09F045.0_card.jpg",
      "physical": false
     },
     {
@@ -3947,7 +4253,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F045.0_card.jpg",
      "physical": false
     },
     {
@@ -3956,13 +4261,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F045.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09045.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S045.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S045.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S045.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F045.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_46",
@@ -4003,8 +4312,12 @@
       "gameText": "Assignment: Exert a [GONDOR] Man to play a [ROHAN] Man. You may exert that [ROHAN] Man to play a possession on him or her. Discard this artifact.",
       "lore": "“‘The Red Arrow has not been seen in the Mark in all my years! Has it indeed come to that?'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09046.jpg",
-     "wikiImage": "LOTR-EN09S046.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S046.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S046.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S046.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F046.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S046.1",
@@ -4019,8 +4332,11 @@
       "twilight": 2,
       "gameText": "Fellowship: Discard this and exert a Man to take a Free Peoples Man of a different culture into hand from your draw deck. Regroup: Exert 2 of your Men to discard a Man from your dead pile. Remove this artifact from the game."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E046.1_card.jpg",
-     "wikiImage": "LOTR-EN09S046.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S046.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S046.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S046.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -4033,7 +4349,6 @@
       "title": "Der Rote Pfeil",
       "lore": "\"Der rote Pfeil ist in all meinen Jahren nicht in der Mark gesehen worden! Ist es wirklich so weit gekommen?\""
      },
-     "wikiImage": "LOTR-DE09F046.0_card.jpg",
      "physical": false
     },
     {
@@ -4042,7 +4357,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F046.0_card.jpg",
      "physical": false
     },
     {
@@ -4051,13 +4365,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F046.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09046.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S046.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S046.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S046.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F046.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "59_46"
   },
   {
@@ -4099,8 +4417,12 @@
       "gameText": "To play, exert a [WRAITH] or [SAURON] minion. At the start of each of your Shadow phases, you may draw a card. Shadow: Discard this artifact to play a [SAURON] minion. Its twilight cost is -3.",
       "lore": "“‘...and in it there was a stone like the Moon....'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09047.jpg",
-     "wikiImage": "LOTR-EN09S047.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S047.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S047.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S047.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F047.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -4113,7 +4435,6 @@
       "title": "Ithilstein",
       "lore": "\"...und in ihm war ein Stein wie der Mond...\""
      },
-     "wikiImage": "LOTR-DE09F047.0_card.jpg",
      "physical": false
     },
     {
@@ -4122,7 +4443,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F047.0_card.jpg",
      "physical": false
     },
     {
@@ -4131,15 +4451,19 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F047.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09047.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S047.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S047.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S047.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F047.0_card.jpg"
+   },
+   "reprints": [
     "9_57"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "9_48",
@@ -4188,8 +4512,12 @@
       "gameText": "Damage +2. Enduring. Fierce. For each burden you spot, threat you spot, and site you control, Sauron's twilight cost is -1.",
       "lore": "“One for the Dark Lord on his dark throne / In the Land of Mordor where the Shadows lie.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09048.jpg",
-     "wikiImage": "LOTR-EN09S048.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S048.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S048.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S048.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F048.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -4202,7 +4530,6 @@
       "subtitle": "Der Herr der Ringe",
       "lore": "\"Einer dem Dunklen Herrn auf dunklem Thron / Im Lande Mordor, wo die Schatten drohn.\""
      },
-     "wikiImage": "LOTR-DE09F048.0_card.jpg",
      "physical": false
     },
     {
@@ -4211,7 +4538,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F048.0_card.jpg",
      "physical": false
     },
     {
@@ -4220,20 +4546,27 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F048.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09048.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S048.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S048.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S048.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F048.0_card.jpg"
+   },
+   "reprints": [
     "0_54"
    ],
-   "printings": [
+   "alts": [
     {
      "wikiId": "LOTR-EN00S054.0",
      "gempId": "0_54",
      "subset": "S",
-     "collInfo": "0P54"
+     "collInfo": "0P54",
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S054.0_card.jpg"
+     }
     }
    ]
   },
@@ -4286,8 +4619,12 @@
       "gameText": "Ring-bound. Each time the fellowship moves, if the twilight pool has 2 or fewer twilight tokens, add 2 burdens or add (3). Regroup: Add a burden to play a [SHIRE] tale.",
       "lore": "“‘But what has it got in its pocketses, eh?'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09049.jpg",
-     "wikiImage": "LOTR-EN09S049.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S049.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S049.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S049.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F049.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN09S049.1",
@@ -4306,8 +4643,11 @@
       "resistance": 9,
       "gameText": "Ring-bound. Each time the fellowship moves, if the twilight pool has 2 or fewer twilight tokens, add 2 burdens or add (3). Regroup: Add a burden to play a [SHIRE] tale."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN09E049.1_card.jpg",
-     "wikiImage": "LOTR-EN09S049.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S049.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S049.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S049.1_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -4320,7 +4660,6 @@
       "subtitle": "Träger gestohlener Dinge",
       "lore": "\"Was hat es in seinen Taschen?\""
      },
-     "wikiImage": "LOTR-DE09F049.0_card.jpg",
      "physical": false
     },
     {
@@ -4329,7 +4668,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F049.0_card.jpg",
      "physical": false
     },
     {
@@ -4338,13 +4676,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F049.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09049.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S049.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S049.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S049.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F049.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "59_49"
   },
   {
@@ -4386,8 +4728,12 @@
       "gameText": "Tale. Each unbound Hobbit is strength +1 for each vitality over 3 he or she has. Skirmish: Prevent an unbound Hobbit from being overwhelmed unless his or her strength is tripled. Discard this condition.",
       "lore": "“‘...I'm the tall one, you're the short one.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09050.jpg",
-     "wikiImage": "LOTR-EN09S050.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S050.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S050.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S050.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F050.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -4400,7 +4746,6 @@
       "title": "Alle wissen es",
       "lore": "\"Ich bin der Große, und du bist der Kleine.\""
      },
-     "wikiImage": "LOTR-DE09F050.0_card.jpg",
      "physical": false
     },
     {
@@ -4409,7 +4754,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F050.0_card.jpg",
      "physical": false
     },
     {
@@ -4418,13 +4762,17 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F050.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09050.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S050.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S050.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S050.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F050.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "9_51",
@@ -4477,8 +4825,12 @@
        "2"
       ]
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09051.jpg",
-     "wikiImage": "LOTR-EN09S051.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S051.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S051.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S051.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F051.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -4491,7 +4843,6 @@
       "title": "Goldbeere",
       "subtitle": "Flusstochter"
      },
-     "wikiImage": "LOTR-DE09F051.0_card.jpg",
      "physical": false
     },
     {
@@ -4500,7 +4851,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F051.0_card.jpg",
      "physical": false
     },
     {
@@ -4509,20 +4859,27 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F051.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09051.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S051.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S051.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S051.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F051.0_card.jpg"
+   },
+   "reprints": [
     "0_52"
    ],
-   "printings": [
+   "alts": [
     {
      "wikiId": "LOTR-EN00S052.0",
      "gempId": "0_52",
      "subset": "S",
-     "collInfo": "0P52"
+     "collInfo": "0P52",
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S052.0_card.jpg"
+     }
     }
    ]
   },
@@ -4577,8 +4934,12 @@
        "2"
       ]
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09052.jpg",
-     "wikiImage": "LOTR-EN09S052.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S052.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S052.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S052.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F052.0_card.jpg"
+     }
     }
    ],
    "translations": [
@@ -4590,7 +4951,6 @@
      "fields": {
       "subtitle": "Der Herr"
      },
-     "wikiImage": "LOTR-DE09F052.0_card.jpg",
      "physical": false
     },
     {
@@ -4599,7 +4959,6 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-FR09F052.0_card.jpg",
      "physical": false
     },
     {
@@ -4608,20 +4967,27 @@
      "subset": "S",
      "revision": 0,
      "fields": {},
-     "wikiImage": "LOTR-IT09F052.0_card.jpg",
      "physical": false
     }
    ],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR09052.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09S052.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/09/LOTR-EN09S052.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/09/LOTR-EN09S052.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/09/LOTR-EN09F052.0_card.jpg"
+   },
+   "reprints": [
     "0_53"
    ],
-   "printings": [
+   "alts": [
     {
      "wikiId": "LOTR-EN00S053.0",
      "gempId": "0_53",
      "subset": "S",
-     "collInfo": "0P53"
+     "collInfo": "0P53",
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S053.0_card.jpg"
+     }
     }
    ]
   }

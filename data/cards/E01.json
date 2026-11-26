@@ -24,7 +24,11 @@
    "lore": "The shoddy workmanship of Orc-smiths cannot withstand the fury of Durin's folk.",
    "subtypes": "Skirmish",
    "wikiVersion": "LOTR-EN01S005.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E005.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S005.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S005.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S005.1_card.jpg"
+   }
   },
   {
    "id": "51_7",
@@ -53,7 +57,11 @@
    "gameText": "To play, spot a Dwarf.",
    "lore": "Dwarves from Dáin's people are stout companions, trustworthy and loyal.",
    "wikiVersion": "LOTR-EN01S007.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/51_007.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S007.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S007.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S007.1_card.jpg"
+   }
   },
   {
    "id": "51_9",
@@ -79,7 +87,11 @@
    "gameText": "Bearer must be a Dwarf. Each time a minion loses a skirmish to bearer, you may make a minion strength -1 until the regroup phase. The Shadow player may discard 2 cards from the bottom of their draw deck to prevent this.",
    "lore": "“‘Buckler and corslet, axe and sword / And shining spears were laid in hoard.'”",
    "wikiVersion": "LOTR-EN01S009.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E009.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S009.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S009.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S009.2_card.jpg"
+   }
   },
   {
    "id": "51_11",
@@ -109,7 +121,11 @@
    "gameText": "To play, spot a Dwarf. While skirmishing an Orc, Farin is strength +2.",
    "lore": "Among the envoys sent to represent the Dwarves of Erebor at the Council of Elrond was Farin, a young but wise Dwarf, and a fierce foe in battle.",
    "wikiVersion": "LOTR-EN01S011.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/51_011.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S011.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S011.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S011.1_card.jpg"
+   }
   },
   {
    "id": "51_12",
@@ -139,7 +155,11 @@
    "gameText": "Damage +1. Fellowship: If the twilight pool has fewer than 2 twilight tokens, add (2) and place a card from hand beneath your draw deck to draw a card.",
    "lore": "“Gimli now walked ahead by the wizard's side, so eager was he to come to Moria.”",
    "wikiVersion": "LOTR-EN01S012.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/51_012.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S012.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S012.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S012.2_card.jpg"
+   }
   },
   {
    "id": "51_15",
@@ -164,7 +184,9 @@
    "gameText": "Bearer must be Gimli. He takes no more than 1 wound during each skirmish phase. Skirmish: Discard Gimli's Helm to make Gimli unable to take wounds.",
    "lore": "A helm fashioned under the Lonely Mountain protects the head of Gimli the Dwarf.",
    "wikiVersion": "LOTR-EN01S015.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E015.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S015.1_card.jpg"
+   }
   },
   {
    "id": "51_16",
@@ -189,7 +211,11 @@
    "lore": "“‘With golden roof and silver floor / And runes of power upon the door.'”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN01S016.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E016.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S016.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S016.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S016.1_card.jpg"
+   }
   },
   {
    "id": "51_17",
@@ -221,7 +247,9 @@
     "3"
    ],
    "wikiVersion": "LOTR-EN01S017.3",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E017.3_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S017.3_card.jpg"
+   }
   },
   {
    "id": "51_23",
@@ -246,7 +274,11 @@
    "lore": "“‘My folk have never had dealings with any of the servants of the Enemy.'”",
    "subtypes": "Response",
    "wikiVersion": "LOTR-EN01S023.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E023.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S023.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S023.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S023.1_card.jpg"
+   }
   },
   {
    "id": "51_25",
@@ -271,7 +303,11 @@
    "lore": "“When thirteen had fallen the rest fled shrieking, leaving the defenders unharmed....”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN01S025.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E025.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S025.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S025.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S025.1_card.jpg"
+   }
   },
   {
    "id": "51_29",
@@ -295,7 +331,11 @@
    "gameText": "Make an Elf strength +1. If a minion loses this skirmish to that Elf, you may heal an Elf; any shadow player may discard a card from hand to prevent this.",
    "lore": "Hard and bitter is the Elven hatred of Orcs, for they have lost many kinsmen to Orc savagery.",
    "wikiVersion": "LOTR-EN01S029.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E029.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S029.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S029.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S029.1_card.jpg"
+   }
   },
   {
    "id": "51_36",
@@ -319,7 +359,11 @@
    "gameText": "Exert an Elf to reveal 4 cards at random from an opponent's hand. Make the fellowship archery total +X until the regroup phase, where X is the number of Orcs revealed. That player may discard X cards from hand to prevent this.",
    "lore": "“‘A strong company of Orcs has passed. They crossed the Nimrodel – curse their foul feet in its clean water!'”",
    "wikiVersion": "LOTR-EN01S036.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E036.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S036.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S036.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S036.1_card.jpg"
+   }
   },
   {
    "id": "51_40",
@@ -351,7 +395,11 @@
     "3"
    ],
    "wikiVersion": "LOTR-EN01S040.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/51_040.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S040.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S040.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S040.1_card.jpg"
+   }
   },
   {
    "id": "51_43",
@@ -375,7 +423,11 @@
    "gameText": "Plays to your support area. Each time you play an Elf, draw a card. Any Shadow player may discard a card from hand to prevent this.",
    "lore": "Keen Elven eyes see farther and more clearly than those of Men or Dwarves.",
    "wikiVersion": "LOTR-EN01S043.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E043.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S043.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S043.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S043.2_card.jpg"
+   }
   },
   {
    "id": "51_44",
@@ -399,7 +451,9 @@
    "gameText": "Fellowship: Exert an Elf to reveal an opponent's hand. If an [isengard] minion was revealed, you may draw 2 cards.",
    "lore": "Saruman's Uruk-hai mirrored the singular focus of their master, viewing with contempt and disgust all they encountered.",
    "wikiVersion": "LOTR-EN01S044.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E044.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S044.1_card.jpg"
+   }
   },
   {
    "id": "51_45",
@@ -431,7 +485,11 @@
     "6"
    ],
    "wikiVersion": "LOTR-EN01S045.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/51_045.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S045.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S045.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S045.1_card.jpg"
+   }
   },
   {
    "id": "51_48",
@@ -461,7 +519,11 @@
    "gameText": "To play, spot an Elf. While Haldir is at a forest or river (or any site 6, 7, or 8), he is strength +2 and an archer.",
    "lore": "“‘But there are some of us still who go abroad for the gathering of news and the watching of our enemies.... I am one. Haldir is my name.'”",
    "wikiVersion": "LOTR-EN01S048.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E048.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S048.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S048.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S048.1_card.jpg"
+   }
   },
   {
    "id": "51_50",
@@ -491,7 +553,11 @@
    "gameText": "Archer. Archery: Exert Legolas to wound a minion. Exert him again unless he bears a ranged weapon or you can spot more minions than companions.",
    "lore": "“‘And I too will go with him,' said Legolas. ‘It would be faithless now to say farewell.'”",
    "wikiVersion": "LOTR-EN01S050.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E050.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S050.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S050.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S050.1_card.jpg"
+   }
   },
   {
    "id": "51_53",
@@ -520,7 +586,11 @@
    "gameText": "To play, spot an Elf.",
    "lore": "“‘...we dwell now in the heart of the forest, and do not willingly have dealings with any other folk.'”",
    "wikiVersion": "LOTR-EN01S053.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/51_053.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S053.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S053.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S053.1_card.jpg"
+   }
   },
   {
    "id": "51_55",
@@ -544,7 +614,11 @@
    "gameText": "Plays to your support area. Each Elf ally whose home is site 6 is strength +1. Maneuver: Exert Galadriel to reveal 3 cards at random from an opponent's hand.  Place one on top of that player's draw deck.",
    "lore": "“‘What you will see I cannot tell....'”",
    "wikiVersion": "LOTR-EN01S055.3",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/51_055.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S055.3_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S055.3_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S055.3_card.jpg"
+   }
   },
   {
    "id": "51_59",
@@ -568,7 +642,11 @@
    "gameText": "Plays to your support area. Fellowship: Add (1) and exert a Dwarf to heal an Elf, or add (1) and exert an Elf to heal a Dwarf.",
    "lore": "“‘May it be a sign that though the world is now dark better days are at hand, and that friendship shall be renewed between our peoples.'”",
    "wikiVersion": "LOTR-EN01S059.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E059.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S059.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S059.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S059.1_card.jpg"
+   }
   },
   {
    "id": "51_63",
@@ -592,7 +670,11 @@
    "gameText": "Maneuver: Exert an Elf to wound a [SAURON] minion twice or discard a [SAURON] condition or possession.",
    "lore": "“‘What power still remains lies with us, here in Imladris, or with Círdan at the Havens, or in Lórien. But have they the strength, have we here the strength to withstand the Enemy...?'”",
    "wikiVersion": "LOTR-EN01S063.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E063.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S063.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S063.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S063.1_card.jpg"
+   }
   },
   {
    "id": "51_68",
@@ -616,7 +698,11 @@
    "gameText": "Tale. Bearer must be an Elf companion. Archery: If bearer is an archer, exert bearer to exert a minion. An opponent may discard a card from hand to prevent this.",
    "lore": "Straight and true, the arrows of the Golden Wood are known to leave a deadly mark.",
    "wikiVersion": "LOTR-EN01S068.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E068.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S068.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S068.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S068.1_card.jpg"
+   }
   },
   {
    "id": "51_70",
@@ -648,7 +734,11 @@
     "1"
    ],
    "wikiVersion": "LOTR-EN01S070.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E070.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S070.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S070.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S070.1_card.jpg"
+   }
   },
   {
    "id": "51_80",
@@ -680,7 +770,11 @@
     "3"
    ],
    "wikiVersion": "LOTR-EN01S080.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E080.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S080.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S080.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S080.2_card.jpg"
+   }
   },
   {
    "id": "51_84",
@@ -705,7 +799,11 @@
    "lore": "“‘Losto Caradhras, sedho, hodo, nuitho i ruith.'”",
    "subtypes": "Fellowship",
    "wikiVersion": "LOTR-EN01S084.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E084.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S084.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S084.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S084.1_card.jpg"
+   }
   },
   {
    "id": "51_87",
@@ -730,7 +828,11 @@
    "lore": "“‘A wizard is never late, Frodo Baggins, nor is he early. He arrives precisely when he means to.'”",
    "subtypes": "Fellowship",
    "wikiVersion": "LOTR-EN01S087.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E087.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S087.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S087.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S087.1_card.jpg"
+   }
   },
   {
    "id": "51_92",
@@ -755,7 +857,11 @@
    "gameText": "Bearer must be a Man or [GONDOR] companion. Bearer takes no more than 1 wound during each skirmish phase.",
    "lore": "“Then Elendil the Tall and his mighty sons, Isildur and Anárion, became great lords; and the North-realm they made in Arnor, and the South-realm in Gondor....”",
    "wikiVersion": "LOTR-EN01S092.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E092.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S092.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S092.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S092.1_card.jpg"
+   }
   },
   {
    "id": "51_98",
@@ -780,7 +886,11 @@
    "gameText": "Bearer must be Boromir. Maneuver: Exert Boromir to discard a weather condition. Response: If a skirmish event or special ability is used during a skirmish involving Boromir, discard this to prevent that.",
    "lore": "“He was cloaked and booted as if for a journey on horseback; and indeed though his garments were rich, and his cloak was lined with fur, they were stained with long travel.”",
    "wikiVersion": "LOTR-EN01S098.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E098.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S098.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S098.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S098.1_card.jpg"
+   }
   },
   {
    "id": "51_101",
@@ -805,7 +915,11 @@
    "gameText": "Bearer must be a Man or [GONDOR] companion. Bearer may not be overwhelmed unless his or her strength is tripled.",
    "lore": "Soldiers of the White Tower have long appreciated the craftsmanship of the Gondorian metalsmiths.",
    "wikiVersion": "LOTR-EN01S101.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E101.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S101.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S101.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S101.1_card.jpg"
+   }
   },
   {
    "id": "51_107",
@@ -830,7 +944,11 @@
    "gameText": "Bearer must be a Man or [GONDOR] companion. The minion archery total is -1.",
    "lore": "The Kingdom of Gondor has smiths much practiced in creating strong tools of war.",
    "wikiVersion": "LOTR-EN01S107.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E107.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S107.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S107.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S107.1_card.jpg"
+   }
   },
   {
    "id": "51_108",
@@ -854,7 +972,11 @@
    "gameText": "Stealth. Bearer must be a ranger. Each site's shadow number is -1.",
    "lore": "“‘Ah, but you had not got me with you then,' laughed Strider. ‘My cuts, short or long, don't go wrong.'”",
    "wikiVersion": "LOTR-EN01S108.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/51_108.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S108.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S108.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S108.1_card.jpg"
+   }
   },
   {
    "id": "51_115",
@@ -879,7 +1001,11 @@
    "lore": "“‘Believe not that in the land of Gondor the blood of Númenor is spent, nor all its pride and dignity forgotten.'”",
    "subtypes": "Response",
    "wikiVersion": "LOTR-EN01S115.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E115.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S115.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S115.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S115.1_card.jpg"
+   }
   },
   {
    "id": "51_126",
@@ -903,7 +1029,11 @@
    "gameText": "Maneuver: Make an Uruk-hai fierce until the regroup phase.",
    "lore": "“‘Do not stop until they are found!'”",
    "wikiVersion": "LOTR-EN01S126.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E126.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S126.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S126.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S126.1_card.jpg"
+   }
   },
   {
    "id": "51_136",
@@ -928,7 +1058,11 @@
    "lore": "The Uruks of Saruman are bred to be the instruments of his will, destroying his enemies with foul cruelty.",
    "subtypes": "Shadow",
    "wikiVersion": "LOTR-EN01S136.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E136.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S136.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S136.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S136.1_card.jpg"
+   }
   },
   {
    "id": "51_138",
@@ -952,7 +1086,11 @@
    "gameText": "Spell. Weather. To play, exert a [ISENGARD] minion. Plays on a site. No player may play skirmish events or use skirmish special abilities during skirmishes involving an [ISENGARD] minion at this site. Discard this condition at the end of the turn.",
    "lore": "Saruman's spells can hinder even the wary.",
    "wikiVersion": "LOTR-EN01S138.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/51_138.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S138.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S138.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S138.2_card.jpg"
+   }
   },
   {
    "id": "51_139",
@@ -976,7 +1114,11 @@
    "gameText": "Skirmish: Make an Uruk-hai strength +2. If you can spot 5 companions, also make it fierce and an additional strength +2 until the regroup phase.",
    "lore": "Uruk-hai match their enemies' strength with their own feral rage.",
    "wikiVersion": "LOTR-EN01S139.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E139.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S139.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S139.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S139.2_card.jpg"
+   }
   },
   {
    "id": "51_142",
@@ -1001,7 +1143,11 @@
    "lore": "“‘In all the long wars with the Dark Tower treason has ever been our greatest foe.'”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN01S142.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E142.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S142.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S142.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S142.1_card.jpg"
+   }
   },
   {
    "id": "51_150",
@@ -1029,7 +1175,11 @@
    "gameText": "Damage +1. Each time this minion wins a skirmish, the Free Peoples player must exert a companion or discard the top 3 cards of their draw deck.",
    "lore": "A bloodthirsty bellow from a huge Uruk can win a skirmish before it begins.",
    "wikiVersion": "LOTR-EN01S150.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E150.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S150.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S150.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S150.1_card.jpg"
+   }
   },
   {
    "id": "51_152",
@@ -1057,7 +1207,9 @@
    "gameText": "Damage +1. Maneuver: Remove (2) to heal an [ISENGARD] minion.",
    "lore": "Uruk shamans know the arts of healing as well as those of battle.",
    "wikiVersion": "LOTR-EN01S152.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E152.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S152.1_card.jpg"
+   }
   },
   {
    "id": "51_154",
@@ -1085,7 +1237,11 @@
    "gameText": "Damage +1. When you play this minion, exert a companion. The Free Peoples player may discard the top 2 cards of their draw deck to prevent this.",
    "lore": "Saruman's Uruk-hai band together as an extremely effective fighting unit.",
    "wikiVersion": "LOTR-EN01S154.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E154.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S154.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S154.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S154.1_card.jpg"
+   }
   },
   {
    "id": "51_157",
@@ -1109,7 +1265,9 @@
    "gameText": "Plays to your support area. While you can spot an Uruk-hai, the fellowship archery total is -1. Shadow: Discard this condition to play an [ISENGARD] possession from your discard pile. Response: If your [ISENGARD] minion is about to take a wound, remove (1) and discard this condition to prevent that wound.",
    "lore": "The ranks of Saruman's army include forgers of weapons and armour.",
    "wikiVersion": "LOTR-EN01S157.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E157.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S157.1_card.jpg"
+   }
   },
   {
    "id": "51_158",
@@ -1137,7 +1295,9 @@
    "gameText": "Damage +1. While you can spot 2 Uruk-hai, each Uruk-hai is strength +1. While you can spot 4 Uruk-hai, this minion is fierce.",
    "lore": "“‘Imagine, Gandalf, an army – born from the earth of Isengard.'”",
    "wikiVersion": "LOTR-EN01S158.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E158.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S158.1_card.jpg"
+   }
   },
   {
    "id": "51_160",
@@ -1163,7 +1323,11 @@
    "gameText": "Bearer must be an Uruk-hai. Each time bearer wins a skirmish, the Free Peoples player must exert a companion or discard the top 2 cards of their draw deck.",
    "lore": "Their malevolent strength worsens the wounds from the gruesome weapons of the Uruks.",
    "wikiVersion": "LOTR-EN01S160.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E160.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S160.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S160.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S160.1_card.jpg"
+   }
   },
   {
    "id": "51_167",
@@ -1188,7 +1352,11 @@
    "lore": "“...there came a great noise: a rolling Boom that seemed to come from depths far below, and to tremble in the stone at their feet.”",
    "subtypes": "Skirmish",
    "wikiVersion": "LOTR-EN01S167.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E167.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S167.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S167.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S167.1_card.jpg"
+   }
   },
   {
    "id": "51_172",
@@ -1219,7 +1387,11 @@
     "4"
    ],
    "wikiVersion": "LOTR-EN01S172.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E172.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S172.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S172.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S172.1_card.jpg"
+   }
   },
   {
    "id": "51_177",
@@ -1250,7 +1422,11 @@
     "4"
    ],
    "wikiVersion": "LOTR-EN01S177.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E177.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S177.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S177.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S177.2_card.jpg"
+   }
   },
   {
    "id": "51_195",
@@ -1274,7 +1450,11 @@
    "gameText": "Plays to your support area. Shadow: Remove (2) to play a [MORIA] possession from your discard pile.",
    "lore": "“By both the doors they could now see that many bones were lying, and among them were broken swords and axe-heads, and cloven shields and helms.”",
    "wikiVersion": "LOTR-EN01S195.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/51_195.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S195.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S195.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S195.1_card.jpg"
+   }
   },
   {
    "id": "51_198",
@@ -1299,7 +1479,11 @@
    "lore": "“‘One must tread the path that need chooses.'”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN01S198.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E198.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S198.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S198.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S198.1_card.jpg"
+   }
   },
   {
    "id": "51_221",
@@ -1325,7 +1509,9 @@
    "gameText": "Bearer must be The Witch-king. He is damage +1. Each time The Witch-king wins a skirmish, you may exert him to discard a Free Peoples condition.",
    "lore": "In his wretched grip, the Captain raised a Pale Sword.",
    "wikiVersion": "LOTR-EN01S221.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E221.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S221.1_card.jpg"
+   }
   },
   {
    "id": "51_234",
@@ -1354,7 +1540,11 @@
    "gameText": "When you play Ulaire Nertea, for each companion over 4, you may play a unique [RINGWRAITH] minion from your discard pile.",
    "lore": "Some accepted Sauron's gift for glory and a notion of great deeds.",
    "wikiVersion": "LOTR-EN01S234.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/51_234.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S234.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S234.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S234.1_card.jpg"
+   }
   },
   {
    "id": "51_240",
@@ -1382,7 +1572,11 @@
    "gameText": "Each time this minion wins a skirmish, you may remove (2) to add 2 burdens. The Free Peoples player may discard 2 cards at random from hand to prevent this.",
    "lore": "Far more Orcs has Sauron bred in the pits under Barad-dûr than Saruman could ever imagine.",
    "wikiVersion": "LOTR-EN01S240.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E240.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S240.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S240.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S240.1_card.jpg"
+   }
   },
   {
    "id": "51_245",
@@ -1407,7 +1601,11 @@
    "lore": "“‘Go back, Sam. You can't swim. I'm going to Mordor alone.'”",
    "subtypes": "Maneuver",
    "wikiVersion": "LOTR-EN01S245.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E245.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S245.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S245.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S245.1_card.jpg"
+   }
   },
   {
    "id": "51_248",
@@ -1431,7 +1629,11 @@
    "gameText": "Shadow: Exert a [SAURON] minion to add (1) for each [SAURON] Orc you can spot (limit (3)).",
    "lore": "“‘....the Dark Lord is not without allies. The Easterlings and Haradrim now pay tribute to Mordor.'”",
    "wikiVersion": "LOTR-EN01S248.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/51_248.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S248.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S248.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S248.1_card.jpg"
+   }
   },
   {
    "id": "51_252",
@@ -1456,7 +1658,11 @@
    "lore": "“Once more the desire to slip on the Ring came over Frodo; but this time it was stronger than before.”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN01S252.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E252.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S252.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S252.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S252.1_card.jpg"
+   }
   },
   {
    "id": "51_254",
@@ -1480,7 +1686,11 @@
    "gameText": "To play, exert a [SAURON] minion. Plays on an archer companion. Each time the Free Peoples player uses an archery special ability, bearer must exert.",
    "lore": "The armies of Elendil and Gil-galad inflamed Sauron's anger and hatred.",
    "wikiVersion": "LOTR-EN01S254.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/51_254.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S254.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S254.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S254.1_card.jpg"
+   }
   },
   {
    "id": "51_260",
@@ -1505,7 +1715,11 @@
    "lore": "“‘The number must be few, since your hope is in speed and secrecy.'”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN01S260.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E260.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S260.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S260.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S260.1_card.jpg"
+   }
   },
   {
    "id": "51_265",
@@ -1530,7 +1744,11 @@
    "lore": "For sport, Orcs hew cruelly at the bodies of those they slay.",
    "subtypes": "Response",
    "wikiVersion": "LOTR-EN01S265.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E265.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S265.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S265.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S265.1_card.jpg"
+   }
   },
   {
    "id": "51_268",
@@ -1558,7 +1776,11 @@
    "gameText": "When you play this minion, you may draw a card. The Free Peoples player may discard 1 card at random from hand to prevent this.",
    "lore": "Cruel questioners of Mordor tore the secret from poor Gollum, that Sauron's most prized possession once again was found.",
    "wikiVersion": "LOTR-EN01S268.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E268.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S268.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S268.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S268.1_card.jpg"
+   }
   },
   {
    "id": "51_280",
@@ -1586,7 +1808,11 @@
    "gameText": "Each time this minion wins a skirmish, you may exhaust a companion (except the Ring-bearer). The Free Peoples player may discard 2 cards at random from hand to prevent this.",
    "lore": "Sauron shows favour to those in his dungeons with the ambition to squeeze the information he needs from those caught spying out his borders.",
    "wikiVersion": "LOTR-EN01S280.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E280.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S280.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S280.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S280.1_card.jpg"
+   }
   },
   {
    "id": "51_282",
@@ -1611,7 +1837,11 @@
    "gameText": "To play, exert a [SAURON] Orc. Plays on a [GONDOR] companion.  Limit 1 per bearer.  While you can spot 2 tales, bearer is strength -2.",
    "lore": "“‘It is because of Men, the Ring survives.... I was there the day the strength of Men failed.'”",
    "wikiVersion": "LOTR-EN01S282.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/51_282.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S282.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S282.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S282.1_card.jpg"
+   }
   },
   {
    "id": "51_303",
@@ -1641,7 +1871,11 @@
    "gameText": "While Merry bears a weapon, he is strength +2. Skirmish: Exert Merry to make him strength +1 for each hand weapon you can spot (limit +3).",
    "lore": "“‘I don't know why he's so upset, it's only a few carrots... my point is, he's overreacting.'”",
    "wikiVersion": "LOTR-EN01S303.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E303.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S303.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S303.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S303.1_card.jpg"
+   }
   },
   {
    "id": "51_310",
@@ -1671,7 +1905,11 @@
    "gameText": "Fellowship: Exert Sam to take a [SHIRE] item into hand from your draw deck (limit once per turn). Response: If Frodo dies, make Sam the Ring-bearer (resistance 5).",
    "lore": "“‘Mr. Frodo's not going anywhere without me!'”",
    "wikiVersion": "LOTR-EN01S310.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E310.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S310.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S310.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S310.1_card.jpg"
+   }
   },
   {
    "id": "51_311",
@@ -1701,7 +1939,11 @@
    "gameText": "Fellowship: Exert Sam and another companion to remove a burden. Then, exert Sam again unless you can spot 2 [SHIRE] allies (or Rosie Cotton). Response: If Frodo dies, make Sam the Ring-bearer (resistance 5).",
    "lore": "“‘Oh, I've never held a girl's hand before. I... I think I might just have myself another ale.'”",
    "wikiVersion": "LOTR-EN01S311.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E311.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S311.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S311.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S311.2_card.jpg"
+   }
   },
   {
    "id": "51_313",
@@ -1727,7 +1969,11 @@
    "gameText": "Bearer must be Frodo. Fellowship or Regroup: Exert Frodo to reveal 4 cards at random from an opponent's hand. Remove (1) for each Orc revealed (limit (2)).",
    "lore": "“‘This is Sting.... Take it, if you like.'”",
    "wikiVersion": "LOTR-EN01S313.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/51_313.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S313.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S313.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S313.1_card.jpg"
+   }
   },
   {
    "id": "51_316",
@@ -1751,7 +1997,11 @@
    "gameText": "Stealth. Bearer must be Merry or Pippin. Limit 1 per character. Each site's Shadow number is -1.",
    "lore": "With their small size, Hobbits use any hole to hide in, and their trail is difficult to detect.",
    "wikiVersion": "LOTR-EN01S316.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/51_316.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S316.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S316.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S316.1_card.jpg"
+   }
   },
   {
    "id": "51_331",
@@ -1780,7 +2030,11 @@
    ],
    "twilight": 2,
    "wikiVersion": "LOTR-EN01S331.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E331.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S331.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S331.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S331.2_card.jpg"
+   }
   },
   {
    "id": "51_333",
@@ -1808,7 +2062,11 @@
     "2"
    ],
    "wikiVersion": "LOTR-EN01S333.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E333.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S333.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/01/LOTR-EN01S333.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/01/LOTR-EN01S333.1_card.jpg"
+   }
   },
   {
    "id": "51_361",
@@ -1836,7 +2094,9 @@
     "9"
    ],
    "wikiVersion": "LOTR-EN01S361.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN01E361.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/01/LOTR-EN01S361.1_card.jpg"
+   }
   }
  ]
 }

@@ -632,7 +632,7 @@
  "textHygiene": [],
  "decipherErrataWithoutDate": [],
  "revisionWithoutIssuer": [],
- "imageMissing": [],
+ "noImage": [],
  "timeline": [],
  "unusableGempId": [],
  "acknowledged": [
@@ -723,7 +723,7 @@
   "textHygiene": 0,
   "decipherErrataWithoutDate": 0,
   "revisionWithoutIssuer": 0,
-  "imageMissing": 0,
+  "noImage": 0,
   "timeline": 0,
   "unusableGempId": 0,
   "acknowledged": 9

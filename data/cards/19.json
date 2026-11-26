@@ -36,8 +36,12 @@
       "arrowDirection": "None",
       "gameText": "While wearing The One Ring, each time the bearer is about to take a wound, add a burden instead. Maneuver: Wear The One Ring until the regroup phase. Skirmish: Add a burden to make the Ring-bearer strength +3."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19001.jpg",
-     "wikiImage": "LOTR-EN19S001.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S001.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S001.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S001.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F001.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN19S001.1",
@@ -48,14 +52,22 @@
      "fields": {
       "gameText": "While wearing The One Ring, burdens may not be removed and each time bearer is about to take a wound, add a burden instead. Maneuver: Wear The One Ring until the regroup phase. Skirmish: If wearing the One Ring, add a burden to make bearer strength +3."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN19E001.1_card.jpg",
-     "wikiImage": "LOTR-EN19S001.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S001.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S001.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S001.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19001.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S001.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S001.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S001.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F001.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "69_1"
   },
   {
@@ -107,14 +119,23 @@
       "gameText": "Damage +1. Fellowship. Each time you play a [DWARVEN] possession, you may draw a card.",
       "lore": "“If anyone was to ask for my opinion, which I note they're not, I'd say we were taking the long way round.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19002.jpg",
-     "wikiImage": "LOTR-EN19S002.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S002.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S002.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S002.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F002.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19002.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S002.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S002.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S002.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F002.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_3",
@@ -151,14 +172,23 @@
       "arrowDirection": "None",
       "gameText": "Bearer must be a [DWARVEN] companion. Bearer gains Hunter 2. Each time bearer wins a skirmish, you may transfer this condition to another [DWARVEN] companion. At the end of each turn, if bearer did not win a skirmish this turn, discard this condition from play."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19003.jpg",
-     "wikiImage": "LOTR-EN19S003.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S003.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S003.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S003.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F003.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19003.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S003.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S003.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S003.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F003.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_4",
@@ -199,14 +229,23 @@
       "gameText": "Spot Gimli and exert a fellowship companion to have each Shadow player discard one of his or her Shadow cards from play.",
       "lore": "“Legolas, two already!”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19004.jpg",
-     "wikiImage": "LOTR-EN19S004.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S004.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S004.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S004.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F004.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19004.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S004.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S004.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S004.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F004.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_5",
@@ -245,14 +284,23 @@
       "arrowDirection": "None",
       "gameText": "Bearer must be an [ELVEN] companion. Each time bearer wins a skirmish, you may transfer this condition to another [ELVEN] companion. At the start of the archery phase, you must exert bearer or return this condition to hand."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19005.jpg",
-     "wikiImage": "LOTR-EN19S005.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S005.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S005.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S005.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F005.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19005.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S005.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S005.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S005.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F005.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_6",
@@ -303,14 +351,23 @@
       "gameText": "Ranger. While you can spot 2 [ELVEN] followers, each minion skirmishing Arwen is strength -2. Maneuver: Add 3 threats to reconcile your hand.",
       "lore": "“I would rather share one lifetime with you than face all the ages of this world alone.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19006.jpg",
-     "wikiImage": "LOTR-EN19S006.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S006.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S006.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S006.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F006.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19006.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S006.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S006.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S006.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F006.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_7",
@@ -361,14 +418,23 @@
       "gameText": "Archer. Fellowship. Archery: Add two threats to wound a minion; Legolas does not add to the fellowship archery total.",
       "lore": "“Have you heard nothing Lord Elrond has said? The Ring must be destroyed!”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19007.jpg",
-     "wikiImage": "LOTR-EN19S007.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S007.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S007.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S007.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F007.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19007.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S007.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S007.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S007.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F007.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_8",
@@ -419,14 +485,23 @@
       "gameText": "Fellowship. Response: If an event is played, exert Gandalf twice to cancel that event.",
       "lore": "“The Ring yearns above all else to return to the hand of its master. They are one, the Ring and the Dark Lord. Frodo, he must never find it.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19008.jpg",
-     "wikiImage": "LOTR-EN19S008.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S008.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S008.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S008.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F008.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19008.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S008.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S008.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S008.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F008.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_9",
@@ -465,14 +540,23 @@
       "arrowDirection": "None",
       "gameText": "To play, spot a [GANDALF] Wizard. Bearer must be a companion. Each time bearer wins a skirmish, you may transfer this condition to another companion. At the end of each turn, return this condition to hand."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19009.jpg",
-     "wikiImage": "LOTR-EN19S009.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S009.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S009.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S009.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F009.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19009.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S009.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S009.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S009.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F009.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_10",
@@ -519,14 +603,23 @@
       "gameText": "Gollum is strength +1 for each threat you can spot. Each time Gollum wins a skirmish, you may add a threat.",
       "lore": "“‘But if we was master, then we could help ourselfs, yes...'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19010.jpg",
-     "wikiImage": "LOTR-EN19S010.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S010.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S010.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S010.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F010.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19010.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S010.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S010.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S010.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F010.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_11",
@@ -575,14 +668,23 @@
       "gameText": "Ring-bound. To play, add a burden. Each time Smeagol wins a skirmish, you may shuffle up to 2 [GOLLUM] cards from your discard pile into your draw deck. Skirmish: Exert a Ring-bound companion to make Smeagol strength +2.",
       "lore": "“...now that I see him, I do pity him.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19011.jpg",
-     "wikiImage": "LOTR-EN19S011.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S011.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S011.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S011.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F011.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19011.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S011.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S011.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S011.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F011.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_12",
@@ -633,14 +735,23 @@
       "gameText": "Fellowship. Ranger. While the Ring-bearer is the only other companion you can spot, Aragorn is an archer, defender +1, and can take no more than 1 wound each skirmish.",
       "lore": "“The skill of the Elves can reforge the sword of Kings, but only you have the power to wield it.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19012.jpg",
-     "wikiImage": "LOTR-EN19S012.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S012.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S012.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S012.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F012.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19012.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S012.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S012.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S012.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F012.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_13",
@@ -691,14 +802,23 @@
       "gameText": "Fellowship. Ranger. While you can spot two unbound Hobbits, Boromir's twilight cost is -1. Each time Boromir wins a skirmish, you may exert an unbound Hobbit to discard each minion he is skirmishing from play.",
       "lore": "“In a dream, I saw the eastern sky grow dark.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19013.jpg",
-     "wikiImage": "LOTR-EN19S013.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S013.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S013.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S013.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F013.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19013.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S013.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S013.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S013.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F013.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_14",
@@ -739,14 +859,23 @@
       "gameText": "Bearer must be a [GONDOR] Man. Each time bearer wins a skirmish, you may transfer this condition to another [GONDOR] Man. At the end of each turn, if bearer is not Aragorn, return this condition to hand.",
       "lore": "“Your time will come. You will face the same evil...”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19014.jpg",
-     "wikiImage": "LOTR-EN19S014.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S014.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S014.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S014.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F014.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19014.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S014.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S014.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S014.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F014.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_15",
@@ -787,14 +916,23 @@
       "gameText": "Bearer must be a fellowship companion. While bearer is a [GONDOR] companion, he or she is damage +1.",
       "lore": "“I would have followed you my Brother... my Captain... my King!”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19015.jpg",
-     "wikiImage": "LOTR-EN19S015.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S015.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S015.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S015.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F015.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19015.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S015.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S015.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S015.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F015.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_16",
@@ -841,14 +979,23 @@
       "arrowDirection": "None",
       "gameText": "When you play Grima, you may remove (4) to exert an unbound companion. That companion cannot use special abilities until the regroup phase. Assignment: Exert Grima to assign him to an unbound companion. That companion may exert to prevent this."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19016.jpg",
-     "wikiImage": "LOTR-EN19S016.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S016.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S016.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S016.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F016.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19016.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S016.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S016.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S016.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F016.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_17",
@@ -889,14 +1036,23 @@
       "gameText": "Weather. Each time the fellowship moves, add (2) for each Ent you can spot. Skirmish: Discard this condition from play to make a non-[WRAITH] minion strength +1.",
       "lore": "“If the mountain defeats you, will you risk a more dangerous road?”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19017.jpg",
-     "wikiImage": "LOTR-EN19S017.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S017.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S017.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S017.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F017.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19017.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S017.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S017.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S017.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F017.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_18",
@@ -945,16 +1101,25 @@
       "gameText": "Damage +2. Fierce. While at an underground site, skip the archery phase, the maneuver phase, and The Balrog cannot be assigned to skirmish companions of strength 6 or less.",
       "lore": "“The flames roared up to greet it, and wreathed about it...”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19018.jpg",
-     "wikiImage": "LOTR-EN19S018.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S018.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S018.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S018.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F018.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19018.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S018.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S018.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S018.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F018.0_card.jpg"
+   },
+   "reprints": [
     "19_41"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "19_19",
@@ -1001,14 +1166,23 @@
       "gameText": "Tentacle. This minion cannot bear possessions. Discard this minion from play if not at a marsh. This minion is strength +1 for each tentacle you spot.",
       "lore": "“Frodo felt something seize him by the ankle...”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19019.jpg",
-     "wikiImage": "LOTR-EN19S019.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S019.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S019.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S019.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F019.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19019.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S019.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S019.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S019.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F019.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_20",
@@ -1055,14 +1229,23 @@
       "gameText": "Tentacle. This minion cannot bear possessions. Discard this minion from play if not at a marsh. This minion is strength +1 for each tentacle you spot.",
       "lore": "“One came wriggling over the threshold...”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19020.jpg",
-     "wikiImage": "LOTR-EN19S020.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S020.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S020.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S020.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F020.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19020.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S020.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S020.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S020.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F020.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_21",
@@ -1111,14 +1294,23 @@
       "gameText": "Discard all other minions (except tentacles). Watcher in the Water cannot bear possessions. The fellowship's current site gains marsh. Shadow: Play a tentacle from your discard pile.",
       "lore": "“...as if a host of snakes were swimming up...”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19021.jpg",
-     "wikiImage": "LOTR-EN19S021.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S021.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S021.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S021.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F021.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19021.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S021.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S021.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S021.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F021.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_22",
@@ -1165,14 +1357,23 @@
       "gameText": "Hunter 2. (While skirmishing a non-hunter character, this character is strength +2.) To play, spot an [ORC] Orc. When you play this minion, add 2 threats. The Free Peoples player may exert the Ring-bearer to prevent this.",
       "lore": "Black blood. Flat feet. Scaly skin"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19022.jpg",
-     "wikiImage": "LOTR-EN19S022.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S022.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S022.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S022.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F022.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19022.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S022.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S022.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S022.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F022.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_23",
@@ -1221,14 +1422,23 @@
       "gameText": "To play, spot an [ORC] Orc. Skirmish: Remove a threat to make an [ORC] minion strength +2.",
       "lore": "Stones to move. Bridges to be rebuilt."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19023.jpg",
-     "wikiImage": "LOTR-EN19S023.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S023.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S023.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S023.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F023.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19023.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S023.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S023.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S023.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F023.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_24",
@@ -1269,8 +1479,12 @@
       "gameText": "Bearer must be a [ROHAN] Man. At the start of each skirmish you may transfer this condition to a [ROHAN] Man. At the end of each turn, if bearer did not win a skirmish this turn, return this condition to hand.",
       "lore": "“Bring it down! Bring it down! Bring it down!”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19024.jpg",
-     "wikiImage": "LOTR-EN19S024.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S024.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S024.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S024.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F024.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN19S024.1",
@@ -1281,14 +1495,22 @@
      "fields": {
       "unique": true
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN19E024.1_card.jpg",
-     "wikiImage": "LOTR-EN19S024.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S024.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S024.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S024.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19024.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S024.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S024.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S024.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F024.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "69_24"
   },
   {
@@ -1340,14 +1562,23 @@
       "gameText": "Valiant. Eomer is strength +2 for each wound on each minion he is skirmishing.",
       "lore": "“Now is the hour, Riders of Rohan, oaths you have taken! Now, fulfill them all! To Lord and Land!”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19025.jpg",
-     "wikiImage": "LOTR-EN19S025.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S025.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S025.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S025.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F025.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19025.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S025.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S025.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S025.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F025.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_26",
@@ -1398,14 +1629,23 @@
       "gameText": "Valiant. Fellowship: Play a [ROHAN] companion with a twilight cost of 3 or more; his or her twilight cost is -1.",
       "lore": "“It's tradition for the women of the court to farewell the men.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19026.jpg",
-     "wikiImage": "LOTR-EN19S026.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S026.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S026.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S026.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F026.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19026.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S026.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S026.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S026.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F026.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_27",
@@ -1446,14 +1686,23 @@
       "gameText": "Remove a Free Peoples culture token to add a threat. When you play this event, you may remove (1) to place this on the bottom of your draw deck instead of in your discard pile.",
       "lore": "“One by one, the free lands of Middle-earth fell to the power of the Ring.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19027.jpg",
-     "wikiImage": "LOTR-EN19S027.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S027.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S027.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S027.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F027.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19027.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S027.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S027.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S027.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F027.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_28",
@@ -1504,14 +1753,23 @@
       "gameText": "Fellowship. Ring-bearer. Ring-bound. While you cannot spot 4 threats, Shadow cards cannot discard cards from your hand or from the top of your draw deck.",
       "lore": "“We're friends of Gandalf the Grey.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19028.jpg",
-     "wikiImage": "LOTR-EN19S028.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S028.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S028.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S028.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F028.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19028.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S028.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S028.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S028.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F028.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_29",
@@ -1562,14 +1820,23 @@
       "gameText": "Fellowship. Skirmish: If Merry is not assigned to a skirmish, take 2 [SHIRE] cards from your discard pile and remove them from the game to make a companion strength +2.",
       "lore": "“You can trust us to stick to you through thick and thin - to the bitter end.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19029.jpg",
-     "wikiImage": "LOTR-EN19S029.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S029.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S029.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S029.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F029.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19029.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S029.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S029.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S029.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F029.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_30",
@@ -1620,8 +1887,12 @@
       "gameText": "Fellowship. Pippin is strength +1 for each tale you can spot.",
       "lore": "“‘You must go - and therefore we must, too. Merry and I are coming with you.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19030.jpg",
-     "wikiImage": "LOTR-EN19S030.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S030.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S030.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S030.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F030.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN19S030.1",
@@ -1632,14 +1903,22 @@
      "fields": {
       "gameText": "Fellowship. Pippin is strength +1 for each tale you can spot (limit X, where X is the number of [SHIRE] companions you can spot)."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN19E030.1_card.jpg",
-     "wikiImage": "LOTR-EN19S030.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S030.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S030.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S030.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19030.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S030.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S030.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S030.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F030.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "69_30"
   },
   {
@@ -1677,14 +1956,23 @@
       "arrowDirection": "None",
       "gameText": "Bearer must be a [SHIRE] companion. Each time bearer wins a skirmish, you may transfer this condition to a fellowship companion. Each time this condition is transferred to a companion, heal that companion."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19031.jpg",
-     "wikiImage": "LOTR-EN19S031.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S031.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S031.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S031.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F031.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19031.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S031.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S031.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S031.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F031.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_32",
@@ -1733,14 +2021,23 @@
       "arrowDirection": "None",
       "gameText": "Fellowship. Ring-bound. While Sam bears The One Ring, he is resistance -4. While you can spot 3 [SHIRE] companions, Sam is strength +2. Response: If Frodo dies, make Sam the Ring-bearer."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19032.jpg",
-     "wikiImage": "LOTR-EN19S032.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S032.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S032.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S032.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F032.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19032.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S032.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S032.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S032.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F032.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_33",
@@ -1789,14 +2086,23 @@
       "gameText": "Archer. Damage +1. Response: If Lurtz is about to take a wound or be exerted, remove (2) (or exert another Uruk-hai) to prevent that wound or exertion.",
       "lore": "The Uruk-hai leader walked into view on the misty hilltop beneath the dark trees. Hungry for blood."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19033.jpg",
-     "wikiImage": "LOTR-EN19S033.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S033.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S033.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S033.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F033.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19033.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S033.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S033.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S033.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F033.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_34",
@@ -1837,14 +2143,23 @@
       "gameText": "Bearer must be a [WRAITH] minion. When you play this, you may draw a card. Each time bearer wins a skirmish, you may transfer this condition to another [WRAITH] minion.",
       "lore": "The Nazgûl's true forms were revealed to him, shining like ghostly Kings."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19034.jpg",
-     "wikiImage": "LOTR-EN19S034.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S034.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S034.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S034.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F034.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19034.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S034.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S034.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S034.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F034.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_35",
@@ -1893,14 +2208,23 @@
       "gameText": "Fierce. While you can spot 5 twilight tokens in the twilight pool and another [WRAITH] card, Ulaire Attea is strength +3.",
       "lore": "Those that knew the most power as kings were placed in particular ways for the will of Sauron."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19035.jpg",
-     "wikiImage": "LOTR-EN19S035.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S035.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S035.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S035.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F035.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19035.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S035.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S035.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S035.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F035.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_36",
@@ -1949,14 +2273,23 @@
       "gameText": "Fierce. Maneuver: Spot 6 companions and discard a Nazgul from hand to wound an unbound companion.",
       "lore": "The Nine Riders were embodiments of Sauron's will, searching all of Middle-earth for his prize."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19036.jpg",
-     "wikiImage": "LOTR-EN19S036.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S036.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S036.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S036.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F036.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19036.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S036.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S036.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S036.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F036.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_37",
@@ -2005,8 +2338,12 @@
       "gameText": "Fierce. Ulaire Lemenya is strength +1 for each [WRAITH] possession in your discard pile.",
       "lore": "“‘Do you wish them to find you? They are terrible!'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19037.jpg",
-     "wikiImage": "LOTR-EN19S037.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S037.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S037.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S037.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F037.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN19S037.1",
@@ -2017,14 +2354,22 @@
      "fields": {
       "gameText": "Fierce. Ulaire Lemenya is strength +1 for each [RINGWRAITH] possession in your discard pile (limit +9)."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN19E037.1_card.jpg",
-     "wikiImage": "LOTR-EN19S037.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S037.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S037.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S037.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19037.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S037.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S037.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S037.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F037.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "69_37"
   },
   {
@@ -2074,8 +2419,12 @@
       "gameText": "Fierce. When you play Ulaire Nertea, name a race. The Free Peoples player cannot assign Ulaire Nertea to skirmish a companion of the named race.",
       "lore": "Some accepted Sauron's gift for glory and a notion of great deeds."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19038.jpg",
-     "wikiImage": "LOTR-EN19S038.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S038.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S038.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S038.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F038.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-EN19S038.1",
@@ -2086,14 +2435,22 @@
      "fields": {
       "gameText": "Fierce. When you play Ulaire Nertea, name a race. The Free Peoples player must add a burden to assign Ulaire Nertea to skirmish a companion of the named race."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN19E038.1_card.jpg",
-     "wikiImage": "LOTR-EN19S038.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S038.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S038.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S038.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19038.jpg",
-   "alternates": [],
-   "printings": [],
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S038.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S038.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S038.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F038.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": [],
    "errataId": "69_38"
   },
   {
@@ -2143,14 +2500,23 @@
       "gameText": "Fierce. Ulaire Toldea cannot be assigned to skirmish the same companion in a fierce skirmish that he has already been assigned to this turn.",
       "lore": "“‘Open, in the name of Mordor!' said a voice thin and menacing.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19039.jpg",
-     "wikiImage": "LOTR-EN19S039.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S039.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S039.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S039.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F039.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19039.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S039.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S039.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S039.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F039.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "19_40",
@@ -2199,14 +2565,23 @@
       "gameText": "Fierce. Skirmish: Discard a Nazgul from hand to make The Witch-king strength +1 (or strength +2 if you can spot that discarded Nazgul).",
       "lore": "“‘A great king and sorcerer he was of old, and now he wields a deadly fear.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19040.jpg",
-     "wikiImage": "LOTR-EN19S040.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S040.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S040.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S040.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F040.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR19040.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S040.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S040.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S040.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19F040.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   }
  ]
 }

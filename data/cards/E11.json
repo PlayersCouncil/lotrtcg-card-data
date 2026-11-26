@@ -24,7 +24,11 @@
    "gameText": "To play, exert a [GANDALF] Wizard. Discard a card from hand to take a Shadow card from your discard pile into hand.",
    "lore": "\"Gandalf lifted it carefully, but the leaves crackled and broke as he laid it on the slab.\"",
    "wikiVersion": "LOTR-EN11S031.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/61_031.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S031.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S031.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S031.1_card.jpg"
+   }
   },
   {
    "id": "61_100",
@@ -52,7 +56,11 @@
    "gameText": "At the start of the maneuver phase, you may exert this minion to transfer a possession or condition borne by a character to another eligible bearer.",
    "lore": "“The strangers, especially those that had come up the Greenway, stared at them curiously.”",
    "wikiVersion": "LOTR-EN11S100.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/61_100.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S100.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S100.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S100.1_card.jpg"
+   }
   },
   {
    "id": "61_114",
@@ -77,7 +85,11 @@
    "gameText": "To play, spot an [ORC] minion. Each time a companion exerts, you may add (1) (or (2) if you can spot 6 companions).",
    "lore": "“But soon there were few left in Minas Tirith who had the heart to stand up and defy the hosts of Mordor.”",
    "wikiVersion": "LOTR-EN11S114.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/61_114.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S114.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S114.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S114.1_card.jpg"
+   }
   },
   {
    "id": "61_132",
@@ -105,7 +117,11 @@
    "gameText": "When you play this minion, you may shuffle up to 2 [ORC] conditions from your discard pile into your draw deck.",
    "lore": "“‘There is always a smoke rising from Isengard these days.'”",
    "wikiVersion": "LOTR-EN11S132.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/61_132.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S132.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S132.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S132.1_card.jpg"
+   }
   },
   {
    "id": "61_227",
@@ -130,7 +146,11 @@
    "arrowDirection": "Left",
    "gameText": "River. The minion archery total is +X for each companion you can spot over 5, where X is the current region number.",
    "wikiVersion": "LOTR-EN11S227.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN11E227.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S227.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S227.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S227.1_card.jpg"
+   }
   },
   {
    "id": "61_232",
@@ -156,7 +176,11 @@
    "gameText": "At the start of each skirmish, you may exert your character in that skirmish to prevent special abilities being used.",
    "twilight": 1,
    "wikiVersion": "LOTR-EN11S232.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN11E232.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S232.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S232.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S232.2_card.jpg"
+   }
   },
   {
    "id": "61_249",
@@ -181,7 +205,11 @@
    "arrowDirection": "Left",
    "gameText": "Marsh. When the fellowship moves here in region 1 or 2, heal each character who has resistance 5 or more and exert all others.",
    "wikiVersion": "LOTR-EN11S249.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN11E249.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/11/LOTR-EN11S249.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/11/LOTR-EN11S249.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/11/LOTR-EN11S249.1_card.jpg"
+   }
   }
  ]
 }

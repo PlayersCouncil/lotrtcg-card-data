@@ -28,7 +28,11 @@
    "gameText": "Valiant. While another companion is assigned to a skirmish, during each skirmish, prevent all wounds to this companion after the first wound.",
    "lore": "“There was a sound of soft laughter over their heads, and then another clear voice spoke in an elven-tongue.”",
    "wikiVersion": "LOTR-EN13S020.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN13E020.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/13/LOTR-EN13S020.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/13/LOTR-EN13S020.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/13/LOTR-EN13S020.1_card.jpg"
+   }
   },
   {
    "id": "63_23",
@@ -57,7 +61,11 @@
    "gameText": "Valiant. Response: If you play an event during a skirmish involving this companion, exert this companion to place that event on top of your draw deck.",
    "lore": "Cloaked by Elven garments and by darkness, warriors led by Haldir reinforced Helm's Deep.",
    "wikiVersion": "LOTR-EN13S023.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN13E023.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/13/LOTR-EN13S023.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/13/LOTR-EN13S023.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/13/LOTR-EN13S023.1_card.jpg"
+   }
   },
   {
    "id": "63_188",
@@ -82,7 +90,11 @@
    "arrowDirection": "Left",
    "gameText": "Dwelling. When the fellowship moves to this site in region 2, the first Shadow player may discard 2 cards from hand to add a burden.",
    "wikiVersion": "LOTR-EN13S188.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/63_188.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/13/LOTR-EN13S188.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/13/LOTR-EN13S188.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/13/LOTR-EN13S188.1_card.jpg"
+   }
   }
  ]
 }

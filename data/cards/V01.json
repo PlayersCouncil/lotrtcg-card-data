@@ -40,8 +40,11 @@
       "gameText": "Maneuver: If the fellowship is at any sites 4 to 8, make each Dwarf lose all damage bonuses until the regroup phase, and each Dwarf bearing 2 or more items takes no more than 1 wound per phase until the regroup phase.",
       "lore": "\"'Roaring fires, malt beer, red meat off the bone...'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S001.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S001.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S001.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S001.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S001.1",
@@ -56,14 +59,21 @@
       "twilight": 1,
       "gameText": "Maneuver: Spot an unbound Dwarf bearing 2 or more items and hinder this condition to choose one: make that Dwarf damage +1 until the regroup phase, or make that Dwarf take no more than 1 wound until the regroup phase.  If at an underground site, do both."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E001.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S001.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S001.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S001.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S001.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E001.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S001.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S001.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S001.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_2",
@@ -104,14 +114,21 @@
       "gameText": "Each time a [dwarven] card is discarded from the top of your draw deck, you may add (1) to stack that card here. Maneuver: Exert a Dwarf to take a card stacked here into hand.",
       "lore": "\"'Far, far below the deepest delvings of the Dwarves, the world is gnawed by nameless things.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S002.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S002.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S002.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S002.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_002.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S002.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S002.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S002.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_3",
@@ -162,8 +179,9 @@
       "gameText": "Damage +1. While Gimli bears 2 items, he is strength +2.While Gimli bears 3 items, he is damage +1.",
       "lore": "\"'...there is one dwarf in Moria who still draws breath!'\""
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S003.0_card.jpg",
-     "wikiImage": "LOTR-ENV1S003.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S003.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S003.1",
@@ -182,8 +200,11 @@
       "resistance": 6,
       "gameText": "Damage +1. While Gimli bears 2 items, he is strength +2. While Gimli bears 3 items, he is damage +1."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E003.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S003.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S003.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S003.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S003.1_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S003.2",
@@ -202,16 +223,23 @@
       "resistance": 6,
       "gameText": "Damage +1. While Gimli bears 2 items, he is damage +1. While Gimli bears 3 items, he is strength +2."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S003.2_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S003.2_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S003.2_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S003.2_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E003.1_card.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S003.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S003.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S003.2_card.jpg"
+   },
+   "reprints": [
     "101_103"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "101_4",
@@ -252,14 +280,21 @@
       "gameText": "Exert an Elf to make a Dwarf strength +3 and damage +1 until the regroup phase.",
       "lore": "\"'...and may the stars shine upon the end of your road.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S004.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S004.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S004.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S004.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_004.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S004.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S004.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S004.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_5",
@@ -300,14 +335,21 @@
       "gameText": "Spot a Dwarf bearing 2 or more items to heal that Dwarf.  Return X items on that Dwarf to their owners' hands to wound X minions.",
       "lore": "\"'Let them come...!'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S005.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S005.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S005.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S005.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_005.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S005.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S005.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S005.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_6",
@@ -348,14 +390,21 @@
       "gameText": "Each time the fellowship moves, you may exert an Elf to make a Dwarf defender +1 until the regroup phase.",
       "lore": "\"'Let none say again that Dwarves are grasping and ungracious.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S006.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S006.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S006.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S006.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_006.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S006.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S006.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S006.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_7",
@@ -396,14 +445,21 @@
       "gameText": "Tale. Spot a minion skirmishing an Elf and discard your [elven] tale to wound that minion.",
       "lore": "\"'...the day the strength of men failed.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S007.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S007.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S007.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S007.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_007.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S007.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S007.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S007.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_8",
@@ -440,14 +496,21 @@
       "arrowDirection": "None",
       "gameText": "To play, exert an Elf and spot a unique companion in the dead pile.  Bearer must be an unbound companion. Bearer cannot be exerted, wounded, or assigned to a skirmish. At the start of the regroup phase, discard a condition on bearer (and heal bearer if Gandalf is in the dead pile)."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S008.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S008.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S008.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S008.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_008.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S008.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S008.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S008.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_9",
@@ -498,8 +561,11 @@
       "gameText": "Archer. Archery: Make the fellowship archery total -X (to a minimum of 0) to make Legolas strength +X until the regroup phase.  You cannot use archery special abilities.",
       "lore": "\"He saw not a shadow, nor a blur, but the small figures of horsemen.\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S009.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S009.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S009.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S009.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S009.1",
@@ -519,14 +585,21 @@
       "signet": "Gandalf",
       "gameText": "Archer. Each time a minion takes a wound during the archery phase, make Legolas strength +1 until the regroup phase."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S009.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S009.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S009.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S009.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S009.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S009.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S009.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S009.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S009.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_10",
@@ -565,14 +638,21 @@
       "gameText": "Tale. Bearer must be a unique [elven] companion. Archery: Exert bearer to make all Free Peoples archers lose archer and gain damage +1 until the regroup phase.",
       "lore": "\"'It recalled to me the glory of the Elder Days and the hosts of Beleriand, so many great princes and captains were assembled.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S010.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S010.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S010.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S010.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_010.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S010.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S010.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S010.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_11",
@@ -611,14 +691,21 @@
       "arrowDirection": "None",
       "gameText": "Fellowship: Stack your tale or artifact from play or from hand here to draw a card. Regroup: Exert an [elven] ally to draw X cards, exert X minions, and remove up to X wounds from companions, where X is the number of Free Peoples cultures on cards stacked here. Discard this artifact."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S011.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S011.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S011.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S011.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_011.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S011.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S011.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S011.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_12",
@@ -659,14 +746,21 @@
       "gameText": "Tale. Each time the fellowship moves, you may spot an [elven] or [gandalf] ring to place a card from hand beneath your draw deck and draw a card (and heal a companion if you can spot 3 [elven] or [gandalf] rings).",
       "lore": "\"'The Three, fairest of all, the Elf-lords hid from him, and his hand never touched them or sullied them.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S012.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S012.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S012.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S012.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_012.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S012.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S012.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S012.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_13",
@@ -707,14 +801,21 @@
       "gameText": "Spot Gandalf to reveal an [elven] ally from your draw deck.  You may add (X) to take that ally into hand, where X is that ally's twilight cost.",
       "lore": "\"Beside Glorfindel there were several other counsellors of Elrond's household, of whom Erestor was the chief; and with him was Galdor, an Elf from the Grey Havens...\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S013.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S013.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S013.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S013.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_013.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S013.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S013.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S013.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_14",
@@ -763,8 +864,11 @@
       "arrowDirection": "None",
       "gameText": "At the start of your fellowship phase, you may spot 2 [elven] allies and exert Gandalf to shuffle a [Gandalf] or [elven] card from your discard pile into your draw deck. While you can spot 3 [elven] allies, Gandalf is strength +2. While you can spot Elrond, Galadriel, and Celeborn, Gandalf is strength +2."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S014.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S014.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S014.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S014.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S014.1",
@@ -783,14 +887,21 @@
       "resistance": 6,
       "gameText": "At the start of your fellowship phase, you may spot 3 [ELVEN] allies and exert Gandalf to take a [GANDALF] or [ELVEN] event from your discard pile into your hand. Gandalf is strength +1 for each of these characters you can spot: Celeborn, Elrond, Galadriel, Saruman."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S014.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S014.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S014.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S014.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S014.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S014.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S014.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S014.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S014.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_15",
@@ -843,14 +954,21 @@
        "4"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S015.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S015.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S015.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S015.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_015.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S015.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S015.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S015.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_16",
@@ -891,14 +1009,21 @@
       "gameText": "Each time a minion is about to take a wound, you may spot Gandalf to prevent that wound and heal a companion (limit once per turn).",
       "lore": "\"'Then do not be too eager to deal out death in judgement.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S016.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S016.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S016.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S016.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_016.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S016.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S016.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S016.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_17",
@@ -939,14 +1064,21 @@
       "gameText": "Spot Gandalf and Frodo to draw X cards, where X is Frodo's vitality.",
       "lore": "\"'You'll keep an eye on Frodo, won't you?'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S017.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S017.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S017.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S017.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_017.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S017.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S017.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S017.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_18",
@@ -987,14 +1119,21 @@
       "gameText": "While you can spot Gandalf and 2 [elven] allies, the first sentence of Saruman's game text does not apply. Regroup: Exert 2 [elven] allies to heal Gandalf or a companion with the Gandalf signet (limit 2 per phase).",
       "lore": "\"'For even the very wise cannot see all ends.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S018.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S018.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S018.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S018.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_018.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S018.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S018.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S018.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_19",
@@ -1045,8 +1184,11 @@
       "gameText": "When you play Aragorn, you may take an [elven] ally with a twilight cost of 2 or less into hand from your draw deck. Skirmish: Discard an [elven] skirmish event from hand to make Aragorn strength +2.",
       "lore": "\"'I gave Hope to the Dúnedain, I have kept no hope for myself.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S019.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S019.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S019.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S019.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S019.1",
@@ -1065,8 +1207,11 @@
       "resistance": 6,
       "gameText": "When you play Aragorn, you may take an Elf with a twilight cost of 2 or less into hand from your draw deck. Maneuver: Discard an [ELVEN] card from hand to make Aragorn damage +1, archer, or strength +2 until the regroup phase."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S019.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S019.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S019.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S019.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S019.1_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S019.2",
@@ -1085,14 +1230,21 @@
       "resistance": 6,
       "gameText": "When you play Aragorn (except in your starting fellowship), you may play an Elf with a twilight cost of 2 or less from your draw deck. Skirmish: Discard an [ELVEN] card from hand to make Aragorn strength +2 or damage +1."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E019.2_card.jpg",
-     "wikiImage": "LOTR-ENV1S019.2_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S019.2_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S019.2_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S019.2_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E019.2_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S019.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S019.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S019.2_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_20",
@@ -1143,8 +1295,11 @@
       "gameText": "Boromir is strength +2 for each minion he is skirmishing. At the start of each assignment phase, you may exert another companion with the Aragorn signet to make Boromir defender +1 until the regroup phase.",
       "lore": "\"'Few have gained such a victory. Be at peace!'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S020.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S020.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S020.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S020.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S020.1",
@@ -1163,16 +1318,23 @@
       "resistance": 6,
       "gameText": "Boromir is strength +2 for each minion he is skirmishing. At the start of each assignment phase, make Boromir defender +1 if you can spot an unbound Hobbit or another companion with the Aragorn signet."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E020.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S020.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S020.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S020.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S020.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E020.1_card.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S020.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S020.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S020.1_card.jpg"
+   },
+   "reprints": [
     "101_101"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "101_21",
@@ -1213,14 +1375,21 @@
       "gameText": "While Boromir is assigned to skirmish more than 1 minion, Aragorn is strength +3. While Aragorn is assigned to skirmish more than 1 minion, Boromir is strength +3.",
       "lore": "\"They blew a great fanfare, and the heralds cried aloud:...\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S021.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S021.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S021.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S021.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_021.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S021.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S021.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S021.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_22",
@@ -1261,14 +1430,21 @@
       "gameText": "To play, exert Aragorn. When Aragorn is killed, discard this artifact. Fellowship: Exert a companion with the Aragorn signet to remove a burden.  Then exert Aragorn or discard this artifact.",
       "lore": "\"'Ónen i-estel edain, ú-chebin estel anim.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S022.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S022.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S022.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S022.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_022.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S022.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S022.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S022.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_23",
@@ -1307,14 +1483,21 @@
       "arrowDirection": "None",
       "gameText": "Each time you play a skirmish event during a skirmish involving a companion with the Aragorn signet, you may spot Aragorn to stack that event here. Skirmish: Spot Aragorn and discard X cards here to make a skirmishing companion with the Aragorn signet strength +X (limit +3)."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S023.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S023.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S023.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S023.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_023.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S023.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S023.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S023.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_24",
@@ -1355,14 +1538,21 @@
       "gameText": "To play, spot Aragorn. Plays on a companion with the Aragorn signet (except Aragorn). Each time bearer wins a skirmish, exert Aragorn or discard this condition.",
       "lore": "\"'I am Aragorn son of Arathorn; and if by life or death I can save you, I will.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S024.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S024.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S024.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S024.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_024.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S024.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S024.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S024.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_25",
@@ -1412,8 +1602,11 @@
       "gameText": "This minion is twilight cost -1 for each companion you can spot over 3.Maneuver: Spot 2 wounded companions (or spot Saruman) and discard this minion to place an [isengard] weather from your draw deck or discard pile on top of your draw deck.",
       "lore": "\"'...one harsh croak was heard.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S025.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S025.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S025.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S025.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S025.1",
@@ -1434,14 +1627,21 @@
        "4"
       ]
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S025.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S025.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S025.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S025.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S025.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S025.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S025.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S025.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S025.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_26",
@@ -1489,8 +1689,11 @@
       "arrowDirection": "None",
       "gameText": "When you play this minion, spot a companion to add (1) for each Free Peoples card borne by that companion (limit (3)). Maneuver: Spot 2 Free Peoples items (or spot Saruman) and discard this minion to place an [isengard] item from your draw deck or discard pile on top of your draw deck."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S026.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S026.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S026.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S026.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S026.1",
@@ -1511,14 +1714,21 @@
        "4"
       ]
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S026.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S026.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S026.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S026.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S026.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S026.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S026.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S026.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S026.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_27",
@@ -1557,14 +1767,21 @@
       "gameText": "To play, spot a weather condition.  Plays on a companion. Limit 1 per bearer. Each time a weather card is played, add (2). When this condition is discarded by a Free Peoples card, wound bearer.",
       "lore": "\"'Gandalf, we must turn back!'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S027.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S027.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S027.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S027.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_027.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S027.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S027.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S027.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_28",
@@ -1605,8 +1822,11 @@
       "gameText": "Spell. Weather. Place Saruman from your draw deck or discard pile on top of your draw deck.  You may discard up to X cards from hand, where X is the number of Crows you can spot.",
       "lore": "\"'It is moving fast...and against the wind.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S028.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S028.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S028.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S028.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S028.1",
@@ -1621,14 +1841,21 @@
       "twilight": 0,
       "gameText": "Spell. Weather. Discard a Free Peoples card from hand to play Saruman from your draw deck or discard pile; his twilight cost is -1 for each Crow you can spot."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S028.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S028.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S028.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S028.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S028.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S028.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S028.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S028.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S028.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_29",
@@ -1678,8 +1905,11 @@
       "gameText": "While you can spot 3 Free Peoples conditions, this minion is twilight cost -3. Maneuver: Spot 3 Free Peoples conditions (or spot Saruman) and discard this minion to place an [isengard] condition from your draw deck or discard pile on top of your draw deck.",
       "lore": "\"...a whole regiment of birds had broken away...\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S029.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S029.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S029.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S029.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S029.1",
@@ -1700,14 +1930,21 @@
        "4"
       ]
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S029.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S029.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S029.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S029.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S029.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S029.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S029.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S029.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S029.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_30",
@@ -1754,14 +1991,21 @@
       "arrowDirection": "None",
       "gameText": "While you cannot spot a weather, Saruman may not take wounds in the archery phase and may not be assigned to a skirmish. While at a site bearing a weather, each [isengard] minion is strength +2.Response: If the fellowship moves from a site bearing a weather, discard this minion to exert each companion."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S030.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S030.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S030.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S030.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_030.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S030.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S030.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S030.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_31",
@@ -1800,8 +2044,11 @@
       "arrowDirection": "None",
       "gameText": "Each time a tentacle wins a skirmish, you may stack it here. Assignment: Spot 4 tentacles stacked here and discard this condition to assign a [moria] creature to the Ring-bearer. The Free Peoples player may exert the Ring-bearer twice to prevent this."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S031.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S031.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S031.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S031.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S031.2",
@@ -1817,14 +2064,21 @@
       "gameText": "Spot 3 tentacles to add a burden. Then you may make the Free Peoples player discard a tentacle to shuffle a [MORIA] card from your discard pile into your draw deck.",
       "type": "Event"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E031.2_card.jpg",
-     "wikiImage": "LOTR-ENV1S031.2_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S031.2_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S031.2_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S031.2_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E031.2_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S031.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S031.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S031.2_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_32",
@@ -1865,14 +2119,21 @@
       "gameText": "Each time the fellowship moves, you may reveal The Balrog from your hand to add (2).",
       "lore": "\"The orcs stood still, and a dead silence fell.\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S032.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S032.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S032.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S032.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_032.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S032.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S032.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S032.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_33",
@@ -1922,8 +2183,11 @@
       "gameText": "Tentacle. This minion may not bear possessions and is discarded if not at a marsh. Shadow: Spot 3 [moria] creatures to play this minion from your discard pile.",
       "lore": "\"The others swung round and saw the waters of the lake seething...\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S033.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S033.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S033.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S033.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S033.2",
@@ -1944,14 +2208,21 @@
        "4"
       ]
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E033.2_card.jpg",
-     "wikiImage": "LOTR-ENV1S033.2_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S033.2_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S033.2_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S033.2_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E033.2_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S033.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S033.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S033.2_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_34",
@@ -1990,8 +2261,11 @@
       "arrowDirection": "None",
       "gameText": "Shadow: Remove (1) to stack a tentacle from hand here. Shadow: Remove (1) to play a tentacle stacked here as if from hand. Response: If this condition is about to be discarded, discard a tentacle stacked here to prevent that."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S034.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S034.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S034.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S034.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S034.2",
@@ -2006,14 +2280,21 @@
       "twilight": 1,
       "gameText": "Each time a tentacle takes a wound, you may stack that tentacle here. Shadow: Play a tentacle from here as if from hand. Response: If this condition is about to be discarded, discard 2 tentacles stacked here to prevent that."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E034.2_card.jpg",
-     "wikiImage": "LOTR-ENV1S034.2_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S034.2_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S034.2_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S034.2_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E034.2_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S034.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S034.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S034.2_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_35",
@@ -2054,14 +2335,21 @@
       "gameText": "Shadow: Stack a [moria] item from hand here. Shadow: Spot The Balrog to take a [moria] card stacked here into hand.",
       "lore": "\"... he seemed small, and altogether alone: grey and bent, like a wizened tree before the onset of a storm.\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S035.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S035.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S035.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S035.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_035.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S035.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S035.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S035.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_36",
@@ -2108,14 +2396,21 @@
       "gameText": "Tentacle. This minion may not bear possessions and is strength -4 while not at a marsh. Shadow: Discard a [moria] card from hand to make the fellowship's current site gain marsh until the end of the turn.",
       "lore": "\"...it was pale-green and luminous and wet.\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S036.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S036.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S036.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S036.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_036.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S036.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S036.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S036.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_37",
@@ -2156,14 +2451,21 @@
       "gameText": "Play a [ringwraith] item from your draw deck or discard pile.",
       "lore": "\"A breath of deadly cold pierced him like a spear...\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S037.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S037.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S037.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S037.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_037.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S037.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S037.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S037.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_38",
@@ -2212,14 +2514,21 @@
       "gameText": "Nazgul are twilight cost -1.Assignment: Make the Free Peoples player assign a companion with 5 strength or more to skirmish this minion.",
       "lore": "\"'But you'll find maybe that more folk than old Harry at the gate will be asking you questions.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S038.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S038.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S038.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S038.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_038.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S038.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S038.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S038.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_39",
@@ -2262,14 +2571,21 @@
       "gameText": "Plays to your support area. While bearer is twilight, characters skirmishing bearer do not receive strength or damage bonuses from cards they bear. Skirmish: Remove (1) to transfer this artifact from your support area to a Nazgul.",
       "lore": "\"'They were once men.  Great kings of men.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S039.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S039.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S039.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S039.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_039.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S039.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S039.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S039.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_40",
@@ -2314,16 +2630,23 @@
       "arrowDirection": "None",
       "gameText": "Twilight. This minion is strength +1 for each wound on the Ring-bearer. At the start of the maneuver phase, you may exert this minion to make it fierce until the regroup phase. The Free Peoples player may exert the Ring-bearer to prevent this."
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S040.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S040.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S040.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S040.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_040.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S040.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S040.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S040.0_card.jpg"
+   },
+   "reprints": [
     "101_104"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "101_41",
@@ -2364,14 +2687,21 @@
       "gameText": "To play, spot a twilight Nazgul. Each time the fellowship moves, you may spot a wound on the Ring-bearer to draw a card (or 2 cards if the Ring-bearer is exhausted).",
       "lore": "\"'...you had become visible to them, being already on the threshold of their world.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S041.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S041.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S041.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S041.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_041.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S041.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S041.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S041.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_42",
@@ -2412,14 +2742,21 @@
       "gameText": "Each time a twilight Nazgul wins a skirmish, you may exert a twilight Nazgul to shuffle a [ringwraith] card from your discard pile into your draw deck.",
       "lore": "\"The Riders made straight for you, as soon as you fled.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S042.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S042.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S042.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S042.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_042.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S042.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S042.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S042.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_43",
@@ -2460,14 +2797,21 @@
       "gameText": "Make a skirmishing twilight Nazgul strength +1 for each wound on the Ring- bearer (and damage +1 if that Nazgul is The Witch-king).",
       "lore": "\"Immediately, though everything else remained as before, dim and dark, the shapes became terribly clear.\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S043.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S043.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S043.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S043.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_043.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S043.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S043.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S043.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_44",
@@ -2508,14 +2852,21 @@
       "gameText": "Discard a [Sauron] Orc to add a burden. The Free Peoples player may discard a Free Peoples condition to prevent this.",
       "lore": "\"'If the Dark Lord knows so much as you say, Mithrandir, will he not rather smile than fear, and with his little finger crush us like a fly that tries to sting him?'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S044.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S044.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S044.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S044.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_044.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S044.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S044.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S044.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_45",
@@ -2556,14 +2907,21 @@
       "gameText": "Response: If your [Sauron] condition is about to be discarded, remove a burden to prevent this.",
       "lore": "\"Then the Eye began to rove, searching this way and that; and Frodo knew with certainty and horror that among the many things that it sought he himself was one.\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S045.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S045.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S045.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S045.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_045.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S045.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S045.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S045.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_46",
@@ -2604,16 +2962,23 @@
       "gameText": "The site number of each [Sauron] minion is -1 for each burden you can spot. Each [sauron] minion with site number of 1 or less is strength +1. When the Ring-bearer takes off The One Ring, discard this condition.",
       "lore": "\"...to pin you under its deadly gaze, naked, immovable.\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S046.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S046.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S046.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S046.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_046.jpg",
-   "alternates": [
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S046.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S046.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S046.0_card.jpg"
+   },
+   "reprints": [
     "101_102"
    ],
-   "printings": []
+   "alts": []
   },
   {
    "id": "101_47",
@@ -2654,14 +3019,21 @@
       "gameText": "Spot 5 burdens and discard a [Sauron] Orc to choose one: make the move limit for this turn -1; or make the Free Peoples player choose to move again (if the move limit allows).",
       "lore": "\"'He leaped into the waters, but the Ring slipped from his finger as he swam, and then the Orcs saw him and killed him with arrows.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S047.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S047.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S047.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S047.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_047.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S047.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S047.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S047.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_48",
@@ -2708,14 +3080,21 @@
       "gameText": "Tracker. While you can spot an exhausted companion, this minion is an archer. While you can spot 3 exhausted companions, this minion is strength +3.",
       "lore": "\"'...he was waylaid by the Orcs of the Mountains, and almost all his folk were slain.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S048.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S048.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S048.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S048.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_048.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S048.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S048.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S048.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_49",
@@ -2756,8 +3135,11 @@
       "gameText": "While you can spot 4 burdens, each [sauron] Orc is fierce. While you can spot 6 burdens, each [Sauron] Orc is damage +1.Discard this condition at the start of the regroup phase.",
       "lore": "\"'He has indeed arisen again... and returned to his ancient fastness in the Dark Tower of Mordor.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S049.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S049.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S049.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S049.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S049.1",
@@ -2772,14 +3154,21 @@
       "twilight": 1,
       "gameText": "While you can spot 4 burdens, each [sauron] Orc is damage +1. While you can spot 6 burdens, each [Sauron] Orc is fierce. At the end of each Shadow phase, exert 2 [sauron] Orcs or hinder this condition."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E049.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S049.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S049.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S049.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S049.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E049.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S049.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S049.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S049.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_50",
@@ -2834,14 +3223,21 @@
        "3"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S050.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S050.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S050.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S050.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_050.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S050.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S050.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S050.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_51",
@@ -2896,14 +3292,21 @@
        "1"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S051.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S051.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S051.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S051.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_051.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S051.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S051.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S051.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_52",
@@ -2954,8 +3357,11 @@
       "gameText": "Assignment: Exert Merry 3 times to prevent a minion from being assigned to a skirmish until the regroup phase.  The Shadow player may exhaust that minion to prevent this.",
       "lore": "\"'...we are going to do our best to help you against the Enemy.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S052.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S052.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S052.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S052.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S052.1",
@@ -2974,14 +3380,21 @@
       "resistance": 6,
       "gameText": "Assignment: Exert Merry twice to prevent a minion from being assigned to a skirmish until the regroup phase. The Shadow player may exhaust that minion to prevent this."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E052.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S052.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S052.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S052.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S052.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E052.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S052.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S052.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S052.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_53",
@@ -3032,14 +3445,21 @@
       "gameText": "Skirmish: Exert Pippin to prevent a skirmishing [shire] companion from being overwhelmed unless their strength is tripled (and make them strength +1 if you can spot 3 companions with the Frodo signet).",
       "lore": "\"'You must go - and therefore we must, too. Merry and I are coming with you.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S053.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S053.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S053.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S053.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_053.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S053.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S053.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S053.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_54",
@@ -3090,8 +3510,11 @@
       "gameText": "Each time a companion with the Frodo signet wins a skirmish, you may exert Sam or add a burden to heal that companion. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).",
       "lore": "\"'Don't turn me into anything... unnatural.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S054.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S054.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S054.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S054.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S054.1",
@@ -3110,8 +3533,11 @@
       "resistance": 5,
       "gameText": "Each time a companion with the Frodo signet wins a skirmish, heal that companion. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5)."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E054.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S054.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S054.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S054.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S054.1_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S054.2",
@@ -3130,14 +3556,21 @@
       "resistance": 5,
       "gameText": "Each time a companion with the Frodo signet wins a skirmish, you may spot Frodo to heal that companion. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5)."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E054.2_card.jpg",
-     "wikiImage": "LOTR-ENV1S054.2_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S054.2_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S054.2_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S054.2_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E054.2_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S054.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S054.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S054.2_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_55",
@@ -3178,14 +3611,21 @@
       "gameText": "Exert a skirmishing companion with the Frodo signet to make that companion strength +1 for each companion with the Frodo signet you can spot (limit +4).",
       "lore": "\"'I don't suppose we'll ever see them again.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S055.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S055.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S055.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S055.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_055.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S055.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S055.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S055.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_56",
@@ -3226,14 +3666,21 @@
       "gameText": "Spot Merry and Pippin to heal two companions with the Frodo signet.",
       "lore": "\"'We hobbits ought to stick together, and we will. I shall go, unless they chain me up.'\""
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S056.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S056.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S056.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S056.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_056.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S056.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S056.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S056.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_57",
@@ -3278,14 +3725,21 @@
        "1"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S057.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S057.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S057.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S057.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_057.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S057.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S057.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S057.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_58",
@@ -3330,14 +3784,21 @@
        "2"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S058.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S058.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S058.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S058.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_058.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S058.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S058.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S058.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_59",
@@ -3383,8 +3844,11 @@
        "3"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S059.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S059.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S059.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S059.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S059.1",
@@ -3402,14 +3866,21 @@
        "3"
       ]
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E059.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S059.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S059.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S059.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S059.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E059.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S059.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S059.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S059.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_60",
@@ -3454,14 +3925,21 @@
        "4"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S060.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S060.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S060.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S060.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_060.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S060.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S060.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S060.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_61",
@@ -3507,8 +3985,11 @@
        "6"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S061.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S061.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S061.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S061.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S061.1",
@@ -3526,14 +4007,21 @@
        "6"
       ]
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E061.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S061.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S061.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S061.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S061.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E061.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S061.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S061.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S061.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_62",
@@ -3578,14 +4066,21 @@
        "7"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S062.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S062.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S062.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S062.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_062.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S062.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S062.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S062.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_63",
@@ -3630,14 +4125,21 @@
        "8"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S063.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S063.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S063.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S063.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_063.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S063.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S063.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S063.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_64",
@@ -3682,14 +4184,21 @@
        "9"
       ]
      },
-     "image": null,
-     "wikiImage": "LOTR-ENV1S064.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S064.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S064.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S064.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/V1_064.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S064.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S064.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S064.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_65",
@@ -3730,14 +4239,21 @@
       "gameText": "Rivers and sites with no other terrain keywords gain marsh. Companions are defender +1.Skirmish: Remove 2 burdens to have Watcher in the Water replace a tentacle skirmishing an unbound companion.",
       "lore": "\"But either Gandalf was astray, or else the land had changed in recent years...\""
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S065.0_card.jpg",
-     "wikiImage": "LOTR-ENV1S065.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S065.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S065.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S065.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S065.0_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S065.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S065.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S065.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "101_66",
@@ -3787,8 +4303,11 @@
       "gameText": "Tentacle. This minion may not bear possessions and is discarded if not at a marsh. Shadow: If this minion is stacked on a Shadow card, play it to stack 2 tentacles from your discard pile on that card.",
       "lore": "\"Many coiling arms seized the doors on either side, and with horrible strength, swung them round.\""
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1S066.0_card.jpg",
-     "wikiImage": "LOTR-ENV1S066.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S066.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S066.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S066.0_card.jpg"
+     }
     },
     {
      "wikiId": "LOTR-ENV1S066.1",
@@ -3809,14 +4328,21 @@
        "4"
       ]
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV1E066.1_card.jpg",
-     "wikiImage": "LOTR-ENV1S066.1_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S066.1_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S066.1_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S066.1_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset1/LOTR-ENV1E066.1_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V1/LOTR-ENV1S066.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V1/LOTR-ENV1S066.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V1/LOTR-ENV1S066.1_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   }
  ]
 }

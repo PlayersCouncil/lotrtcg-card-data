@@ -40,14 +40,21 @@
       "arrowDirection": "Left",
       "gameText": "When sanctuary healing at this site, the Free Peoples player heals only 3 wounds instead of 5."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-ENV0S001.0_card.jpg",
-     "wikiImage": "LOTR-ENV0S001.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V0/LOTR-ENV0S001.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V0/LOTR-ENV0S001.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V0/LOTR-ENV0S001.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/sets/vset0/LOTR-ENV0S001.0_card.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/V0/LOTR-ENV0S001.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/V0/LOTR-ENV0S001.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/V0/LOTR-ENV0S001.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   }
  ]
 }

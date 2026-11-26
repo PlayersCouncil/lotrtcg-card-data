@@ -28,7 +28,11 @@
    "gameText": "Valiant. Hunter 1. While this companion is skirmishing a wounded minion, he is strength +2. Maneuver: Exert this companion to heal another hunter.",
    "lore": "\"We are proud to fight alongside Men, once more\"",
    "wikiVersion": "LOTR-EN17S007.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN17E007.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S007.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/17/LOTR-EN17S007.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S007.1_card.jpg"
+   }
   },
   {
    "id": "67_10",
@@ -53,7 +57,11 @@
    "gameText": "When you play this, add an [ELVEN] token here for each hunter you can spot (limit 3). Maneuver: Discard this condition (or remove a token from here) and discard a card from hand to discard a condition.",
    "lore": "\"We shall not meet again, Elessar.\"",
    "wikiVersion": "LOTR-EN17S010.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN17E010.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S010.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/17/LOTR-EN17S010.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S010.1_card.jpg"
+   }
   },
   {
    "id": "67_15",
@@ -78,7 +86,11 @@
    "gameText": "Spell. Spot a [gandalf] Wizard to search a Shadow player's discard pile and choose 2 minions, then return those minions to their owner's hand. If you do, reveal that hand and discard a revealed minion.",
    "lore": "\"'I once knew every spell in all the tongues of Men or Elves or Orcs...'\"",
    "wikiVersion": "LOTR-EN17S015.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN17E015.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S015.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/17/LOTR-EN17S015.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S015.2_card.jpg"
+   }
   },
   {
    "id": "67_24",
@@ -107,7 +119,11 @@
    "gameText": "Bearer must be a [gandalf] Wizard. Discard all other possessions and weapons on bearer. Each time the fellowship moves, you may exert bearer and add a threat to remove a burden.",
    "lore": "\"There are no horses like those that are bred in that great vale between the Misty Mountains and the White.\"",
    "wikiVersion": "LOTR-EN17S024.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN17E024.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/17/LOTR-EN17S024.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/17/LOTR-EN17S024.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/17/LOTR-EN17S024.2_card.jpg"
+   }
   }
  ]
 }

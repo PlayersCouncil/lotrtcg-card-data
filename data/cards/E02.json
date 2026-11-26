@@ -24,7 +24,11 @@
    "lore": "“‘There forged was blade, and bound was hilt; / The delver mined, the mason built.'”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN02S001.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E001.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S001.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S001.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S001.1_card.jpg"
+   }
   },
   {
    "id": "52_6",
@@ -54,7 +58,11 @@
    "gameText": "To play, spot a Dwarf. While skirmishing an Uruk-hai, Fror is strength +3.",
    "lore": "“It appeared that amid the splendour of their works of hand the hearts of the Dwarves of the Lonely Mountain were troubled.”",
    "wikiVersion": "LOTR-EN02S006.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/52_006.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S006.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S006.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S006.1_card.jpg"
+   }
   },
   {
    "id": "52_7",
@@ -84,7 +92,11 @@
    "gameText": "For each [DWARVEN] tale you can spot, Gloin is strength +1 (limit +4).",
    "lore": "“‘But what then would happen, if the Ruling Ring were destroyed, as you counsel?'”",
    "wikiVersion": "LOTR-EN02S007.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/52_007.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S007.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S007.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S007.1_card.jpg"
+   }
   },
   {
    "id": "52_11",
@@ -109,7 +121,11 @@
    "lore": "A Dwarf does not readily notice the weight on his back, or in his heart.",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN02S011.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E011.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S011.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S011.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S011.1_card.jpg"
+   }
   },
   {
    "id": "52_12",
@@ -133,7 +149,11 @@
    "gameText": "Plays to your support area. Skirmish: Discard the top 3 cards from your draw deck to make a Dwarf strength +1 (limit +3) and, if underground, damage +1 (limit +3). You may then discard up to 30 cards from your draw deck 3 at a time.",
    "lore": "“‘There must have been a mighty crowd of dwarves here... and every one of them busier than badgers....'”",
    "wikiVersion": "LOTR-EN02S012.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E012.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S012.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S012.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S012.1_card.jpg"
+   }
   },
   {
    "id": "52_20",
@@ -158,7 +178,11 @@
    "lore": "“‘Yet so little faith and trust do we find now in the world beyond Lothlórien... that we dare not by our own trust endanger our land.'”",
    "subtypes": "Maneuver",
    "wikiVersion": "LOTR-EN02S020.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E020.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S020.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S020.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S020.2_card.jpg"
+   }
   },
   {
    "id": "52_32",
@@ -184,7 +208,11 @@
    "gameText": "Bearer must be a ranger. This weapon may be borne in addition to 1 other hand weapon. Skirmish: Make bearer strength +2 and damage +1 while bearing this item and skirmishing a Nazgul until the regroup phase (limit once per turn). Discard this possession at the start of the regroup phase.",
    "lore": "“...a glimpse of Strider leaping out of the darkness with a flaming brand of wood in either hand.”",
    "wikiVersion": "LOTR-EN02S032.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E032.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S032.2_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S032.2_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S032.2_card.jpg"
+   }
   },
   {
    "id": "52_38",
@@ -209,7 +237,11 @@
    "gameText": "Bearer must be a [gondor] companion. The minion archery total is -1. If bearer is Boromir, each minion skirmishing him does not gain strength bonuses from weapons. Skirmish: If bearer is Boromir, discard this to make him take no wounds.",
    "lore": "Boromir bore the heirlooms of the Steward's house with pride.",
    "wikiVersion": "LOTR-EN02S038.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E038.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S038.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S038.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S038.1_card.jpg"
+   }
   },
   {
    "id": "52_39",
@@ -234,7 +266,9 @@
    "lore": "“‘Whom do you serve?'”",
    "subtypes": "Maneuver",
    "wikiVersion": "LOTR-EN02S039.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E039.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S039.1_card.jpg"
+   }
   },
   {
    "id": "52_40",
@@ -259,7 +293,11 @@
    "lore": "“In the middle of the commotion, the Sackville-Bagginses arrived.”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN02S040.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E040.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S040.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S040.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S040.1_card.jpg"
+   }
   },
   {
    "id": "52_43",
@@ -285,7 +323,11 @@
    "gameText": "Bearer must be a unique Uruk-hai. If bearer is Lurtz, he is damage +1. Each time bearer wins a skirmish, the Free Peoples player must wound a companion or discard the top 3 cards of their draw deck.",
    "lore": "The Uruk giant laid down his bow and drew a broad-bladed weapon.",
    "wikiVersion": "LOTR-EN02S043.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E043.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S043.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S043.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S043.1_card.jpg"
+   }
   },
   {
    "id": "52_44",
@@ -310,7 +352,11 @@
    "lore": "“‘Goblins? Cobblers! Far-off tales and children's stories, that's all that is!'”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN02S044.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E044.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S044.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S044.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S044.1_card.jpg"
+   }
   },
   {
    "id": "52_45",
@@ -335,7 +381,11 @@
    "lore": "“‘A little more caution from you – that is not a trinket you carry.'”",
    "subtypes": "Response",
    "wikiVersion": "LOTR-EN02S045.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E045.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S045.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S045.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S045.1_card.jpg"
+   }
   },
   {
    "id": "52_46",
@@ -363,7 +413,9 @@
    "gameText": "Damage +1. Shadow: Remove (1) and exert a unique Uruk-hai to play an Uruk-hai from your discard pile.",
    "lore": "The captains marched the Uruk-hai to the great river without halting.",
    "wikiVersion": "LOTR-EN02S046.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E046.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S046.2_card.jpg"
+   }
   },
   {
    "id": "52_59",
@@ -387,7 +439,11 @@
    "gameText": "Shadow: Play a [MORIA] card from your discard pile.",
    "lore": "“‘Something has crept, or has been driven out of dark waters under the mountains.'”",
    "wikiVersion": "LOTR-EN02S059.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E059.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S059.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S059.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S059.1_card.jpg"
+   }
   },
   {
    "id": "52_75",
@@ -416,7 +472,11 @@
    "gameText": "Nazgul are not roaming. While you can spot a Hobbit, the Free Peoples player may not assign a character to skirmish Bill Ferny. Discard Bill Ferny if underground.",
    "lore": "“‘...as for Ferny, he would sell anything to anybody; or make mischief for amusement.'”",
    "wikiVersion": "LOTR-EN02S075.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/52_075.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S075.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S075.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S075.1_card.jpg"
+   }
   },
   {
    "id": "52_76",
@@ -441,7 +501,11 @@
    "lore": "“He heard Frodo's voice, but it seemed to come from a great distance, or from under the earth, crying out strange words.”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN02S076.3",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E076.3_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S076.3_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S076.3_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S076.3_card.jpg"
+   }
   },
   {
    "id": "52_85",
@@ -473,7 +537,11 @@
     "3"
    ],
    "wikiVersion": "LOTR-EN02S085.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E085.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S085.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S085.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S085.1_card.jpg"
+   }
   },
   {
    "id": "52_91",
@@ -498,7 +566,11 @@
    "lore": "“‘They will know all the news now, for they have visited Bill Ferny; and probably that Southerner was a spy as well.'”",
    "subtypes": "Response",
    "wikiVersion": "LOTR-EN02S091.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E091.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S091.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S091.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S091.1_card.jpg"
+   }
   },
   {
    "id": "52_101",
@@ -530,7 +602,11 @@
     "1"
    ],
    "wikiVersion": "LOTR-EN02S101.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/52_101.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S101.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S101.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S101.1_card.jpg"
+   }
   },
   {
    "id": "52_104",
@@ -560,7 +636,9 @@
    "gameText": "Fellowship: Exert Merry to take a Hobbit ally into hand from your draw deck (limit once per turn).",
    "lore": "“‘Ow... I think I've broken somehing.'”",
    "wikiVersion": "LOTR-EN02S104.2",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E104.2_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S104.2_card.jpg"
+   }
   },
   {
    "id": "52_107",
@@ -585,7 +663,11 @@
    "lore": "“‘...our shapes cast shadows in their minds, which only the noon sun destroys....'”",
    "subtypes": "Support Area",
    "wikiVersion": "LOTR-EN02S107.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E107.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S107.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S107.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S107.1_card.jpg"
+   }
   },
   {
    "id": "52_108",
@@ -610,7 +692,11 @@
    "gameText": "Tale. Bearer must be the Ring-bearer. Skirmish: Discard this condition to make the Ring-bearer strength +4 if skirmishing a Nazgul or to take off The One Ring.",
    "lore": "“With a last effort Frodo... slipped the Ring from his finger and closed his right hand tight upon it.”",
    "wikiVersion": "LOTR-EN02S108.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/52_108.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S108.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S108.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S108.1_card.jpg"
+   }
   },
   {
    "id": "52_110",
@@ -640,7 +726,11 @@
    "gameText": "Each time you play a companion, you may play an item on them from your discard pile (at twilight cost -2 if that companion is Gandalf or Aragorn).",
    "lore": "“Pippin was evidently much enjoying the attention he was getting, and had become quite forgetful of their danger.”",
    "wikiVersion": "LOTR-EN02S110.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN02E110.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S110.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S110.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S110.1_card.jpg"
+   }
   },
   {
    "id": "52_121",
@@ -670,7 +760,11 @@
    "gameText": "Damage +1. Each underground site's Shadow number is -1.  While the fellowship is at an underground site, Gimli is strength +1.",
    "lore": "“‘In the ruins of the Dwarves, a dwarf's head will be less easy to bewilder than Elves or Men or Hobbits.'”",
    "wikiVersion": "LOTR-EN02S121.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/xlist/52_121.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/02/LOTR-EN02S121.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/02/LOTR-EN02S121.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/02/LOTR-EN02S121.1_card.jpg"
+   }
   }
  ]
 }

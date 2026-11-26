@@ -46,14 +46,23 @@
       "gameText": "Enduring. Each [WRAITH] Wraith cannot take wounds (except during skirmishes). Shadow: Remove a burden to play a [WRAITH] Wraith. That minion's twilight cost is -2.",
       "lore": "“The icy touch froze his bones, and he remembered no more.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16001.jpg",
-     "wikiImage": "LOTR-EN16S001.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S001.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S001.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S001.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F001.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16001.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S001.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S001.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S001.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F001.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "16_2",
@@ -100,14 +109,23 @@
       "gameText": "Enduring. Each time the Free Peoples player assigns this minion to a companion, you may spot another [WRAITH] Wraith and remove (2) to wound that companion.",
       "lore": "“...here and there they twisted like ghostly sheets unfurled by hidden hands.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16002.jpg",
-     "wikiImage": "LOTR-EN16S002.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S002.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S002.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S002.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F002.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16002.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S002.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S002.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S002.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F002.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "16_3",
@@ -154,14 +172,23 @@
       "gameText": "Enduring. Each time the Free Peoples player assigns Covetous Wisp to a companion, you may spot another [WRAITH] Wraith and remove (2) to add a burden.",
       "lore": "“‘Only shapes to see, perhaps, not to touch.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16003.jpg",
-     "wikiImage": "LOTR-EN16S003.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S003.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S003.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S003.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F003.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16003.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S003.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S003.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S003.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F003.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "16_4",
@@ -208,14 +235,23 @@
       "gameText": "Enduring. Each time the Free Peoples player assigns this minion to a companion, you may spot another [WRAITH] Wraith and remove (2) to discard a condition.",
       "lore": "“‘There are dead things, dead faces in the water!'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16004.jpg",
-     "wikiImage": "LOTR-EN16S004.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S004.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S004.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S004.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F004.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16004.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S004.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S004.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S004.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F004.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "16_5",
@@ -262,14 +298,23 @@
       "gameText": "Enduring. While you can spot another [WRAITH] Wraith, wounds cannot be healed and burdens can not be removed (except by Wraiths). Skirmish: Exert Spirit of Dread to make another [WRAITH] Wraith strength +1.",
       "lore": "“...across their three necks lay one long naked sword.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16005.jpg",
-     "wikiImage": "LOTR-EN16S005.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S005.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S005.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S005.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F005.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16005.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S005.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S005.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S005.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F005.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "16_6",
@@ -316,14 +361,23 @@
       "gameText": "Enduring. While you can spot another [WRAITH] Wraith, each wounded companion is resistance -2. Shadow: Exert Undead of Angmar twice to play a [WRAITH] Wraith from your draw deck, then reshuffle.",
       "lore": "“In the dark there was a snarling noise.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16006.jpg",
-     "wikiImage": "LOTR-EN16S006.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S006.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S006.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S006.0_card.jpg",
+      "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F006.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR16006.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16S006.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/16/LOTR-EN16S006.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/16/LOTR-EN16S006.0_card.jpg",
+    "foil": "https://cdn.lotrtcgpc.net/wiki/original/EN/16/LOTR-EN16F006.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   }
  ]
 }

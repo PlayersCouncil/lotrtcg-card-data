@@ -1,7 +1,7 @@
 {
- "schemaVersion": 1,
- "contentHash": "851768d71839f81d688400423dc5f2ce18145f9c0ea6b4fe80bab83b2808fa06",
- "builtAt": "2026-11-25T18:52:59Z",
+ "schemaVersion": 2,
+ "contentHash": "66c6406b27d584d7297fa43e8685331db47bf611f14a49fc386549f6dc4d0035",
+ "builtAt": "2026-11-26T03:50:03Z",
  "sources": {
   "wiki": {
    "revid": 131529,
@@ -12,12 +12,11 @@
    "branch": "master",
    "commits": {
     "gemp-lotr/gemp-lotr-cards/src/main/resources/cards": "a08f402299491edc7cc2d0e5bb207adf09e3a4ff",
-    "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt": "22be5700e2b896406229ef97cc6b61b4421be17c",
-    "gemp-lotr/gemp-lotr-async/src/main/web/js/gemp-022": "b3490f0f471d9b2f0208321a2a2875d9251381f7"
+    "gemp-lotr/gemp-lotr-cards/src/main/resources/blueprintMapping.txt": "22be5700e2b896406229ef97cc6b61b4421be17c"
    }
   },
   "cdn": {
-   "manifestHash": "5969afbc216455d0441db7c60dea2adb01a0d8d18b2e8551bf539da25c881c74"
+   "manifestHash": "172533fcd7fc21c3ac52e929992cfff7a738bf8c6bd506c9238e2f4ce26b1fc2"
   },
   "timeline": {
    "sha256": "eb6fde0e1687729c0491c6b66ed89996561a03434dda662f727194c7a0f30463"

@@ -48,14 +48,21 @@
       "arrowDirection": "None",
       "gameText": "While you can spot 2 other Men, Ghan-buri-Ghan cannot be overwhelmed unless his strength is tripled. While at a forest site, Ghan-buri-Ghan is defender +1."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00056.jpg",
-     "wikiImage": "LOTR-EN00S056.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S056.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S056.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S056.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00056.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S056.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S056.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S056.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_57",
@@ -98,14 +105,21 @@
       "arrowDirection": "None",
       "gameText": "Bearer must be Radagast. Each time the fellowship moves during the regroup phase, you may draw 2 cards."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00057.jpg",
-     "wikiImage": "LOTR-EN00S057.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S057.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S057.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S057.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00057.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S057.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S057.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S057.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_58",
@@ -156,14 +170,21 @@
       "gameText": "Skirmish: Play a [GONDOR] skirmish event to make each minion skirmishing Anarion strength -X, where X is Anarion's vitality.",
       "lore": "“...Elendil the Tall and his mighty sons, Isildur and Anárion, became great lords....”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00058.jpg",
-     "wikiImage": "LOTR-EN00S058.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S058.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S058.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S058.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00058.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S058.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S058.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S058.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_59",
@@ -214,14 +235,21 @@
       "gameText": "If you can spot a [ROHAN] Man, you may play Erkenbrand any time you could play a skirmish event. When you play Erkenbrand, you may discard a Shadow possession.",
       "lore": "“As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00059.jpg",
-     "wikiImage": "LOTR-EN00S059.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S059.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S059.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S059.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00059.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S059.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S059.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S059.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_60",
@@ -260,14 +288,21 @@
       "arrowDirection": "None",
       "gameText": "To play, spot 2 [SHIRE] companions. Each time a Shadow card adds a burden or a threat, add a [SHIRE] token here. Fellowship: Remove 2 [SHIRE] tokens from here to remove a burden."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00060.jpg",
-     "wikiImage": "LOTR-EN00S060.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S060.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S060.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S060.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00060.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S060.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S060.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S060.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_62",
@@ -318,14 +353,21 @@
       "gameText": "Damage +1.",
       "lore": "“‘The ring cannot be destroyed, Gimli, son of Gloin, by any craft that we here possess.'”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00062.jpg",
-     "wikiImage": "LOTR-EN00S062.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S062.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S062.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S062.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00062.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S062.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S062.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S062.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_63",
@@ -376,14 +418,21 @@
       "gameText": "Ranger. Skirmish: Exert Arwen to make a minion skirmishing an Elf strength -2.",
       "lore": "“...and she was called Undómiel, for she was the Evenstar of her people.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00063.jpg",
-     "wikiImage": "LOTR-EN00S063.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S063.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S063.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S063.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00063.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S063.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S063.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S063.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_64",
@@ -432,14 +481,21 @@
       "arrowDirection": "None",
       "lore": "“His real business was far more difficult and dangerous, but the Shire-folk knew nothing about it.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00064.jpg",
-     "wikiImage": "LOTR-EN00S064.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S064.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S064.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S064.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00064.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S064.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S064.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S064.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_65",
@@ -490,14 +546,21 @@
       "gameText": "Knight. Ranger. Ring-bound.",
       "lore": "“...but at once, Boromir stood up, tall and proud before them.”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00065.jpg",
-     "wikiImage": "LOTR-EN00S065.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S065.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S065.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S065.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00065.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S065.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S065.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S065.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_66",
@@ -546,14 +609,21 @@
       "arrowDirection": "None",
       "gameText": "Damage +1. Valiant. While you can spot a [ROHAN] Man, Eomer's twilight cost is -1."
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00066.jpg",
-     "wikiImage": "LOTR-EN00S066.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S066.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S066.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S066.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00066.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S066.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S066.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S066.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   },
   {
    "id": "0_67",
@@ -604,14 +674,21 @@
       "gameText": "Ring-bearer (resistance 10). The cost of each artifact, possession, and [SHIRE] tale played on Frodo is -1.",
       "lore": "“‘...I nearly tried on Bilbo's ring. I longed to disappear.’”"
      },
-     "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00067.jpg",
-     "wikiImage": "LOTR-EN00S067.0_card.jpg"
+     "images": {
+      "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S067.0_card.jpg",
+      "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S067.0_card.jpg",
+      "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S067.0_card.jpg"
+     }
     }
    ],
    "translations": [],
-   "image": "https://cdn.lotrtcgpc.net/cards/decipher/LOTR00067.jpg",
-   "alternates": [],
-   "printings": []
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/00/LOTR-EN00S067.0_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/00/LOTR-EN00S067.0_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/00/LOTR-EN00S067.0_card.jpg"
+   },
+   "reprints": [],
+   "alts": []
   }
  ]
 }

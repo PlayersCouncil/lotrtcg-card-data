@@ -22,7 +22,11 @@
    "arrowDirection": null,
    "gameText": "While wearing The One Ring, burdens may not be removed and each time bearer is about to take a wound, add a burden instead. Maneuver: Wear The One Ring until the regroup phase. Skirmish: If wearing the One Ring, add a burden to make bearer strength +3.",
    "wikiVersion": "LOTR-EN19S001.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN19E001.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S001.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S001.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S001.1_card.jpg"
+   }
   },
   {
    "id": "69_24",
@@ -47,7 +51,11 @@
    "gameText": "Bearer must be a [ROHAN] Man. At the start of each skirmish you may transfer this condition to a [ROHAN] Man. At the end of each turn, if bearer did not win a skirmish this turn, return this condition to hand.",
    "lore": "“Bring it down! Bring it down! Bring it down!”",
    "wikiVersion": "LOTR-EN19S024.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN19E024.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S024.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S024.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S024.1_card.jpg"
+   }
   },
   {
    "id": "69_30",
@@ -77,7 +85,11 @@
    "gameText": "Fellowship. Pippin is strength +1 for each tale you can spot (limit X, where X is the number of [SHIRE] companions you can spot).",
    "lore": "“‘You must go - and therefore we must, too. Merry and I are coming with you.'”",
    "wikiVersion": "LOTR-EN19S030.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN19E030.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S030.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S030.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S030.1_card.jpg"
+   }
   },
   {
    "id": "69_37",
@@ -106,7 +118,11 @@
    "gameText": "Fierce. Ulaire Lemenya is strength +1 for each [RINGWRAITH] possession in your discard pile (limit +9).",
    "lore": "“‘Do you wish them to find you? They are terrible!'”",
    "wikiVersion": "LOTR-EN19S037.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/LOTR-EN19E037.1_card.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S037.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S037.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S037.1_card.jpg"
+   }
   },
   {
    "id": "69_38",
@@ -135,7 +151,11 @@
    "gameText": "Fierce. When you play Ulaire Nertea, name a race. The Free Peoples player must add a burden to assign Ulaire Nertea to skirmish a companion of the named race.",
    "lore": "Some accepted Sauron's gift for glory and a notion of great deeds.",
    "wikiVersion": "LOTR-EN19S038.1",
-   "image": "https://cdn.lotrtcgpc.net/cards/errata/balancing/69_038.jpg"
+   "images": {
+    "1x": "https://cdn.lotrtcgpc.net/wiki/original/EN/19/LOTR-EN19S038.1_card.jpg",
+    "2x": "https://cdn.lotrtcgpc.net/wiki/double/EN/19/LOTR-EN19S038.1_card.jpg",
+    "4x": "https://cdn.lotrtcgpc.net/wiki/huge/EN/19/LOTR-EN19S038.1_card.jpg"
+   }
   }
  ]
 }
