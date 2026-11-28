@@ -1,7 +1,7 @@
 """Turns the wiki pull and the Gemp checkout into the dataset.
 
-One record per Gemp blueprint in the configured sets: the Decipher and V-set
-cards ("card") and the PC errata blueprints ("errata", errataOf the original).
+One record per Gemp blueprint in the configured sets: the Decipher, Hobbit Draft
+Game and V-set cards ("card") and the PC errata blueprints ("errata", errataOf the original).
 Card facts, version history and each card's wiki page come from the wiki; Gemp
 supplies which IDs exist and the alternate-ID mapping. Images are the CDN's
 files of the names the wiki gives (cardbuild.cdn).
@@ -47,6 +47,15 @@ NONE_VALUES = {"strengthMod": {"0", "+0", "-0"}, "vitalityMod": {"0", "+0", "-0"
 
 def without_none_values(fields):
     return {k: (None if v is not None and str(v) in NONE_VALUES.get(k, ()) else v) for k, v in fields.items()}
+
+# The subset letter inside a wiki card ID: LOTR-EN01 | S | 050.0
+ID_SUBSET = re.compile(r"^[A-Z]+-[A-Z]{2}[0-9A-Z]{2}([A-Z])\d{3}\.")
+
+# A set's PC errata are Gemp set number + 50: set 1's are set 51
+ERRATA_SET_OFFSET = 50
+
+# A wiki card ID in English, whatever the game: LOTR-EN01S050.0, HDG-EN30S043.0
+ENGLISH_ID = re.compile(r"^[A-Z]+-EN")
 
 # Wiki set IDs that differ from Gemp's set numbers
 WIKI_SET_TO_GEMP = {"V0": 100, "V1": 101, "V2": 102, "V3": 103}
@@ -107,6 +116,12 @@ def wiki_gemp_ids(card):
     return [g for g in str(card.get("GEMP_ID") or "").replace(" ", "").split(",") if g]
 
 
+def id_subset(wiki_id):
+    """LOTR-EN01S050.1 -> S (the subset letter in the ID itself); None for an ID of another shape."""
+    match = ID_SUBSET.match(wiki_id)
+    return match.group(1) if match else None
+
+
 def stem(wiki_id):
     """LOTR-EN01S050.1 -> LOTR-EN01S050 (the card without its revision)."""
     return wiki_id.rsplit(".", 1)[0]
@@ -135,7 +150,7 @@ class Build:
         self.releases_by_id = {release["ID"]: release for release in self.wiki["releases"]}
         for release in self.wiki["releases"]:
             self.releases_by_card[release["BaseCardID"]].append(release)
-        self.english = [c for c in self.wiki["cards"] if c["ID"].startswith("LOTR-EN")]
+        self.english = [c for c in self.wiki["cards"] if ENGLISH_ID.match(c["ID"])]
 
     def _apply_overrides(self):
         for rule in self.overrides.get("gempIds", []):
@@ -146,6 +161,13 @@ class Build:
             card = hits[0]
             self.report["overridesApplied"].append({"wiki": card["ID"], "wikiGempId": card.get("GEMP_ID"), "gempId": rule["gempId"]})
             card["GEMP_ID"] = rule["gempId"]
+        # Wiki cards known to carry another title than the Gemp card they are a printing of
+        self.title_exceptions = set()
+        for rule in self.overrides.get("titles", []):
+            card = self.cards_by_id.get(rule["wiki"])
+            if card is None or rule["gempId"] not in wiki_gemp_ids(card):
+                raise RuntimeError(f"override titles: wiki card {rule['wiki']} with Gemp ID {rule['gempId']} not found")
+            self.title_exceptions.add((rule["wiki"], rule["gempId"]))
 
     def _assign_cards(self):
         """Gemp base ID -> the wiki card for it, plus the wiki's other printings of it (alts)."""
@@ -163,14 +185,18 @@ class Build:
                     if self._wanted(base):
                         self.report["wikiOnly"].append({"wiki": card["ID"], "title": card["Title"], "gempId": gemp_id})
                     continue
-                if not same_title(card["Title"], blueprint.get("title")):
+                if (card["ID"], gemp_id) in self.title_exceptions:
+                    self.report["overridesApplied"].append({
+                        "wiki": card["ID"], "gempId": gemp_id, "wikiTitle": card["Title"], "gempTitle": blueprint.get("title")})
+                elif not same_title(card["Title"], blueprint.get("title")):
                     self.report["wrongGempId"].append({
                         "wiki": card["ID"], "wikiTitle": card["Title"], "gempId": gemp_id, "gempTitle": blueprint.get("title")})
                     continue
                 candidates[base].append((gemp_id, card))
         for base, found in candidates.items():
-            # The card whose own Gemp ID is the base, standard subset first; the rest are other printings
-            found.sort(key=lambda pair: (pair[0] != base, pair[1]["Subset"] != "S", pair[1]["ID"]))
+            # The card whose own Gemp ID is the base, standard subset first; the rest are other printings.
+            # Where two rows both say subset S, the one whose ID says so is the standard one.
+            found.sort(key=lambda pair: (pair[0] != base, pair[1]["Subset"] != "S", id_subset(pair[1]["ID"]) != "S", pair[1]["ID"]))
             self.wiki_for[base] = found[0][1]
             base_portrait = self._base_portrait(found[0][1])
             for gemp_id, card in found[1:]:
@@ -199,6 +225,9 @@ class Build:
                 self.report["oddDataPage"].append({"wiki": card["ID"], "storedOn": card.get("Page") or None, "wikiUrl": url})
             self._wiki_urls[card["ID"]] = {"wikiUrl": url} if url else {}
         return self._wiki_urls[card["ID"]]
+
+    def _has_errata_set(self, set_number):
+        return in_ranges(set_number + ERRATA_SET_OFFSET, self.errata_ranges)
 
     def _wanted(self, blueprint_id):
         parts = split_id(blueprint_id)
@@ -392,8 +421,9 @@ class Build:
             self._no_image("card", blueprint_id, None, None, None)
         else:
             versions = self._versions(card)
-            # V-set cards are PC cards: their PC revisions are the card. Decipher cards: no PC errata.
-            issuers = BASE_ISSUERS | {ISSUER_PC} if set_number >= 100 else BASE_ISSUERS
+            # A set whose PC errata are blueprints of their own (set 1's are set 51) leaves them to those.
+            # Any other set (the V-sets, the Hobbit Draft Game) has its PC revisions in the card itself.
+            issuers = BASE_ISSUERS if self._has_errata_set(set_number) else BASE_ISSUERS | {ISSUER_PC}
             current, last = self.layer(versions, issuers)
             record.update({"source": "wiki", **self._base_fields(card), **current, "versions": versions, "translations": self._translations(card)})
             self._set_record_images(record, versions, last)
@@ -418,7 +448,7 @@ class Build:
         return self.releases_by_id[version["wikiId"]].get("ImageFilename") or None
 
     def _errata(self, blueprint_id, set_number, number):
-        original = f"{set_number - 50}_{number}"
+        original = f"{set_number - ERRATA_SET_OFFSET}_{number}"
         card = self.wiki_for.get(original)
         record = {"id": blueprint_id, "set": str(set_number), "number": number, "kind": "errata", "errataOf": original}
         if card is None:
@@ -455,6 +485,13 @@ def set_file(set_number):
     return f"{number:02d}.json"
 
 
+def _set_kind(number, wiki_set):
+    """pc: a V-set. decipher: an official set. fan: any other set the wiki has (the Hobbit Draft Game)."""
+    if number >= 100:
+        return "pc"
+    return "decipher" if wiki_set["official"] else "fan"
+
+
 def build_sets(wiki_sets, records):
     """Sets in the dataset, named from the wiki; PC errata sets named after the set they errata."""
     by_number = {}
@@ -473,7 +510,7 @@ def build_sets(wiki_sets, records):
     sets = []
     for number in present:
         if number in by_number:
-            entry = dict(by_number[number], kind="pc" if number >= 100 else "decipher")
+            entry = dict(by_number[number], kind=_set_kind(number, by_number[number]))
         elif 50 <= number <= 69 and (number - 50) in by_number:
             source = by_number[number - 50]
             entry = {"set": str(number), "wikiSet": None, "name": source["name"] + " (PC errata)",

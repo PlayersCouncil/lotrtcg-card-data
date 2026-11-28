@@ -1,0 +1,13 @@
+{
+	30_43: {
+		title: Bilbo
+		subtitle: Expert Burglar
+		unique: true
+		side: Free Peoples
+		culture: Shire
+		twilight: 0
+		type: Companion
+		strength: 3
+		vitality: 4
+	}
+}

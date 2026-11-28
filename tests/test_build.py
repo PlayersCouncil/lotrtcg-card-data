@@ -9,7 +9,7 @@ from cardbuild import assemble, cdn, gemp, report
 
 FIXTURES = pathlib.Path(__file__).parent / "fixtures"
 WIKI = "https://wiki.lotrtcgpc.net/wiki/"
-CONFIG = {"wiki": {"pages": WIKI}, "sets": {"cards": [[0, 19], [100, 149]], "errata": [[50, 69]]}}
+CONFIG = {"wiki": {"pages": WIKI}, "sets": {"cards": [[0, 19], [30, 33], [100, 149]], "errata": [[50, 69]]}}
 TREE = {"prefix": "wiki/", "sizes": {"1x": "original", "2x": "double", "4x": "huge"}}
 CDN = "https://cdn.lotrtcgpc.net/"
 OVERRIDES = {"gempIds": [{"match": {"title": "Soldier's Cache"}, "gempId": "17_35"}]}
@@ -218,6 +218,53 @@ def test_built_records_match_the_schema(built):
     schema = json.loads((FIXTURES.parent.parent / "schema" / "card-set.schema.json").read_text(encoding="utf-8"))
     for set_number in {r["set"] for r in records.values()}:
         jsonschema.validate({"set": set_number, "cards": [r for r in records.values() if r["set"] == set_number]}, schema)
+
+
+def test_hobbit_draft_game_card_has_its_pc_revision_in_the_card(built):
+    _, records, _, _ = built
+    bilbo = records["30_43"]
+    assert bilbo["kind"] == "card" and bilbo["wikiId"] == "HDG-EN30S043.0"
+    # No errata blueprint for set 30 (there is no set 80), so the PC revision is the card
+    assert bilbo["gameText"] == "Burglar. Revised."
+    assert bilbo["images"] == {"1x": CDN + "wiki/original/EN/30/HDG-EN30S043.1_card.jpg"}
+    assert bilbo["versions"][0]["images"] == {"1x": CDN + "wiki/original/EN/30/HDG-EN30S043.0_card.jpg"}
+    assert bilbo["wikiUrl"] == WIKI + "Bilbo,_Expert_Burglar_(30HDG43)"
+    assert "errataId" not in bilbo
+
+
+def test_two_rows_marked_standard_the_one_named_standard_is_the_card():
+    wiki = json.loads((FIXTURES / "wiki.json").read_text(encoding="utf-8"))
+    bilbo = next(c for c in wiki["cards"] if c["ID"] == "HDG-EN30S043.0")
+    # A promo printing whose row says subset S as the card's does (the wiki's Hobbit promos do)
+    wiki["cards"].append({**bilbo, "ID": "HDG-EN30F043.0", "Page": "Data:Bilbo, Expert Burglar (30P43P)/Data"})
+    index = cdn.Cdn(json.loads((FIXTURES / "manifest.json").read_text()), CDN, TREE)
+    build = assemble.Build(CONFIG, wiki, gemp.load_blueprints(FIXTURES / "gemp" / "cards"),
+                           gemp.load_mapping(FIXTURES / "gemp" / "blueprintMapping.txt"), index, OVERRIDES, {})
+    records, _ = build.run()
+    assert records["30_43"]["wikiId"] == "HDG-EN30S043.0"
+    assert [a["wikiId"] for a in records["30_43"]["alts"]] == ["HDG-EN30F043.0"]
+    assert assemble.id_subset("LOTR-ENV1S001.0") == "S" and assemble.id_subset("HDG-EN30F043.0") == "F"
+
+
+def test_sets_say_what_kind_they_are(built):
+    _, records, _, _ = built
+    wiki = json.loads((FIXTURES / "wiki.json").read_text(encoding="utf-8"))
+    kinds = {s["set"]: s["kind"] for s in assemble.build_sets(wiki["sets"], records)}
+    assert kinds["1"] == "decipher" and kinds["30"] == "fan" and kinds["51"] == "pc-errata"
+    assert assemble.set_file("30") == "30.json"
+
+
+def test_title_exception_keeps_a_printing_under_another_title():
+    rule = {"wiki": "LOTR-EN01A003.0", "gempId": "1_3"}
+    build, records, _, _ = run({**OVERRIDES, "titles": [rule]})
+    assert [a["wikiId"] for a in records["1_3"]["alts"]] == ["LOTR-EN01A003.0"]
+    assert not build.report["wrongGempId"]
+    assert {"wiki": "LOTR-EN01A003.0", "gempId": "1_3", "wikiTitle": "Wrong Card", "gempTitle": "Axe Strike"} in build.report["overridesApplied"]
+
+
+def test_title_exception_for_a_card_without_that_gemp_id_fails_the_build():
+    with pytest.raises(RuntimeError, match="LOTR-EN01S050.0 with Gemp ID 1_3 not found"):
+        run({**OVERRIDES, "titles": [{"wiki": "LOTR-EN01S050.0", "gempId": "1_3"}]})
 
 
 def test_wrong_gemp_id_is_reported_not_used(built):

@@ -22,7 +22,7 @@
     "tree": {"prefix": "wiki/", "sizes": {"1x": "original", "2x": "double", "4x": "huge"}, "foilOf": {"S": "F", "O": "G"}}
   },
   "sets": {
-    "cards": [[0, 19], [100, 149]],
+    "cards": [[0, 19], [30, 33], [100, 149]],
     "errata": [[50, 69]]
   }
 }

@@ -17,8 +17,8 @@ To fix a card, fix the wiki (or Gemp); the next build picks it up. `data/report.
 
 | File | Contents |
 |---|---|
-| `data/cards/*.json` | One file per Gemp set: `01.json` for Decipher sets, `E01.json` for the PC errata of set 1 (Gemp set 51), `V01.json` for V-set 1 (Gemp set 101). `sets.json` gives each set's file. Schema: `schema/card-set.schema.json` |
-| `data/sets.json` | Set names, wiki set IDs, release dates and data file; PC errata sets (50–69) named after the set they errata |
+| `data/cards/*.json` | One file per Gemp set: `01.json` for Decipher sets (and `30.json` to `33.json` for the Hobbit Draft Game), `E01.json` for the PC errata of set 1 (Gemp set 51), `V01.json` for V-set 1 (Gemp set 101). `sets.json` gives each set's file. Schema: `schema/card-set.schema.json` |
+| `data/sets.json` | Set names, wiki set IDs, release dates, data file and `kind` (`decipher`, `fan` for the Hobbit Draft Game, `pc` for V-sets, `pc-errata`); PC errata sets (50–69) named after the set they errata |
 | `data/errata-batches.json` | Errata batches (issuer + release date), with names from `errata-batches.json` where given |
 | `data/version.json` | What the data was built from (wiki revision, Gemp commits, CDN manifest hash), a content hash, counts |
 | `data/report.json`, `data/report.md` | Where the wiki, Gemp and the CDN disagree |
@@ -26,7 +26,7 @@ To fix a card, fix the wiki (or Gemp); the next build picks it up. `data/report.
 
 A card record is keyed by its **Gemp base blueprint ID**:
 
-- `kind: "card"` is a Decipher or V-set card. Its fields are the card as Gemp plays it under that ID: revision 0, Decipher's own errata, and any revision issued by `Gemp`. V-set cards include their PC revisions (they're PC cards).
+- `kind: "card"` is a Decipher, Hobbit Draft Game or V-set card. Its fields are the card as Gemp plays it under that ID: revision 0, Decipher's own errata, and any revision issued by `Gemp`. Decipher cards leave their PC revisions to the errata blueprint; cards of every other set (V-sets, the Hobbit Draft Game) have no errata blueprint, so their PC revisions are part of the card.
 - A revision's `issuer` is `Decipher`, `Player's Council` or `Gemp`. `Gemp` marks a correction Gemp plays the card with that is neither Decipher's errata nor a PC erratum (a clause the printed card left out, for instance). It applies to the card itself, not to its PC errata blueprint alone, and it has no `batch`.
 - `kind: "errata"` is a PC errata blueprint (`51_50`), `errataOf` the original (`1_50`), with the PC revisions applied. The original carries `errataId`.
 - `versions` lists the English revisions in order. A revision's `fields` are what the wiki records on that revision row; anything not listed is unchanged from the revision before.
@@ -76,6 +76,8 @@ the next scheduled check rebuild. Remove the file and the build removes the copy
 ## Exceptions
 
 `overrides.json` holds one-off Gemp ID fixes the wiki can't express. Each rule must match exactly one English wiki card or the build fails, so a rule never silently stops applying. Today there's one: Soldier's Cache, which the wiki records as 18_59 and Gemp keeps as 17_35.
+
+`overrides.json` → `titles` lists wiki cards that are a printing of a Gemp card under another title, which the build would otherwise take for a wrong Gemp ID and leave out. Today there's one: `0_85`, the French promo of Beastly Olog-hai, which Gemp maps to `11_108`. Each rule is `{wiki, gempId, note}` and must name a wiki card carrying that Gemp ID, or the build fails.
 
 `overrides.json` → `acknowledged` lists known differences between the wiki and Gemp that aren't errors (Gemp's own version labels, for instance). Each is `{gempId, field, note}`; the report moves matching entries to its "acknowledged" section instead of listing them as mismatches.
 
